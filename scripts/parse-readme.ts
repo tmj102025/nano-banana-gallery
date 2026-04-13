@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const README_PATH = path.resolve(__dirname, '../../awesome-nano-banana-pro-prompts-main/README.md');
+const README_PATH = path.resolve(__dirname, '../../awesome-nano-banana-pro-prompts/README.md');
 const OUTPUT_PATH = path.resolve(__dirname, '../public/prompts.json');
 
 interface Prompt {
