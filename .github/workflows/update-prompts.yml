@@ -1,0 +1,44 @@
+name: Update Prompts Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # ทุกวัน เที่ยงคืน UTC (7 โมงเช้า ไทย)
+  workflow_dispatch:       # กดรันเองได้จาก GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout gallery repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Clone source prompts repo
+        run: |
+          git clone https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts.git ../awesome-nano-banana-pro-prompts
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Parse README → prompts.json
+        run: npm run parse
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/prompts.json
+          if git diff --staged --quiet; then
+            echo "No changes — prompts up to date"
+          else
+            git commit -m "update prompts $(date '+%Y-%m-%d')"
+            git push
+          fi
