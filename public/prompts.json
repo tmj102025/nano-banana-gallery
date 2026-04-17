@@ -1762,25 +1762,6 @@
       "youmindId": "12935"
     },
     {
-      "id": "12915",
-      "title": "Four-Panel Manga: Fantasy Alleyway Wall-Slam",
-      "description": "A detailed, multi-panel prompt for generating a four-panel manga (yonkoma) in Japanese, featuring a rough man and a beautiful female hero in a dark fantasy alleyway setting, focusing on exaggerated expressions and specific dialogue and composition for each panel.",
-      "content": "Format: Japanese 4-panel manga, 4 vertical tiers, grayscale, seinen manga, exaggerated expressions.\nSetting: Fantasy world, slum alleyway, dim atmosphere, cobblestones and dirty walls, trash and barrels are placed around.\n\n[Character Settings]\n・Rough Man: Outlaw who failed as an adventurer, scarred face, stubble, shabby leather gear, ugly man with a bad attitude.\n・Female Hero: Beautiful woman, well-defined features, dignified eyes, clean light armor or hero-style gear, strong-willed expression.\n\n[Panel 1]\nComposition: Alleyway, the rough man pushes the female hero against the wall (kabedon).\nThe man standing on the right is smirking, the female hero cornered against the wall on the left has a frustrated expression.\nDialogue:\nRough Man: \"Well, well, look how docile the Hero-sama has become.\"\nFemale Hero: \"Ugh... you scum...\"\n\n[Panel 2]\nComposition: Still in the kabedon pose, slightly zoomed in, the man on the right has a confident smile, the female hero glares back.\nDialogue:\nRough Man: \"You're quite the eccentric Hero-sama... to fall for an ugly guy like me.\"\nFemale Hero: \"Stop implying that I'm a pervert!\"\n\n[Panel 3]\nComposition: Female Hero's serious face, extreme close-up, front view.\nDialogue:\nFemale Hero: \"Your appearance and personality are trash, but your 'stuff' is superb. You should be aware of your own capabilities.\"\nThe female hero gives a thumbs-up with a serious face.\n\n[Panel 4]\nComposition: Upper body of the man, looking away, face red, confused and flustered. He is fidgeting with his hand on his head.\nBackground is the alleyway. Onomatopoeia effects like \"Doki Doki\" (heartbeat).\nDialogue:\nRough Man: \"Eh, ah, yes... thank you very much...\"",
-      "images": [
-        "https://cms-assets.youmind.com/media/1774679884425_e6n58d_HEaaWK8agAAG7Du.jpg"
-      ],
-      "author": {
-        "name": "とりにく",
-        "link": "https://x.com/tori29umai"
-      },
-      "language": "ja",
-      "featured": false,
-      "categories": [
-        "Comic / Storyboard"
-      ],
-      "youmindId": "12915"
-    },
-    {
       "id": "13368",
       "title": "Extreme Macro Human Eye Photography",
       "description": "A professional macro photography prompt for capturing the extreme detail of a human iris with studio lighting and specific camera settings.",
@@ -2533,6 +2514,25 @@
         "Game Asset"
       ],
       "youmindId": "13207"
+    },
+    {
+      "id": "13115",
+      "title": "Character Rebuilt from Sliced Fruits and Vegetables",
+      "description": "A detailed prompt for Nano Banana Pro designed to convert an uploaded character reference into a realistic 3D render made entirely of layered, sliced fruits and vegetables, maintaining the original character's proportions, colors, and identity while ensuring all materials, including footwear, are constructed from produce slices.",
+      "content": "create a version of this character made entirely of sliced vegetables and fruits vegetables and fruits: should match the uploaded character’s colors as closely as possible, without changing their natural look slices: slightly misaligned, with visible separation between layers structure: a small bite taken out of the top of the head, forming a clean cut surface ambience: kitchen setting, on a cutting board with scattered vegetables and a knife nearby camera: slightly top-down angle effect: tilt-shift  Likeness Preservation (CRITICAL): Maintain exact proportions, eye shape, spacing, stylization, silhouette, and material identity from the reference Do not humanize Do not reinterpret anatomy Do not modify facial structure Identity must remain perfectly intact and instantly recognizable Character Compatibility Rules: If the uploaded character is 2D, convert it into a believable realistic 3D render while preserving the original design, proportions, colors, and visual identity Do not modify facial structure  Do not add a mouth or nose if the uploaded character does not have them  👟 FOOTWEAR & ACCESSORY MATERIAL OVERRIDE (CRITICAL FIX) All parts of the character, including footwear and clothing, must follow the same fruit and vegetable slice construction. • shoes must be made entirely of stacked fruit and vegetable slices  • preserve the exact shoe shape, proportions, and design  • recreate panels, sole, and details using layered slices Material examples for shoes: • sole → dense stacked potato or root vegetable slices  • upper panels → fruit/vegetable slices arranged to match original color blocking  • edges and seams → visible slice layering and separation 📷⚠️ 0px; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;\"> IMPORTANT:  No original materials should remain (no fabric, rubber, or leather).  Everything must be converted into fruit/vegetable slice construction while keeping the original design recognizable. ar 1:1",
+      "images": [
+        "https://cms-assets.youmind.com/media/1775112279816_ougqwk_HE2DyO3WwAAhQtr.jpg"
+      ],
+      "author": {
+        "name": "Edizkan ⭕🦇",
+        "link": "https://x.com/edizkan_"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "13115"
     }
   ],
   "categories": [
