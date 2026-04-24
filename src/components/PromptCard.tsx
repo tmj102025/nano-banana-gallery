@@ -5,14 +5,17 @@ interface PromptCardProps {
   prompt: Prompt;
   onClick: () => void;
   priority?: boolean;
+  isLoggedIn: boolean;
+  onNeedLogin: () => void;
 }
 
-export function PromptCard({ prompt, onClick, priority = false }: PromptCardProps) {
+export function PromptCard({ prompt, onClick, priority = false, isLoggedIn, onNeedLogin }: PromptCardProps) {
   const [copied, setCopied] = useState(false);
   const [imgError, setImgError] = useState(false);
 
   function copyPrompt(e: React.MouseEvent) {
     e.stopPropagation();
+    if (!isLoggedIn) { onNeedLogin(); return; }
     navigator.clipboard.writeText(prompt.content).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
@@ -70,11 +73,13 @@ export function PromptCard({ prompt, onClick, priority = false }: PromptCardProp
         </span>
         <button
           onClick={copyPrompt}
-          title="Copy prompt"
+          title={isLoggedIn ? 'คัดลอก prompt' : 'เข้าสู่ระบบเพื่อคัดลอก'}
           className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-medium transition-all shrink-0 ${
             copied
               ? 'bg-green-600/20 text-green-400 border border-green-600/40'
-              : 'bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-200 opacity-0 group-hover:opacity-100'
+              : isLoggedIn
+                ? 'bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-200 opacity-0 group-hover:opacity-100'
+                : 'bg-zinc-800 text-zinc-500 border border-zinc-700 opacity-0 group-hover:opacity-100'
           }`}
         >
           {copied ? (
@@ -82,15 +87,17 @@ export function PromptCard({ prompt, onClick, priority = false }: PromptCardProp
               <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
               </svg>
-              Copied
+              คัดลอกแล้ว
             </>
-          ) : (
+          ) : isLoggedIn ? (
             <>
               <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
               </svg>
-              Copy
+              คัดลอก
             </>
+          ) : (
+            <>🔒 คัดลอก</>
           )}
         </button>
       </div>

@@ -1,0 +1,90 @@
+import { createContext, useContext, useState, useEffect, type ReactNode } from 'react';
+
+export interface GoogleUser {
+  name: string;
+  email: string;
+  picture: string;
+}
+
+interface AuthContextType {
+  user: GoogleUser | null;
+  login: (user: GoogleUser) => void;
+  logout: () => void;
+}
+
+const AuthContext = createContext<AuthContextType | null>(null);
+const STORAGE_KEY = 'nb_user';
+const PB_URL = 'https://db.aiceo.im';
+
+async function upsertLead(u: GoogleUser) {
+  try {
+    const search = await fetch(
+      `${PB_URL}/api/collections/leads/records?filter=${encodeURIComponent(`email="${u.email}"`)}`,
+      { headers: { 'Content-Type': 'application/json' } }
+    );
+    const result = await search.json();
+
+    if (result.items?.length > 0) {
+      const existing = result.items[0];
+      await fetch(`${PB_URL}/api/collections/leads/records/${existing.id}`, {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          login_count: (existing.login_count ?? 1) + 1,
+          last_login_at: new Date().toISOString(),
+          picture: u.picture,
+        }),
+      });
+    } else {
+      await fetch(`${PB_URL}/api/collections/leads/records`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          email: u.email,
+          name: u.name,
+          picture: u.picture,
+          login_count: 1,
+          last_login_at: new Date().toISOString(),
+          source: 'nano-banana',
+        }),
+      });
+    }
+  } catch {
+    // Silent fail
+  }
+}
+
+export function AuthProvider({ children }: { children: ReactNode }) {
+  const [user, setUser] = useState<GoogleUser | null>(() => {
+    try {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      return stored ? JSON.parse(stored) : null;
+    } catch {
+      return null;
+    }
+  });
+
+  useEffect(() => {
+    if (user) localStorage.setItem(STORAGE_KEY, JSON.stringify(user));
+    else localStorage.removeItem(STORAGE_KEY);
+  }, [user]);
+
+  function login(u: GoogleUser) {
+    setUser(u);
+    upsertLead(u);
+  }
+
+  function logout() { setUser(null); }
+
+  return (
+    <AuthContext.Provider value={{ user, login, logout }}>
+      {children}
+    </AuthContext.Provider>
+  );
+}
+
+export function useAuth() {
+  const ctx = useContext(AuthContext);
+  if (!ctx) throw new Error('useAuth must be inside AuthProvider');
+  return ctx;
+}
