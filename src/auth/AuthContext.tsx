@@ -19,14 +19,14 @@ const PB_URL = 'https://db.aiceo.im';
 async function upsertLead(u: GoogleUser) {
   try {
     const search = await fetch(
-      `${PB_URL}/api/collections/leads/records?filter=${encodeURIComponent(`email="${u.email}"`)}`,
+      `${PB_URL}/api/collections/nano_banana_leads/records?filter=${encodeURIComponent(`email="${u.email}"`)}`,
       { headers: { 'Content-Type': 'application/json' } }
     );
     const result = await search.json();
 
     if (result.items?.length > 0) {
       const existing = result.items[0];
-      await fetch(`${PB_URL}/api/collections/leads/records/${existing.id}`, {
+      await fetch(`${PB_URL}/api/collections/nano_banana_leads/records/${existing.id}`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -36,7 +36,7 @@ async function upsertLead(u: GoogleUser) {
         }),
       });
     } else {
-      await fetch(`${PB_URL}/api/collections/leads/records`, {
+      await fetch(`${PB_URL}/api/collections/nano_banana_leads/records`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
