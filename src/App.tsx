@@ -52,18 +52,25 @@ export default function App() {
     );
   }, [shuffled, searchQuery, selectedCategories]);
 
+  function goHome() {
+    setSearchQuery('');
+    setSelectedCategories([]);
+    setVisibleCount(24);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
   return (
-    <div className="min-h-screen bg-zinc-950 text-zinc-100">
+    <div className="min-h-screen bg-zinc-950 text-zinc-100 flex flex-col">
       {/* Header */}
       <header className="sticky top-0 z-40 bg-zinc-950/90 backdrop-blur border-b border-zinc-800/60">
         <div className="max-w-7xl mx-auto px-4 py-4 space-y-3">
           <div className="flex items-center gap-4">
-            <div className="shrink-0">
+            <button onClick={goHome} className="shrink-0 text-left hover:opacity-80 transition-opacity">
               <h1 className="text-xl font-bold text-zinc-100 leading-none">
                 🍌 Nano Banana Prompts
               </h1>
               <p className="text-xs text-zinc-500 mt-0.5">AiCEO.im by Tim Janepat</p>
-            </div>
+            </button>
             <div className="flex-1">
               <SearchBar
                 value={searchQuery}
@@ -119,7 +126,7 @@ export default function App() {
       </header>
 
       {/* Main content */}
-      <main className="max-w-7xl mx-auto px-4 py-8">
+      <main className="flex-1 max-w-7xl mx-auto w-full px-4 py-8">
         {loading ? (
           <div className="flex flex-col items-center justify-center py-24 gap-3">
             <div className="w-8 h-8 border-2 border-violet-500 border-t-transparent rounded-full animate-spin" />
@@ -159,6 +166,24 @@ export default function App() {
           </>
         )}
       </main>
+
+      {/* Footer */}
+      <footer className="border-t border-zinc-800/60 mt-8">
+        <div className="max-w-7xl mx-auto px-4 py-5 flex flex-col sm:flex-row items-center justify-between gap-2">
+          <p className="text-xs text-zinc-500">© 2026 AiCEO.im by Tim Janepat</p>
+          <a
+            href="https://youtube.com/TimJanepat"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 text-xs text-zinc-400 hover:text-red-400 transition-colors group"
+          >
+            <svg className="w-4 h-4 text-red-500" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+            </svg>
+            <span className="group-hover:underline">youtube.com/TimJanepat</span>
+          </a>
+        </div>
+      </footer>
 
       {/* Modals */}
       <PromptModal
