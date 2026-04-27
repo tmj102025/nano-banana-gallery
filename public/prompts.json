@@ -163,6 +163,143 @@
       "youmindId": "811"
     },
     {
+      "id": "15843",
+      "title": "Cyber-Poetry Face Projection",
+      "description": "A cyberpunk-inspired portrait prompt featuring glowing cyan handwritten text projected onto a woman's face and shoulders.",
+      "content": "A cinematic, ultra-realistic close-up portrait of a young woman with {argument name=\"hair\" default=\"wet, tousled dark hair\"} and luminous skin, staring directly into the camera with an intense, introspective expression. Glowing {argument name=\"text color\" default=\"cyan\"} handwritten text and symbols are projected across her face, neck, and shoulders, resembling poetic phrases, equations, and abstract handwriting. The light reflections shimmer on her damp skin, creating a futuristic, {argument name=\"aesthetic\" default=\"cyber-poetry\"} aesthetic. Dark, moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187088933_m56u5a_HGxAjuoacAAReRh.jpg"
+      ],
+      "author": {
+        "name": "Aijaz",
+        "link": "https://x.com/iamsofiaijaz"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "15843"
+    },
+    {
+      "id": "15823",
+      "title": "Leopard Print Mirror Selfie Prompt",
+      "description": "A highly detailed prompt for a bedroom mirror selfie of a woman in a leopard print dress, with specific focus on jewelry, lighting, and interior details.",
+      "content": "{\n  \"image_description\": {\n    \"subject\": {\n      \"gender\": \"female\",\n      \"hair\": {\n        \"color\": \"dark black\",\n        \"style\": \"long, layered, voluminous waves\",\n        \"texture\": \"glossy\"\n      },\n      \"face\": {\n        \"expression\": \"sultry, neutral\",\n        \"makeup\": \"Natural \",\n        \"eye_color\": \"light hazel or green\"\n      },\n      \"skin_tone\": \" Fair Skin\n    },\n    \"clothing\": {\n      \"type\": \"dress\",\n      \"pattern\": \"{argument name=\"pattern\" default=\"leopard print\"}\",\n      \"style\": \"backless, halter neck, bodycon/fitted\",\n      \"fabric_texture\": \"smooth\"\n    },\n    \"accessories\": {\n      \"jewelry\": [\n        \"{argument name=\"jewelry\" default=\"gold hoop earrings\"}\",\n        \"thin chain necklace with a cross pendant hanging down the back\",\n        \"stack of gold and silver bangles/bracelets on wrist\"\n      ],\n      \"objects\": \"smartphone (iPhone style) held in right hand\"\n    },\n    \"pose\": {\n      \"stance\": \"standing, angled profile showing back and side\",\n      \"head_position\": \"turned over left shoulder facing the mirror\",\n      \"action\": \"taking a mirror selfie\"\n    },\n    \"environment\": {\n      \"location\": \"{argument name=\"room type\" default=\"bedroom\"}\",\n      \"background_elements\": [\n        {\n          \"object\": \"bed\",\n          \"details\": \"white linens, chunky beige knit throw blanket at the foot\"\n        },\n        {\n          \"object\": \"furniture\",\n          \"details\": \"wooden dresser with rattan/cane drawers, wooden bedside table\"\n        },\n        {\n          \"object\": \"lighting_fixture\",\n          \"details\": \"bedside lamp with warm yellow light\"\n        }\n      ],\n      \"walls\": \"plain, neutral beige/cream color\"\n    },\n    \"lighting\": {\n      \"source\": \"camera flash reflected in mirror\",\n      \"effect\": \"bright starburst flare from flash, warm ambient glow from bedside lamp\",\n      \"atmosphere\": \"dim, cozy, evening setting\"\n    },\n    \"technical_details\": {\n      \"type\": \"mirror selfie\",\n      \"perspective\": \"reflection\",\n      \"focus\": \"sharp on subject, slightly softer background\"\n    }\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187080666_8n30vm_HGwhPB5WAAACzPW.jpg"
+      ],
+      "author": {
+        "name": "Noah",
+        "link": "https://x.com/NoahNeku"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "15823"
+    },
+    {
+      "id": "15837",
+      "title": "Y2K Urban Twilight Portrait",
+      "description": "A detailed prompt recreating an early-2000s digital photo aesthetic with a reference image base.",
+      "content": "Create image: Use the attached reference image as a visual guide for the character’s appearance, maintaining strong resemblance to the person in the reference. Preserve key visual traits such as facial structure and overall proportions, while allowing small natural variations typical of real photography. The generated subject should clearly resemble the reference while remaining a natural photographic interpretation.  **Scene & Style Paragraph** The scene is set against a {argument name=\"background\" default=\"bustling urban backdrop at twilight, where towering concrete structures and glowing streetlights create a sense of late-night city energy\"}. The photography captures a classic early-2000s digital aesthetic, characterized by a harsh direct flash that sharply illuminates the subject while casting deep, dramatic shadows behind her. A fine layer of low-fidelity grain covers the image, mimicking the output of a vintage point-and-shoot camera. The color palette is dominated by cool city blues and stark whites, contrasted by the warm, amber glow of distant office windows and traffic signals, giving the entire composition a spontaneous, lo-fi cinematic grade.  **Pose & Expression** The subject embodies a candid, high-energy Y2K persona. She is captured in a mid-motion stance, with her head tilted playfully toward her shoulder and a soft, magnetic gaze directed at the lens. Her right arm is raised, with fingers delicately threaded through her long, raven-colored hair as if caught in a spontaneous adjustment. Her left hand firmly grips the handle of a heavy tote bag, while her torso is slightly arched to emphasize the silhouette of her outfit. The expression is one of effortless confidence, featuring a slight pout and a youthful, fresh-faced glow that enhances the snapshot's authentic, unposed feel.  **Fashion & Accessories** The outfit is a masterclass in turn-of-the-millennium street style. She wears a {argument name=\"outfit\" default=\"navy and white horizontally striped long-sleeved polo shirt, crafted from a structured cotton piqué\"}. The shirt features a crisp white collar and a prominent, intricately embroidered heraldic crest on the chest in shades of gold, emerald, and cerulean. The garment is cut in an ultra-cropped style, leaving the midriff uncovered to meet a pair of low-slung, light-wash denim jeans with a relaxed, straight-leg fit. Hanging from her hand is a large, black leather moto-style bag, adorned with burnished silver studs, long leather tassels, and heavy metallic buckles. Her long, straight hair cascades down her back, and her makeup is finished with a dewy, high-shine lip gloss and a soft pink flush across the cheekbones, completing the quintessential Y2K aesthetic.    Negative: {argument name=\"negative prompt\" default=\"extra limbs, extra hands, extra fingers, missing fingers, fused fingers, dislocated hands, broken wrists, unnatural hand pose, twisted arms, duplicated body parts, bad anatomy, incorrect anatomy, broken anatomy, impossible pose, warped body, distorted proportions, ai ar\"}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187086337_2b43hd_HGwPdakbEAA5TkO.jpg"
+      ],
+      "author": {
+        "name": "Chryz leen",
+        "link": "https://x.com/Chryzleenprompt"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "15837"
+    },
+    {
+      "id": "15825",
+      "title": "Moody Morning Mirror Selfie Prompt",
+      "description": "A detailed, structured prompt for a photorealistic mirror selfie of a woman in a pink bodysuit, capturing a relaxed and slightly pouting morning vibe in a minimalist bedroom setting.",
+      "content": "{\n  \"type\": \"image_prompt\",\n  \"description\": {\n    \"subject\": {\n      \"main\": \"{argument name=\"character name\" default=\"[NAME]\"} with hair tied in a loose bun, with strands falling over the shoulder and framing the face. Her expression is soft and slightly pouting, with eyes focused on the phone screen.\",\n      \"details\": \"Glossy lips, slight skin luminosity, and one finger delicately touching the lower lip.\"\n    },\n    \"appearance\": {\n      \"body_type\": \"Fit\"\n    },\n    \"clothing\": {\n      \"outfit\": \"{argument name=\"color\" default=\"light pink\"} one-piece bodysuit\",\n      \"details\": \"Smooth texture, thin straps, tight to the body and high-cut\"\n    },\n    \"pose\": {\n      \"position\": \"Kneeling on a shiny floor, facing a mirror\",\n      \"right_hand\": \"Raised, holding a white smartphone to take a selfie\",\n      \"left_hand\": \"Raised, with the index finger resting gently on the lower lip\",\n      \"posture\": \"Upright posture with shoulders relaxed\"\n    },\n    \"setting\": {\n      \"environment\": \"{argument name=\"room style\" default=\"Modern and minimalist bedroom\"}\",\n      \"details\": \"White walls and light, shiny tile floor\",\n      \"background_left\": \"Small white bedside table with black metal frame containing a framed drawing\",\n      \"background_right\": \"Part of a bed with light gray sheets and pillows\"\n    },\n    \"props\": [\n      \"Smartphone with multiple camera lenses\",\n      \"Framed drawing of a cat on the bedside table, with a large, visible stylized signature 'Giulia_4i'\",\n      \"Bed with gray bedding\"\n    ],\n    \"lighting\": {\n      \"type\": \"Artificial indoor lighting, bright and uniform\",\n      \"effects\": \"Visible reflections on the shiny floor and the back of the phone, with soft shadows on the body\"\n    },\n    \"mood\": \"Casual, fun, modern, internet aesthetic\",\n    \"technical\": {\n      \"camera\": \"Mirror selfie perspective, medium framing (from mid-thighs up), standard smartphone lens\",\n      \"style\": \"Photorealistic, casual social media style\",\n      \"quality\": \"Sharp image, well-focused, well-lit, high resolution\",\n      \"aspect_ratio\": \"9:16\"\n    }\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187080769_03q7ym_HGv7acubsAAv9rR.jpg",
+        "https://cms-assets.youmind.com/media/1777187080946_ryxhxj_HGv7akAa0AA1tDF.jpg",
+        "https://cms-assets.youmind.com/media/1777187080785_nra4tu_HGv7aZUboAAMIET.jpg",
+        "https://cms-assets.youmind.com/media/1777187081841_xdxn4v_HGv7anNbMAAajWp.jpg"
+      ],
+      "author": {
+        "name": "Giulia",
+        "link": "https://x.com/Giulia_4i"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "15825"
+    },
+    {
+      "id": "15840",
+      "title": "Radiant Purple Bob Portrait",
+      "description": "A close-up portrait prompt focusing on vibrant hair colors and cinematic lighting against a dark background.",
+      "content": "A high-resolution, vertical close-up portrait of a radiant young woman with a warm, friendly smile. ​Hair & Style: She features a chic, textured bob cut. Her hair is a striking blend of {argument name=\"hair color\" default=\"deep Royal Purple and bright Golden-blonde\"} highlights that frame her face. ​Fashion: She is wearing a {argument name=\"outfit\" default=\"simple, elegant dark purple dress\"} with a textured fabric. Minimalist gold jewelry, including {argument name=\"accessories\" default=\"small hoop earrings and a delicate gold chain necklace\"}, complements her hair highlights. ​Composition & Lighting: Soft, cinematic lighting that highlights her facial features and the vibrant colors of her hair. The shot is a tight \"bust-up\" portrait with a clean, solid matte black background to create a dramatic contrast.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187087732_qcajfo_HGv1GRsWIAA5oxp.jpg"
+      ],
+      "author": {
+        "name": "Minahil",
+        "link": "https://x.com/Minahil42298354"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "15840"
+    },
+    {
+      "id": "15833",
+      "title": "Athletic female portrait in studio",
+      "description": "A detailed prompt for generating a full-body portrait of an athletic female model holding a basketball in a professional studio setting.",
+      "content": "A detailed prompt for generating a full-body portrait of an athletic {argument name=\"gender\" default=\"female\"} model holding a basketball in a professional studio setting, featuring {argument name=\"brand name\" default=\"Pixel AI Studio\"} branding.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187085023_w6zdjb_HGuuAEGb0AAtesV.jpg",
+        "https://cms-assets.youmind.com/media/1777187085000_1brh2p_HGuuAECbEAAwCR0.jpg"
+      ],
+      "author": {
+        "name": "Pixel AI Studios",
+        "link": "https://x.com/PixelAIStudios"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "15833"
+    },
+    {
+      "id": "15844",
+      "title": "Elegant Studio Portrait with Sparkling Top",
+      "description": "A sophisticated studio portrait prompt for a young woman featuring dramatic lighting, a sparkling turtleneck, and a luxury watch.",
+      "content": "A close-up studio portrait of a {argument name=\"subject\" default=\"young Caucasian woman with light blonde styled hair\"} with a sophisticated expression, subtle makeup enhancing her {argument name=\"skin tone\" default=\"bronzed complexion\"} and defined eyebrows, wearing a {argument name=\"top\" default=\"fitted dark gray textured sparkling turtleneck top\"} and a light gray minimalist watch, dramatic lighting illuminating her face and upper body with sharp contrast against a pure black background, centered composition with a slight low-angle perspective emphasizing elegance and glamour.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187089280_qt8sjo_HGuI0qEaAAAnB9d.jpg"
+      ],
+      "author": {
+        "name": "Dr. Samia",
+        "link": "https://x.com/oye_samia"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "15844"
+    },
+    {
       "id": "15489",
       "title": "Novelty Loungewear Mirror Selfie",
       "description": "A highly detailed prompt for a realistic mirror selfie of a young woman wearing character-themed novelty loungewear in a modern home setting.",
@@ -400,141 +537,6 @@
       "youmindId": "15132"
     },
     {
-      "id": "15139",
-      "title": "Anime World Elevator Mirror Selfie",
-      "description": "A cinematic prompt for Nano Banana Pro featuring a mirror selfie in an elevator where a man's anime counterpart appears behind him with magical energy effects.",
-      "content": "A cinematic mirror selfie inside a dark metallic elevator an {argument name=\"subject\" default=\"American white young man\"} with sharp jawline and facial features clean shaved and {argument name=\"outfit\" default=\"leather jacket\"} holds a spinning {argument name=\"energy color\" default=\"blue\"} energy spiral in his left palm while capturing himself on phone. His anime counterpart stands directly behind him: white spiky hair, black mask, purple jacket, radiating matching blue cursed energy. The reflection in the steel doors shows both worlds merging. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014239240_e7xbwg_HGmAwljWQAA8Vn9.jpg"
-      ],
-      "author": {
-        "name": "Ozair AI",
-        "link": "https://x.com/Ozayrr_irl"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "15139"
-    },
-    {
-      "id": "15137",
-      "title": "Photorealistic manga-themed bedroom portrait",
-      "description": "A detailed prompt for creating a high-contrast photorealistic portrait of a woman in a monochrome manga-themed bedroom with soft natural lighting.",
-      "content": "Photorealistic indoor portrait of a {argument name=\"subject\" default=\"young adult woman\"} with long straight light-brown hair and soft bangs, fair skin with visible freckles, glossy lips, and subtle makeup, posing on a bed in a {argument name=\"setting\" default=\"manga-themed bedroom\"}. She is wearing a {argument name=\"outfit style\" default=\"monochrome black outfit\"} with a cropped top, layered ruffled skirt, oversized detached knit sleeves, and fishnet stockings. The wall behind her is covered in black-and-white manga panels, creating a high-contrast anime-inspired backdrop. Soft natural window light, muted tones, cozy bedroom atmosphere, detailed skin texture, editorial fashion photography, shallow depth of field, centered composition, high detail.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014238422_1ijbms_HGlg-CzacAA7_no.jpg"
-      ],
-      "author": {
-        "name": "Diamond",
-        "link": "https://x.com/DiamondZPetSpa"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "15137"
-    },
-    {
-      "id": "15115",
-      "title": "High-Fashion Ink Illustration Portrait",
-      "description": "A detailed prompt for generating a high-fashion editorial portrait in a gestural ink illustration style, characterized by bold brushwork, high contrast, and a specific accessory accent.",
-      "content": "Use the provided source image as the sole identity reference. Preserve the subject’s facial features, likeness, and recognizability with high fidelity.\nRecompose the image into a tight close-up or upper-body editorial crop, ensuring the face dominates the frame. Disregard the original framing entirely.\nTransform the portrait into a high-fashion gestural ink illustration. The visual style must be driven by bold, expressive black brushwork rather than fine or delicate sketch lines.\nApply the following stylistic elements:\nVery thick, heavy black brush strokes as the primary structure\nBroad dry-brush sweeps with visible texture\nLarge, asymmetrical black ink masses shaping the composition\nLong, loose, calligraphic strokes for dynamic flow\nBroken and incomplete contours\nScratchy, energetic secondary linework for detail accents\nStrong black-on-ivory contrast\nSmooth, minimal, monochrome skin rendering\nEnsure the thick brush strokes dominate the image. Avoid clean, polished, or softly illustrated aesthetics. The result should feel raw, expressive, and painterly—like it was created with a heavily loaded brush and finished with sharp, confident pen marks.\nMaintain a stylish, high-fashion editorial tone.\nInclude one hero accessory: {argument name=\"accessory\" default=\"oversized translucent tinted sunglasses\"}. The accent color {argument name=\"accent color\" default=\"[ACCENT_COLOR]\"} must be primarily expressed within this accessory, especially as a bold luminous tint in the lenses.\nAllow only minimal, subtle traces of the same accent color elsewhere in the composition.\nKeep the background clean, minimal, and unobtrusive.\nDo not include any text, typography, or poster-style elements.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014228660_9prw3b_HGlZo7QaAAAk_Zu.jpg"
-      ],
-      "author": {
-        "name": "Nexora",
-        "link": "https://x.com/frametheory058"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "15115"
-    },
-    {
-      "id": "15122",
-      "title": "Industrial Concrete Portrait",
-      "description": "A structured JSON-style prompt for an urban, moody black and white portrait of a man in an industrial environment with high-contrast lighting.",
-      "content": "{\n  \"subject\": {\n    \"description\": \"A young man with wavy, tousled hair, wearing {argument name=\"accessories\" default=\"dark sunglasses\"}, a {argument name=\"shirt\" default=\"white t-shirt\"}, a {argument name=\"outerwear\" default=\"dark zip-up jacket\"}, and light-wash jeans.\",\n    \"poses\": [\n      \"Sitting with one hand touching his chin in a thoughtful, pensive gesture.\",\n      \"Sitting with hands clasped together, looking slightly to the side.\"\n    ]\n  },\n  \"setting\": {\n    \"location\": \"Outdoor concrete environment\",\n    \"background\": \"A textured, industrial concrete wall with visible streaks and weathering.\",\n    \"lighting\": \"High-contrast sunlight creating a sharp diagonal shadow across the subject and the background.\"\n  },\n  \"aesthetic\": {\n    \"color_profile\": \"Black and white (monochrome)\",\n    \"mood\": \"Moody, urban, and cinematic\",\n    \"photography_style\": \"Portraiture with harsh directional lighting and heavy shadows\"\n  },\n  \"composition\": {\n    \"framing\": \"Medium shot, seated position\",\n    \"focal_point\": \"Subject's profile and expressions against the stark concrete backdrop\"\n  }\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014231856_ujigr1_HGlYpdmWkAA2Uzo.jpg",
-        "https://cms-assets.youmind.com/media/1777014231895_otuq1g_HGlYpmdWcAAVf0y.jpg"
-      ],
-      "author": {
-        "name": "Minahil",
-        "link": "https://x.com/Minahil42298354"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "15122"
-    },
-    {
-      "id": "15117",
-      "title": "Ultra-Photorealistic Fantasy Selfie",
-      "description": "A complex, structured prompt for a realistic indoor selfie with fantasy elements, including high-fidelity character details and specific lighting conditions.",
-      "content": "{ \n\"meta\": { \n\"aspect_ratio\": \"4:5\", \n\"quality\": \"ultra_photorealistic\",\n \"resolution\": \"4k\",\n \"camera\": \"iPhone 15 Pro front camera\", \n\"lens\": \"24mm wide\",\n \"style\": \"raw iPhone indoor selfie realism, natural mobile HDR, sharp detailed foreground and background, crisp skin, knit, faux-fur, and leather texture, no blur, no softness, no muddy rendering\"\n },\n\"character_lock\": {\n \"hair\": [ \n\"platinum blonde hair\", \n\"soft shaggy layered bob\",\n \"airy volume\", \n\"flipped feathered ends\", \n\"wispy face-framing fringe\"\n ],\n \"skin\": [ \n\"fair skin tone\", \n\"real skin texture\",\n \"soft freckles across cheeks and nose\", \n\"rosy blush\",\n \"not plastic\", \n\"not over-smoothed\"\n ],\n \"features\": [\n \"large doll-like eyes\",\n \"soft lower-lash eyeliner\", \n\"white inner-corner makeup accents\", \n\"small pouty lips\",\n \"cute but slightly eerie expression\"\n ],\n \"body\": [\n \"soft feminine build\",\n \"realistic adult proportions\", \n\"normal adult head size\",\n \"realistic head-to-body ratio\", \n\"no oversized head\", \n\"no anatomy distortion\"\n ]\n },\n\"scene\": {\n \"location\": \"modern apartment interior\", \"environment\": [\n \"dark kitchen island\", \n\"white bar stools\", \n\"clean open-plan kitchen in the background\",\n \"neutral rug and living room area\", \n\"soft daylight entering from the side\"\n ], \n\"atmosphere\": \"cute fantasy-costume selfie, cozy apartment setting, soft but dark whimsical energy\" \n},\n\"lighting\": { \n\"type\": \"strong natural window light\",\n \"key_light\": \"warm sunlight falling across face, hair, sweater, and corset\", \n\"fill_light\": \"subtle room bounce from pale floor and walls\", \n\"effect\": \"clean realistic exposure, crisp shadows, glowing skin, sharp knit and leather texture, readable room detail\", \n\"avoid\": [\n \"studio lighting\",\n \"flash\",\n \"blurry background\", \n\"soft focus\", \n\"muddy rendering\" \n] \n},\n\"camera_perspective\": { \n\"pov\": \"we ARE her phone\", \n\"angle\": \"slightly high close selfie angle\",\n \"distance\": \"close-medium framing\",\n \"framing\": \"head, chest, and upper torso dominate the frame with apartment background still readable\", \"phone_visibility\": \"not visible\" \n},\n\"subject\": { \n\"gender\": \"female\", \n\"age\": \"21+ adult\",\n \"expression\": { \n\"eyes\": \"soft direct gaze toward camera\",\n \"mouth\": \"small pout\", \n\"emotion\": \"cute, quiet, slightly dangerous\"\n }, \n\"pose\": { \n\"position\": \"standing indoors taking a close selfie\", \"head\": \"slight tilt downward toward camera\", \"shoulders\": \"relaxed\", \n\"body\": \"upright with chest and torso facing camera\"\n },\n \"outfit\": { \n\"headwear\": { \n\"type\": \"{argument name=\"headpiece\" default=\"large black fantasy antler headpiece\"}\", \"details\": \"dramatic textured antlers rising above the head\"\n },\n \"top\": {\n \"type\": \"{argument name=\"clothing\" default=\"cream ribbed knit long-sleeve sweater\"}\", \"fit\": \"soft fitted knit with visible vertical rib texture\"\n }, \n\"neck\": { \n\"type\": \"white faux-fur collar\", \n\"details\": \"thick soft fluffy texture framing the neck\"\n }, \n\"corset\": { \n\"type\": \"brown leather corset belt or harness\", \"details\": \"structured leather with buckle fastenings\" } } } }",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014229319_5wn8wx_HGlSrV0XkAAMIjz.jpg"
-      ],
-      "author": {
-        "name": "• ⊹",
-        "link": "https://x.com/xaiofm"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "15117"
-    },
-    {
-      "id": "15116",
-      "title": "Nightlife Car Ride Portrait",
-      "description": "A prompt designed for generating a spontaneous iPhone-style portrait of a woman in a moving car at night, with a strong focus on preserving facial identity from a reference image.",
-      "content": "Use the uploaded photo as the ONLY and EXACT facial reference. Preserve facial identity with absolute priority: exact facial features, natural hair color and all original appearance details. No beautification, no stylization, no changes to the face. If any conflict occurs - preserve the face exactly. A young woman captured as a spontaneous iPhone shot in the {argument name=\"location\" default=\"backseat of a moving car\"} during {argument name=\"time of day\" default=\"vibrant nightlife\"} leaning forward dynamically with energetic vibe and sharp turn of her head.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014229105_pky9i2_HGlHBzzbEAEXmaf.jpg"
-      ],
-      "author": {
-        "name": "Dr. Samia",
-        "link": "https://x.com/oye_samia"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "15116"
-    },
-    {
-      "id": "15134",
-      "title": "Submerged Intimate Portrait",
-      "description": "A moody and cinematic prompt for a portrait of a woman submerged in a dark stone pool with dramatic lighting.",
-      "content": "{ \"image_generation_prompt\": { \"subject\": { \"description\": \"{argument name=\\\"subject\\\" default=\\\"Young woman with wet, slicked-back red hair and subtle freckles, submerged up to her upper chest in water\\\"}\", \"expression\": \"Intense, captivating gaze looking directly into the camera lens.\", \"styling\": \"Dark, slightly smudged eyeliner giving a raw, lived-in appearance. Natural, pale skin tone.\" }, \"environment\": { \"setting\": \"{argument name=\\\"environment\\\" default=\\\"Dark stone pool or jacuzzi\\\"}\", \"atmosphere\": \"Intimate, moody, and cinematic.\" }, \"lighting\": { \"style\": \"Dramatic chiaroscuro.\", \"details\": \"Warm, golden directional light illuminating the right side of her face, shoulder, and the water's surface, contrasting heavily with deep, rich shadows on the left side.\" }, \"technical_specifications\": { \"camera\": \"{argument name=\\\"lens\\\" default=\\\"Shot on 85mm lens\\\"}\", \"style_keywords\": [ \"candid realism\", \"raw lifestyle photography\", \"high-fashion editorial\", \"noir-chic\", \"hyper-detailed\", \"photorealistic\" ], \"aspect_ratio\": \"3:4\" } } }",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014237282_6vt89z_HGlEE1BaEAAlUhQ.jpg",
-        "https://cms-assets.youmind.com/media/1777014237327_b8nq42_HGlEE3OagAArQj7.jpg"
-      ],
-      "author": {
-        "name": "Sadie 🥀",
-        "link": "https://x.com/NameIsSudee"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "15134"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -554,12 +556,12 @@
       "youmindId": "532"
     },
     {
-      "id": "15477",
-      "title": "Rome Skyline Sunset Cinematic Portrait",
-      "description": "A structured cinematic prompt for a woman overlooking the Rome skyline at sunset, featuring specific instructions for lighting, outfit, and mood.",
-      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"Nano Banana 2\",\n      \"task_type\": \"rome_sunset_view\",\n      \"version\": \"v2.0_ITALY_COLOR_SERIES_23\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"{argument name=\"location\" default=\"Rome skyline at sunset\"}.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"render_style\": \"cinematic_city_editorial\",\n      \"color_grade\": \"orange_pink_gold\"\n    },\n    \"subject\": {\n      \"identity\": \"reference woman\",\n      \"expression\": \"calm, reflective smile\",\n      \"hair\": \"soft wind-blown\",\n      \"makeup\": \"golden glow\",\n      \"outfit\": \"{argument name=\"outfit style\" default=\"peach or coral flowing dress\"}\",\n      \"body\": \"perfect anatomy\"\n    },\n    \"scene\": {\n      \"environment\": \"Rome skyline rooftops\",\n      \"lighting\": \"sunset glow\",\n      \"mood\": \"warm, cinematic, dreamy\"\n    },\n    \"pose_language\": {\n      \"pose\": \"standing overlooking city\",\n      \"posture\": \"relaxed strong\"\n    },\n    \"camera\": {\n      \"lens\": \"{argument name=\"lens focal length\" default=\"50mm\"}\"\n    },\n    \"quality_control\": {\n      \"sky\": \"natural gradient\",\n      \"skin\": \"realistic\"\n    },\n    \"negative_prompt\": [\"flat sky\",\"bad anatomy\",\"text\",\"logo\",\"watermark\"]\n  }\n}",
+      "id": "15853",
+      "title": "Minimalist Capri Luxury Editorial Prompt",
+      "description": "A technical JSON-based prompt for image-to-image generation focused on luxury Mediterranean aesthetics and high-end realism.",
+      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"Nano Banana 2\",\n      \"task_type\": \"capri_turquoise_minimal_luxury\",\n      \"style\": \"ultra_photoreal_clean_editorial\",\n      \"version\": \"v1.0_CAPRI_TURQUOISE_WHITE\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"maximum\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"Use the {argument name=\"subject\" default=\"reference woman\"}. Place her on a minimalist {argument name=\"location\" default=\"Capri terrace\"} overlooking deep turquoise sea, white stone architecture, and clean Mediterranean lines. The image must feel fresh, modern, and ultra-luxury.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"render_style\": \"clean_luxury_realism\",\n      \"color_grade\": \"turquoise_white_crisp_sunlight\"\n    },\n    \"subject\": {\n      \"identity\": \"reference woman\",\n      \"expression\": \"calm, confident, effortlessly attractive, slightly mysterious\",\n      \"hair\": \"{argument name=\"hairstyle\" default=\"slick back wet-look\"} or tight low bun, clean luxury styling\",\n      \"makeup\": \"minimal luminous skin, natural glow, visible pores\",\n      \"outfit\": \"turquoise silk slip dress, thin straps, fluid elegant cut, premium fabric with subtle sheen\",\n      \"accessories\": \"gold minimalist jewelry, sunglasses optional\",\n      \"body\": \"perfect anatomy\"\n    },\n    \"scene\": {\n      \"environment\": \"Capri white terrace, infinity view, deep blue sea, clean architectural lines\",\n      \"lighting\": \"strong Mediterranean sunlight, crisp shadows, high-end minimal contrast\",\n      \"mood\": \"fresh luxury, modern Italian elegance\"\n    },\n    \"pose_language\": {\n      \"pose\": \"standing near edge, slightly turned, wind lightly moving fabric\",\n      \"posture\": \"relaxed but powerful\"\n    },\n    \"camera\": {\n      \"lens\": \"50mm\",\n      \"angle\": \"slightly low clean editorial angle\",\n      \"depth_of_field\": \"moderate\"\n    },\n    \"quality_control\": {\n      \"skin\": \"real pores\",\n      \"fabric\": \"lightweight natural movement\",\n      \"light\": \"no overexposure\"\n    },\n    \"negative_prompt\": [\n      \"messy\",\n      \"crowd\",\n      \"cheap styling\",\n      \"bad anatomy\",\n      \"text\",\n      \"logo\",\n      \"watermark\"\n    ]\n  }\n}",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099774514_97ignv_HGs4RctWkAAFGxb.jpg"
+        "https://cms-assets.youmind.com/media/1777187094302_tmr78v_HGxwDrnbIAAgfJo.jpg"
       ],
       "author": {
         "name": "Özge Döner",
@@ -570,161 +572,244 @@
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15477"
+      "youmindId": "15853"
     },
     {
-      "id": "15470",
-      "title": "Guinea Pigs with Fashion Accessories",
-      "description": "A fun and descriptive prompt for generating close-up images of small animals wearing hats while eating greens.",
-      "content": "A close-up, eye-level shot shows two {argument name=\"animal\" default=\"guinea pigs\"}. The guinea pig on the left is a reddish-brown color wearing a {argument name=\"accessory left\" default=\"red cowboy hat\"}. Its large, dark eye is in focus, and it is looking to the right. A sprig of green parsley is in front of its nose. The guinea pig on the right is a pale yellow color and wearing a {argument name=\"accessory right\" default=\"pink beret\"}. It is facing left and eating green leaves.",
+      "id": "15827",
+      "title": "Rooftop Hot Tub Portrait Prompt",
+      "description": "An editorial-style prompt for a portrait of a woman in a rooftop hot tub during golden hour, emphasizing twilight lighting and an upscale atmosphere.",
+      "content": "Create an image using my photo a medium shot of a young woman with a striking gaze, looking back over her shoulder towards the camera. she is submerged up to her chest in the clear, turquoise water of a modern {argument name=\"water feature\" default=\"white hot tub or pool\"}.\nfeatures: she has dark, chocolate brown straight hair tied into a messy loose bun. Few loose hair strands covering her face/framing her face.her skin has a dewy, \"glass skin\" finish, and she wears a {argument name=\"outfit color\" default=\"Light red\"} one piece halter beck, strap tied on the back of her neck.\nsetting & atmosphere\nenvironment: an upscale {argument name=\"location\" default=\"rooftop or outdoor terrace\"} during \"golden hour.\" in the background, there is a grey gazebo with a scalloped trim, soft outdoor string lights (bistro lights) hanging across the sky, and a glimpse of a cityscape under a dramatic, cloudy sunset.\nlighting: soft, natural twilight lighting. the sky is a mix of muted blue, grey, and warm orange hues from the setting sun, creating a moody yet sophisticated editorial vibe.\ncolor palette: a balance of cool tones (the water and grey architecture) and warm tones (the sunset and skin highlights).\n2:3ar",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099769670_ots4mx_HGqUcbQWIAA6ESa.jpg"
+        "https://cms-assets.youmind.com/media/1777187082229_tcfqsc_HGw38FaboAAlELs.jpg",
+        "https://cms-assets.youmind.com/media/1777187082015_vq488g_HGw38FRbUAAYqbf.jpg",
+        "https://cms-assets.youmind.com/media/1777187081993_6z7gws_HGw38DpbgAAbWOq.jpg",
+        "https://cms-assets.youmind.com/media/1777187082672_mz1pgl_HGw38FjacAAmcvJ.jpg"
       ],
       "author": {
-        "name": "Heather Green",
-        "link": "https://x.com/heathergreen"
+        "name": "Sydney",
+        "link": "https://x.com/XSydneyFan"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15470"
+      "youmindId": "15827"
     },
     {
-      "id": "15478",
-      "title": "Elegant Italian Trevi Fountain Scene",
-      "description": "A cinematic, ultra-realistic prompt for a romantic scene at the Trevi Fountain featuring a woman in Italian tailored clothing.",
-      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"Nano Banana 2\",\n      \"task_type\": \"trevi_fountain_romantic_green\",\n      \"style\": \"ultra_realistic_cinematic_portrait\",\n      \"version\": \"v2.0_ITALY_ELEGANT_SOFT\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"maximum\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"{argument name=\"scene notes\" default=\"Trevi Fountain romantic elegant scene, minimal crowd, soft cinematic realism.\"}\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"render_style\": \"cinematic_realism\",\n      \"color_grade\": \"warm_beige_gold_soft\",\n      \"sharpness\": \"ultra_crisp_skin_focus\",\n      \"grain\": \"subtle_film\",\n      \"dynamic_range\": \"high_realistic\"\n    },\n    \"subject\": {\n      \"identity\": \"reference woman\",\n      \"expression\": \"soft romantic, calm, subtly attractive, gentle relaxed smile\",\n      \"hair\": \"loose messy updo, soft strands framing face, natural imperfect elegance\",\n      \"makeup\": \"natural glow, soft highlights, realistic skin texture with visible pores\",\n      \"outfit\": \"{argument name=\"outfit\" default=\"sage olive green off-shoulder draped dress\"}, elegant Italian tailoring, fluid fabric, slight slit, soft folds\",\n      \"accessories\": \"minimal delicate gold jewelry\",\n      \"body\": \"perfect anatomy, relaxed feminine posture\"\n    },\n    \"scene\": {\n      \"environment\": \"Trevi Fountain marble sculptures and water, clean composition, minimal people\",\n      \"lighting\": \"soft warm daylight, realistic highlights on skin, marble and water reflections\",\n      \"mood\": \"romantic, timeless, elegant Italian atmosphere\"\n    },\n    \"pose_language\": {\n      \"pose\": \"sitting on fountain edge\",\n      \"posture\": \"graceful, relaxed shoulders, elongated neck, natural asymmetry\",\n      \"hands\": \"one hand resting softly, the other near lap, relaxed fingers\"\n    },\n    \"camera\": {\n      \"lens\": \"{argument name=\"lens focal length\" default=\"85mm\"}\",\n      \"angle\": \"slightly low intimate angle\",\n      \"depth_of_field\": \"shallow cinematic\",\n      \"focus\": \"sharp on face and upper body, soft background separation\"\n    },\n    \"quality_control\": {\n      \"skin\": \"real pores, no smoothing, natural highlights\",\n      \"fabric\": \"realistic folds and light interaction\",\n      \"stone\": \"detailed marble texture\",\n      \"water\": \"natural reflections and sparkle\",\n      \"lighting\": \"no overexposure, no fake HDR\"\n    },\n    \"negative_prompt\": [\n      \"crowd chaos\",\n      \"bad anatomy\",\n      \"extra limbs\",\n      \"distorted hands\",\n      \"plastic skin\",\n      \"cartoon look\",\n      \"overprocessed colors\",\n      \"text\",\n      \"logo\",\n      \"watermark\"\n    ]\n  }\n}",
+      "id": "15845",
+      "title": "Shah Rukh Khan Reflection Portrait Prompt",
+      "description": "A sophisticated cinematic photograph prompt focusing on a mirror reflection of Shah Rukh Khan in an elegant interior setting.",
+      "content": "A highly detailed cinematic photograph of {argument name=\"subject\" default=\"Shah Rukh Khan (SRK)\"} standing in front of an ornate round gold mirror with a luxurious laurel leaf and butterfly design frame. He is looking at his own reflection in the mirror. The reflection clearly shows {argument name=\"reflection details\" default=\"SRK wearing a sharp navy blue suit, white dress shirt, and a blue striped tie. He has stylish aviator sunglasses on, black neatly styled hair, and a short trimmed beard with a slight smile\"}. In the foreground, we see the back and side of the real {argument name=\"foreground subject\" default=\"SRK\"}, slightly out of focus, wearing the same navy blue suit and white-framed sunglasses. Soft warm lighting illuminates the elegant interior background. Photorealistic, sharp details, cinematic composition, shallow depth of field, elegant and sophisticated atmosphere.",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099775516_5srs3l_HGsAuE6WsAI9kIE.jpg"
+        "https://cms-assets.youmind.com/media/1777187089635_9n4q2k_HGwxuacbIAAd7yP.jpg",
+        "https://cms-assets.youmind.com/media/1777187089675_exrfip_HGwxulDaQAAJ34k.jpg",
+        "https://cms-assets.youmind.com/media/1777187089799_79ylan_HGwxu7FaAAAAFIB.jpg"
       ],
       "author": {
-        "name": "Özge Döner",
-        "link": "https://x.com/astronomerozge1"
+        "name": "Jahan Zaib",
+        "link": "https://x.com/jzaib4269"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15478"
+      "youmindId": "15845"
     },
     {
-      "id": "15490",
-      "title": "Pop-Art Graffiti Portrait",
-      "description": "A striking prompt for a semi-realistic pop-art graffiti portrait of a young man in a three-piece suit against a chaotic, luxury-themed street art background.",
-      "content": "A striking pop-art graffiti portrait of {argument name=\"subject\" default=\"an American white man with sharp jawline and defined facial features, approximately 20 years old\"}, standing confidently with both hands in pockets, wearing a fitted black three-piece suit with a dark tie. The subject is rendered in a semi-realistic painterly style against {argument name=\"background style\" default=\"an explosive background of hot pink, neon yellow, electric orange, and cyan graffiti brushstrokes layered like street art\"}. Large bold luxury monogram symbols and abstract floral patterns are scattered across the background in dark green and black, half-hidden behind paint splashes. The overall composition feels like a high-fashion street art canvas — raw energy meets elite luxury. Paint drips run down the lower half. The figure stands centered, slightly desaturated compared to the vivid chaotic background, creating strong visual contrast. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+      "id": "15852",
+      "title": "Apple Orchard 4-Panel Collage Prompt",
+      "description": "A comprehensive prompt for generating a four-panel collage of a girl in an apple orchard, focusing on consistent lighting and vintage aesthetics.",
+      "content": "Create a high quality realistic photo using the face from the reference without any changes or distortions. Vertical photo. A four-panel collage made of four separate frames combined into one composition, each frame showing the same girl in an {argument name=\"location\" default=\"apple orchard\"} on green grass scattered with many ripe apples. The overall style is consistent across all images: warm natural lighting, soft sunlight passing through tree leaves, creating a dappled pattern of light and shadow on the grass and on the girl’s body. The background in all frames is an orchard with trees extending into the depth, with slight blur emphasizing the main subject.\nIn the top left frame, the girl is lying on her back on the grass, her body positioned diagonally. One hand rests on her stomach, the other is raised holding a slice of fruit near her face. Her head is slightly tilted back, her expression relaxed with a soft smile, eyes either gently closed or looking upward. Apples are scattered around her, creating rich red accents against the green grass.\n\nIn the top right frame, the girl is in a pose on her hands and knees, her torso slightly leaning forward. One hand supports her on the ground while the other holds an apple near her lips, suggesting a moment just before a bite. Her gaze is directed to the side, not into the camera. The pose is dynamic yet soft and natural. The surrounding space is filled with scattered apples extending into the depth of the frame.\n\nIn the bottom left frame, the girl is sitting on the grass with her knees pulled close to her chest and her arms wrapped around them. A small woven basket stands nearby. She is slightly leaning forward, her gaze directed downward or to the side, with a warm gentle smile. Apples are scattered around her, forming a dense pattern on the grass.\n\nIn the bottom right frame, the girl is kneeling with an upright torso and slightly open shoulders. Her arms are crossed or gently wrapped around herself, creating an elegant silhouette line. Her head is turned to the side, her gaze directed into the distance. The pose is calm, graceful, and focused on body lines.\n\nIn all frames she wears the same {argument name=\"outfit\" default=\"fitted long-sleeve dress\"} with a mini length that accentuates her figure. The look is completed with light high socks or stockings. A {argument name=\"accessory\" default=\"headscarf\"} is tied over her hair, securing it and adding a vintage touch. Her hair is long, flowing over her shoulders or resting on the grass depending on the pose.\n\nThe color palette is rich, with strong contrast between green grass and red apples, while warm sunlight adds a golden tone to the scene. Depth of field is moderate: the girl is in sharp focus while the background is softly blurred. The overall atmosphere is summery, cozy, slightly playful, with natural outdoor photography aesthetics and a focus on harmony between the subject and nature.\n2:3ar",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099780827_jrhwm4_HGr-RzrXgAAWpEp.jpg"
+        "https://cms-assets.youmind.com/media/1777187094276_nxv4dy_HGv5YJ7asAAEuvl.jpg"
       ],
       "author": {
-        "name": "Ozair AI",
-        "link": "https://x.com/Ozayrr_irl"
+        "name": "Sydney",
+        "link": "https://x.com/XSydneyFan"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15490"
+      "youmindId": "15852"
     },
     {
-      "id": "15495",
-      "title": "Fisheye Selfie with Animation Characters",
-      "description": "A prompt for a stylized fisheye selfie featuring a mix of realism and integrated anime characters.",
-      "content": "Ultra-realistic 2:3 vertical format fisheye selfie of a cute, beautiful, young woman, as refrence image, she wears a {argument name=\"outfit\" default=\"tank top\"}, the {argument name=\"color palette\" default=\"blue and red\"} is blue and red, with ({argument name=\"characters\" default=\"Donkey from Shrek, Mario, Tom, and Jerry\"}). We're all making silly, exaggerated faces. Set in a small, bright living room with white tones. High camera angle. Realistic, cinematic lighting, anime characters integrated with stylized realism.",
+      "id": "15831",
+      "title": "Urban Chic Street Photography Prompt",
+      "description": "A prompt for a high-fashion street photography shot featuring a woman in a red teddy coat walking across a city crosswalk with flowers.",
+      "content": "A high-fashion, cinematic street photography shot of a woman confidently walking across a city crosswalk. She is wearing a {argument name=\"coat color\" default=\"vibrant red\"} oversized {argument name=\"coat texture\" default=\"textured teddy\"} coat layered over a light blue cropped hoodie and baggy light-wash denim jeans.\n​The woman is accessorized with a beige baseball cap, orange-tinted sunglasses, and chunky cream sneakers. She is carrying two large bouquets of {argument name=\"flower type\" default=\"peach and white tulips\"} in brown paper wrap, along with a red coffee cup. The setting is a European-style city street with blurred buildings in the background, a slight puddle on the asphalt reflecting her outfit, and soft, natural daylight. The overall vibe is \"urban chic\" and effortlessly stylish.",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099784074_honqci_HGruBnUaYAEcahZ.jpg"
+        "https://cms-assets.youmind.com/media/1777187083973_m73e5d_HGvm7fJagAEVeGD.jpg"
       ],
       "author": {
-        "name": "Shore Lyn",
-        "link": "https://x.com/Shorelyn_"
+        "name": "Minahil",
+        "link": "https://x.com/Minahil42298354"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15495"
+      "youmindId": "15831"
     },
     {
-      "id": "15476",
-      "title": "Milan Luxury Street Editorial",
-      "description": "A cinematic high-fashion prompt for a woman stepping out of a luxury car in Milan, focusing on power, wealth, and sharp tailoring.",
-      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"milan_luxury_car_editorial\",\n      \"style\": \"cinematic_high_fashion\",\n      \"version\": \"v1.0_ITALY_CAR\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"Milan luxury street with premium car.\"\n    },\n    \"subject\": {\n      \"outfit\": \"black fitted mini dress or tailored set, Italian luxury fashion\",\n      \"hair\": \"sleek straight\",\n      \"makeup\": \"soft glam\",\n      \"accessories\": \"designer sunglasses\",\n      \"expression\": \"cool, dominant\",\n      \"body\": \"perfect anatomy\"\n    },\n    \"scene\": {\n      \"environment\": \"luxury car parked in Milan street\",\n      \"lighting\": \"clean daylight\",\n      \"mood\": \"power, wealth, fashion\"\n    },\n    \"pose_language\": {\n      \"pose\": \"stepping out of car\",\n      \"posture\": \"confident\"\n    },\n    \"camera\": {\n      \"lens\": \"50mm\",\n      \"angle\": \"slightly low cinematic\",\n      \"depth_of_field\": \"moderate\"\n    },\n    \"quality_control\": {\n      \"car\": \"realistic reflections\",\n      \"skin\": \"real pores\",\n      \"fabric\": \"sharp tailoring\"\n    },\n    \"negative_prompt\": [\"cheap car\",\"bad anatomy\",\"text\",\"logo\",\"watermark\"]\n  }\n}",
+      "id": "15838",
+      "title": "Surreal Lifestyle Diptych",
+      "description": "A creative prompt for a diptych of two girls interacting through a central visual illusion involving a strawberry milkshake.",
+      "content": "A photorealistic diptych of two horizontal shots, with great skin detail, natural facial texture, bright sunlight, and a lifestyle editorial aesthetic. The central focus of the composition is a single glass, which connects both frames and creates a visual illusion. A clear plastic cup with a strawberry milkshake sits on the edge between the upper and lower frames. The girl below, in the first photo, extends her arm upward from the lower frame and holds the cup at waist level. She wears a thin bracelet on her wrist. Her hand passes through the space between the frames, as if she is pouring the drink upward. A light-colored straw emerges from the cup, pointing toward the upper frame directly at the lips of the girl above. The girl above, in the second uploaded photo, drinks through the straw, her lips slightly pursed, creating the impression that two versions of the same girl are interacting. The glass is filled with a strawberry milkshake, with condensation and light reflections visible on the transparent walls. This element is positioned right in the center of the composition, uniting both images into a single creative shot.\nImage: Top shot: {argument name=\"subject 1\" default=\"A girl with her hair pulled back in a high, voluminous, and casual bun, with soft waves and loose strands framing her face. She wears narrow, transparent, rimless glasses. Clothing: An oversized yellow crew-neck T-shirt with short, elbow-length sleeves. On the chest, a minimalist cat print.\"} \nBottom shot: {argument name=\"subject 2\" default=\"Very long, straight, and sleek hair, parted in the middle. Large, glossy black sunglasses. Lips pursed in a kissing pose. She wears a bracelet on her wrist. She wears an oversized green urban-style T-shirt with a large black and white print on the chest: the word \"CATS\" underneath. It is loose-fitting and has short sleeves.\"} \nbackground: {argument name=\"background\" default=\"An elegant, tall, black brick building, slightly out of focus.\"} RA. 2:3",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099774271_r8phax_HGrU3TGWYAASsvx.jpg"
+        "https://cms-assets.youmind.com/media/1777187086641_akjbxj_HGvjlombYAAqDgb.jpg"
       ],
       "author": {
-        "name": "Özge Döner",
-        "link": "https://x.com/astronomerozge1"
+        "name": "Sydney",
+        "link": "https://x.com/XSydneyFan"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15476"
+      "youmindId": "15838"
     },
     {
-      "id": "15474",
-      "title": "Amalfi Coast Vespa Cinematic Motion",
-      "description": "A detailed cinematic travel photography prompt for a woman on a Vespa in Amalfi, utilizing image-to-image reference for identity preservation and natural motion.",
-      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"Nano Banana 2\",\n      \"task_type\": \"amalfi_vespa_motion_realistic\",\n      \"style\": \"photoreal_cinematic_lifestyle\",\n      \"version\": \"v2.0_VESPA_ACTION_REFINED\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"maximum\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"Use the reference woman riding a vintage Vespa along the Amalfi Coast. The result must feel like a real luxury travel photograph captured during movement, not an exaggerated action poster. Keep the motion believable, elegant, and physically natural.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"num_images\": 1,\n      \"render_style\": \"cinematic_motion_realism\",\n      \"sharpness\": \"ultra_crisp_subject_focus\",\n      \"grain\": \"subtle_refined_film\",\n      \"dynamic_range\": \"realistic_mediterranean_daylight\",\n      \"color_grade\": \"sunlit_blue_yellow_warm_coastal\"\n    },\n    \"subject\": {\n      \"identity\": \"reference woman\",\n      \"expression\": \"joyful, alive, relaxed, naturally confident\",\n      \"hair\": \"soft natural movement backward from riding speed and sea breeze, believable wind behavior, no exaggerated flying hair\",\n      \"makeup\": \"natural glow, fresh skin, realistic texture, no heavy glam\",\n      \"outfit\": \"yellow polka-dot or soft floral Italian summer dress, lightweight breathable fabric, natural folds and motion, elegant but practical for riding\",\n      \"accessories\": \"subtle sunglasses, minimal gold jewelry\",\n      \"body\": \"perfect anatomy, realistic riding posture, natural shoulder alignment, believable arm tension, relaxed but engaged core\"\n    },\n    \"scene\": {\n      \"environment\": \"Amalfi coastal road with sea cliffs, blue water, warm stone barriers, bright sky, distant Mediterranean landscape\",\n      \"lighting\": \"real Mediterranean sunlight with natural highlights on skin and scooter, balanced contrast, realistic shadows, slight road reflections\",\n      \"mood\": \"carefree summer freedom, stylish Italian vacation, believable motion and warmth\"\n    },\n    \"pose_language\": {\n      \"pose\": \"riding a Vespa in forward motion with a slight natural lean into the road\",\n      \"arms\": \"hands firmly but naturally holding handlebars, elbows soft, no stiffness\",\n      \"legs\": \"positioned naturally along the scooter with realistic seated balance\",\n      \"motion\": \"subtle forward movement captured mid-ride, dynamic but believable, no aggressive action exaggeration\"\n    },\n    \"camera\": {\n      \"lens\": \"28mm\",\n      \"angle\": \"low front-side angle near the scooter body, slightly tilted upward but not excessively distorted\",\n      \"depth_of_field\": \"moderately shallow cinematic depth\",\n      \"focus\": \"sharp on face and upper body, slight motion softness on road and distant background only\",\n      \"settings\": \"Sony A1, f/2.2, ISO100, 1/500s\"\n    }\n  }",
+      "id": "15848",
+      "title": "Flower Field Lifestyle Photography Prompt",
+      "description": "A lifestyle photography prompt for creating cheerful outdoor photos in a flower field with cinematic composition and doodles.",
+      "content": "Bright, cheerful outdoor photoshoot in a blooming {argument name=\"flower\" default=\"yellow mustard flower\"} field under clear blue sky; young woman wearing a yellow t-shirt, white skirt, and straw hat; soft natural sunlight, warm tones, vibrant colors; cinematic composition.\n\nScene 1: back view, arms wide open facing the field, handwritten text “{argument name=\"text\" default=\"FREEDOM\"}” in the sky, minimal doodles.\nScene 2: close-up portrait, smiling naturally, hand reaching toward camera holding a yellow flower, shallow depth of field, creamy bokeh.\nScene 3: playful pose, leaning forward making a peace sign, cute hand-drawn doodles and accents around subject.\n\nStyle: lifestyle photography, airy, dreamy, high resolution, soft shadows, {argument name=\"lens\" default=\"35mm\"} lens look, candid emotions.",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099772698_rz1x1b_HGrUnl-XsAAGG3L.jpg"
+        "https://cms-assets.youmind.com/media/1777187090845_56wu30_HGveROwb0AAseES.jpg"
       ],
       "author": {
-        "name": "Özge Döner",
-        "link": "https://x.com/astronomerozge1"
+        "name": "Sairah",
+        "link": "https://x.com/Sairah_0"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15474"
+      "youmindId": "15848"
     },
     {
-      "id": "15472",
-      "title": "Structured Fashion Portrait JSON",
-      "description": "A comprehensive JSON-formatted prompt for studio fashion photography with detailed wardrobe and lighting specifications.",
-      "content": "{\n  “subject”: {\n    “description”: “A professional, ultra-photorealistic full-body studio portrait of {argument name=\"subject name\" default=\"Iggy Azalea\"} wearing a high-end Snow White-inspired costume.”,\n    “body”: {\n      “physique”: “A slim and fit hourglass figure with natural proportions and a toned midsection.”,\n      “pose”: “Standing tall in a confident full-body pose, holding a vibrant red apple in her right hand while her left hand rests firmly on her hip. She is looking directly into the camera lens with a captivating and bold expression.”,\n      “features”: “Distinctive likeness of {argument name=\"subject name\" default=\"Iggy Azalea\"} with her unique facial structure, sculpted features, and natural blonde hair styled sleek and wavy, flowing over her shoulders. Flawless skin texture with visible natural pores.”\n    },\n“wardrobe”: {\n      “outfit”: “A deep blue velvet corset with intricate gold embroidery and red lace detailing, featuring a small yellow bow at the bust. Attached is a short, layered cream ruffled mini-skirt with delicate lace edges. She is wearing red lace-top fishnet thigh-high stockings and red patent leather high heels.”,\n      “accessories”: “A red ribbon choker with a small gold lock pendant. A polished, bright red apple held in her hand.”\n    }\n  },\n  “pose_action”: “{argument name=\"subject name\" default=\"Iggy Azalea\"} posing in a stylized Snow White costume, holding an apple and with her hand on her hip, in a professional studio setting.”,\n  “scene”: {\n    “environment”: “A clean, minimalist, seamless neutral gray studio background.”,\n    “elements”: “Solid gray backdrop and floor, creating a professional fashion photography aesthetic without any distracting objects.”,\n    “composition”: “A vertical (9:16) full-body framing, centering the subject perfectly to highlight the entire outfit and pose.”\n  },\n“lighting”: {\n    “setup”: “Soft and even professional studio lighting that emphasizes the textures of velvet, lace, fishnet, and skin.”,\n    “details”: “Sharp focus across the entire figure, with detailed rendering of the corset embroidery and the apple’s surface.”\n  },\n  “camera”: {\n    “technical”: “High-end DSLR camera, 8k resolution, raw style, ultra-photorealistic rendering of fabric and skin textures.”,\n    “aspect_ratio”: “9:16”\n  }\n}",
+      "id": "15842",
+      "title": "Cinematic Industrial Fashion Prompts",
+      "description": "A pair of highly detailed JSON prompts for cinematic street fashion and industrial portraits focusing on realism and lighting.",
+      "content": "Prompt 1\n{\n  \"style\": \"cinematic street fashion, raw realism\",\n  \"scene\": \"industrial alley with red brick warehouses, metal pipes, overhead walkways, cobblestone ground\",\n  \"subject\": \"young woman standing dominant over camera, one foot stepping forward toward lens\",\n  \"camera\": {\n    \"angle\": \"extreme low angle, worm's-eye view\",\n    \"lens\": \"18mm wide-angle\",\n    \"focus\": \"sharp on boot sole in foreground, slight falloff on face\",\n    \"depth_of_field\": \"moderate, foreground exaggerated perspective\"\n  },\n  \"composition\": \"boot sole filling lower frame, subject towering above, strong vertical lines from buildings\",\n  \"lighting\": {\n    \"type\": \"natural sunlight\",\n    \"time\": \"midday\",\n    \"quality\": \"hard light, crisp shadows\",\n    \"direction\": \"top-left, casting defined shadow on cobblestone\"\n  },\n  \"styling\": {\n    \"outfit\": \"black crop top, loose dark navy pants, chunky black combat boots\",\n    \"accessories\": \"small oval sunglasses\",\n    \"hair\": \"short messy bob, wind slightly lifting strands\"\n  },\n  \"color\": \"warm tones, slightly desaturated blues, cinematic contrast\",\n  \"texture\": \"gritty, detailed cobblestone, worn leather boot texture\",\n  \"mood\": \"assertive, confrontational, editorial confidence\",\n  \"imperfections\": \"slight lens distortion, natural skin texture, no plastic smoothing\",\n  \"quality\": \"high detail, realistic, no AI gloss\"\n}\n\nPrompt 2\n{\n  \"style\": \"cinematic portrait, analog realism\",\n  \"scene\": \"industrial brick buildings with metal structures and pipes in background\",\n  \"subject\": \"young woman looking slightly down at camera with neutral, confident expression\",\n  \"camera\": {\n    \"angle\": \"low angle close-up\",\n    \"lens\": \"35mm\",\n    \"focus\": \"sharp on face, soft background\",\n    \"depth_of_field\": \"shallow\"\n  },\n  \"composition\": \"face centered, chin slightly raised, background geometry framing head\",\n  \"lighting\": {\n    \"type\": \"natural sunlight\",\n    \"time\": \"late afternoon\",\n    \"quality\": \"soft but directional\",\n    \"direction\": \"front-top lighting with subtle shadows under chin\"\n  },\n  \"styling\": {\n    \"outfit\": \"blue denim jacket\",\n    \"accessories\": \"oval tinted sunglasses\",\n    \"hair\": \"short choppy bob, slightly windblown\"\n  },\n  \"color\": \"warm skin tones, muted industrial palette, slightly faded film look\",\n  \"texture\": \"natural skin texture, visible fabric grain on denim\",\n  \"mood\": \"cool, detached, self-assured\",\n  \"imperfections\": \"minor grain, slight lens softness, no over-retouching\",\n  \"quality\": \"photorealistic, cinematic, no artificial sharpness\"\n}",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099770917_tnte67_HGq0hxIXkAAw833.jpg",
-        "https://cms-assets.youmind.com/media/1777099770907_n27luv_HGq0h3nWEAEbR-5.jpg",
-        "https://cms-assets.youmind.com/media/1777099771118_u7sw4c_HGq0h9kW4AAw_lL.jpg"
+        "https://cms-assets.youmind.com/media/1777187088562_yqvv1z_HGvNu9lbkAAQlLP.jpg",
+        "https://cms-assets.youmind.com/media/1777187088482_8z1pi7_HGvNu9gaMAA08nb.jpg"
       ],
       "author": {
-        "name": "Noira",
-        "link": "https://x.com/Noira_exe"
+        "name": "Maercih",
+        "link": "https://x.com/Maercihh"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15472"
+      "youmindId": "15842"
     },
     {
-      "id": "15483",
-      "title": "Tropical Night Market Portrait",
-      "description": "A hyper-realistic portrait prompt set in a tropical night market, using a mobile camera aesthetic to create an authentic, spontaneous atmosphere.",
-      "content": "A hyper-photorealistic shot of the {argument name=\"subject\" default=\"same subject in the attached image\"}. Ultra 8k HD, sharp facial details, realistic skin texture, visible pores, porcelain and dewy skin, douyin / Korean glass-skin makeup, glossy lips, soft aegyosal, baby pink blush on cheeks and nose, grey contact lenses. Shot on mobile camera / iPhone, ISO 100, natural mobile lens look, no background blur, no bokeh, blacks and shadows slightly lifted or flattened, realistic exposure.\n\nScene: {argument name=\"scene\" default=\"lively tropical night market café with string lights\"}, beach bar seating, people in the background, warm neon lights, visible tables and umbrellas, realistic nightlife atmosphere. Use the post, benches, and ceiling lines as leading lines.\n\nPose: realistic spontaneous human pose, not stiff, not center-facing, standing beside a metal post while looking down at phone, body angled slightly sideways, one shoulder relaxed, natural distracted expression.\n\nHair: dark brown half-up hairstyle with long loose waves, inward-and-upward curled ends, wispy bangs, natural shine and movement.\n\nOutfit: {argument name=\"outfit\" default=\"white crochet off-shoulder top layered over a simple fitted inner top, high-waisted light denim shorts\"}, dangling earrings, layered necklaces, beach nightlife fashion aesthetic, casual and stylish.\n\n--ar 2:3",
+      "id": "15847",
+      "title": "K-pop Aesthetic Rehearsal Portrait",
+      "description": "A detailed JSON prompt for a candid, phone-style snapshot of a girl in a rehearsal hallway with a K-pop idol aesthetic.",
+      "content": "{\n  \"prompt\": \"High-resolution 4K portrait 3:4 candid of an East Asian girl with a K-pop idol aesthetic in a rehearsal hallway just outside the practice room door, taking a five-minute reset on a bench while the corridor stays empty behind her. Shoot from a slightly low seat-level angle so the hallway vanishing lines, practical lights, and the bench edge frame her naturally without turning it into a glossy ad. She has a shy-but-aware expression, a clean face, readable eyes, and a clear waist-first body read. She wears an asymmetric one-shoulder top and a short knit skirt in a plum, black, and chrome lane, with believable fabric weight, natural posture, subtle skin texture, and socially native phone-candid realism. Keep it hot, direct, and legible, with the body and face equally present and the background kept simple enough that the scene reads instantly.\",\n  \"subjects\": [\n    {\n      \"name\": \"East Asian Girl\",\n      \"group\": \"Kpop Idol Aesthetic\",\n      \"outfit\": {\n        \"clothing\": [\n          \"asymmetric one-shoulder top\",\n          \"short knit skirt\"\n        ],\n        \"texture\": [\n          \"slinky viscose\",\n          \"soft knit\"\n        ],\n        \"accessories\": [\n          \"phone\"\n        ]\n      },\n      \"pose\": \"sitting on a bench in a rehearsal hallway, leaning slightly forward while looking back toward camera\"\n    }\n  ],\n  \"environment\": {\n    \"setting\": \"rehearsal hallway outside the practice room\",\n    \"elements\": [\n      \"hallway vanishing lines\",\n      \"practical lights\",\n      \"bench edge\",\n      \"simple corridor background\"\n    ]\n  },\n  \"lighting_and_color_grading\": {\n    \"style\": \"hallway practical light with clean white balance\",\n    \"color_palette\": {\n      \"dominant\": \"plum\",\n      \"secondary\": \"black\",\n      \"accent\": \"chrome\"\n    },\n    \"grading\": \"socially native phone-candid realism with restrained contrast and realistic skin texture\"\n  },\n  \"technical_specifications\": {\n    \"camera\": \"slightly low seat-level crop, phone-candid realism\",\n    \"quality\": \"high-resolution 4K\",\n    \"aspect_ratio\": \"3:4 portrait\"\n  }\n}",
       "images": [
-        "https://cms-assets.youmind.com/media/1777099777399_33cb4l_HGqtGCDaQAAKmq7.jpg"
+        "https://cms-assets.youmind.com/media/1777187090247_b818lt_HGvB-4FaAAAgF3G.jpg"
       ],
       "author": {
-        "name": "Chryz leen",
-        "link": "https://x.com/Chryzleenprompt"
+        "name": "Delirium",
+        "link": "https://x.com/deliriuzzvre"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "15483"
+      "youmindId": "15847"
+    },
+    {
+      "id": "15854",
+      "title": "Relationship history visualization",
+      "description": "A conceptual prompt for Nano Banana that asks the model to visualize the history of the user's interactions and treatment of the AI, testing the model's ability to interpret abstract history and text rendering.",
+      "content": "Please create an image based on {argument name=\"content\" default=\"how I have treated you so far\"}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187094474_4xv0a9_HGuiSv6asAA8wo_.jpg"
+      ],
+      "author": {
+        "name": "ムクドリ",
+        "link": "https://x.com/mukudori_m"
+      },
+      "language": "ja",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "15854"
+    },
+    {
+      "id": "15829",
+      "title": "DSLR Screen Couple Portrait Prompt",
+      "description": "A romantic photorealistic prompt showing a close-up of a South Asian couple as viewed through the LCD screen of a DSLR camera.",
+      "content": "A highly detailed photorealistic romantic close-up portrait of a {argument name=\"ethnicity\" default=\"young South Asian\"} couple shown on the {argument name=\"display device\" default=\"LCD screen of a black DSLR camera\"}. The man has dark wavy hair, short stubble beard, intense deep-set eyes with furrowed brows, and wears a blue denim jacket over a white t-shirt. He leans his head close to the woman with a serious and intense expression. The woman has long wavy dark brown hair, thick eyebrows, beautiful dark eyes, and wears a {argument name=\"clothing type\" default=\"white top\"}. She gazes softly at the viewer with an emotional expression while gently clasping the man's hands near her chest. Intimate mood, soft dramatic lighting, cinematic color grading, sharp focus on faces, realistic skin texture, shallow depth of field, 8k photorealistic.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187083038_amemum_HGuXCHBbUAEwLg3.jpg",
+        "https://cms-assets.youmind.com/media/1777187082926_44ai4z_HGuXCmZWgAACpZA.jpg",
+        "https://cms-assets.youmind.com/media/1777187082922_3pfsqf_HGuXC26aQAAIIdM.jpg"
+      ],
+      "author": {
+        "name": "Jahan Zaib",
+        "link": "https://x.com/jzaib4269"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "15829"
+    },
+    {
+      "id": "15850",
+      "title": "Parisian Café Lifestyle Portrait Prompt",
+      "description": "A detailed aesthetic prompt for a Parisian café scene featuring a woman with pink hair and realistic textures.",
+      "content": "Aesthetic lifestyle portrait of a young woman sitting at a {argument name=\"location\" default=\"Parisian-style outdoor café\"}, holding a ceramic cup of cappuccino with latte art, a freshly baked golden croissant on a marble table in front of her. She has {argument name=\"hair color\" default=\"soft pink\"} hair styled in a loose messy bun, natural makeup with light freckles, and a calm, subtle smile. She wears an oversized cream sweatshirt with minimal text “{argument name=\"sweatshirt text\" default=\"be the light\"}” and blue denim jeans. Warm natural daylight, soft shadows, shallow depth of field, cinematic tones, cozy European street background with blurred pedestrians, glass windows reflecting classic architecture. Shot on 50mm lens, high detail, realistic skin texture, soft color grading, Instagram aesthetic, candid yet composed framing.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187091356_zvcvjs_HGt9JtkaMAAjW5h.jpg",
+        "https://cms-assets.youmind.com/media/1777187091150_d984ez_HGt9JtjasAAf1Fx.jpg"
+      ],
+      "author": {
+        "name": "Sairah",
+        "link": "https://x.com/Sairah_0"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "15850"
+    },
+    {
+      "id": "15826",
+      "title": "Medical Aesthetic Analysis Comparison Prompt",
+      "description": "A professional prompt for a high-end clinical comparison showing realistic before-and-after results for facial aesthetic procedures.",
+      "content": "Professional high-end medical aesthetic before/after comparison blueprint, left panel \"{argument name=\"left label\" default=\"Pre-Procedure Analysis\"}\" with natural unedited face showing realistic imperfections (subtle asymmetry, softer jawline, mild under-eye shadows, natural skin texture). Red precise arrows and {argument name=\"language label\" default=\"Chinese labels\"} pointing to improvements. Right panel \"{argument name=\"right label\" default=\"Post-Procedure Result\"}\" showing same person with noticeably refined nose bridge, sharper jawline, brighter under-eyes, smoother yet natural skin, more defined contours. Clean clinical white/gray background, identical angle/lighting/expression, realistic photography style, professional clinic aesthetic, strong but believable transformation.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187081881_rv5foq_HGwGqFraEAMr9Bg.jpg"
+      ],
+      "author": {
+        "name": "Shah",
+        "link": "https://x.com/ai_with_shah"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Infographic / Edu Visual"
+      ],
+      "youmindId": "15826"
     },
     {
       "id": "15471",
@@ -999,28 +1084,6 @@
         "Infographic / Edu Visual"
       ],
       "youmindId": "12879"
-    },
-    {
-      "id": "12870",
-      "title": "Slow Motion Pour Food Photography Prompt for Nano Banana 2",
-      "description": "A detailed prompt for Nano Banana 2 designed to generate ultra high-speed food photography, freezing a dramatic liquid pour over a dish. It specifies cinematic lighting, hyperreal textures, and editorial typography, mimicking the style of Albert Watson and Harold Edgerton.",
-      "content": "[DISH] at the precise moment of a dramatic [LIQUID] pour in ultra high-speed photography, liquid cascade frozen mid-fall in perfect clarity. Hero [DISH] center on matte [COLOR] surface, [LIQUID] pouring from above in one cinematic ribbon catching warm single-source light, splitting and branching into suspended droplets and threads as it hits the surface. Splatter crown frozen at moment of impact, droplets suspended in perfect arcs. Every surface texture hyperreal: glistening, steaming, sauce pooling in slow motion. Each element labeled with ultra-thin lines in clean uppercase: \"[INGREDIENT] [descriptor]\". Dish name in elegant editorial typography: \"[DISH NAME]\". Subtitle: \"[TAGLINE]\". Mood: Albert Watson food photography meets Harold Edgerton fluid dynamics meets Michelin-star editorial. 4K, tack sharp every thread and droplet, warm single-source light, extraordinary and craveable.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1774679860151_6dlyu4_HEbyUG5bAAAKfFb.jpg",
-        "https://cms-assets.youmind.com/media/1774679860125_ubx5hs_HEbyM0QaUAAm4Pv.jpg",
-        "https://cms-assets.youmind.com/media/1774679860188_s32eqa_HEbybM0WcAEH2y4.jpg",
-        "https://cms-assets.youmind.com/media/1774679860798_lfrfkh_HEby2-wbAAA51Zn.jpg"
-      ],
-      "author": {
-        "name": "Alexandra Aisling",
-        "link": "https://x.com/AllaAisling"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Infographic / Edu Visual"
-      ],
-      "youmindId": "12870"
     },
     {
       "id": "13412",
@@ -1382,6 +1445,82 @@
       "youmindId": "12184"
     },
     {
+      "id": "15832",
+      "title": "Retro Anime Silhouette Prompt",
+      "description": "A concise prompt for a retro futurism anime style image of a silhouetted figure against space and cliffs.",
+      "content": "A silhouetted figure in {argument name=\"pose\" default=\"dynamic pose\"} against {argument name=\"background\" default=\"cliffs and starry space\"} in {argument name=\"style\" default=\"retro futurism anime style\"}.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187084275_v7vll0_HGwoadqagAApoEc.jpg"
+      ],
+      "author": {
+        "name": "Aqsa",
+        "link": "https://x.com/Aqsahere_"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Comic / Storyboard"
+      ],
+      "youmindId": "15832"
+    },
+    {
+      "id": "15834",
+      "title": "Neo-noir psychological thriller movie poster",
+      "description": "A structured prompt for a cinematic neo-noir thriller poster featuring a fearful subject in a wet city alley.",
+      "content": "A structured prompt for a cinematic neo-noir thriller poster titled \"{argument name=\"project title\" default=\"Night's Edge\"}\" featuring {argument name=\"subject description\" default=\"a young woman in a hoodie and jeans\"} in a wet city alley, directed by {argument name=\"director name\" default=\"Leo Miller\"}.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187085215_zwz37j_HGwnmkSbkAArV32.jpg"
+      ],
+      "author": {
+        "name": "Minahil",
+        "link": "https://x.com/Minahil42298354"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Comic / Storyboard"
+      ],
+      "youmindId": "15834"
+    },
+    {
+      "id": "15836",
+      "title": "Whimsygoth Goose Illustration",
+      "description": "A storybook illustration prompt for a greylag goose wearing a floral bonnet and country dress.",
+      "content": "A close-up, eye-level shot features a {argument name=\"animal\" default=\"greylag goose\"} wearing a {argument name=\"accessory\" default=\"charming floral sun bonnet\"} and a simple country dress, standing in lush, dew-kissed green grass. The goose is positioned in the center-left of the frame, facing left with its head turned slightly towards the viewer, its intelligent eyes catching soft, natural daylight. Its grey and white plumage is finely detailed, with a distinctive striped pattern on its neck and wings, individual feathers subtly ruffled by a gentle breeze. The goose has a vivid orange beak and sturdy orange legs, with a small patch of orange-tinted feathers visible on its underside, all rendered in a {argument name=\"style\" default=\"crisp, painterly, storybook illustration style\"} with a shallow depth of field and a softly blurred background.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187086086_5v5zvb_HGsxsv4aQAARo_V.jpg"
+      ],
+      "author": {
+        "name": "Heather Green",
+        "link": "https://x.com/heathergreen"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Comic / Storyboard"
+      ],
+      "youmindId": "15836"
+    },
+    {
+      "id": "15856",
+      "title": "Magical fantasy world illustration",
+      "description": "A prompt for generating a magical fantasy world scene specifically set in a land of witches.",
+      "content": "{argument name=\"theme\" default=\"Magical Fantasy World (Land of Witches)\"}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187095890_22dito_HGt2yYibIAANFy1.jpg"
+      ],
+      "author": {
+        "name": "徒然なるままの爺",
+        "link": "https://x.com/tsurezurejijii"
+      },
+      "language": "ja",
+      "featured": false,
+      "categories": [
+        "Comic / Storyboard"
+      ],
+      "youmindId": "15856"
+    },
+    {
       "id": "15479",
       "title": "Cinematic Film Roll Archive",
       "description": "A prompt for generating a cinematic film strip sequence of a character's life with consistent identity and analog film texture.",
@@ -1669,100 +1808,99 @@
       "youmindId": "14280"
     },
     {
-      "id": "14298",
-      "title": "Futuristic store visualization",
-      "description": "A short prompt for visualizing a familiar location or store as it might look several years into the future.",
-      "content": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
+      "id": "15841",
+      "title": "Museum High Fashion Editorial",
+      "description": "A complex JSON-based prompt for an image-to-image task focusing on Renaissance-inspired couture inside a museum gallery.",
+      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"uffizi_art_couture\",\n      \"style\": \"museum_editorial_high_fashion\",\n      \"version\": \"v1.0_ITALY_ART_EXPANDED\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"Uffizi Gallery interior, classical paintings, no crowd.\"\n    },\n    \"subject\": {\n      \"outfit\": \"ivory sculptural couture dress inspired by Renaissance art, structured Italian design, premium fabric\",\n      \"hair\": \"sleek low bun\",\n      \"makeup\": \"matte skin, soft highlight\",\n      \"expression\": \"calm, intellectual, artistic\",\n      \"body\": \"perfect anatomy, statuesque\"\n    },\n    \"scene\": {\n      \"environment\": \"museum hall with classical paintings\",\n      \"lighting\": \"soft diffused gallery lighting\",\n      \"mood\": \"timeless art elegance\"\n    },\n    \"pose_language\": {\n      \"pose\": \"standing still observing artwork\",\n      \"posture\": \"controlled, elegant\"\n    },\n    \"camera\": {\n      \"lens\": \"85mm\",\n      \"angle\": \"eye-level\",\n      \"depth_of_field\": \"shallow\"\n    },\n    \"quality_control\": {\n      \"skin\": \"real pores\",\n      \"fabric\": \"structured folds\",\n      \"composition\": \"clean museum layout\"\n    },\n    \"negative_prompt\": [\"tourists\",\"cheap look\",\"bad anatomy\",\"text\",\"logo\",\"watermark\"]\n  }\n}",
       "images": [
-        "https://cms-assets.youmind.com/media/1776841963539_esniim_HGZe_xNboAA1Zdt.jpg"
+        "https://cms-assets.youmind.com/media/1777187087783_z1irjy_HGwyB0vXgAA9zW4.jpg"
       ],
       "author": {
-        "name": "摩天楼𝔼𝕏𝕏",
-        "link": "https://x.com/hybrid_hills"
-      },
-      "language": "ja",
-      "featured": false,
-      "categories": [
-        "Comic / Storyboard"
-      ],
-      "youmindId": "14298"
-    },
-    {
-      "id": "14292",
-      "title": "Old Japanese Haunted House",
-      "description": "A simple prompt for generating an atmospheric image of a traditional haunted house in Japan using Nano Banana Pro.",
-      "content": "{argument name=\"subject\" default=\"Old Japanese haunted house\"}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1776841960937_fg8miz_HGZeV0Ma4AAscJg.jpg"
-      ],
-      "author": {
-        "name": "徒然なるままの爺",
-        "link": "https://x.com/tsurezurejijii"
+        "name": "Özge Döner",
+        "link": "https://x.com/astronomerozge1"
       },
       "language": "en",
       "featured": false,
       "categories": [
-        "Comic / Storyboard"
+        "Product Marketing"
       ],
-      "youmindId": "14292"
+      "youmindId": "15841"
     },
     {
-      "id": "14115",
-      "title": "Japanese Anime Character Sheet Prompt",
-      "description": "A detailed layout prompt for creating character setting materials featuring two anime-style girls with facial expression variations and SD characters.",
-      "content": "Character setting sheet style layout, facial expression variations for a {argument name=\"girl 1\" default=\"pink braided girl in armor\"} on the left, full body and SD character for a {argument name=\"girl 2\" default=\"light blue-haired girl in Japanese clothing (Kicho)\"} on the right, background is {argument name=\"background style\" default=\"washi paper design\"}, simple and easy-to-see composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. negative: cluttered, distorted text, low resolution",
+      "id": "15851",
+      "title": "Cinematic Luxury Watch Advertisement Prompt",
+      "description": "A prompt for high-end editorial advertising featuring a floating luxury watch and bold typography.",
+      "content": "Cinematic {argument name=\"product\" default=\"luxury watch\"} advertisement, oversized timepiece floating mid-air like architecture, model reaching toward it like a monument, giant word \"{argument name=\"text\" default=\"TIME\"}\" behind in bold gold typography, {argument name=\"background\" default=\"deep black studio background\"}, reflective marble floor, luxury watch campaign aesthetic, ultra-clean layout, editorial magazine styling, 1:1",
       "images": [
-        "https://cms-assets.youmind.com/media/1776755032872_vd5hkh_HGYMM4Ya4AAKbGp.jpg",
-        "https://cms-assets.youmind.com/media/1776755033234_0dgbub_HGYMM4VacAARXAP.jpg"
+        "https://cms-assets.youmind.com/media/1777187091956_cgguvf_HGwMtCPWsAAD7Bv.jpg"
       ],
       "author": {
-        "name": "さくら あやね｜AIアート講演家🌸",
-        "link": "https://x.com/ayane_speechart"
-      },
-      "language": "ja",
-      "featured": false,
-      "categories": [
-        "Comic / Storyboard"
-      ],
-      "youmindId": "14115"
-    },
-    {
-      "id": "14118",
-      "title": "Photorealistic Character Design Sheet",
-      "description": "A prompt for generating a three-view character sheet with specific wardrobe details including metal shin guards and a long coat.",
-      "content": "photorealism, Character sheet, three-view, full figure only, {argument name=\"footwear\" default=\"white boots with metal shin guard\"}, {argument name=\"clothing\" default=\"long open coat\"}, white background",
-      "images": [
-        "https://cms-assets.youmind.com/media/1776841964557_295vha_HGXHi12awAAPRk-.jpg"
-      ],
-      "author": {
-        "name": "Olivio Sarikas",
-        "link": "https://x.com/OlivioSarikas"
+        "name": "Danilo",
+        "link": "https://x.com/Daniel_adsss"
       },
       "language": "en",
       "featured": false,
       "categories": [
-        "Comic / Storyboard"
+        "Product Marketing"
       ],
-      "youmindId": "14118"
+      "youmindId": "15851"
     },
     {
-      "id": "14117",
-      "title": "Basic Character Sheet Template",
-      "description": "A simple character sheet prompt for photorealistic character visualization against a white background.",
-      "content": "photorealism, Character sheet, three-view, {argument name=\"view type\" default=\"full figure only\"}, {argument name=\"background\" default=\"white background\"}",
+      "id": "15830",
+      "title": "Glow Fashion Magazine Cover Prompt",
+      "description": "A detailed prompt for creating an editorial fashion magazine cover with specific typography, a Parisian street setting, and professional lighting.",
+      "content": "{\n  \"image_description\": \"A high-end fashion magazine cover titled '{argument name=\"title\" default=\"GLOW\"}' in bold, white serif typography at the top. The featured cover star is a young woman with wavy blonde hair, a radiant smile, wearing a cream sweater, an olive green trench coat, and a floral silk neck scarf. The setting is a blurred, sun-drenched European street ({argument name=\"location style\" default=\"Parisian style\"}) with classic architecture and café awnings in the background.\",\n  \"style\": \"Editorial fashion photography, commercial gloss finish, soft {argument name=\"lighting\" default=\"golden hour\"} lighting.\",\n  \"composition\": {\n    \"framing\": \"Vertical 9:16 aspect ratio, medium shot.\",\n    \"layout\": \"The subject is centered with text overlays flanking both sides. Text includes headlines like 'The Style Issue', 'Spring Fling', and 'Street Style: Paris to Milan' in clean, white sans-serif fonts.\",\n    \"color_palette\": \"Earth tones, olive green, cream, and warm sunlight gold.\"\n  },\n  \"technical_specs\": \"Shot on 85mm lens, f/1.8 for deep background bokeh, high-resolution skin textures, realistic hair strands, professional color grading.\"\n}",
       "images": [
-        "https://cms-assets.youmind.com/media/1776841965078_nx2j8l_HGXHs8vaQAAgN7a.jpg"
+        "https://cms-assets.youmind.com/media/1777187083839_naii2k_HGwFjjnW4AACowW.jpg"
       ],
       "author": {
-        "name": "Olivio Sarikas",
-        "link": "https://x.com/OlivioSarikas"
+        "name": "Minahil",
+        "link": "https://x.com/Minahil42298354"
       },
       "language": "en",
       "featured": false,
       "categories": [
-        "Comic / Storyboard"
+        "Product Marketing"
       ],
-      "youmindId": "14117"
+      "youmindId": "15830"
+    },
+    {
+      "id": "15835",
+      "title": "Editorial chair on lake",
+      "description": "An image-to-image prompt for a high-fashion editorial scene involving a floating armchair on a calm lake during golden hour.",
+      "content": "Use [reference image] as the base for {argument name=\"subject identity\" default=\"subject identity, facial structure, and likeness\"}. Reconstruct and relight entirely within the following editorial scenario – do not carry over original lighting, background, or clothing.\nSCENE – {argument name=\"scene description\" default=\"Golden hour fashion editorial on a calm lake. A chunky cream-beige leather armchair floats on still water, surrounded by gentle ripples and mirror-like reflections.\"}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187085433_t4wlno_HGu8p3aaMAASMdh.jpg"
+      ],
+      "author": {
+        "name": "Dr. Samia",
+        "link": "https://x.com/oye_samia"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "15835"
+    },
+    {
+      "id": "15839",
+      "title": "Boxer Training Action Shot",
+      "description": "A high-intensity prompt for a photorealistic sports action shot using flash techniques to capture motion blur and sharp impact details.",
+      "content": "A highly detailed, photorealistic sports action photograph of a {argument name=\"subject\" default=\"muscular heavyweight boxer\"} wearing {argument name=\"gloves color\" default=\"red\"} gloves, throwing a powerful right hook at a heavy bag in a {argument name=\"setting\" default=\"dimly lit, gritty boxing gym\"}. Tight crop focusing on the upper body and fists. Using a rear-curtain sync flash technique: the boxer's intense face and the fist at the precise moment of impact are frozen razor-sharp with perfect high-resolution detail, while the fast motion of his arm creates a sweeping, translucent, streaky ghost trail showing the powerful arc of the punch. The heavy bag shows a slight blur and deep compression at the exact impact point. Glistening sweat droplets are frozen perfectly crystal-clear in mid-air around the impact. Warm tungsten ambient lighting from overhead gym lights provides a cinematic background tone, contrasting with the bright strobe flash. Cinematic lighting, hyper-realistic textures, masterful blend of frozen detail and raw motion energy. 4:5 Aspect Ratio.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187087256_i956qj_HGe66Vrb0AACCnY.jpg"
+      ],
+      "author": {
+        "name": "Ashish Sheth",
+        "link": "https://x.com/commanderdgr8"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "15839"
     },
     {
       "id": "15486",
@@ -1805,6 +1943,65 @@
       "youmindId": "15497"
     },
     {
+      "id": "15476",
+      "title": "Milan Luxury Street Editorial",
+      "description": "A cinematic high-fashion prompt for a woman stepping out of a luxury car in Milan, focusing on power, wealth, and sharp tailoring.",
+      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"milan_luxury_car_editorial\",\n      \"style\": \"cinematic_high_fashion\",\n      \"version\": \"v1.0_ITALY_CAR\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"Milan luxury street with premium car.\"\n    },\n    \"subject\": {\n      \"outfit\": \"black fitted mini dress or tailored set, Italian luxury fashion\",\n      \"hair\": \"sleek straight\",\n      \"makeup\": \"soft glam\",\n      \"accessories\": \"designer sunglasses\",\n      \"expression\": \"cool, dominant\",\n      \"body\": \"perfect anatomy\"\n    },\n    \"scene\": {\n      \"environment\": \"luxury car parked in Milan street\",\n      \"lighting\": \"clean daylight\",\n      \"mood\": \"power, wealth, fashion\"\n    },\n    \"pose_language\": {\n      \"pose\": \"stepping out of car\",\n      \"posture\": \"confident\"\n    },\n    \"camera\": {\n      \"lens\": \"50mm\",\n      \"angle\": \"slightly low cinematic\",\n      \"depth_of_field\": \"moderate\"\n    },\n    \"quality_control\": {\n      \"car\": \"realistic reflections\",\n      \"skin\": \"real pores\",\n      \"fabric\": \"sharp tailoring\"\n    },\n    \"negative_prompt\": [\"cheap car\",\"bad anatomy\",\"text\",\"logo\",\"watermark\"]\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777099774271_r8phax_HGrU3TGWYAASsvx.jpg"
+      ],
+      "author": {
+        "name": "Özge Döner",
+        "link": "https://x.com/astronomerozge1"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "15476"
+    },
+    {
+      "id": "15474",
+      "title": "Amalfi Coast Vespa Cinematic Motion",
+      "description": "A detailed cinematic travel photography prompt for a woman on a Vespa in Amalfi, utilizing image-to-image reference for identity preservation and natural motion.",
+      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"Nano Banana 2\",\n      \"task_type\": \"amalfi_vespa_motion_realistic\",\n      \"style\": \"photoreal_cinematic_lifestyle\",\n      \"version\": \"v2.0_VESPA_ACTION_REFINED\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"maximum\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"Use the reference woman riding a vintage Vespa along the Amalfi Coast. The result must feel like a real luxury travel photograph captured during movement, not an exaggerated action poster. Keep the motion believable, elegant, and physically natural.\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"4:5\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"num_images\": 1,\n      \"render_style\": \"cinematic_motion_realism\",\n      \"sharpness\": \"ultra_crisp_subject_focus\",\n      \"grain\": \"subtle_refined_film\",\n      \"dynamic_range\": \"realistic_mediterranean_daylight\",\n      \"color_grade\": \"sunlit_blue_yellow_warm_coastal\"\n    },\n    \"subject\": {\n      \"identity\": \"reference woman\",\n      \"expression\": \"joyful, alive, relaxed, naturally confident\",\n      \"hair\": \"soft natural movement backward from riding speed and sea breeze, believable wind behavior, no exaggerated flying hair\",\n      \"makeup\": \"natural glow, fresh skin, realistic texture, no heavy glam\",\n      \"outfit\": \"yellow polka-dot or soft floral Italian summer dress, lightweight breathable fabric, natural folds and motion, elegant but practical for riding\",\n      \"accessories\": \"subtle sunglasses, minimal gold jewelry\",\n      \"body\": \"perfect anatomy, realistic riding posture, natural shoulder alignment, believable arm tension, relaxed but engaged core\"\n    },\n    \"scene\": {\n      \"environment\": \"Amalfi coastal road with sea cliffs, blue water, warm stone barriers, bright sky, distant Mediterranean landscape\",\n      \"lighting\": \"real Mediterranean sunlight with natural highlights on skin and scooter, balanced contrast, realistic shadows, slight road reflections\",\n      \"mood\": \"carefree summer freedom, stylish Italian vacation, believable motion and warmth\"\n    },\n    \"pose_language\": {\n      \"pose\": \"riding a Vespa in forward motion with a slight natural lean into the road\",\n      \"arms\": \"hands firmly but naturally holding handlebars, elbows soft, no stiffness\",\n      \"legs\": \"positioned naturally along the scooter with realistic seated balance\",\n      \"motion\": \"subtle forward movement captured mid-ride, dynamic but believable, no aggressive action exaggeration\"\n    },\n    \"camera\": {\n      \"lens\": \"28mm\",\n      \"angle\": \"low front-side angle near the scooter body, slightly tilted upward but not excessively distorted\",\n      \"depth_of_field\": \"moderately shallow cinematic depth\",\n      \"focus\": \"sharp on face and upper body, slight motion softness on road and distant background only\",\n      \"settings\": \"Sony A1, f/2.2, ISO100, 1/500s\"\n    }\n  }",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777099772698_rz1x1b_HGrUnl-XsAAGG3L.jpg"
+      ],
+      "author": {
+        "name": "Özge Döner",
+        "link": "https://x.com/astronomerozge1"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "15474"
+    },
+    {
+      "id": "15472",
+      "title": "Structured Fashion Portrait JSON",
+      "description": "A comprehensive JSON-formatted prompt for studio fashion photography with detailed wardrobe and lighting specifications.",
+      "content": "{\n  “subject”: {\n    “description”: “A professional, ultra-photorealistic full-body studio portrait of {argument name=\"subject name\" default=\"Iggy Azalea\"} wearing a high-end Snow White-inspired costume.”,\n    “body”: {\n      “physique”: “A slim and fit hourglass figure with natural proportions and a toned midsection.”,\n      “pose”: “Standing tall in a confident full-body pose, holding a vibrant red apple in her right hand while her left hand rests firmly on her hip. She is looking directly into the camera lens with a captivating and bold expression.”,\n      “features”: “Distinctive likeness of {argument name=\"subject name\" default=\"Iggy Azalea\"} with her unique facial structure, sculpted features, and natural blonde hair styled sleek and wavy, flowing over her shoulders. Flawless skin texture with visible natural pores.”\n    },\n“wardrobe”: {\n      “outfit”: “A deep blue velvet corset with intricate gold embroidery and red lace detailing, featuring a small yellow bow at the bust. Attached is a short, layered cream ruffled mini-skirt with delicate lace edges. She is wearing red lace-top fishnet thigh-high stockings and red patent leather high heels.”,\n      “accessories”: “A red ribbon choker with a small gold lock pendant. A polished, bright red apple held in her hand.”\n    }\n  },\n  “pose_action”: “{argument name=\"subject name\" default=\"Iggy Azalea\"} posing in a stylized Snow White costume, holding an apple and with her hand on her hip, in a professional studio setting.”,\n  “scene”: {\n    “environment”: “A clean, minimalist, seamless neutral gray studio background.”,\n    “elements”: “Solid gray backdrop and floor, creating a professional fashion photography aesthetic without any distracting objects.”,\n    “composition”: “A vertical (9:16) full-body framing, centering the subject perfectly to highlight the entire outfit and pose.”\n  },\n“lighting”: {\n    “setup”: “Soft and even professional studio lighting that emphasizes the textures of velvet, lace, fishnet, and skin.”,\n    “details”: “Sharp focus across the entire figure, with detailed rendering of the corset embroidery and the apple’s surface.”\n  },\n  “camera”: {\n    “technical”: “High-end DSLR camera, 8k resolution, raw style, ultra-photorealistic rendering of fabric and skin textures.”,\n    “aspect_ratio”: “9:16”\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777099770917_tnte67_HGq0hxIXkAAw833.jpg",
+        "https://cms-assets.youmind.com/media/1777099770907_n27luv_HGq0h3nWEAEbR-5.jpg",
+        "https://cms-assets.youmind.com/media/1777099771118_u7sw4c_HGq0h9kW4AAw_lL.jpg"
+      ],
+      "author": {
+        "name": "Noira",
+        "link": "https://x.com/Noira_exe"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "15472"
+    },
+    {
       "id": "15503",
       "title": "Editorial lifestyle portrait of a woman",
       "description": "A detailed structured prompt for generating a high-quality editorial lifestyle photograph of a young woman in a modern high-rise setting, specifying everything from facial features to lighting and camera angle.",
@@ -1842,201 +2039,6 @@
         "Product Marketing"
       ],
       "youmindId": "15492"
-    },
-    {
-      "id": "15502",
-      "title": "Fashion Editorial Color Quadtych",
-      "description": "A quadtych composition prompt for fashion editorial work, featuring four distinct color-themed panels each with a model and specific silk fabric background.",
-      "content": "{\n  \"image_structure\": {\n    \"composition\": \"Four vertical panels, quadtych format, side-by-side comparison\",\n    \"subject\": \"{argument name=\"subject\" default=\"Four distinct East Asian male models\"}, each representing a specific color theme\",\n    \"theme_colors\": {argument name=\"colors\" default=\"[\\\"Yellow\\\", \\\"Red/Burgundy\\\", \\\"Forest Green\\\", \\\"Royal Blue\\\"]\"}\n  },\n  \"character_details\": [\n    {\n      \"panel\": \"Left (Yellow)\",\n      \"styling\": \"Beige mandarin collar shirt, mustard chinos, cheerful expression\",\n      \"action\": \"Holding a small chocolate cube near the face\"\n    },\n    {\n      \"panel\": \"Middle-Left (Red)\",\n      \"styling\": \"Black turtleneck, deep red tailored trousers, sophisticated neutral gaze\",\n      \"action\": \"Holding a chocolate cube at the chin\"\n    },\n    {\n      \"panel\": \"Middle-Right (Green)\",\n      \"styling\": \"Green linen button-down, olive shorts, playful peace sign, messy wavy hair\",\n      \"action\": \"Candid smiling pose\"\n    },\n    {\n      \"panel\": \"Right (Blue)\",\n      \"styling\": \"Vertical navy/white striped shirt, blue trousers, round glasses, tied-back hair\",\n      \"action\": \"Carefully holding chocolate with both hands\"\n    }\n  ],\n  \"technical_specs\": {\n    \"background\": \"{argument name=\"background style\" default=\"Coordinated satin silk draped fabric matching each panel's primary color, soft ripples\"}\",\n    \"lighting\": \"Studio softbox lighting, high-key, minimal shadows, editorial commercial feel\",\n    \"camera\": \"Frontal eye-level shot, 85mm lens, sharp focus on subjects, slight background blur\",\n    \"quality\": \"8k resolution, photorealistic, cinematic color grading, high-end fashion magazine aesthetic\"\n  }\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777099787539_2ly19c_HGp3pLhWwAAdc8E.jpg"
-      ],
-      "author": {
-        "name": "Minahil",
-        "link": "https://x.com/Minahil42298354"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15502"
-    },
-    {
-      "id": "15491",
-      "title": "Urban Isolation Portrait",
-      "description": "A cinematic fashion editorial prompt for a man in a black overcoat standing in a blurred, busy urban street environment.",
-      "content": "A stylish man wearing a {argument name=\"outfit\" default=\"sleek black overcoat and narrow black sunglasses\"}, standing still in a busy city street while crowds blur past him in motion. Cinematic lighting with strong contrast, moody shadows, and a desaturated color palette. Sharp focus on the subject, shallow depth of field, motion blur on surrounding people, creating a sense of isolation and calm amid chaos. Urban background with soft architectural details, high-end fashion editorial style, dramatic composition, 35mm photography, ultra-realistic, high resolution.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777099781233_shpjyw_HGpGlXfacAA8KYL.jpg"
-      ],
-      "author": {
-        "name": "Aijaz",
-        "link": "https://x.com/iamsofiaijaz"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15491"
-    },
-    {
-      "id": "15473",
-      "title": "Moody Cinematic Industrial Portrait",
-      "description": "A sophisticated masculine fashion photography prompt featuring a man in a linen shirt in an industrial studio with strong light and shadow play.",
-      "content": "Moody cinematic portrait of a {argument name=\"subject\" default=\"stylish man\"} seated on a dark wooden chair in a raw industrial studio, strong diagonal sunlight cutting across the room and creating bold light-shadow patterns on the wall and clothing, wearing a {argument name=\"shirt\" default=\"fitted white linen shirt with sleeves rolled slightly\"} and {argument name=\"trousers\" default=\"charcoal trousers\"}, leaning forward with elbows on knees, calm serious expression, subtle luxury watch visible, elegant masculine styling, high contrast natural lighting, sophisticated editorial composition, ultra detailed realistic photo, premium fashion photography.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777099771643_oukhk3_HGpDQ7ybgAAo2pW.jpg"
-      ],
-      "author": {
-        "name": "Snow",
-        "link": "https://x.com/iamrealsnow"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15473"
-    },
-    {
-      "id": "15501",
-      "title": "Surreal Interaction Diptych",
-      "description": "A creative diptych prompt where two panels interact through a central visual illusion of a strawberry milkshake cup being passed between frames.",
-      "content": "It creates two girls, without altering their faces, making them exact replicas of the reference image. A photorealistic diptych of two horizontal shots, with great skin detail, natural facial texture, bright sunlight, and a lifestyle editorial aesthetic. The central focus of the composition is a single glass, which connects both frames and creates a visual illusion. A clear plastic cup with a {argument name=\"drink type\" default=\"strawberry milkshake\"} sits on the edge between the upper and lower frames. The girl below, in the first photo, extends her arm upward from the lower frame and holds the cup at waist level. She wears a thin bracelet on her wrist. Her hand passes through the space between the frames, as if she is pouring the drink upward. A light-colored straw emerges from the cup, pointing toward the upper frame directly at the lips of the girl above. The girl above, in the second uploaded photo, drinks through the straw, her lips slightly pursed, creating the impression that two versions of the same girl are interacting. The glass is filled with a strawberry milkshake, with condensation and light reflections visible on the transparent walls. This element is positioned right in the center of the composition, uniting both images into a single creative shot.\nImage: Top shot: A girl with her hair pulled back in a high, voluminous, and casual bun, with soft waves and loose strands framing her face. She wears narrow, transparent, rimless glasses. Clothing: {argument name=\"top shot outfit\" default=\"An oversized yellow crew-neck T-shirt with short, elbow-length sleeves. On the chest, a minimalist cat print.\"}\nBottom shot: Very long, straight, and sleek hair, parted in the middle. Large, glossy black sunglasses. Lips pursed in a kissing pose. She wears a bracelet on her wrist. She wears {argument name=\"bottom shot outfit\" default=\"an oversized green urban-style T-shirt with a large black and white print on the chest: the word \\\"CATS\\\" underneath\"}. It is loose-fitting and has short sleeves.\nbackground: An elegant, tall, black brick building, slightly out of focus. RA. 9:16.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777099786927_fagzhu_HGo8REzboAAoFRi.jpg"
-      ],
-      "author": {
-        "name": "K",
-        "link": "https://x.com/ChillaiKalan__"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15501"
-    },
-    {
-      "id": "15475",
-      "title": "Fashion Editorial at Trocadéro",
-      "description": "A high-fashion editorial prompt featuring a woman with a luxury car in front of the Eiffel Tower at night, emphasizing cinematic lighting and bokeh.",
-      "content": "Dramatic, low-angle ground perspective full-body shot captured with a 50mm lens at f/1.4, featuring the specific uploaded face reference (soft glam makeup, sleek long hair styled back, wearing elegant aviator-style glasses, dressed in high-fashion modern clothing) standing on the platform of {argument name=\"location\" default=\"Trocadéro\"} at night. She is dressed in a {argument name=\"outfit\" default=\"structured black velvet blazer over a fitted black cashmere roll-neck top, tailored high-waisted black trousers, and polished black heeled boots\"}, looking up confidently at the fully illuminated Eiffel Tower, which dominates the background. Directly behind her is a {argument name=\"car\" default=\"deep sapphire blue Bugatti Chiron\"}, reflecting the surrounding city lights. One foot is placed on the rear tire, with her body leaning back in a relaxed yet powerful pose. The composition uses a shallow depth of field, rendering the distant Parisian street lights and crowd into a creamy bokeh. Spotlighting from city lamps creates dramatic, high-contrast shadows. 8k resolution, photorealistic, cinematic high-fashion editorial aesthetic.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777099773494_whtyis_HGoydKZaUAALfTs.jpg"
-      ],
-      "author": {
-        "name": "Hania Ai",
-        "link": "https://x.com/HaniaAi12"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15475"
-    },
-    {
-      "id": "15142",
-      "title": "Mediterranean Luxury Editorial",
-      "description": "A structured JSON image-to-image prompt for Nano Banana 2 depicting a luxury summer scene in Capri.",
-      "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"capri_blue_luxury_summer\",\n      \"style\": \"clean_mediterranean_editorial\",\n      \"version\": \"{argument name=\"model version\" default=\"v1.0_ITALY_BLUE\"}\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"preserve_identity\": \"strict_lock\",\n      \"notes\": \"{argument name=\"location\" default=\"Capri seaside terrace with deep blue water.\"}\"\n    },\n    \"subject\": {\n      \"outfit\": \"{argument name=\"outfit\" default=\"flowing cobalt blue silk dress, elegant Italian tailoring\"}\",\n      \"hair\": \"sleek ponytail or soft waves\",\n      \"makeup\": \"fresh glowing skin, natural lips\",\n      \"accessories\": \"gold hoop earrings and sunglasses\",\n      \"expression\": \"confident soft smile\",\n      \"body\": \"perfect anatomy\"\n    },\n    \"scene\": {\n      \"environment\": \"blue sea, white stone terrace\",\n      \"lighting\": \"bright Mediterranean sunlight\",\n      \"mood\": \"fresh, elegant, luxury vacation\"\n    },\n    \"pose_language\": {\n      \"pose\": \"walking toward camera\",\n      \"posture\": \"confident relaxed\"\n    },\n    \"camera\": {\n      \"lens\": \"50mm\",\n      \"angle\": \"eye-level\",\n      \"depth_of_field\": \"moderate\"\n    },\n    \"quality_control\": {\n      \"skin\": \"real pores\",\n      \"fabric\": \"natural movement\",\n      \"light\": \"balanced highlights\"\n    },\n    \"negative_prompt\": [\"overexposed\",\"cheap styling\",\"bad anatomy\",\"text\",\"logo\",\"watermark\"]\n  }\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014240290_59366n_HGoAC34XAAADdqD.jpg"
-      ],
-      "author": {
-        "name": "Özge Döner",
-        "link": "https://x.com/astronomerozge1"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15142"
-    },
-    {
-      "id": "15127",
-      "title": "Ultra-realistic Outdoor Glamour Portrait",
-      "description": "A highly detailed prompt for an outdoor glamour portrait involving a specific kneeling pose and high ponytail, emphasizing lighting and facial accuracy from a reference image.",
-      "content": "Use the uploaded reference image as the exact facial identity reference. Create an ultra-realistic outdoor glamour portrait with the exact same body proportions, camera angle, lighting style, and facial expression as the provided image, but change the {argument name=\"pose\" default=\"pose so both hands are placed behind the head, gently holding the hair\"}. Match the new pose precisely: {argument name=\"positioning\" default=\"kneeling on the star-shaped pavement, upper body leaning slightly forward toward the camera, shoulders relaxed, elbows lifted outward, both hands behind the head with fingers softly holding the ponytail/hair, chest naturally forward, neck elongated, head tilted slightly upward toward the camera\"}. Keep the same top-down perspective and full upper-body framing. The subject is a {argument name=\"subject description\" default=\"beautiful young woman with a slim feminine figure, same body size and natural proportions as the reference image\"}, realistic anatomy, elegant posture, soft curves, delicate shoulders, graceful legs, and natural proportions. Long brown hair styled in a high ponytail with loose natural strands, realistic texture, soft shine, natural movement. Clear glowing skin with visible pores, subtle freckles, warm blush, naturally shaped brows, delicate lashes, expressive hazel-green eyes, soft lips, and lifelike facial symmetry. Facial expression must match exactly: eyes looking directly upward into the camera with a calm intimate gaze, eyebrows naturally relaxed, cheeks softly defined, lips gently closed with a subtle neutral pout, jaw relaxed, chin slightly raised. Expression should feel soft, confident, feminine, effortlessly alluring, and naturally candid. She is wearing a fitted blue ribbed mini dress with off-shoulder ruffle neckline and long sleeves, body-contouring fit, realistic knit texture, natural folds, elegant silhouette. Gold layered necklaces, small hoop earrings, rings on fingers, and delicate jewelry details. Keep exact clothing fit, proportions, accessories, and styling. Background is a luxury city sidewalk with terrazzo star pavement, soft golden-hour sunlight streaks across the ground, realistic urban outdoor atmosphere, clean composition, elegant lifestyle setting. Keep the environment realistic and detailed. Lighting must match exact real natural golden-hour daylight from the provided image: warm sunlight from the side/top angle, glowing highlights on skin, hair, and dress, long soft shadows across the pavement, balanced exposure, authentic sunset tones, no harsh flash, no artificial studio light. Keep the exact real outdoor candid atmosphere. Include highly detailed skin texture, realistic hair strands, cinematic depth, DSLR-quality sharpness, true-to-life colors, fashion lifestyle photography style, 8k resolution, ultra photorealistic, hyper realistic quality.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014234487_qqsnu2_HGnUMFeaUAA1PsB.jpg",
-        "https://cms-assets.youmind.com/media/1777014234538_99rz43_HGnUMisbIAAGEs1.jpg",
-        "https://cms-assets.youmind.com/media/1777014234501_xviyjf_HGnUNE5aoAAWN6q.jpg"
-      ],
-      "author": {
-        "name": "glena Jenner",
-        "link": "https://x.com/GlenaJenne"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15127"
-    },
-    {
-      "id": "15121",
-      "title": "Mythological Warrior-Athlete Campaign",
-      "description": "A high-impact athletic campaign prompt transforming a subject into a warrior-athlete with metallic boxing gear, using extreme angles and kinetic motion.",
-      "content": "Ultra photorealistic {argument name=\"brand style\" default=\"Nike-caliber campaign image\"} of the same woman as reference, transformed into a mythological warrior-athlete mid-punch. Extreme worm’s-eye angle from near ground level, tilted upward, creating exaggerated scale and dominance. Her front glove explodes toward the lens in forced perspective, partially out of frame, creating a powerful depth and impact effect.\n\nBody twisted in full kinetic rotation rear foot driving, hips engaged, core tight, shoulder snapping forward. Dynamic asymmetry, no static pose. Expression sharp, focused, predatory.\n\n{argument name=\"outfit\" default=\"Liquid chrome silver boxing set (sports bra + sculpted shorts)\"}, brushed metal + mercury reflections + subtle iridescence, embossed laurel and Greek key details, minimal gold accents. Matching metallic gloves with slight deformation on impact.\n\nSkin realistic with visible pores and natural sweat sheen catching light on shoulders and face. Cleopatra sharp wing eyeliner, strong brows, neutral lips. Tight braided high ponytail.\n\nSTRICT: keep exact face, identity, bone structure from reference.\n\nBackground unchanged.\n\nCinematic directional light, warm highlights, cool shadows, deep contrast, high micro-detail on metal and skin, subtle film grain.\n\nSony A1, 85mm f/1.4, f/1.6, ISO100, 1/200s, shallow depth, razor focus on eyes, 4K.\n\nNegative: no face change, no plastic skin, no extra limbs, no distortion, no fake glow, no flat lighting, no cartoon, no logo.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014231886_mvo0pu_HGm1a-DWkAA47MU.jpg"
-      ],
-      "author": {
-        "name": "Özge Döner",
-        "link": "https://x.com/astronomerozge1"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15121"
-    },
-    {
-      "id": "15138",
-      "title": "Luxury Ice Couch Portrait",
-      "description": "A detailed prompt for a high-fashion editorial featuring a model in a red silk dress on an ice couch in a frozen room.",
-      "content": "{ \"scene\": { \"setting\": \"{argument name=\\\"setting\\\" default=\\\"hyper-realistic ice-water luxury interior\\\"}\", \"background\": \"walls formed from thick translucent frozen ice with trapped air bubbles and subtle imperfections, glass-like texture with realistic depth, faint internal cracks, and soft refractions, small embedded elegant text 'glenajenner' carved naturally into the ice wall, subtle and integrated (not overly bold), appearing as part of the frozen surface\", \"lighting\": \"physically accurate cinematic lighting, soft cool blue and aqua ambient light diffused through ice, combined with neutral white key light on subject, realistic light bounce from water floor, subtle caustics moving across walls and skin, gentle reflections, balanced exposure for natural realism\" }, \"subject\": { \"type\": \"female\", \"pose\": \"seated on a curved ice couch, torso slightly leaned back with one hand placed behind for support and the other resting naturally on thigh, legs crossed with one extended forward toward camera, exact pose preserved, natural posture with relaxed shoulders\", \"expression\": \"soft neutral expression with calm confident gaze slightly downward and to the side\", \"face\": \"Use uploaded reference image, keep identity exact, natural facial proportions, realistic skin texture with pores and subtle imperfections, no beautification\", \"hair\": \"Use uploaded reference image, keep identity exact, long hair with natural waves, slightly affected by cool environment with subtle strand detail\", \"eyes\": \"Use uploaded reference image, keep identity exact, natural reflections from icy environment\", \"skin\": \"realistic skin tone with slight cool light influence, natural highlights and micro-texture, subtle subsurface scattering\", \"body\": \"accurate anatomy with natural proportions and realistic weight distribution\" }, \"clothing\": { \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"luxury silk mini dress in deep rich red color\\\"}\", \"footwear\": \"bare legs visible, natural positioning\", \"accessories\": \"minimal delicate jewelry, subtle and realistic\" }, \"environment_details\": { \"props\": \"curved couch sculpted from semi-translucent ice with internal frozen flow patterns\", \"atmosphere\": \"light mist in air, slight condensation, visible cold environment feel\", \"details\": \"floor covered in shallow crystal-clear water with accurate reflections and ripple distortion, icicles hanging from ceiling with slow dripping effect, micro water movement, realistic physics-driven reflections and refractions\" }, \"camera\": { \"angle\": \"{argument name=\\\"camera angle\\\" default=\\\"low angle from near leg level pointing upward toward subject\\\"}\", \"framing\": \"medium full-body shot with foreground emphasis on legs and depth perspective\" } }",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014238323_bn5niz_HGmO_4oakAArNsW.jpg",
-        "https://cms-assets.youmind.com/media/1777014238286_u445d0_HGmPAq_aEAAKaMC.jpg",
-        "https://cms-assets.youmind.com/media/1777014238343_fpqoyn_HGmPBdubUAA5ARd.jpg"
-      ],
-      "author": {
-        "name": "glena Jenner",
-        "link": "https://x.com/GlenaJenne"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15138"
-    },
-    {
-      "id": "15123",
-      "title": "Avant-Garde Editorial Velvet Portrait",
-      "description": "A detailed high-fashion editorial prompt for a monochromatic rose-colored scene featuring oversized structural clothing and botanical practical sets.",
-      "content": "{\n  \"vibe_title_en\": \"Velvet Camouflage\",\n  \"master_prompt\": \"A hyper-realistic, avant-garde editorial portrait of The Protagonist immersed in a 'Soft-Sculpture Garden.' The scene is a {argument name=\"color theme\" default=\"monochromatic dreamscape of dusty rose and coral pink\"}. The environment is not real nature, but a practical set design where giant tropical leaves are crafted from stiff felt, matte paper, and velvet. The subject stands in 'The Quiet Rebel' pose: body angled at 45 degrees, head turned sharply to face the camera with a calm, defiant stare, motionless while the textured world swirls around them. They wear an {argument name=\"clothing item\" default=\"oversized, heavy boucle wool coat in matching salmon pink\"}, creating a camouflage effect against the fabric flora. Perched on a branch is a realistic parrot, but painted in the same matte pink finish. Lighting is cinematic and soft, mimicking a high-end window display with diffuse shadows. Technical specs: Hasselblad H6D-100c, 50mm Prime Lens, f/5.6 for sharp texture details on the fabric weave and skin pores, Kodak Portra 160 film stock emulation, tactile realism, no neon, no CGI look.\",\n  \"meta\": {\n    \"intent\": \"High-Fashion Editorial\",\n    \"priorities\": \"Texture, Monochromatic Color, Stoicism\",\n    \"device_profile\": \"Hasselblad H6D-100c\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"The Three-Quarter Editorial\",\n    \"layout\": \"Central subject with enveloping textured foreground\",\n    \"camera_angle\": \"Eye-level\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Universal High-Fashion Model\",\n    \"face\": \"Neutral, defiant, direct eye contact\",\n    \"hair\": \"Sleek, pulled back or minimal style to focus on the coat\",\n    \"body\": \"Static, structured posture, 45-degree angle\",\n    \"expression\": \"The Quiet Rebel: Calm, intense, unblinking\",\n    \"pose\": \"Hands in pockets or holding the coat structure, statue-like stillness\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Oversized Structural Coat\",\n        \"material\": \"Heavy Boucle Wool or Textured Tweed\",\n        \"color\": \"Dusty Rose / Salmon Pink\",\n        \"fit\": \"Loose, architectural, enveloping\"\n      },\n      {\n        \"item\": \"Tailored Trousers\",\n        \"material\": \"Silk or Fine Wool\",\n        \"color\": \"Matching Pink\",\n        \"fit\": \"Straight leg\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"None\",\n        \"color\": \"N/A\",\n        \"material\": \"N/A\",\n        \"brand_style\": \"Minimalist\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Constructed Botanical Studio\",\n    \"surfaces\": \"Felt, Paper, Velvet, Matte Paint\",\n    \"depth\": \"Shallow but layered with props\",\n    \"atmosphere\": \"Still, airless, museum-like\",\n    \"lens_interaction\": \"Sharp focus on textures, slight fall-off in background\"\n  },\n  \"lighting\": {\n    \"key\": \"Large Softbox (Top-Left)\",\n    \"fill\": \"White Bounce Card (Right)\",\n    \"rim\": \"Subtle Hair Light\"\n  }\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1777014232110_w0vvq2_HGmJq-SXMAA6pbH.jpg",
-        "https://cms-assets.youmind.com/media/1777014232083_2q8wus_HGmJq-UWAAAxsjf.jpg"
-      ],
-      "author": {
-        "name": "timedoctor.eth",
-        "link": "https://x.com/timedoctor_nft"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "15123"
     },
     {
       "id": "14289",
@@ -2409,6 +2411,64 @@
       "youmindId": "13145"
     },
     {
+      "id": "15828",
+      "title": "PS1 Retro Gaming Style Prompt",
+      "description": "A comprehensive prompt designed to transform an image into a low-poly PlayStation 1 era video game screenshot, featuring authentic technical artifacts.",
+      "content": "Transform the entire image into an authentic screenshot captured directly from a {argument name=\"console era\" default=\"late-1990s PlayStation 1 (PS1)\"} video game running on original hardware. Re-render every single element of the scene — every object, character, surface, background, lighting, and detail — as {argument name=\"geometry style\" default=\"low-polygon 3D models\"} with clearly visible triangular facets, flat angular geometry, and no smoothing or subdivision whatsoever. Use extremely low-resolution textures (256×256 pixels or smaller) that are blurry, pixelated, and heavily compressed, with obvious tiling seams, mipmapping artifacts, and poor UV mapping.\nApply classic PS1 affine texture mapping across all surfaces so textures visibly stretch, warp, wobble, and distort unnaturally with any change in perspective or camera angle (especially noticeable on floors, walls, and curved objects). Remove all anti-aliasing entirely — every edge must be sharply jagged and aliased with prominent stair-stepping. Use only basic flat shading or simple Gouraud vertex shading with no dynamic lights, no real-time shadows, no specular highlights, and no advanced effects. Simulate the PS1’s 16-bit color depth and 5-5-5 RGB limitations by introducing visible checkerboard or ordered dithering patterns in all color gradients, skies, shadows, and semi-transparent areas to prevent banding.\nInclude typical PS1 graphical quirks: subtle vertex snapping/jitter/wobbling on moving or angled geometry, minor polygon pop-in or Z-fighting where appropriate, and a limited draw distance that may softly fade into a low-detail fog. The overall resolution should feel like a raw {argument name=\"resolution\" default=\"320×240\"} or 640×480 PS1 framebuffer output, giving the whole image a slightly soft yet crunchy retro pixel look when viewed at modern sizes. Preserve the original scene composition and camera angle exactly, but convert everything into this pure PS1 3D style as if the photo itself were modeled and rendered inside an actual PS1 game. No text overlays, no HUD elements, no subtitles, no menu graphics, no scanlines, no CRT curvature, and no modern post-processing of any kind — just a clean, direct screenshot from the console’s video output.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1777187082916_ohlqg6_HGxfyaUakAAWs9y.jpg",
+        "https://cms-assets.youmind.com/media/1777187082900_3tsbn1_HGxfyZ0WIAAavwQ.jpg"
+      ],
+      "author": {
+        "name": "Christopher Fryant",
+        "link": "https://x.com/cfryant"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "15828"
+    },
+    {
+      "id": "14298",
+      "title": "Futuristic store visualization",
+      "description": "A short prompt for visualizing a familiar location or store as it might look several years into the future.",
+      "content": "{argument name=\"timeframe\" default=\"several years later\"} {argument name=\"store\" default=\"7-Eleven\"}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1776841963539_esniim_HGZe_xNboAA1Zdt.jpg"
+      ],
+      "author": {
+        "name": "摩天楼𝔼𝕏𝕏",
+        "link": "https://x.com/hybrid_hills"
+      },
+      "language": "ja",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "14298"
+    },
+    {
+      "id": "14292",
+      "title": "Old Japanese Haunted House",
+      "description": "A simple prompt for generating an atmospheric image of a traditional haunted house in Japan using Nano Banana Pro.",
+      "content": "{argument name=\"subject\" default=\"Old Japanese haunted house\"}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1776841960937_fg8miz_HGZeV0Ma4AAscJg.jpg"
+      ],
+      "author": {
+        "name": "徒然なるままの爺",
+        "link": "https://x.com/tsurezurejijii"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "14292"
+    },
+    {
       "id": "14096",
       "title": "16-Bit Arcade Character Generator",
       "description": "A specialized prompt to convert user photos into retro 16-bit arcade pixel art heroes.",
@@ -2429,81 +2489,24 @@
       "youmindId": "14096"
     },
     {
-      "id": "14103",
-      "title": "Cyberpunk Techwear Street Shot",
-      "description": "A complex cyberpunk prompt featuring a character in neon-lit techwear on a rainy Tokyo-inspired street.",
-      "content": "{\n  \"prompt\": \"A cinematic, dual-panel composition featuring a {argument name=\"subject\" default=\"young woman with a vibrant green bob and black highlights\"}, styled in cyberpunk-inspired techwear. She is wearing a {argument name=\"jacket\" default=\"metallic silver puffer jacket with glowing cyan neon trim\"}, a holographic translucent backpack with LED accents, and black tactical cargo pants. On her feet are high-top boots with glowing LED soles, splashing through rain puddles on a wet, reflective street. The setting is a {argument name=\"location\" default=\"narrow, bustling alleyway in a futuristic Tokyo-style district at night\"}, filled with glowing neon signs, Japanese kanji, and warm street lanterns. The lighting is a high-contrast mix of cool cyan, electric green, and warm orange, with a shallow depth of field creating a soft bokeh effect in the background.\",\n  \"style_attributes\": {\n    \"aesthetic\": \"Cyberpunk / Techwear / Street Photography\",\n    \"lighting\": \"Neon-lit, high contrast, wet reflections\",\n    \"color_palette\": [\"Electric Green\", \"Cyan\", \"Metallic Silver\", \"Deep Black\", \"Neon Orange\"],\n    \"composition\": \"Full-body action shot, side profile, splashing water, urban depth\"\n  },\n  \"technical_specs\": {\n    \"resolution\": \"4K\",\n    \"camera_feel\": \"35mm lens, f/1.8, realistic textures, cinematic film grain\"\n  }\n}",
+      "id": "14115",
+      "title": "Japanese Anime Character Sheet Prompt",
+      "description": "A detailed layout prompt for creating character setting materials featuring two anime-style girls with facial expression variations and SD characters.",
+      "content": "Character setting sheet style layout, facial expression variations for a {argument name=\"girl 1\" default=\"pink braided girl in armor\"} on the left, full body and SD character for a {argument name=\"girl 2\" default=\"light blue-haired girl in Japanese clothing (Kicho)\"} on the right, background is {argument name=\"background style\" default=\"washi paper design\"}, simple and easy-to-see composition, expressions: smile, surprise, fatigue, with Japanese labels, clean design. negative: cluttered, distorted text, low resolution",
       "images": [
-        "https://cms-assets.youmind.com/media/1776755029073_25ymqw_HGXCd8LWgAEdbdf.jpg",
-        "https://cms-assets.youmind.com/media/1776755029052_art8uj_HGXCem_XEAAiWY4.jpg"
+        "https://cms-assets.youmind.com/media/1776755032872_vd5hkh_HGYMM4Ya4AAKbGp.jpg",
+        "https://cms-assets.youmind.com/media/1776755033234_0dgbub_HGYMM4VacAARXAP.jpg"
       ],
       "author": {
-        "name": "Minahil",
-        "link": "https://x.com/Minahil42298354"
+        "name": "さくら あやね｜AIアート講演家🌸",
+        "link": "https://x.com/ayane_speechart"
       },
-      "language": "en",
+      "language": "ja",
       "featured": false,
       "categories": [
         "Game Asset"
       ],
-      "youmindId": "14103"
-    },
-    {
-      "id": "14111",
-      "title": "Pikachu Bursting Canvas Art",
-      "description": "A creative 3D art prompt featuring a realistic Pikachu bursting out of a glowing neon canvas in a dark art studio.",
-      "content": "A high-detail 3D digital art piece of a {argument name=\"character\" default=\"fluffy, realistic Pikachu\"} bursting out of a {argument name=\"object\" default=\"shattered canvas on a wooden easel\"}. The canvas frame is black with glowing yellow neon cracks. Golden paint and shards of glass explode outward. To the right, a {argument name=\"subject\" default=\"young woman with dark hair in a ponytail, wearing a yellow and black lightning-patterned athletic outfit\"}, holds a paintbrush, appearing to have just painted the scene into life. The background is a moody, dark art studio with soft bokeh. Sharp focus, vibrant yellow and black color palette, cinematic lighting, 8k resolution, hyper-realistic textures.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1776755031976_tuvuvm_HGW3bB-b0AADeal.jpg"
-      ],
-      "author": {
-        "name": "Ozair AI",
-        "link": "https://x.com/Ozayrr_irl"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "14111"
-    },
-    {
-      "id": "14095",
-      "title": "Vortex Katana Warrior",
-      "description": "A high-resolution prompt for a stylish character holding a glowing katana within a dark energy vortex.",
-      "content": "A high-resolution, cinematic full-body portrait of a stylish young man standing confidently in a misty, ethereal environment. He is wearing a white button-up shirt under a black knitted sweater vest, paired with oversized baggy dark grey denim jeans and a black textured baseball cap tilted down to partially shadow his face. He holds a {argument name=\"weapon\" default=\"sleek black katana\"} with a {argument name=\"glow color\" default=\"glowing purple aura\"} emanating from the blade. Surrounding him is a massive, swirling vortex of dark, shadowy energy and ink-like smoke forming a circular frame against a bright, hazy white background. The lighting is moody and dramatic, emphasizing the sharp contrast between the dark energy and the foggy atmosphere, captured in a professional digital art style with a 4k finish, 100% my face same, I need this prompt picture, zoom in {argument name=\"aspect ratio\" default=\"4:5\"} man one hand in pocket,",
-      "images": [
-        "https://cms-assets.youmind.com/media/1776755025965_ng6xsj_HGWi7hgagAElUp8.jpg"
-      ],
-      "author": {
-        "name": "Harboris",
-        "link": "https://x.com/harboriis"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "14095"
-    },
-    {
-      "id": "14107",
-      "title": "Pixel Art Portrait of a Stylish Man",
-      "description": "A prompt for converting an existing image into a sharp-edged pixel art illustration featuring a man in a modern armchair.",
-      "content": "A high-resolution, sharp-edged {argument name=\"style\" default=\"pixel art illustration\"} based on the provided image. A stylish young man with {argument name=\"hair style\" default=\"dark, messy hair\"} is sitting in a {argument name=\"furniture\" default=\"modern tan armchair\"}, wearing dark sunglasses, a grey graphic t-shirt, and wide-leg blue jeans. He is leaning back casually, adjusting his sunglasses with one hand. The background features a white brick wall with three framed sketches hanging on it. In the bottom right corner of the third picture frame, . Maintain the same color palette and cell-shaded aesthetic as the original, ensuring all lines are crisp and the resolution is enhanced.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1776755030338_hocx21_HGV1-XsbQAEw_RM.jpg"
-      ],
-      "author": {
-        "name": "Ozair AI",
-        "link": "https://x.com/Ozayrr_irl"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "14107"
+      "youmindId": "14115"
     }
   ],
   "categories": [
