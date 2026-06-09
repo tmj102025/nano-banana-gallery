@@ -163,6 +163,82 @@
       "youmindId": "811"
     },
     {
+      "id": "24571",
+      "title": "Moody Black and White Portrait",
+      "description": "A cinematic black-and-white portrait prompt featuring dramatic lighting through horizontal blinds to evoke a sense of artistic solitude.",
+      "content": "A {argument name=\"mood\" default=\"moody black-and-white portrait photo\"} of a {argument name=\"subject\" default=\"man sitting near a window with horizontal blinds\"}, through which sunlight filters dramatically across his face and body. The man has a thoughtful, introspective expression, resting one arm casually on his head. His hair is softly highlighted by the stripes of light and shadow that create a cinematic contrast across the frame. He wears a {argument name=\"clothing\" default=\"dark button-up shirt\"}, blending subtly with the shadowed background. The atmosphere feels intimate and contemplative, evoking quiet emotion and artistic solitude.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905989343_fuq1w4_HKOkKFVXEAAJHKw.jpg"
+      ],
+      "author": {
+        "name": "Alex Prompts",
+        "link": "https://x.com/AlexPromptsAI"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "24571"
+    },
+    {
+      "id": "24555",
+      "title": "Pink Gingham Morning Aesthetic",
+      "description": "A high-fidelity fashion portrait featuring a character in a pink gingham corset dress, seated on linen bedding with a soft Sunday morning aesthetic.",
+      "content": "{\"subject\":{\"identity\":{\"biometric_reference\":\"Sabrina Carpenter\",\"facial_structure\":\"Heart-shaped facial morphology with a defined, narrow mandibular angle and prominent zygomatic arches. Specific philtrum depth and pronounced Cupid's bow on vermilion lips. Distinct nasal bridge linearity.\",\"hair\":{\"style\":\"Voluminous blonde hair styled in soft, cinematic waves. Signature curtain bangs framing the face with precise layering. High-fidelity strand separation.\",\"color\":\"#FBF2D5 pale honey blonde with subtle platinum highlights.\",\"physics\":\"Natural hair luster with realistic subsurface scattering on fine strands.\"},\"ocular_details\":\"Blue-grey iris pattern (#7A9E9F) with intricate radial furrows. Visible limbal rings. Anatomically correct sclera hydration and lacrimal caruncle placement.\",\"dentition\":\"Standard human dental alignment with natural incisor transparency and subtle occlusal surface textures.\"},\"body\":{\"somatotype\":\"Ecto-mesomorphic petite frame with proportional waist-to-hip alignment. Precise anatomical muscle definition in the rectus femoris and gastrocnemius. Defined clavicle and suprasternal notch visibility.\",\"skin_physics\":{\"base_tone\":\"#F5E1D2 creamy porcelain.\",\"surface_properties\":\"High-fidelity subsurface scattering (SSS) on epidermal layers. Visible follicular pores and micro-creases at joint articulations. Absence of digital smoothing filters.\",\"details\":\"Natural mole and freckle distribution mapped to biometric reference.\"}}},\"wardrobe\":{\"primary_garment\":{\"type\":\"Form-fitting corset-style mini-dress\",\"color\":\"#E8ACC0 pale pink and #FFFFFF optic white gingham pattern\",\"material_physics\":\"Fine-weave cotton gingham with subtle texture; realistic micro-creases indicating fabric tension; structural bodice construction.\"},\"neckwear\":{\"type\":\"Matching gingham bowtie with a detachable Peter Pan collar\",\"color\":\"Bowtie: #E8ACC0/White; Collar: #FFFFFF optic white\",\"material_physics\":\"Structured fabric bowtie with realistic knot compression; crisp, starched cotton collar texture.\"},\"gloves\":{\"type\":\"Short lace gloves\",\"color\":\"#FFFFFF optic white\",\"material_physics\":\"Intricate lace micro-patterns with variable translucency; realistic folding around finger joints.\"},\"earrings\":{\"type\":\"Flower-shaped studs\",\"color\":\"#E8ACC0 pale pink\",\"material_physics\":\"Detailed multi-petal floral structure with a matte ceramic finish.\"}},\"pose_action\":{\"description\":\"Seated centrally on linen bedding, legs angled in a side-profile tuck to emphasize femoral elongation. Torso rotated 30 degrees toward the window. Hands positioned as natural anchors on the surface with realistic finger articulation.\",\"expression\":\"Neutral facial state with a cinematic gaze; lips slightly parted to reveal natural dental details.\"},\"scene\":{\"environment\":\"Minimalist interior bedroom with high-resolution linen bedding and vertical wainscoting wall panels with mahogany trim (#3B2F2F).\",\"background\":\"Large lateral window featuring out-of-focus (bokeh) broad-leaf foliage (Monstera deliciosa).\",\"aspect_ratio\":\"9:16\"},\"lighting\":{\"primary_source\":\"Directional natural light from a lateral window; 5500K color temperature.\",\"effects\":\"Soft-box quality diffusion; realistic global illumination; bounce light from bedding providing fill; specular reflections on irises; accurate shadow gradients.\"},\"camera\":{\"technical_specs\":\"Photorealistic 8K resolution; 35mm prime lens; f/2.8 aperture for shallow depth of field; ISO 100; RAW format output.\",\"angle\":\"Eye-level medium shot with slight low-angle tilt.\"},\"negative_constraints\":[\"No logos\",\"No text\",\"No watermarks\",\"No smoothing filters\",\"No airbrushed skin\",\"No extra limbs\",\"No fused fingers\",\"No malformed anatomy\",\"No graphics\",\"No makeup artifacts\",\"No reflection errors\",\"No pigtails\"]}}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905982219_ny8cao_HKNlhCPWgAAz_Ep.jpg"
+      ],
+      "author": {
+        "name": "Pinodi",
+        "link": "https://x.com/PinodiArt"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "24555"
+    },
+    {
+      "id": "24552",
+      "title": "Black and White Studio Portrait",
+      "description": "A moody black and white studio portrait featuring a relaxed subject with a drink, characterized by soft lighting and sharp shadows.",
+      "content": "Create a black and white studio image of {argument name=\"subject\" default=\"the person in the uploaded image\"}, sitting casually on a metal folding chair with one leg crossed. He is wearing {argument name=\"clothing\" default=\"baggy denim jeans, a black Tshirt, and black boots\"}, with a slightly masculine style. The lighting should be soft and minimal, creating sharp shadows and a moody atmosphere. His pose should be relaxed, slightly leaning, with one hand on the chair’s backrest. His face should be turned about 45 degrees to the side, looking realistic. he is holding a clearly visible {argument name=\"drink\" default=\"matcha drink\"}. The background should be plain, simple, and modern. 9:16",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905981176_y7hvbs_HKNc7QracAArN3y.jpg"
+      ],
+      "author": {
+        "name": "Shore Lyn",
+        "link": "https://x.com/Shorelyn_"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "24552"
+    },
+    {
+      "id": "24559",
+      "title": "Luxury Editorial Identity Portrait",
+      "description": "A high-end studio portrait using a provided face for identity consistency, featuring a monochrome luxury look and cinematic lighting.",
+      "content": "Create a luxury editorial portrait using the PROVIDED FACE as the exact identity reference. Preserve the person's facial features, skin tone, facial proportions, and overall likeness with maximum accuracy. Do not change the identity. The subject is wearing a perfectly tailored matte black blazer over a fitted black turtleneck, creating a monochromatic luxury look. Arms are crossed naturally across the chest with relaxed confidence. The expression is calm, serious, confident, and slightly intense, making direct eye contact with the camera. Camera framing is a chest-up portrait with perfectly centered composition and symmetrical balance. Shot on an 85mm lens at f/1.8 with shallow depth of field and premium fashion photography aesthetics. Lighting is soft cinematic studio lighting with a large diffused key light, subtle shadow falloff, gentle rim light separating the subject from the background, producing rich contrast and dimensionality. Ultra-realistic skin texture with high-end magazine quality retouching while maintaining natural pores and details. Background is a smooth dark charcoal-gray textured studio backdrop with subtle gradients and elegant minimalism, creating a timeless luxury aesthetic. Style: Tom Ford campaign, luxury menswear editorial, cinematic, photorealistic, hyper-realistic, ultra-detailed, premium color grading, HDR, 8K, Vogue-quality fashion photography, sophisticated, powerful, minimal, elegant. Negative Prompt: cartoon, illustration, CGI, AI-looking face, low quality, blurry, oversharpened, distorted anatomy, extra fingers, bad hands, asymmetrical eyes, duplicate limbs, exaggerated smile, text, watermark, logo, noise, artifacts, cheap lighting, unrealistic skin, overprocessed face, wide-angle distortion.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905983832_0b2cpb_HKLkmRxaAAEYcMo.jpg"
+      ],
+      "author": {
+        "name": "Nexora",
+        "link": "https://x.com/frametheory058"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "24559"
+    },
+    {
       "id": "24367",
       "title": "Candid iPhone Bedroom Selfie",
       "description": "Authentic low-light lifestyle photograph from an iPhone perspective, featuring cozy bedroom ambiance and realistic skin textures.",
@@ -463,83 +539,6 @@
       "youmindId": "24222"
     },
     {
-      "id": "24227",
-      "title": "Modern Architectural Fashion Portrait",
-      "description": "A high-end commercial fashion prompt for a male subject in a modern architectural setting, focusing on harsh natural lighting, sharp textures, and professional aesthetics.",
-      "content": "A medium waist-up portrait of a muscular adult male with a tan, olive skin tone, a groomed short beard, and slightly voluminous dark pompadour hair with natural texture, wearing a fitted {argument name=\"outfit color\" default=\"deep black\"} short-sleeve mock turtleneck, matching deep black trousers, and opaque dark square sunglasses completely concealing his eyes. His expression is serious, confident, and guarded with a closed neutral mouth. He is positioned in the center, leaning back with his torso turned roughly 30 degrees to the viewer's left, his broad, relaxed shoulders shifted back to distribute his weight into a pristine, thick cylindrical brushed metal handrail. His right hand is raised to his ear, thumb and fingers gripping the edges of a black smartphone in an organic, mid-motion gesture, a {argument name=\"accessory material\" default=\"silver\"} chain bracelet catching the light on his right wrist. His relaxed left hand rests naturally on his upper left thigh and hip area with fingers slightly curled, showcasing a bright silver chronograph watch with a cool blue dial. In the immediate foreground, the polished metal handrail spans horizontally across the frame. Behind him in the midground, clean, transparent glass balcony panels with a slight {argument name=\"glass tint\" default=\"blue-cyan\"} tint reflect the surroundings, partially obscuring thriving, out-of-focus small green foliage. The medium-depth background reveals a modern commercial building facade featuring large, highly reflective blue-tinted windows separated by perfectly smooth, satin-finished bright white vertical and horizontal cladding, with taut white shade awnings stretched over metal frames visible toward the top left. The scene is bathed in bright, highly directional midday natural sunlight from the top-front-left, approximately 45 degrees above and slightly left of the subject, establishing an energetic, polished, and professional mood with a high-contrast, split-complementary color palette of warm skin tones against cool architectural blues and crisp whites. This harsh, unmodified hard light creates deep black, crisply defined shadows under his chin, cast across his black chest from his phone and hand, under his arms, and beneath his right pectoral, while striking specular highlights gleam on his forehead, the bridge of his nose, taut forearm muscles, the metallic watch, the railing, and the background glass, with minimal ambient fill maintaining the deep structural shadows. Captured with a full-frame digital camera using an 85mm prime lens at f/2.8 from a slightly low angle, the composition is asymmetric, balancing the subject's mass leaning to the right with the architectural angles and open space on the left. The image boasts a photorealistic, high-end commercial fashion aesthetic with tack-sharp glossy focus on the subject and smooth, slightly blurred background elements, finished with contrast enhancement, slight desaturation of the greens to emphasize the cool blue and white tones, and lifted black point",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780730535729_1tbn8u_HKCslYWaUAAm8u1.jpg"
-      ],
-      "author": {
-        "name": "Blitzer",
-        "link": "https://x.com/tanzeel617919"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "24227"
-    },
-    {
-      "id": "24224",
-      "title": "Torn Social Media Profile Art",
-      "description": "A dynamic digital art prompt where a subject appears to be tearing through a social media profile page, creating a physical-meets-digital motion effect.",
-      "content": "A very creative digital work of art, where a {argument name=\"subject\" default=\"realistic girl\"} (whose face 100% repeats the attached first photo) dramatically tears up the {argument name=\"social media\" default=\"Telegram\"} social media profile page. The Telegram profile looks like paper or a digital screen being torn apart, with sharp torn edges and flying fragments creating a dynamic motion effect. The girl is half outside the profile frame, forcefully pushing the page apart with one hand, her expression tense yet confident and powerful. Her face must match exactly the image of the girl from the first photo without any changes or alterations. The background of the Telegram profile must match exactly with the provided profile picture from the second photo. Dynamic cinematic lighting, ultra-realistic skin texture, shallow depth of field, cinematic composition, high contrast details, modern aesthetic style, soft white or subtle gradient background, 4K ultra high resolution, trending digital art style, highly detailed, sharp focus.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780730534516_xxxsy5_HKCkZHlb0AALik-.jpg"
-      ],
-      "author": {
-        "name": "Noor",
-        "link": "https://x.com/noorlewisx"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "24224"
-    },
-    {
-      "id": "24220",
-      "title": "Luxury Fashion Magazine Cover Portrait",
-      "description": "A sophisticated editorial-style prompt for creating a luxury magazine cover, featuring a dramatic monochrome aesthetic with selective color in the eyes and precise typography.",
-      "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial structure, jawline, cheekbones, eye shape, eyebrows, nose shape, lips, beard/stubble pattern, hairstyle, hair texture, skin tone, skin texture, natural South Asian masculine features, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions, authentic skin details, and natural facial anatomy. Do not alter my facial identity. Create an ultra-realistic high-fashion magazine cover portrait inspired by luxury editorial photography. The composition features a dramatic black-and-white monochrome aesthetic where nearly the entire image is desaturated except for the eyes, which retain a subtle, mesmerizing {argument name=\"eye color\" default=\"natural color\"}. The portrait is arranged in a sophisticated layered editorial layout: •Main portrait shows me lying sideways with my head resting on folded arms on a glossy reflective surface. •Calm, introspective expression with direct eye contact. •Large close-up crop of my eyes positioned across the top portion of the frame, creating a double-exposure editorial composition. •Soft reflection of my face visible beneath the main portrait on the reflective surface. •Luxury fashion magazine cover design with elegant typography and minimalistic layout. •Massive translucent serif title text reading “{argument name=\"title\" default=\"FOCUS\"}” across the upper section. •Thin white rectangular framing element highlighting the eyes. •Vertical editorial quote along the left edge: “{argument name=\"quote\" default=\"It’s in the eyes. Always in the eyes.\"}” •Modern publication date and issue information placed at the bottom left. •Small barcode positioned at the bottom right. •Clean negative space and premium magazine-cover balance. Photography style: •Vogue, Harper’s Bazaar, Numero, Elle editorial quality. •85mm medium telephoto lens. •f/1.8 shallow depth of field. •Ultra-sharp eyes. •Soft cinematic skin rendering. •Delicate contrast with rich grayscale tones. •Fine art monochrome processing. •Natural catchlights. •Studio beauty lighting combined with soft window light. •High-end retouching while preserving realistic skin texture. •Luxurious fashion atmosphere. Color treatment: •Predominantly black-and-white image. •Only the eyes retain subtle realistic color (deep hazel/green/brown depending on reference image). •Rich grayscale transitions. •Smooth tonal gradients. •Premium print-magazine finish. Technical quality: •Hyperrealistic. •8K resolution. •Ultra-detailed facial features. •Sharp eyelashes and eyebrows. •Photorealistic skin pores. •Professional magazine cover design. •Luxury editorial photography. •Award-winning fashion portrait. •Perfect typography placement. •Cinematic composition. •Masterpiece quality. Negative Prompt: low resolution, distorted face, altered identity, extra fingers, asymmetrical eyes, cartoon, anime, over-sharpening, excessive skin smoothing, bad typography, blurry eyes, duplicate facial features, unrealistic reflection, waterm",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780730532094_hvptug_HKBbF2caEAAJTcs.jpg"
-      ],
-      "author": {
-        "name": "Professor",
-        "link": "https://x.com/Professor_134"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "24220"
-    },
-    {
-      "id": "24225",
-      "title": "Elegant Hotel Window Editorial",
-      "description": "A clean, high-end fashion editorial prompt for a woman standing by a hotel window in soft morning light, emphasizing silk textures and elegant atmosphere.",
-      "content": "Create a hyper realistic luxury fashion portrait inspired by premium Asian magazine editorials. IMPORTANT: Generate ONLY ONE SINGLE VERTICAL IMAGE. STYLE: Clean luxury realism. Bright side-light atmosphere. MAIN CONCEPT: An adult {argument name=\"subject\" default=\"Asian woman\"} standing beside a bright hotel window during early morning. OUTFIT: {argument name=\"outfit\" default=\"White silk dress\"}. Elegant flowing fabric. Minimal luxury accessories. POSE: Natural standing pose. Soft smile. Looking toward the morning light. LIGHTING: Bright natural side light. Soft glow on face and hair. Elegant shadow gradients. BACKGROUND: {argument name=\"background\" default=\"Luxury hotel suite\"}. White curtains. Minimal premium décor. MOOD: Fresh. Elegant. Dreamy editorial energy. QUALITY: Ultra-realistic native 4K HDR realism. Professional fashion photography. Vertical 9:16.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780730534702_8dhbe4_HKAsTjeb0AAF-8W.jpg",
-        "https://cms-assets.youmind.com/media/1780730534711_ob3q35_HKAsTiZaIAAxK8A.jpg"
-      ],
-      "author": {
-        "name": "Lore",
-        "link": "https://x.com/l_w_lorenzen"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "24225"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -559,187 +558,12 @@
       "youmindId": "532"
     },
     {
-      "id": "24413",
-      "title": "Realistic Zen Garden Landscape",
-      "description": "A detailed prompt for generating a realistic overhead view of a Zen garden featuring wet gravel patterns and black stones in the rain.",
-      "content": "#masterpiece #realistic photo #landscape #{argument name=\"garden type\" default=\"Zen garden gravel\"} #{argument name=\"camera angle\" default=\"overhead view\"} #wet patterns #black stones #{argument name=\"environment\" default=\"tranquil rain\"}",
+      "id": "24569",
+      "title": "Sophisticated Urban Pinstripe Suit Portrait",
+      "description": "A detailed editorial portrait prompt for a man in a navy pinstripe suit, set in an urban environment with shallow depth of field.",
+      "content": "A photorealistic editorial street style portrait features a handsome {argument name=\"subject\" default=\"young man\"} standing centered and facing the camera with level shoulders, exuding a serious, sophisticated aura. His expression is anchored by slightly furrowed brows and a closed, unsmiling mouth as he gazes thoughtfully off-camera to the left. He has dark, wavy, textured curly hair styled with a matte finish, retaining natural imperfections like delicate stray flyaways and loose curls falling gently across his forehead. He is sharply dressed in a {argument name=\"outfit\" default=\"dark navy blue pinstripe suit and vest over a crisp, bright off-white club collar shirt and a taupe-olive tie\"}, creating a striking visual hierarchy that draws the eye directly to his warm skin tones and sharp facial structure. He stands in a deep yet heavily blurred {argument name=\"background\" default=\"outdoor urban street setting\"} where the shallow depth of field isolates him from the environment. In the softly out-of-focus left midground, a thriving bush displays clusters of pale white blossoms against dark green foliage. The distant background features a pristine, cool off-white painted masonry stucco building facade adorned with dark recessed rectangular windows and subtle architectural molding. Thin, weathered leafless tree branches reach upward on the right against the white masonry, while a worn dark gray parked vehicle rests in the distant left, all grounded by a solid dark gray concrete surface. The atmosphere captures a calm, brisk, and elegant urban moment, bathed in soft, cool, and beautifully diffused overcast natural light washing down from above. This single light source wraps the subject in a flat, low-contrast glow, casting faint, soft-edged shadows under his chin, directly under his nose, and lightly down the viewer's right side of his face. Subtle specular highlights gently catch the bridge of his nose, his forehead, and the textured strands of his hair, while a cool blue ambient fill softly desaturates the surrounding split-complementary color palette to emphasize his warm complexion. Captured on a digital 85mm lens at an aperture optimized for a brilliantly shallow depth of field with tack-sharp focus locked exclusively on his eyes, the medium close-up exhibits zero grain and a smooth, realistic texture. The composition utilizes an asymmetric rule of thirds balance, guided by meticulous post-processing that cools the highlights, desaturates the background, and lifts the black point for a clean, matte men's fashion editorial finish, all flawlessly framed in a 4:5 aspect ratio.",
       "images": [
-        "https://cms-assets.youmind.com/media/1780818206712_jtlegg_HKKWmk2aEAA9h1z.jpg"
-      ],
-      "author": {
-        "name": "DFL inc.",
-        "link": "https://x.com/dfl_inc_jp"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24413"
-    },
-    {
-      "id": "24371",
-      "title": "Warm Food Illustration with Handwritten Quote",
-      "description": "A cozy and inviting illustration featuring a variety of food items surrounding a colorful handwritten message about sharing meals together.",
-      "content": "A warm, affectionate {argument name=\"style\" default=\"illustration\"} on a {argument name=\"background color\" default=\"light beige\"}, subtly textured background filled with a playful scatter of different food items—like steaming bowls, plates of appetizers, desserts, fruits, and drinks—surrounding colorful, handwritten text in the center. The text, in a whimsical, slightly uneven cursive font, reads \"{argument name=\"quote\" default=\"I'm so glad you exist so we can eat good food together.\"}\" Each word is a different bright, cheerful color, with soft shadows and gentle outlines to make the letters pop while preserving a handmade, imperfect feel. The composition feels cozy and inviting, with a harmonious layout that radiates warmth, love, and togetherness.  Suitable as poster art.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818183893_1vw97e_HKH0ChOX0AAFTL0.jpg"
-      ],
-      "author": {
-        "name": "Heather Green",
-        "link": "https://x.com/heathergreen"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24371"
-    },
-    {
-      "id": "24382",
-      "title": "Girl Cycling City Illustration",
-      "description": "A vibrant illustration of a girl cycling through a sunny city street, focusing on energy and movement.",
-      "content": "Girl cycling through a sunny city street, illustration style",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818187679_tg19zu_HKImvMwWMAAQ782.png",
-        "https://cms-assets.youmind.com/media/1780818187756_tatw9j_HKImwLzW0AAF-4Z.png"
-      ],
-      "author": {
-        "name": "AI Art Alley",
-        "link": "https://x.com/aiartalley"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24382"
-    },
-    {
-      "id": "24364",
-      "title": "World Cup Goalkeeper Save",
-      "description": "Action-packed sports photography prompt capturing a goalkeeper making a dramatic penalty save with customizable fan colors and nationality.",
-      "content": "World Cup Final penalty save, the subject as goalkeeper, strict face reference, full-stretch horizontal dive, professional FIFA-style soccer ball impacting compressed goalkeeper glove, frozen action, intense focus, visible sweat and muscle tension, {argument name=\"nationality\" default=\"[NATIONALITY]\"} supporters in {argument name=\"primary color\" default=\"[COLOR1]\"} and {argument name=\"secondary color\" default=\"[COLOR2]\"} filling the stadium, flying turf particles, pitch-level side angle, 400mm sports lens, 1/4000 shutter, dramatic floodlights, Getty Images sports photography, ultra-photorealistic",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818180480_y1cfxc_HKJkcXTXkAADsh-.jpg",
-        "https://cms-assets.youmind.com/media/1780818180427_bizd8x_HKJoaDiXQAAwW26.jpg"
-      ],
-      "author": {
-        "name": "Shine by Nous ✨",
-        "link": "https://x.com/Shinebynous"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24364"
-    },
-    {
-      "id": "24385",
-      "title": "Dopamine Decor Surreal Flower Swing",
-      "description": "A surreal, maximalist room interior featuring a flower swing suspended from a glowing sphere, with floating petals and a Y2K aesthetic.",
-      "content": "A wide-angle full-room shot of a maximalist dopamine-decor room saturated in candy pink and sunny yellow, every surface joyful and color-drenched. In the exact center hangs a flower swing: a wooden seat thick with fresh blooms, fat pink peonies and roses and bright daisies woven all along the seat and trailing in garlands. But the swing's two flower-covered ropes do not reach the ceiling: they rise up and dissolve into a single small glowing sphere of warm fire-yellow light hovering high in the center of the room, a tiny captured sun the swing hangs from, the brightest point in the frame. Around the swing, the petals she has shed are not falling: they drift slowly upward through the air, rising toward the glowing sphere in a soft reverse-gravity bloom. Seated mid-swing is a young woman in her early 20s with long glossy hair that lifts and drifts upward in the motion, partly veiling her face so only a soft smile and one cheek show, her identity half-hidden in hair and floating petals. She leans back into the swing with relaxed joy. She wears a fashion-forward Y2K look: a baby-pink cropped baby tee with a tiny glittery butterfly graphic, a low-rise pleated lemon-yellow mini skirt, white knee-high socks, chunky pink-and-white platform sneakers, small butterfly hair clips, layered beaded bracelets and a jelly choker. Around her the room is pure dopamine: glossy pink walls, a yellow gingham rug, inflatable furniture, a beaded curtain, daisy-shaped cushions, a lava lamp, shelves of colorful trinkets, potted flowers and hanging plants in every corner. Soft even daylight floods the room, bright and high-key, minimal shadows, but the fire-yellow sphere glows warmer and more saturated than anything else. Wide lens, moderate depth of field, faithful saturated colors, crisp textures. Joyful, nostalgic, playful, warmly surreal.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818189855_4ebkzz_HKJh13iXoAAp4mo.jpg"
-      ],
-      "author": {
-        "name": "Özge Döner",
-        "link": "https://x.com/astronomerozge1"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24385"
-    },
-    {
-      "id": "24393",
-      "title": "Surreal Ocean Light Gathering Portrait",
-      "description": "A surreal and dreamy portrait prompt of a woman gathering threads of light from the ocean, featuring a soft pastel palette and high-fashion elements.",
-      "content": "A straight-on medium shot frames a young woman in her {argument name=\"age\" default=\"early 20s\"} with striking model-like features, standing waist-deep in calm pastel ocean water under soft hazy overcast light. The water is a gentle pastel teal and seafoam, the surface dusted with countless soft pale sunlight glimmers drifting across it. She performs an impossible, calmly deadpan act: she holds both hands cupped open just above the water, and the soft glimmers on the surface around her are drifting inward, streaming toward her palms in fine pale threads of light and condensing into a single small smooth glowing sphere of warm fire-yellow light hovering just above her cupped hands, the one saturated point in an otherwise pastel frame. Where the light has gathered, the water immediately around her softens a shade paler. She regards the captured light with a cool, relaxed, dreamy expression, head tilted gently toward it, unbothered, as if gathering light is simply something she does. Her dark hair is wet and slicked back, heavy with water, a few loose strands dripping and falling across one side of her face, half-veiling it. She wears a {argument name=\"outfit\" default=\"draped halter-neck blouse in soft pastel butter-yellow silky fabric\"}, the neckline a gathered twist-halter wrapping the neck and crossing at the chest, draping in loose folds, sleeveless with bare shoulders and open back. Below she wears a very short micro mini skirt covered in chunky pale yellow and soft gold sequins and iridescent pastel paillettes, gently shimmering, the hem sitting high on the thigh. Layered delicate gold jewelry: stacked thin bangles, a fine gold chain at the neck, slim gold rings, all soft and muted. Soft glossy lips, dewy pale skin. The background is open pastel ocean, pale seafoam teal blending into a hazy whitish sky, the horizon barely visible, soft and diffuse. Gentle overcast daylight, no harsh shadows, even soft illumination, a dreamy high-key haze over everything. The palette is dominated by soft butter-yellow and the single warm fire-yellow of the captured light, pale gold sequins, dewy skin, set against pastel seafoam teal, soft peach and cream. Modern digital camera, soft focus, gentle muted colors, natural proportions. Deadpan surreal and softly dreamlike, a girl quietly gathering light off a pastel sea.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818195493_o0saww_HKJf_J7WkAA1If9.jpg",
-        "https://cms-assets.youmind.com/media/1780818195521_0usmj5_HKJgEruWsAAhEAq.jpg"
-      ],
-      "author": {
-        "name": "Özge Döner",
-        "link": "https://x.com/astronomerozge1"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24393"
-    },
-    {
-      "id": "24384",
-      "title": "Billie Eilish Inspired Sepia Candid Portrait",
-      "description": "A structured prompt designed for Gemini Nano Banana Pro to generate a humorous, sepia-toned candid shot of a young woman resembling Billie Eilish in a warm living room setting.",
-      "content": "\"subject\": \"{argument name=\"subject\" default=\"young woman\"}, dark bob, dramatic eye roll, holding food, rings\",\n  \"outfit\": \"black polka dot low-cut slip dress, delicate necklace\",\n  \"setting\": \"warm amber living room, Grammy on shelf, cone lamp\",\n  \"mood\": \"sepia-toned, candid, humorous\"",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818189883_zo3izq_HKJaVEZWcAAWDX1.jpg"
-      ],
-      "author": {
-        "name": "ⁱᵃᵐ|𝚂𝚑𝚊𝚍𝚘𝚠𝚋𝚢𝚝𝚎𒆜",
-        "link": "https://x.com/_Shadow__byte_"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24384"
-    },
-    {
-      "id": "24368",
-      "title": "Industrial Sports Editorial Portrait",
-      "description": "Dramatic cinematic sports photography of a footballer in an abandoned warehouse with volumetric lighting.",
-      "content": "Ultra-realistic cinematic portrait of a young male footballer standing in an abandoned industrial warehouse, wearing a white professional soccer jersey with gold shoulder stripes and dark trim. Dramatic split lighting with a narrow beam of sunlight cutting across the face and torso, creating strong contrast and deep shadows. Confident expression, direct eye contact, athletic build, short textured hair, subtle stubble. Moody atmosphere with dust particles in the air, weathered concrete walls, shallow depth of field, high-end sports editorial photography, photorealistic skin texture, sharp focus on the face, soft background bokeh, volumetric lighting, 85mm lens, f/1.8, HDR, premium commercial sports campaign, ultra-detailed, 8K Ultra-realistic fashion portrait of a confident young woman wearing a blue and garnet FC Barcelona football jersey with sponsor logo, standing in an industrial urban alley beneath a concrete overpass. Dramatic cinematic lighting with strong sunlight cutting across the scene, deep shadows, high contrast, moody atmosphere. Long wavy black hair, natural makeup, direct gaze, powerful expression. Shot from a slightly low angle, centered composition, shallow depth of field, professional editorial photography, streetwear campaign aesthetic, ultra-detailed skin texture, sharp focus, HDR, 85mm lens, f/1.8, photorealistic, magazine cover quality, volumetric light, dark background, rich colors.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818182841_otmsrb_HKJVgBrbMAAnwRv.jpg",
-        "https://cms-assets.youmind.com/media/1780818182800_duud3m_HKJVgCuaAAAj9WW.jpg"
-      ],
-      "author": {
-        "name": "Aijaz",
-        "link": "https://x.com/iamsofiaijaz"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24368"
-    },
-    {
-      "id": "24397",
-      "title": "Luxury Gym Locker Room Portrait",
-      "description": "An ultra-realistic wellness campaign style prompt for a fitness portrait in a high-end locker room environment.",
-      "content": "{ \"prompt\": \"Ultra-realistic fitness lifestyle portrait of a young woman with long copper-red hair styled in a high ponytail, posing in a modern luxury gym locker room. She wears a {argument name=\"outfit top\" default=\"sage-green athletic crop tank\"} and light gray high-waisted performance shorts. Natural makeup, healthy glowing skin, soft smile, and confident post-workout energy. She is leaning casually against a sleek black countertop in front of a large illuminated mirror. The locker room features dark wood lockers, warm ambient lighting, premium finishes, and a clean upscale fitness-club aesthetic. Professional fitness photography, realistic skin texture, natural body proportions, shallow depth of field, contemporary wellness campaign, highly detailed, photorealistic, premium athletic brand style.\", \"negative_prompt\": \"blurry, low quality, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered background, harsh shadows, overexposed highlights\", \"style\": \"photorealistic\", \"camera\": { \"lens\": \"85mm\", \"aperture\": \"f/2.0\", \"angle\": \"three-quarter portrait\", \"depth_of_field\": \"shallow\" }, \"lighting\": { \"type\": \"luxury indoor gym lighting\", \"direction\": \"soft front and overhead illumination\", \"mood\": \"fresh, confident, wellness-focused\" }, \"composition\": { \"framing\": \"vertical portrait\", \"subject_position\": \"foreground beside vanity counter\", \"background\": \"premium locker room with wood lockers and illuminated mirrors\" }, \"quality\": { \"resolution\": \"8k\", \"detail\": \"ultra high\", \"realism\": \"maximum\" } }",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818198485_grawja_HKJQyhwasAASmYz.jpg"
-      ],
-      "author": {
-        "name": "Miz",
-        "link": "https://x.com/mizq06"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "24397"
-    },
-    {
-      "id": "24383",
-      "title": "Italian Riviera Vacation Portrait",
-      "description": "A detailed description for a high-contrast, sophisticated fashion portrait set against the scenic backdrop of the Italian Riviera.",
-      "content": "A young adult male stands positioned in the right rule of thirds, projecting a confident and serious demeanor with a closed neutral mouth and his gaze directed off-camera to the right, hidden behind black wayfarer sunglasses. He is dressed in a dark navy-black crewneck sweater and light cream-colored trousers. His head is turned right while his body angles forty-five degrees left, his weight shifted casually onto his hips as he leans. His shoulders are relaxed, with the right shoulder sitting slightly lower than the left. His classic side-parted hair, tapered to an inch on the sides and leaving three inches on top, is combed back and to the right with a medium-hold styling product that yields a subtle sheen; the smooth, slightly wavy texture features distinct individual strands that catch the light, creating a delicate halo of natural flyaways around a clean hairline and a well-groomed short stubble beard connecting to his sideburns. His left hand rests on a railing, wearing a silver link wristwatch while holding the base of a small white ceramic espresso cup with the thumb and index finger visible. His right hand rests gently over his left wrist and the base of the cup, with relaxed fingers naturally draped in an organic gesture. In the immediate foreground, a weathered, dark green vintage wrought iron railing with decorative twisted uprights and swirling scrollwork spans the width of the frame. To the left foreground, vibrant red blooming flowers with bright green leaves thrive as they spill over a rough, unfinished matte terracotta red brick pillar marked by patchy grey mortar and weathered aging. Beyond the railing, the deep spatial depth reveals a pristine midground of deep blue-green lake water textured by subtle ripples and a distant boat wake. The expansive background rises into steep, densely forested green mountains dotted with traditional Italian villas featuring yellow and white facades beneath terracotta roofs. The scene is bathed in bright, highly directional natural sunlight striking from a forty-five-degree side and top-left angle, cultivating a warm, golden, and sophisticated Italian Riviera vacation mood. This single source of hard light creates a high-contrast environment with harsh, defined deep black shadows falling under his chin, down the right side of his torso and right leg, and casting directly onto the sweater from his arm. Brilliant preserved highlights carve a strong rim light along his left shoulder, left cheek, and left arm, accompanied by crisp specular highlights glinting off the silver watch face and the sunglasses. The complementary color palette balances the heavy navy and cream of the subject against the expansive lake teal, forest greens, and striking vibrant red floral accents. Captured as a realistic digital photograph with a straight-on perspective, the image utilizes a 35mm to 50mm full-frame lens locked onto the subject's face at f/5.6 to f/8, maintaining tack-sharp focus on the man while rendering the deep depth of field with a slightly soft yet highly recognizable background clarity. The clean, old-money luxury aesthetic is refined in post-processing with an enhanced contrast curve to deepen shadows, a slightly warm golden hour white balance, saturated blues and greens for the water and foliage, and pushed red luminance to make the flowers pop, all seamlessly framed in a 3:4 aspect ratio.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818187941_4ga9bv_HKJOSv1WsAAwoc3.jpg"
+        "https://cms-assets.youmind.com/media/1780905988793_rln4n5_HKObVIXXYAAQdjw.jpg"
       ],
       "author": {
         "name": "Picts by AI",
@@ -750,37 +574,35 @@
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "24383"
+      "youmindId": "24569"
     },
     {
-      "id": "24406",
-      "title": "Moody Cinematic Male Portrait",
-      "description": "A comprehensive prompt including outfit, hair, and lighting details for a moody Korean/Japanese aesthetic cinematic portrait.",
-      "content": "Moody cinematic portrait of a young man standing against a textured wall, looking down with a melancholic expression. Messy wavy black hair falling over his eyes. He wears an {argument name=\"shirt\" default=\"oversized dark charcoal shirt\"} with a {argument name=\"tie\" default=\"loose dark brown tie\"}, black relaxed trousers, and a silver watch. Hands in pockets, body slightly leaning on the wall. {argument name=\"lighting\" default=\"Warm golden side lighting\"} from the right casting deep shadows and a strong shadow on the wall. Korean/Japanese cinematic aesthetic, muted earthy tones, vintage film grain, shallow depth of field, soft contrast, ultra realistic 4K. OUTFIT DETAILS SHIRT Oversized fit Dark charcoal color Cotton fabric One chest pocket Slightly wrinkled texture TIE Dark brown Loose knot Matte texture Medium width TROUSERS Black or very dark charcoal Relaxed fit Pleated front Slightly loose ACCESSORIES Silver wrist watch No other accessories HAIR & GROOMING Messy wavy black hair Natural textured look Light facial hair (mustache) Clean but effortless style SETTINGS & LIGHTING Indoor against textured wall Warm golden side light (from right) Strong shadow on wall Low key, moody atmosphere CAMERA & STYLE 50mm lens look Shallow depth of field Cinematic color grading Vintage film grain Soft contrast, muted tones Ultra realistic 4K",
+      "id": "24553",
+      "title": "Urban Fashion Triptych Portrait",
+      "description": "A sophisticated urban fashion layout featuring a realistic character recreation in a triptych composition with detailed wardrobe and lighting specs.",
+      "content": "{\"subject\": {\"identity\": {\"biometric_reference\": \"Sydney Sweeney\", \"facial_anatomy\": \"High-fidelity digital recreation of rounded, soft facial morphology. Prominent zygomatic arches with fuller cheek volume. Distinct expressive deep-set ocular structure and characteristic nasal profile. Detailed rendering of natural lip contours and labial texture.\", \"eyes\": {\"iris_pattern\": \"Blue-grey radial iris structure with defined limbal rings; realistic ocular moisture and refractive properties.\", \"hex\": \"#647B94\"}, \"hair\": {\"description\": \"Golden blonde with natural highlights and wavy texture. Styled in an effortless bun with fine stray fibers and high-resolution strand rendering.\", \"hex\": \"#E6CEA8\"}}, \"body\": {\"somatotype\": \"Curvaceous hourglass female morphology; consistent with documented biometric proportions, emphasizing a defined waist-to-hip ratio. Natural skin tension and contouring.\", \"skin_physics\": \"Epidermal micro-texture with visible pores and fine vellus hair. High-fidelity subsurface scattering (SSS) for realistic light penetration and flesh-tone warmth.\", \"skin_tone_hex\": \"#F3CFB6\"}}, \"wardrobe\": {\"top\": \"Technical structured beige corset with vertical boning and matte fabric finish (#D2B48C).\", \"outerwear\": \"Oversized distressed dark brown leather jacket; heavy hide grain texture, vintage patina, and refined stitching detail (#4E3629).\", \"bottoms\": \"Sleek high-waisted tailored trousers; black fabric with realistic drape and textile weight (#0B0B0B).\", \"accessories\": \"White matte wireless over-ear headphones with specular highlights; designer shoulder bag; clear polymer cup featuring an iced beverage with realistic condensation droplets.\"}, \"pose_action\": {\"layout\": \"Triptych arrangement: Primary vertical panel on the left; two stacked panels on the right.\", \"description\": \"Left Panel: Mirror composition capturing urban reflections. Top-Right: Elevated perspective with natural facial alignment. Bottom-Right: Close-up portrait with direct eye contact, holding an iced beverage near the facial plane.\"}, \"scene\": {\"composition\": \"9:16 vertical triptych layout with clean internal borders.\", \"location\": \"Contemporary European urban setting; historic limestone facades (#DED2B9) and textured cobblestone surfaces.\"}, \"lighting\": {\"source\": \"Natural diffused overcast illumination; global lighting with accurate ambient occlusion.\", \"physics\": \"Ray-traced specular highlights on hardware, textile grains, and fluid surfaces. Desaturated, professional editorial color grading.\"}, \"camera\": {\"technical_spec\": \"35mm prime lens simulation, f/2.8 aperture for soft background bokeh, ISO 100.\", \"render\": \"Ultra-high resolution, professional RAW photography aesthetic, cinematic film grain, absence of digital artifacts.\"}, \"negative_constraints\": [\"No logos\", \"No text\", \"No smoothing filters\", \"No airbrushed skin\", \"No distorted anatomy\", \"No watermarks\", \"No low-poly textures\"], \"reflection_integrity_rules\": \"Reflections must maintain geometric consistency with the architectural environment and subject posture. Specular highlights must align with ambient luminosity.\"}",
       "images": [
-        "https://cms-assets.youmind.com/media/1780818202572_bsxem9_HKJIfAVasAAwsAF.jpg",
-        "https://cms-assets.youmind.com/media/1780818202613_dwpu3b_HKJIfH1bkAAB6_X.jpg"
+        "https://cms-assets.youmind.com/media/1780905981138_c4r3sh_HKOMqhZXwAABik7.jpg"
       ],
       "author": {
-        "name": "Harboris",
-        "link": "https://x.com/harboriis"
+        "name": "Pinodi",
+        "link": "https://x.com/PinodiArt"
       },
       "language": "en",
       "featured": false,
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "24406"
+      "youmindId": "24553"
     },
     {
-      "id": "24362",
-      "title": "Beach Fashion Swimsuit Editorial",
-      "description": "Generate an ultra-high-resolution 4K fashion portrait featuring a metallic swimsuit on a beach during golden hour with high facial accuracy.",
-      "content": "Use the provided reference image and preserve the subject's exact facial structure, identity, skin texture, eye shape, eyebrow shape, nose, lips, jawline, hairstyle, expression, and overall likeness with maximum realism and facial accuracy. Create an ultra-high-resolution 4K fashion-editorial beach portrait. The woman is standing gracefully in shallow ocean water during golden hour, facing directly toward the camera with a confident, elegant, and captivating expression. Her wet dark hair is naturally slicked back, with water droplets visible on her face, shoulders, arms, and body. Skin tone appears fair, luminous, healthy, and naturally radiant while maintaining realistic skin texture and photographic authenticity. She wears a {argument name=\"swimsuit style\" default=\"sleek metallic silver one-piece swimsuit\"} with a reflective chrome-like finish, subtle highlights, and premium luxury-fashion aesthetics. Both hands are positioned behind her head, elbows extended outward, creating a powerful and symmetrical composition. Multiple polished silver bangles adorn both wrists, catching warm sunlight reflections. Ocean water splashes dynamically around her legs and hips, frozen in crystal-clear detail with realistic droplets and motion. The sea extends softly into the background with natural horizon visibility and cinematic depth. Warm sunset lighting creates golden highlights on the skin and swimsuit while maintaining balanced shadows and realistic contrast. Ultra-detailed DSLR photography, professional fashion magazine quality, luxury editorial campaign style, hyper-realistic rendering, natural skin pores, realistic wet skin reflections, high dynamic range, sharp focus on face and eyes, shallow depth of field, premium color grading, cinematic atmosphere, physically accurate lighting, advanced photorealism, award-winning photography aesthetics, Vogue-inspired beach fashion shoot, luxury glamour portrait, ultra-clean composition, realistic water physics, enhanced facial clarity, natural body proportions, detailed reflections, crisp textures, and 4K ultra-HD output quality.",
+      "id": "24554",
+      "title": "Cozy Bedroom Nighttime Portrait",
+      "description": "An ultra-realistic nighttime lifestyle portrait of a person lying on a bed, featuring warm ambient lighting and a cinematic orange-blue color contrast.",
+      "content": "Ultra-realistic candid iPhone lifestyle photograph in vertical 9:16 aspect ratio. {argument name=\"subject\" default=\"Sadie Sink\"} lying prone naturally on a cozy bed inside a softly lit modern bedroom at night. Long blonde hair slightly messy with loose strands falling naturally across her face and shoulders. Calm intimate expression with direct eye contact toward the camera, relaxed late-night atmosphere.\n\nShe is wearing a {argument name=\"top\" default=\"fitted pastel-blue cropped lounge top\"} with delicate thin straps and {argument name=\"bottom\" default=\"fitted white pajama shorts\"}. Natural relaxed body posture on the bed.\n\nShot from a low-angle close-up selfie perspective using realistic iPhone camera rendering. Her face dominates the foreground in sharp focus while her relaxed silhouette softly extends deeper into frame naturally. Slight natural smartphone lens softness and subtle depth blur create authentic candid realism.\n\nEnvironment: cozy modern bedroom with warm ambient lighting. A white vanity desk and large glowing LED arch mirror illuminate the background with warm orange and subtle cool blue tones. Neutral cream bedding with soft fabric folds and plush pillows. Framed wall artwork displaying the word 'Love'. Soft decorative LED lighting throughout the room.\n\nLighting: warm bedside tungsten glow mixed with cool blue LED reflections from the vanity mirror, creating cinematic orange-blue contrast across skin, hair, and bedding. Gentle shadow gradients and realistic low-light mood.\n\nHighly detailed realistic skin texture, visible pores, natural hair strands, realistic cotton fabric texture, subtle digital grain, cinematic color grading, shallow depth of field, cozy intimate nighttime atmosphere, realistic iPhone low-light photography aesthetic, ultra realistic 8k quality.",
       "images": [
-        "https://cms-assets.youmind.com/media/1780818180512_fpa2y1_HKJH-ZVaEAAFyGw.jpg",
-        "https://cms-assets.youmind.com/media/1780818180432_uae9tx_HKJH-fAbAAA3iau.jpg",
-        "https://cms-assets.youmind.com/media/1780818180460_ne87be_HKJH-u0bkAEa4HN.jpg"
+        "https://cms-assets.youmind.com/media/1780905980528_9px5wb_HKOMwlCa4AAu1j5.jpg",
+        "https://cms-assets.youmind.com/media/1780905981177_9vtsy8_HKOMwqHboAEp7Ti.jpg"
       ],
       "author": {
         "name": "Sadie 🥀",
@@ -791,7 +613,218 @@
       "categories": [
         "Social Media Post"
       ],
-      "youmindId": "24362"
+      "youmindId": "24554"
+    },
+    {
+      "id": "24565",
+      "title": "South Asian Man Clone Portrait",
+      "description": "A professional studio photography prompt featuring identical clones in a dynamic pose against a rich velvet background.",
+      "content": "A professional studio photograph featuring three identical clones of a {argument name=\"subject\" default=\"stylish young South Asian man\"}, captured in a dynamic action pose against a {argument name=\"background\" default=\"rich, premium textured deep dark red velvet background\"}. \n\nThe central figure stands in a wide, powerful stance, leaning forward and aiming a vibrant, colorful purple and neon orange toy water gun directly at the camera. Flanking him on the left and right are his two clones; the left clone holds a smaller orange and purple toy gun near his shoulder, while the right clone cradles a long turquoise and purple water blaster across his chest. All three men are wearing {argument name=\"outfit\" default=\"matching dark red-tinted sunglasses, a black and dark grey plaid flannel button-down shirt with short sleeves, loose-fitting wide-leg black trousers, and crisp, clean all-white classic sneakers\"}. \n\nThe lighting is high-end studio quality, creating sharp definitions on their hair and clothing while casting subtle shadows on the velvet floor. The entire image has an ultra-sharp, crisp 8k resolution look with flawless textures, deep cinematic colors, and a clean commercial aesthetic.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905986887_w4b39h_HKN4dLiaAAAo4jb.jpg"
+      ],
+      "author": {
+        "name": "Noah | AI",
+        "link": "https://x.com/Noahsw695"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24565"
+    },
+    {
+      "id": "24570",
+      "title": "Cinematic Fashion Editorial Portrait",
+      "description": "A detailed fashion editorial prompt for a centered medium shot of a person, emphasizing a quiet contrast between the subject's stillness and blurred motion in the background.",
+      "content": "Cinematic fashion-editorial portrait of a {argument name=\"subject\" default=\"person with messy hair, well groomed beard and glasses\"}, framed as a centered medium shot from waist to head, subject perfectly aligned in the middle with symmetrical composition. Pose: Standing still facing camera directly, shoulders relaxed, hands in pockets, posture upright; facial expression neutral, calm, slightly detached. Wardrobe: {argument name=\"clothing\" default=\"Minimalist oversized black hoodie with matte fabric, no visible branding\"}. Accessories: Large over-ear headphones worn on the head with a clean, modern design. Background: {argument name=\"background\" default=\"Flat, softly textured light gray wall (approx hex #d9d9d9) with subtle grain\"}. Lighting: soft, diffused frontal lighting (5000-5500k) creating even illumination with minimal shadows and smooth skin tones; no harsh highlights, clean tonal transitions. Motion effect: Strong lateral motion blur silhouettes passing on both sides of the subject, creating ghosted human forms with directional blur, emphasizing stillness of the central figure. Optics: 50mm lens simulation, moderate depth of field (f/2.8-f/4) keeping subject sharp while motion-blurred elements streak across frame; slight film grain and soft contrast. Texture: Clean, natural skin detail with subtle softness, matte fabric rendering, minimal reflections. mood: introspective, isolated, urban, quiet contrast between stillness and surrounding motion. editorial, modern, high-detail, cinematic composition, ultra-realistic textures, professional fashion photography style.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905989217_joliex_HKNzadba8AA61nA.jpg"
+      ],
+      "author": {
+        "name": "Heisenberg",
+        "link": "https://x.com/rovvmut_"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24570"
+    },
+    {
+      "id": "24560",
+      "title": "Luxury Pet and Human Editorial",
+      "description": "A sophisticated studio portrait of a person holding a pet, designed for identity consistency and high-end fashion aesthetics.",
+      "content": "Create a luxury editorial-style portrait using the provided human face and pet as the exact subjects. Keep both identities completely unchanged, preserving all facial features, hairstyle, skin tone, eye color, and the pet’s breed and appearance with maximum accuracy. The composition should feel elegant and timeless, with the human standing directly behind the pet and gently holding it in a secure, natural embrace. The pet should occupy the lower half of the frame while the human’s face is positioned directly above, creating a balanced and symmetrical 4:5 portrait. Both subjects should look straight into the camera with calm, confident, and serious expressions, emphasizing sophistication, trust, and a genuine emotional connection. The human wears a fitted black high-neck long-sleeve top with a clean luxury aesthetic. The pet rests comfortably in the arms, with its front paws naturally visible and relaxed. Keep the pose refined, natural, and editorial rather than playful. Use a seamless dark charcoal-gray studio backdrop with a subtle gradient, completely free of distractions, props, text, logos, or furniture. The overall mood should resemble a high-end Vogue-style portrait campaign. Lighting should be soft professional studio lighting with a large diffused key light and subtle fill light, creating smooth skin tones, realistic facial contours, detailed fur texture, soft shadows, and natural catchlights in both subjects' eyes. Maintain cinematic depth, refined contrast, and a premium fine-art portrait feel. Captured with a professional full-frame camera, 85mm portrait lens, f/2.0 aperture, eye-level perspective, ultra-high resolution, shallow depth of field while keeping both faces perfectly sharp. Focus on realistic skin texture, detailed eyes, natural hair strands, lifelike fur, subtle cinematic color grading, neutral tones, and magazine-quality composition. Style: luxury editorial photography, premium pet portraiture, cinematic realism, minimalist luxury, timeless elegance, ultra-photorealistic, hyper-detailed, 8K HDR, award-winning photography. The final image should communicate elegance, warmth, companionship, quiet confidence, and a deep bond through simple, refined composition. Negative prompts: identity changes, face distortions, face-swapping errors, anatomy issues, extra limbs, duplicated paws, morphing, hybrid features, unrealistic proportions, AI artifacts, cartoon effects, painting styles, plastic skin, beauty-filter look, blurry eyes, low resolution, cluttered backgrounds, text, logos, watermarks, or awkward posing.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905984547_2mad15_HKNdmGpbMAA5IDc.jpg"
+      ],
+      "author": {
+        "name": "Nexora",
+        "link": "https://x.com/frametheory058"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24560"
+    },
+    {
+      "id": "24564",
+      "title": "Wet Look Fashion Portrait JSON",
+      "description": "A highly detailed, technical JSON-based prompt for a wet-look fashion portrait of Emily Rudd, emphasizing anatomical accuracy and high-fidelity textures.",
+      "content": "{\n  \"subject\": {\n    \"identity\": {\n      \"likeness_calibration\": \"{argument name=\"subject likeness\" default=\"A 100% high-fidelity physical and anatomical representation of Emily Rudd, capturing her specific facial morphology and genetic markers.\"}\",\n      \"features\": {\n        \"facial_structure\": \"Accurate representation of Emily Rudd's oval face shape, button nose, and defined jawline.\",\n        \"eyes\": \"Striking, clear blue-grey iris pattern (specific to Emily Rudd) with realistic light refraction and wet, detailed eyelashes.\",\n        \"expression\": \"A serious, composed, and neutral expression. No smile, maintaining a high-fashion editorial look.\",\n        \"hair\": \"Emily Rudd's signature dark brown hair (#2B1E16), presented in a heavy wet-look. The hair is slicked back, saturated with water, showing visible droplets and a high-gloss sheen, clinging to the neck and shoulders.\",\n        \"skin\": \"Wet, glistening skin texture with visible water droplets and a continuous moisture film. Natural skin pores and fine details are prioritized. Skin tone is a natural fair porcelain with a subtle sun-kissed glow (HEX: #F5E1D2), darkened and saturated by moisture.\"\n      }\n    },\n    \"body\": {\n      \"form\": {\n        \"structure\": \"A precise anatomical representation of Emily Rudd's fit and athletic hourglass physique.\",\n        \"definition\": \"Toned core and limb definition, glistening with water and reflecting dual light sources. Zero tolerance for anatomical artifacts or smoothing.\",\n        \"constraints\": {\n          \"zero_tolerance\": [\n            \"no anatomical artifacts\",\n            \"no extra limbs\",\n            \"no beautify smoothing\",\n            \"no distorted joints\"\n          ]\n        }\n      },\n      \"measurements\": {\n        \"waist_to_hip\": \"Accurate physical ratio maintained in the seated, cross-legged pose.\"\n      }\n    }\n  },\n  \"wardrobe\": {\n    \"primary\": {\n      \"item\": \"Criss-cross strap monokini with cutout design.\",\n      \"color\": \"{argument name=\"wardrobe color\" default=\"Vibrant Crimson Red (HEX: #B22222)\"}. The fabric is dark and saturated due to water, showing realistic weight and clinging properties.\",\n      \"details\": \"Central gold-tone metal ring connector (#D4AF37) at the solar plexus with high-gloss reflections.\"\n    },\n    \"accessories\": \"None.\"\n  },\n  \"pose_action\": {\n    \"description\": \"Seated on the edge of a light-colored stone pool coping (#D2D2D2). Legs are crossed and extended forward. The right hand rests on the coping. The pose maintains a structured, symmetrical skeletal alignment.\"\n  },\n  \"scene\": {\n    \"description\": \"Luxury resort pool area at night. Foreground features wet marble with reflection integrity for the red monokini and turquoise lights.\",\n    \"environment\": {\n      \"midground\": \"Turquoise illuminated pool water (#00CED1) with surface ripples. Symmetrical rows of light gray lounge chairs and closed umbrellas.\",\n      \"background\": \"Distant palm trees with warm uplighting\"\n    }\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905986026_g37nk7_HKNGJdtXUAANxyh.jpg",
+        "https://cms-assets.youmind.com/media/1780905986106_gesj4u_HKNGKXCWkAAprE_.jpg",
+        "https://cms-assets.youmind.com/media/1780905986101_x0p9en_HKNGLMDWoAEqhnd.jpg"
+      ],
+      "author": {
+        "name": "Pinodi",
+        "link": "https://x.com/PinodiArt"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24564"
+    },
+    {
+      "id": "24557",
+      "title": "Confident Sunset Beach Portrait",
+      "description": "A cinematic twilight shot of a man on the beach at dusk, featuring dramatic backlighting and warm sunset tones.",
+      "content": "A confident young bearded man stands anchoring the left-center of the composition, turned at a relaxed 45-degree angle with his thick, textured, wavy hair blown slightly by the coastal wind. He is dressed in a loose, unbuttoned light blue and white vertically striped shirt layered over a white tee, paired with white trousers, and accessorized with a thin silver chain resting on his chest. His left hand is relaxed and mostly out of frame, while his right hand, adorned with silver rings and a silver watch with a brown leather strap, is raised to his face. His index finger and thumb lightly grip the metallic bridge and top frame of his dark-tinted sunglasses in a deliberately posed yet natural gesture. Behind the dark lenses, his facial expression is composed and relaxed, with loosely closed lips conveying a quiet confidence. He is situated within a deep, expansive beach setting at dusk. In the immediate foreground, smooth, wet beach sand forms dark, reflective gradients from the receding water. Behind him, the midground opens up to an expansive ocean with active gentle surf, reflecting the vivid sky and leaving traces of white sea foam along the shoreline. The background sky stretches wide, accented by wispy clouds in the top left that catch the faint pink and orange light of the fading sun. A serene, moody twilight atmosphere dominates, driven by moderately directional, warm soft backlighting from the sun dipped just below the horizon, washing the sky in deep dusk purples and vibrant sunset oranges. This dramatic backlighting casts deep black, gradually edged shadows across the front of the subject that project toward the viewer, creating a high-contrast silhouette against the vibrant background. Subtle, golden highlights catch the distant horizon water, the metallic watch bezel, the rim of the sunglasses, and create a delicate rim light tracing the edges of his textured hair. Captured as realistic digital photography with a deep depth of field that separates the subject through luminous contrast rather than heavy blur, the scene embodies a minimal, lifestyle aesthetic shot straight-on. The post-processing features warm color grading, enhanced saturation on the sunset tones, slightly crushed shadows, and a slightly soft sharpness textured by atmospheric digital noise and film grain, all seamlessly framed in a 4:5 aspect ratio.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905982677_dtbg82_HKMyBr2XcAAVori.jpg"
+      ],
+      "author": {
+        "name": "Picts by AI",
+        "link": "https://x.com/pictsbyai"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24557"
+    },
+    {
+      "id": "24567",
+      "title": "Dining at LUMOS Restaurant",
+      "description": "A warm, golden-hour prompt for a scene of a woman enjoying a hamburger at an outdoor restaurant named 'LUMOS'.",
+      "content": "A {argument name=\"subject\" default=\"beautiful young woman with flowing brown hair\"} is sitting at an outdoor table of a restaurant named '{argument name=\"restaurant name\" default=\"LUMOS\"}', visibly eating a juicy hamburger she holds in both hands. She's smiling softly at the camera and wearing a {argument name=\"outfit\" default=\"crisp white button-down shirt tucked into denim shorts\"}. On the table, there's a wire basket filled with golden French fries, a metal cup of dipping sauce, a plate of crispy onion rings, and a glass with a layered chocolate milkshake and a red-and-white straw. The large, retro sign with big glowing letters reading 'LUMOS' is clearly visible above the restaurant in the background. The scene is bathed in warm, golden afternoon light, casting a cozy and inviting atmosphere. In the background, other people can be seen indistinctly, adding life to the setting.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905987625_p2w30h_HKMwc00boAITWql.jpg"
+      ],
+      "author": {
+        "name": "Noor",
+        "link": "https://x.com/noorlewisx"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24567"
+    },
+    {
+      "id": "24563",
+      "title": "Macro Cinematic Rugged Portrait",
+      "description": "A cinematic macro prompt focusing on hyper-realistic textures of a rugged man's face, with a focus on lighting and moisture detail.",
+      "content": "A macro cinematic 8K portrait of a {argument name=\"subject\" default=\"rugged man\"}, focusing on the {argument name=\"details\" default=\"intense, sharp detail of a single eye and iris\"}. His skin and thick beard are glistening with wetness, captured with extreme tactile texture. Individual wet strands of hair fall loosely across his face. Shot on a 50mm lens with a shallow depth of field. {argument name=\"lighting\" default=\"Dramatic, high-contrast chiaroscuro lighting\"}, where warm orange and golden hour highlights illuminate individual moisture droplets against deep, atmospheric shadows. Raw, photorealistic, and emotionally powerful.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905986485_tdfmpn_HKMj5knaAAED_hc.jpg"
+      ],
+      "author": {
+        "name": "Ahmad Faraz",
+        "link": "https://x.com/iamahmedfaraz66"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24563"
+    },
+    {
+      "id": "24558",
+      "title": "Luxury Gym Jogging Portrait",
+      "description": "A realistic vertical portrait of a woman jogging on a treadmill in a high-end gym, wearing branded athletic gear.",
+      "content": "Create a vertical portrait of {argument name=\"subject\" default=\"ana da armas\"} with fair skin tone dark brown voluminous silky hair is tied up in ponytail. She is doing jogging on a trademill in a {argument name=\"setting\" default=\"luxurious gym\"} wearing {argument name=\"outfit\" default=\"A black, short-sleeved Puma t-shirt\"} featuring the brand's logo in white across the chest. It has a classic crew neck and a fitted style. With light green athletic shorts. These are mid-thigh length, black colour puma sports shoes in her feet she is wearing a smart watch with black strap in her left hand wrist her appearance looks sweaty",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905983532_rownta_HKMOLvHbkAAJhuE.jpg"
+      ],
+      "author": {
+        "name": "Ali",
+        "link": "https://x.com/aiwithaly"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24558"
+    },
+    {
+      "id": "24568",
+      "title": "Fashion Street Butterfly Tee Portrait",
+      "description": "An editorial fashion prompt for a stylish woman in a butterfly graphic tee leaning against a rustic red door.",
+      "content": "Ultra-realistic fashion street photography of a stylish {argument name=\"subject\" default=\"young woman\"} leaning casually against a {argument name=\"door color\" default=\"rustic red wooden door\"} with metal handle, outdoors in soft natural daylight. She has long wavy black hair with subtle brown/red highlights, wearing amber-tinted square sunglasses and a delicate gold chain necklace. Outfit: {argument name=\"outfit\" default=\"oversized black t-shirt featuring a detailed butterfly graphic on the front, paired with loose-fit gray cargo pants\"}. Relaxed confident pose, slight smile, natural skin texture. Background is softly blurred traditional building courtyard with warm earthy tones. Shallow depth of field, cinematic composition, 85mm lens look, high detail, editorial fashion style, soft shadows, premium lifestyle aesthetic.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905987963_hy5g1c_HKMMi1jaoAEco8g.jpg"
+      ],
+      "author": {
+        "name": "ayzalnoor",
+        "link": "https://x.com/ayzalnooor24521"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24568"
+    },
+    {
+      "id": "24573",
+      "title": "Cyberpunk Historical Horse Racing",
+      "description": "A unique prompt combining modern horse racing at the Yasuda Kinen with historical battle elements in a cyberpunk style.",
+      "content": "{argument name=\"date\" default=\"June 7th\"} {argument name=\"event\" default=\"Horse Racing Yasuda Kinen\"} 1600 meters, 1600 Battle of Sekigahara, {argument name=\"style\" default=\"cyberpunk\"}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905990335_ckyiyt_HKMDNmBa8AAErJj.jpg"
+      ],
+      "author": {
+        "name": "クラリネットクラリオンNOBU",
+        "link": "https://x.com/NOBU79834619"
+      },
+      "language": "ja",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "24573"
+    },
+    {
+      "id": "24561",
+      "title": "Pastel Chalk Insect Knolling",
+      "description": "A top-down chalk art illustration of various insects and beetles in a grid layout on a lime-green background.",
+      "content": "a detailed layout of {argument name=\"subject\" default=\"various beetles and insects\"} created in a {argument name=\"style\" default=\"soft pastel chalk art style\"}, with subtle chalk dust and textured paper grain visible. Harmonious, gently blended colors on a {argument name=\"background\" default=\"lime-green background\"}, arranged in a precise knolling style grid of hand-drawn beetles and insects, with one large, intricately rendered beetle in the center acting as the focal point, high-resolution illustration, clean negative space, top-down view.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905983936_3w3qrl_HKIEo3HWIAAIUwY.jpg"
+      ],
+      "author": {
+        "name": "Heather Green",
+        "link": "https://x.com/heathergreen"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Infographic / Edu Visual"
+      ],
+      "youmindId": "24561"
     },
     {
       "id": "24381",
@@ -1064,26 +1097,6 @@
         "Infographic / Edu Visual"
       ],
       "youmindId": "20996"
-    },
-    {
-      "id": "21016",
-      "title": "Watercolor Travel Poster Fusion",
-      "description": "A watercolor travel poster in a detailed sketch style that seamlessly blends the historical architecture of Murree with the modern urban identity of Toronto.",
-      "content": "An AI-generated watercolor travel poster in a detailed sketch style by \"A. Moreau 2024, TRAVELSKETCH.\" The artwork features a bustling, historic street scene filled with people, a {argument name=\"subject\" default=\"couple walking a Shiba Inu dog\"} in the foreground, and patrons sitting outside a cafe. The background seamlessly blends the colonial hill-station charm of {argument name=\"first location\" default=\"Murree\"}—complete with wooden balconies, a red double-decker bus, a horse handler, and a distant church spire—with the urban identity of {argument name=\"second location\" default=\"Toronto\"}, showcasing modern skyscrapers, the CN Tower, and a red TTC streetcar on King Street. The text at the top reads \"A JOURNEY through HIDDEN LANES & CHARACTER\" in elegant typography.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1779090358858_sm6gow_HIgfoSoXgAAlUWk.jpg",
-        "https://cms-assets.youmind.com/media/1779090358220_14lvaw_HIgfoWWWQAAwxmM.jpg"
-      ],
-      "author": {
-        "name": "Minahil",
-        "link": "https://x.com/Minahil42298354"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Infographic / Edu Visual"
-      ],
-      "youmindId": "21016"
     },
     {
       "id": "22005",
@@ -1852,6 +1865,125 @@
       "youmindId": "23373"
     },
     {
+      "id": "24562",
+      "title": "Retro Fashion Editorial Portrait",
+      "description": "A high-fashion editorial prompt for creating a vintage-inspired portrait featuring distinctive fruit-themed patterns and surreal styling, perfect for advertising photography.",
+      "content": "a retro inspired fashion editorial portrait of a {argument name=\"subject\" default=\"Boy\"} against a soft beige background. She is wearing a vintage style sleeveless {argument name=\"outfit\" default=\"Apple dress\"} with a white collar like a scarf detail, and big mango prints. On her head, a decorative big Red hat with {argument name=\"hat decoration\" default=\"two big Apple prints and Pink roses\"} wrapped around the hat’s rim. He is holding the juice pack from the reference image near her lips. Elegant pose, confident expression, red lipstick, softly curled hair styled in a classic retro wave. Clean white background, studio lighting, smooth skin texture, vibrant yet balanced color palette, sharp focus, high fashion advertising photography, surreal fruit styling, ultra detailed, cinematic lighting, professional product shoot, hyper realistic, 4K quality and image size 4 5.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905985737_ipkdr7_HKLbNxZakAAWKE0.jpg"
+      ],
+      "author": {
+        "name": "Maddox",
+        "link": "https://x.com/Maddox_Digital"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "24562"
+    },
+    {
+      "id": "24393",
+      "title": "Surreal Ocean Light Gathering Portrait",
+      "description": "A surreal and dreamy portrait prompt of a woman gathering threads of light from the ocean, featuring a soft pastel palette and high-fashion elements.",
+      "content": "A straight-on medium shot frames a young woman in her {argument name=\"age\" default=\"early 20s\"} with striking model-like features, standing waist-deep in calm pastel ocean water under soft hazy overcast light. The water is a gentle pastel teal and seafoam, the surface dusted with countless soft pale sunlight glimmers drifting across it. She performs an impossible, calmly deadpan act: she holds both hands cupped open just above the water, and the soft glimmers on the surface around her are drifting inward, streaming toward her palms in fine pale threads of light and condensing into a single small smooth glowing sphere of warm fire-yellow light hovering just above her cupped hands, the one saturated point in an otherwise pastel frame. Where the light has gathered, the water immediately around her softens a shade paler. She regards the captured light with a cool, relaxed, dreamy expression, head tilted gently toward it, unbothered, as if gathering light is simply something she does. Her dark hair is wet and slicked back, heavy with water, a few loose strands dripping and falling across one side of her face, half-veiling it. She wears a {argument name=\"outfit\" default=\"draped halter-neck blouse in soft pastel butter-yellow silky fabric\"}, the neckline a gathered twist-halter wrapping the neck and crossing at the chest, draping in loose folds, sleeveless with bare shoulders and open back. Below she wears a very short micro mini skirt covered in chunky pale yellow and soft gold sequins and iridescent pastel paillettes, gently shimmering, the hem sitting high on the thigh. Layered delicate gold jewelry: stacked thin bangles, a fine gold chain at the neck, slim gold rings, all soft and muted. Soft glossy lips, dewy pale skin. The background is open pastel ocean, pale seafoam teal blending into a hazy whitish sky, the horizon barely visible, soft and diffuse. Gentle overcast daylight, no harsh shadows, even soft illumination, a dreamy high-key haze over everything. The palette is dominated by soft butter-yellow and the single warm fire-yellow of the captured light, pale gold sequins, dewy skin, set against pastel seafoam teal, soft peach and cream. Modern digital camera, soft focus, gentle muted colors, natural proportions. Deadpan surreal and softly dreamlike, a girl quietly gathering light off a pastel sea.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780818195493_o0saww_HKJf_J7WkAA1If9.jpg",
+        "https://cms-assets.youmind.com/media/1780818195521_0usmj5_HKJgEruWsAAhEAq.jpg"
+      ],
+      "author": {
+        "name": "Özge Döner",
+        "link": "https://x.com/astronomerozge1"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "24393"
+    },
+    {
+      "id": "24368",
+      "title": "Industrial Sports Editorial Portrait",
+      "description": "Dramatic cinematic sports photography of a footballer in an abandoned warehouse with volumetric lighting.",
+      "content": "Ultra-realistic cinematic portrait of a young male footballer standing in an abandoned industrial warehouse, wearing a white professional soccer jersey with gold shoulder stripes and dark trim. Dramatic split lighting with a narrow beam of sunlight cutting across the face and torso, creating strong contrast and deep shadows. Confident expression, direct eye contact, athletic build, short textured hair, subtle stubble. Moody atmosphere with dust particles in the air, weathered concrete walls, shallow depth of field, high-end sports editorial photography, photorealistic skin texture, sharp focus on the face, soft background bokeh, volumetric lighting, 85mm lens, f/1.8, HDR, premium commercial sports campaign, ultra-detailed, 8K Ultra-realistic fashion portrait of a confident young woman wearing a blue and garnet FC Barcelona football jersey with sponsor logo, standing in an industrial urban alley beneath a concrete overpass. Dramatic cinematic lighting with strong sunlight cutting across the scene, deep shadows, high contrast, moody atmosphere. Long wavy black hair, natural makeup, direct gaze, powerful expression. Shot from a slightly low angle, centered composition, shallow depth of field, professional editorial photography, streetwear campaign aesthetic, ultra-detailed skin texture, sharp focus, HDR, 85mm lens, f/1.8, photorealistic, magazine cover quality, volumetric light, dark background, rich colors.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780818182841_otmsrb_HKJVgBrbMAAnwRv.jpg",
+        "https://cms-assets.youmind.com/media/1780818182800_duud3m_HKJVgCuaAAAj9WW.jpg"
+      ],
+      "author": {
+        "name": "Aijaz",
+        "link": "https://x.com/iamsofiaijaz"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "24368"
+    },
+    {
+      "id": "24397",
+      "title": "Luxury Gym Locker Room Portrait",
+      "description": "An ultra-realistic wellness campaign style prompt for a fitness portrait in a high-end locker room environment.",
+      "content": "{ \"prompt\": \"Ultra-realistic fitness lifestyle portrait of a young woman with long copper-red hair styled in a high ponytail, posing in a modern luxury gym locker room. She wears a {argument name=\"outfit top\" default=\"sage-green athletic crop tank\"} and light gray high-waisted performance shorts. Natural makeup, healthy glowing skin, soft smile, and confident post-workout energy. She is leaning casually against a sleek black countertop in front of a large illuminated mirror. The locker room features dark wood lockers, warm ambient lighting, premium finishes, and a clean upscale fitness-club aesthetic. Professional fitness photography, realistic skin texture, natural body proportions, shallow depth of field, contemporary wellness campaign, highly detailed, photorealistic, premium athletic brand style.\", \"negative_prompt\": \"blurry, low quality, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered background, harsh shadows, overexposed highlights\", \"style\": \"photorealistic\", \"camera\": { \"lens\": \"85mm\", \"aperture\": \"f/2.0\", \"angle\": \"three-quarter portrait\", \"depth_of_field\": \"shallow\" }, \"lighting\": { \"type\": \"luxury indoor gym lighting\", \"direction\": \"soft front and overhead illumination\", \"mood\": \"fresh, confident, wellness-focused\" }, \"composition\": { \"framing\": \"vertical portrait\", \"subject_position\": \"foreground beside vanity counter\", \"background\": \"premium locker room with wood lockers and illuminated mirrors\" }, \"quality\": { \"resolution\": \"8k\", \"detail\": \"ultra high\", \"realism\": \"maximum\" } }",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780818198485_grawja_HKJQyhwasAASmYz.jpg"
+      ],
+      "author": {
+        "name": "Miz",
+        "link": "https://x.com/mizq06"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "24397"
+    },
+    {
+      "id": "24406",
+      "title": "Moody Cinematic Male Portrait",
+      "description": "A comprehensive prompt including outfit, hair, and lighting details for a moody Korean/Japanese aesthetic cinematic portrait.",
+      "content": "Moody cinematic portrait of a young man standing against a textured wall, looking down with a melancholic expression. Messy wavy black hair falling over his eyes. He wears an {argument name=\"shirt\" default=\"oversized dark charcoal shirt\"} with a {argument name=\"tie\" default=\"loose dark brown tie\"}, black relaxed trousers, and a silver watch. Hands in pockets, body slightly leaning on the wall. {argument name=\"lighting\" default=\"Warm golden side lighting\"} from the right casting deep shadows and a strong shadow on the wall. Korean/Japanese cinematic aesthetic, muted earthy tones, vintage film grain, shallow depth of field, soft contrast, ultra realistic 4K. OUTFIT DETAILS SHIRT Oversized fit Dark charcoal color Cotton fabric One chest pocket Slightly wrinkled texture TIE Dark brown Loose knot Matte texture Medium width TROUSERS Black or very dark charcoal Relaxed fit Pleated front Slightly loose ACCESSORIES Silver wrist watch No other accessories HAIR & GROOMING Messy wavy black hair Natural textured look Light facial hair (mustache) Clean but effortless style SETTINGS & LIGHTING Indoor against textured wall Warm golden side light (from right) Strong shadow on wall Low key, moody atmosphere CAMERA & STYLE 50mm lens look Shallow depth of field Cinematic color grading Vintage film grain Soft contrast, muted tones Ultra realistic 4K",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780818202572_bsxem9_HKJIfAVasAAwsAF.jpg",
+        "https://cms-assets.youmind.com/media/1780818202613_dwpu3b_HKJIfH1bkAAB6_X.jpg"
+      ],
+      "author": {
+        "name": "Harboris",
+        "link": "https://x.com/harboriis"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "24406"
+    },
+    {
+      "id": "24362",
+      "title": "Beach Fashion Swimsuit Editorial",
+      "description": "Generate an ultra-high-resolution 4K fashion portrait featuring a metallic swimsuit on a beach during golden hour with high facial accuracy.",
+      "content": "Use the provided reference image and preserve the subject's exact facial structure, identity, skin texture, eye shape, eyebrow shape, nose, lips, jawline, hairstyle, expression, and overall likeness with maximum realism and facial accuracy. Create an ultra-high-resolution 4K fashion-editorial beach portrait. The woman is standing gracefully in shallow ocean water during golden hour, facing directly toward the camera with a confident, elegant, and captivating expression. Her wet dark hair is naturally slicked back, with water droplets visible on her face, shoulders, arms, and body. Skin tone appears fair, luminous, healthy, and naturally radiant while maintaining realistic skin texture and photographic authenticity. She wears a {argument name=\"swimsuit style\" default=\"sleek metallic silver one-piece swimsuit\"} with a reflective chrome-like finish, subtle highlights, and premium luxury-fashion aesthetics. Both hands are positioned behind her head, elbows extended outward, creating a powerful and symmetrical composition. Multiple polished silver bangles adorn both wrists, catching warm sunlight reflections. Ocean water splashes dynamically around her legs and hips, frozen in crystal-clear detail with realistic droplets and motion. The sea extends softly into the background with natural horizon visibility and cinematic depth. Warm sunset lighting creates golden highlights on the skin and swimsuit while maintaining balanced shadows and realistic contrast. Ultra-detailed DSLR photography, professional fashion magazine quality, luxury editorial campaign style, hyper-realistic rendering, natural skin pores, realistic wet skin reflections, high dynamic range, sharp focus on face and eyes, shallow depth of field, premium color grading, cinematic atmosphere, physically accurate lighting, advanced photorealism, award-winning photography aesthetics, Vogue-inspired beach fashion shoot, luxury glamour portrait, ultra-clean composition, realistic water physics, enhanced facial clarity, natural body proportions, detailed reflections, crisp textures, and 4K ultra-HD output quality.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780818180512_fpa2y1_HKJH-ZVaEAAFyGw.jpg",
+        "https://cms-assets.youmind.com/media/1780818180432_uae9tx_HKJH-fAbAAA3iau.jpg",
+        "https://cms-assets.youmind.com/media/1780818180460_ne87be_HKJH-u0bkAEa4HN.jpg"
+      ],
+      "author": {
+        "name": "Sadie 🥀",
+        "link": "https://x.com/NameIsSudee"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "24362"
+    },
+    {
       "id": "24377",
       "title": "Ana de Armas Marble Bathroom Vanity",
       "description": "A cinematic, high-fashion portrait of a woman in a luxurious marble bathroom setting, featuring warm vanity lighting and natural textures.",
@@ -1931,128 +2063,6 @@
       "youmindId": "24400"
     },
     {
-      "id": "24376",
-      "title": "Avant-Garde High-Angle Editorial Fashion",
-      "description": "A complex editorial fashion prompt for a cyberpunk royalty aesthetic featuring a couture bustier and ornate crown at an extreme high angle.",
-      "content": "{\n  \"image_prompt\": {\n    \"subject\": {\n      \"appearance\": {\n        \"identity\": \"{argument name=\"identity\" default=\"Dakota Johnson\"}\",\n        \"facial_features\": \"sharp jawline, ruler intense eyes, naturally glossy lips, elegant facial structure\",\n        \"hair\": {\n          \"color\": \"deep espresso brunette\",\n          \"style\": \"silky straight hair with subtle layered movement\"\n        },\n        \"skin\": \"warm fair skin tone with realistic cinematic texture\",\n        \"physical_details\": [\n          \"metallic gold manicured nails\",\n          \"defined collarbones\",\n          \"ornamental fine-line tattoos on forearms and lower abdomen\"\n        ]\n      },\n      \"expression\": \"relaxed but powerful editorial gaze looking upward into the lens\"\n    },\n    \"attire\": {\n      \"garment\": {\n        \"top\": \"{argument name=\"top\" default=\"burgundy structured couture bustier-inspired fashion top\"} with sculpted tailoring, gold crystal embellished straps, reflective metallic detailing, and luxury couture textures\",\n        \"bottom\": \"matching burgundy high-waisted mini skirt with gold sequined side panels and gemstone accents\",\n        \"styling\": \"luxury cyberpunk royalty aesthetic with avant-garde fashion styling and jewel-encrusted couture elements\"\n      }\n    },\n    \"accessories\": {\n      \"headwear\": \"{argument name=\"crown\" default=\"ornate oversized silver-and-gold crown\"} with polished gemstones and diamonds\",\n      \"necklaces\": [\n        \"thick diamond choker\",\n        \"layered luxury gemstone chains\",\n        \"gold diamond pendant engraved with 'Keor'\"\n      ],\n      \"bracelets\": \"matching diamond chain bracelets\",\n      \"footwear\": \"gold crystal-encrusted open-toe heels\"\n    },\n    \"pose\": {\n      \"stance\": \"standing with slight forward lean in a bold editorial pose\",\n      \"camera_relationship\": \"captured from an extreme top-down fashion perspective\"\n    },\n    \"setting\": {\n      \"environment\": \"minimalist luxury studio with oversized Goya-inspired paintings filling the backdrop\",\n      \"background_details\": [\n        \"burgundy-to-gold cinematic gradient\",\n        \"reflective polished floor\",\n        \"soft dramatic shadowing\"\n      ]\n    },\n    \"photography_style\": {\n      \"aesthetic\": \"high-fashion avant-garde editorial photography\",\n      \"lighting\": \"strong overhead cinematic lighting with sharp reflections on crystals and metallic details\",\n      \"composition\": \"extreme high-angle editorial framing with subtle foreshortening effect\",\n      \"focus\": \"sharp focus on face, couture outfit, and jewelry textures\"\n    },\n    \"quality\": {\n      \"rendering\": \"ultra photorealistic 8k luxury fashion realism\",\n      \"avoid\": [\n        \"anime\",\n        \"cartoon\",\n        \"plastic skin\",\n        \"distorted anatomy\",\n        \"watermark\"\n      ]\n    }\n  }\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818185473_td0i4y_HKH9I54aEAAd7Ir.jpg",
-        "https://cms-assets.youmind.com/media/1780818185447_6olsur_HKH7QAnacAEkb-0.jpg",
-        "https://cms-assets.youmind.com/media/1780818185423_l92nk4_HKIEFvvaIAAwp-p.jpg"
-      ],
-      "author": {
-        "name": "ANKIT PATEL 🇮🇳 | AI",
-        "link": "https://x.com/Ankit_patel211"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "24376"
-    },
-    {
-      "id": "24392",
-      "title": "Editorial Beauty Cobalt Eyeliner Shot",
-      "description": "A sophisticated editorial beauty photography prompt for Nano Banana 2, emphasizing realistic skin texture, analog film aesthetics, and bold graphic makeup.",
-      "content": "\"identity\": \"same woman in every frame: {argument name=\"age\" default=\"late 20s\"}, warm olive-tan skin, oval face, strong dark groomed brows, deep brown almond eyes, straight nose, full natural lips, small beauty asymmetry, jet-black hair, natural skin texture with real pores and faint freckles, no retouch\" {\n  \"medium\": \"analog editorial beauty photograph\",\n  \"camera\": \"85mm lens, f/2, sharp on eyes\",\n  \"film_stock\": \"Kodak Portra 400, fine grain, soft halation\",\n  \"grade\": \"clean warm neutral with one saturated color accent, soft contrast\",\n  \"identity\": \"same woman: late 20s, warm olive-tan skin, oval face, strong dark groomed brows, deep brown almond eyes, straight nose, full natural lips, small beauty asymmetry, jet-black hair, natural skin texture with real pores and faint freckles, no retouch\",\n  \"scene\": \"tight beauty close-up against a warm sand backdrop\",\n  \"beauty\": \"{argument name=\"makeup style\" default=\"bold cobalt-blue graphic liner\"} swept past the outer corner, clean matte skin, soft mauve lip, brushed brows, a single tiny crystal at the inner eye\",\n  \"hair\": \"wet-look slicked straight back, glossy\",\n  \"accessories\": \"oversized silver geometric ear cuff on one side\",\n  \"light\": \"soft key with crisp catchlight, subtle warm rim\",\n  \"composition\": \"three-quarter crop, chin slightly lowered, eyes to lens\",\n  \"palette\": \"sand, cobalt blue, mauve, silver\",\n  \"rule\": [\"real skin texture\", \"natural asymmetry\", \"crisp liner edge but real skin underneath\"],\n  \"forbid\": [\"plastic skin\", \"perfect symmetry\", \"CGI sheen\", \"magazine retouch\"],\n  \"negative_prompt\": \"waxy skin, airbrushed, doll-like, oversmooth, HDR, 3d render, neon saturation\"\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818193692_pxoep8_HKHrAZZWYAA5NVI.jpg"
-      ],
-      "author": {
-        "name": "Özge Döner",
-        "link": "https://x.com/astronomerozge1"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "24392"
-    },
-    {
-      "id": "24375",
-      "title": "Photorealistic Lifestyle Portrait with Red Heels",
-      "description": "A photorealistic lifestyle shot of a woman in a white long-sleeve top and glossy red heels, featuring custom embroidery details.",
-      "content": "{\n  \"image_description\": \"A highly detailed, photorealistic image of a beautiful young woman with {argument name=\"hair color\" default=\"long, straight light brown hair\"}, fair skin, and natural makeup with glossy lips. She is sitting relaxed on a light-colored couch in a bright modern room, with her legs raised and crossed, prominently displaying a pair of {argument name=\"shoe color\" default=\"glossy bright red\"} pointed-toe high heels. She wears a simple {argument name=\"top color\" default=\"white\"} long-sleeve top. Her expression is playful and engaging as she looks toward the camera with her mouth slightly open.\",\n  \"composition\": \"Medium full-body shot from a low angle, focusing on her pose, legs, red heels, and upper body. Soft, bright natural indoor lighting creates gentle highlights on skin and the shiny red heels, giving a fresh and elegant atmosphere.\",\n  \"details\": {\n    \"woman\": \"Attractive woman in her early-to-mid 20s, slim and toned build, long straight light brown hair, warm and playful expression.\",\n    \"clothing\": \"White long-sleeve top, bright red glossy pointed-toe high heels.\",\n    \"environment\": \"Modern indoor living space with light walls, couch, and decorative plant elements in the background.\",\n    \"props\": \"None additional.\"\n  },\n  \"modifications\": {\n    \"additions\": \"Add a small, elegant embroidered sign reading 'Keor' in delicate cursive script on the visible border or hem of her white top. Place it realistically along the lower hem or sleeve cuff using fine white or metallic thread that blends naturally as a subtle, high-end custom detail.\"\n  },\n  \"style\": \"Photorealistic, high-resolution lifestyle/glamour photography, soft natural lighting, sharp focus on the woman and her red heels, realistic fabric and skin textures, playful and confident mood.\",\n  \"technical\": {\n    \"resolution\": \"8K\",\n    \"aspect_ratio\": \"portrait\",\n    \"quality\": \"Extremely detailed hair strands, skin texture, glossy red heel reflections, fabric details on the white top, and subtle embroidered 'Keor' sign.\"\n  },\n  \"full_prompt\": \"Photorealistic portrait of a beautiful woman with long light brown hair sitting on a couch with legs raised and crossed, wearing a white long-sleeve top and bright red glossy high heels, playful expression, soft indoor lighting, add subtle embroidered 'Keor' on the border hem of the white top --ar 2:3 --v 6 --q 2 --stylize 250\"\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818185084_m3acqz_HKHq5Z7XIAAIRTx.jpg",
-        "https://cms-assets.youmind.com/media/1780818185116_n98zdm_HKHq5h_XAAEvUUE.jpg",
-        "https://cms-assets.youmind.com/media/1780818185096_tilnz3_HKHq5tHXgAE2BS7.jpg",
-        "https://cms-assets.youmind.com/media/1780818185767_i620eq_HKHq5xXWYAAayOS.jpg"
-      ],
-      "author": {
-        "name": "KeorUnreal",
-        "link": "https://x.com/KeorUnreal"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "24375"
-    },
-    {
-      "id": "24407",
-      "title": "Golden Hour Riverside Portrait",
-      "description": "A structured lifestyle portrait prompt for a woman in leisurewear at a waterfront during sunset, emphasizing lighting and atmospheric effects.",
-      "content": "{ \"prompt\": \"Ultra-realistic lifestyle portrait of a young woman with long wavy red hair sitting casually on a wooden riverside bench during golden hour. She wears a soft lavender velour tracksuit (zip-up hoodie and joggers) with clean white sneakers. She is smiling warmly at the camera with her head resting gently on one hand. The scene takes place on a modern waterfront promenade with cyclists and pedestrians in the background. A city skyline rises across the river, featuring a tall telecommunications tower. Warm sunset light creates beautiful rim lighting in her hair and long shadows across the pavement. Subtle film-burn effect along the left edge of the frame, shallow depth of field, natural skin texture, realistic facial features, editorial travel photography, candid urban lifestyle aesthetic, highly detailed, photorealistic.\", \"negative_prompt\": \"blurry, low quality, distorted face, extra limbs, extra fingers, bad anatomy, overprocessed skin, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noise, duplicate people, cropped feet, unnatural pose\", \"style\": \"photorealistic\", \"camera\": { \"lens\": \"85mm\", \"aperture\": \"f/2.0\", \"angle\": \"slightly low eye-level portrait\", \"depth_of_field\": \"shallow\" }, \"lighting\": { \"type\": \"golden hour sunlight\", \"direction\": \"backlit with warm side fill\", \"mood\": \"friendly, relaxed, cinematic\" }, \"composition\": { \"framing\": \"vertical portrait\", \"subject_position\": \"center foreground seated on bench\", \"background\": \"riverfront promenade, cyclists, skyline, telecommunications tower\" }, \"quality\": { \"resolution\": \"8k\", \"detail\": \"ultra high\", \"realism\": \"maximum\" } }",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818202772_17coex_HKHpJOkbMAAIoOQ.jpg",
-        "https://cms-assets.youmind.com/media/1780818202651_22smzh_HKHpJWua8AAoB1Y.jpg",
-        "https://cms-assets.youmind.com/media/1780818202654_i21wn4_HKHpJfEbkAAr6n8.jpg",
-        "https://cms-assets.youmind.com/media/1780818203639_k62fjq_HKHpJkLbUAAE9F-.jpg"
-      ],
-      "author": {
-        "name": "Sadie 🥀",
-        "link": "https://x.com/NameIsSudee"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "24407"
-    },
-    {
-      "id": "24403",
-      "title": "Fashion Editorial 3D Block Letter Shot",
-      "description": "A high-fashion studio prompt for a stylized editorial shot featuring a model posing on large 3D letters.",
-      "content": "A high-fashion professional studio photoshoot of a stylish girl with {argument name=\"hair style\" default=\"long dark hair tied in a high, sleek ponytail\"}, keeping a consistent facial identity. She is wearing a {argument name=\"clothing\" default=\"trendy, oversized black t-shirt\"} with the text \"{argument name=\"printed text\" default=\"AIwithkinza\"}\" subtly printed on the front, black jogger pants, and chunky black streetwear sneakers. She wears round dark sunglasses and a delicate gold chain necklace with an \"S\" initial pendant. The girl is confidently posing, sitting on top of large, black, 3D block letters that spell out the name \"KINZA\". Shot on an 85mm lens, f/1.8, dramatic studio lighting with deep shadows, cinematic and high-contrast editorial look, hyper-realistic texture. At the bottom corner, a subtle watermark text reads \"Kinza \". --ar 3:4",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818201574_p52azb_HKHmq1yaEAAdyEM.jpg"
-      ],
-      "author": {
-        "name": "𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜",
-        "link": "https://x.com/AiwithKinza"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "24403"
-    },
-    {
-      "id": "24409",
-      "title": "High Fashion Alpine Magazine Portrait",
-      "description": "A high-fashion magazine pictorial prompt featuring a woman in an Alpine setting with urban motion blur background.",
-      "content": "A high fashion magazine pictorial of an {argument name=\"subject\" default=\"Alpine-looking woman\"} in her {argument name=\"age\" default=\"early 20s\"} who stands still, looking at the camera, turning her head in the center, surrounded by a blurry silhouette of people passing",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818204645_qy2sez_HAxCVKCaAAE3r_e.jpg"
-      ],
-      "author": {
-        "name": "なぁさん｜AIソロプレナー",
-        "link": "https://x.com/nasan_0422"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "24409"
-    },
-    {
       "id": "24369",
       "title": "Pakistani Maxi Gown Fashion",
       "description": "Elegant studio fashion photography featuring intricate traditional Pakistani embroidery and cinematic lighting.",
@@ -2067,28 +2077,9 @@
       "language": "en",
       "featured": false,
       "categories": [
-        "Product Marketing"
+        "E-commerce Main Image"
       ],
       "youmindId": "24369"
-    },
-    {
-      "id": "24398",
-      "title": "Vintage Record Store Owner Editorial",
-      "description": "An extremely detailed, identity-preserving prompt for Gemini Nano Banana 2 that transforms a reference image into a cinematic portrait of a record store owner.",
-      "content": "Create an ultra-photorealistic cinematic portrait featuring the woman from the uploaded image, preserving her exact facial identity, facial proportions, skin tone, eye shape, and unique characteristics while transforming her into a charismatic owner of a {argument name=\"setting\" default=\"vintage record store\"} hidden inside a historic European neighborhood.\n\nCOMPOSITION IS ABSOLUTELY CRITICAL.\n\nThe woman must occupy approximately 75-80% of the frame and remain the undeniable focal point of the image. This is an intimate lifestyle editorial portrait, not an interior design photograph.\n\nThe camera is positioned close to the subject using a medium-format camera and an 85mm portrait lens. Frame her from the waist up. Her face must be rendered with extraordinary realism and detail. Every eyelash, eyebrow hair, skin pore, eye reflection, subtle facial contour, lip texture, and individual strand of hair should be visible. The image should feel personal, warm, and immersive.\n\nThis character is completely different from previous prompts.\n\nShe is a creative entrepreneur, music lover, collector of rare vinyl records, and someone known in her neighborhood for impeccable taste and an interesting personality. She spends her days curating music, recommending albums, and hosting intimate live performances inside her shop.\n\nHer personality is warm, artistic, approachable, witty, and effortlessly stylish.\n\nHer hairstyle is a {argument name=\"hair style\" default=\"chic French bob\"} with soft natural texture. The haircut frames her face beautifully and feels fashionable without trying too hard. A few strands fall naturally around her cheeks, giving the portrait a relaxed authenticity.\n\nHer makeup is soft and vintage-inspired.\n\nLight skin-enhancing makeup.\n\nNatural rosy cheeks.\n\nSubtle eyeliner.\n\nMuted berry-colored lips.\n\nHealthy natural skin texture.\n\nNo excessive glamour.\n\nShe wears an oversized vintage denim jacket layered over a graphic band T-shirt featuring a faded retro design. The denim displays authentic texture, worn edges, stitching details, and years of character. Several enamel pins, music-themed badges, and artistic accessories personalize the jacket.\n\nA pair of round vintage glasses rests casually on top of her head.\n\nSeveral silver rings and layered necklaces add individuality.\n\nThe setting is a beautifully curated independent record store.\n\nWooden shelves filled with vinyl albums stretch into the softly blurred background.\n\nWarm Edison bulbs hang from the ceiling.\n\nVintage concert posters decorate exposed brick walls.\n\nRecord players, speakers, books, film cameras, and small plants fill the space with personality.\n\nStacks of records and handwritten recommendation cards create the feeling of a genuinely lived-in creative environment.\n\nThe lighting is rich and atmospheric.\n\nWarm amber light from vintage lamps illuminates her face.\n\nSoft daylight enters through the front shop window.\n\nTiny reflections bounce from vinyl covers and polished wood surfaces.\n\nThe combination creates a nostalgic, coz",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780818198391_6kou2d_HKGY5NVbUAAWhi4.jpg"
-      ],
-      "author": {
-        "name": "VireonixArt",
-        "link": "https://x.com/vireonixx"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "24398"
     },
     {
       "id": "24077",
@@ -2443,6 +2434,25 @@
       "youmindId": "18500"
     },
     {
+      "id": "24572",
+      "title": "Artistic Cyberpunk Neon Megacity",
+      "description": "A prompt for generating a futuristic cyberpunk scene featuring a neon-lit transit control nexus within a sprawling megacity.",
+      "content": "A {argument name=\"setting\" default=\"neon megacity transit control nexus\"} in an {argument name=\"style\" default=\"artistic cyberpunk style\"}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1780905989849_hezwee_HKOMptmaUAAX72n.png"
+      ],
+      "author": {
+        "name": "sayobonita",
+        "link": "https://x.com/sayobonito"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "24572"
+    },
+    {
       "id": "24395",
       "title": "Whimsical Chibi Mocha Frappe Cup",
       "description": "A whimsical 3D rendering prompt featuring a cute chibi girl sitting on a mocha frappe cup, presented as a first-person phone snapshot.",
@@ -2498,25 +2508,6 @@
         "Game Asset"
       ],
       "youmindId": "24226"
-    },
-    {
-      "id": "23888",
-      "title": "Character Figure Product Photography Setup",
-      "description": "A prompt to transform a photo into a character figure unboxing scene, including packaging and 3D modeling screens.",
-      "content": "8K ultra-realistic cinematic. Turn this photo into a {argument name=\"target\" default=\"character figure\"}. Behind it, place a box with the character's image printed on it, and a computer showing the blender modeling process on its screen. In front of the box, and a round plastic base with the character figure standing on it. Set the scene indoors",
-      "images": [
-        "https://cms-assets.youmind.com/media/1780560149336_xupf7x_HJ4wjUta8AAE5US.jpg"
-      ],
-      "author": {
-        "name": "Maddox",
-        "link": "https://x.com/Maddox_Digital"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "23888"
     }
   ],
   "categories": [
