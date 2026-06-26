@@ -163,6 +163,44 @@
       "youmindId": "811"
     },
     {
+      "id": "26641",
+      "title": "Elegant woman in glittery navy dress",
+      "description": "A sophisticated prompt creating a vertical portrait of a woman in a shimmering navy dress set within a moody, classically decorated room.",
+      "content": "A vertical, over-the-shoulder portrait of a {argument name=\"subject\" default=\"young woman\"} with a {argument name=\"hairstyle\" default=\"classic black bob haircut\"}. She is looking back toward the camera with a serious, captivating expression. She wears an elegant, high-neck, {argument name=\"dress\" default=\"navy blue shimmery dress\"} featuring a texture that catches the light like fine glitter. The background is a moody, dimly lit room with ornate navy blue damask wallpaper, featuring a dark carved wood frame and subtle classical decor pieces on a surface behind her, creating a sophisticated and atmospheric setting.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782372809872_4q93zb_HLl1vKCXgAASCos.jpg"
+      ],
+      "author": {
+        "name": "Minahil",
+        "link": "https://x.com/Minahil42298354"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "26641"
+    },
+    {
+      "id": "26640",
+      "title": "High-contrast black and white intense male portrait",
+      "description": "A striking prompt for generating a high-contrast black and white portrait of a man with a beard and sunglasses, focusing on intense expressions and dramatic directional lighting.",
+      "content": "A close-up, high-contrast black and white portrait of a {argument name=\"subject\" default=\"man\"} looking directly into the camera with an intense expression. He has thick, voluminous messy dark hair, a neatly trimmed beard, and a mustache. He is wearing {argument name=\"eyewear\" default=\"dark aviator-style sunglasses\"} with a double bridge bar, which he lowers slightly down his nose with his right hand, peering directly over the top rims. On the ring finger of his right hand, he wears a prominent {argument name=\"accessory\" default=\"square signet ring\"} with a dark center inlay. He is dressed in a dark button-up shirt, left open at the collar to reveal a hint of his chest. The background is a dark, out-of-focus brick wall with faint horizontal lines. The lighting is soft and directional, coming from the front-top oblique angle, highlighting his forehead, nose bridge, and knuckles while leaving the rest of the scene in deep shadow.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782372809922_wnuhh0_HLlTHrmW4AAyu9V.jpg"
+      ],
+      "author": {
+        "name": "Heisenberg",
+        "link": "https://x.com/rovvmut_"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "26640"
+    },
+    {
       "id": "26479",
       "title": "Sultry Close-Up Portrait with POV Angle",
       "description": "A high-contrast close-up prompt for creating a moody, filmic portrait of a woman applying makeup, featuring dramatic lighting and a modern smartphone camera aesthetic.",
@@ -499,46 +537,6 @@
       "youmindId": "26327"
     },
     {
-      "id": "26326",
-      "title": "Professional High-Resolution ID Photo",
-      "description": "A prompt for creating clean, professional-quality ID photos with centered composition and natural lighting, ideal for business or official use.",
-      "content": "Create a professionally shot, high-resolution {argument name=\"ID type\" default=\"ID card\"} photo with a clean white background. The subject is centered with ample lighting, natural skin tone, and soft, even makeup. The subject wears neat {argument name=\"clothing style\" default=\"business\"} attire, with a tidy hairstyle and a confident, composed expression. The lighting is even without harsh shadows, ensuring the face is presented clearly and naturally.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1782028906257_7ytl5t_HLPN7PgagAArlFL.jpg",
-        "https://cms-assets.youmind.com/media/1782028906218_1jap34_HLPN7XtbwAA1wnU.jpg"
-      ],
-      "author": {
-        "name": "半吊子程序猿大铭",
-        "link": "https://x.com/CoderDaMing"
-      },
-      "language": "zh",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "26326"
-    },
-    {
-      "id": "26312",
-      "title": "Chiaroscuro Muslim Woman Portrait",
-      "description": "An elegant portrait featuring a Muslim woman in a black abaya with dramatic chiaroscuro lighting and a background of golden Arabic calligraphy.",
-      "content": "Create an ultra-realistic cinematic portrait featuring a beautiful {argument name=\"subject\" default=\"Muslim woman wearing a flowing black abaya and matching black hijab\"}, with an {argument name=\"attire detail\" default=\"elegant dark paisley-patterned shawl\"} draped gracefully over her shoulders. She stands calmly, gazing slightly away from the camera with a wise, serene expression. The scene is illuminated with dramatic chiaroscuro lighting, where a soft warm key light highlights her face while the background remains in deep cinematic shadows. Behind her is a {argument name=\"background\" default=\"luxurious dark textured wall decorated with softly blurred Arabic calligraphy glowing in rich gold and crimson tones\"}. Capture photorealistic skin texture, realistic fabric folds, intricate paisley embroidery, soft depth of field, warm cinematic color grading, premium editorial fashion photography, ultra-detailed 8K resolution, HDR, masterpiece composition, museum-quality portrait, elegant Islamic aesthetic, vertical 9:16 full-screen mobile wallpaper.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1782028900537_ivll0o_HLO9MBwaUAE9fMy.jpg",
-        "https://cms-assets.youmind.com/media/1782028900667_j8n008_HLO9MrXaMAA-PSJ.jpg"
-      ],
-      "author": {
-        "name": "Ai Bella",
-        "link": "https://x.com/zahra4sure"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "26312"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -556,6 +554,26 @@
         "Social Media Post"
       ],
       "youmindId": "532"
+    },
+    {
+      "id": "26642",
+      "title": "Lionel Messi Birthday Tribute Poster",
+      "description": "A cinematic and ultra-realistic prompt for creating a premium sports tribute poster for Lionel Messi, featuring stadium lighting and Argentina national team details.",
+      "content": "Create a premium birthday tribute poster for {argument name=\"athlete\" default=\"Lionel Messi\"}. Ultra-realistic sports photography, celebrating {argument name=\"athlete\" default=\"Messi\"}'s birthday. {argument name=\"athlete\" default=\"Messi\"} wearing the {argument name=\"team\" default=\"Argentina national team\"} jersey (sky blue and white stripes, number 10), standing proudly in a packed stadium atmosphere.\n\n{argument name=\"athlete\" default=\"Messi\"} is smiling warmly with both arms raised high in celebration, acknowledging the crowd. Detailed tattoos visible on one arm, blue captain's armband, realistic facial features, authentic athlete physique. Bright stadium floodlights, cheering fans, Argentina flags waving in the background, cinematic depth of field and emotional victory atmosphere.\n\nInclude elegant birthday poster typography:\n\n\"HAPPY BIRTHDAY LEO {argument name=\"athlete\" default=\"MESSI\"}\"\n\nSubtitle:\n\n\"{argument name=\"subtitle\" default=\"THE GREATEST OF ALL TIME\"}\"\n\nLuxury sports editorial style, premium magazine cover aesthetic, realistic jersey fabric, dramatic lighting, photorealistic skin texture, vibrant colors, confetti falling through the air, ultra-detailed, 8K quality, masterpiece sports poster.\n\nNegative Prompt: blurry face, extra fingers, distorted hands, bad anatomy, low quality, cropped body, watermark, logo, text artifacts, cartoon style, AI artifacts.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782372812337_vuilog_HLkh-pSXwAAtCxy.jpg",
+        "https://cms-assets.youmind.com/media/1782372812279_yac7gc_HLkh-pfXUAA3s7J.jpg"
+      ],
+      "author": {
+        "name": "Sadia",
+        "link": "https://x.com/SadiaMalik182"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "26642"
     },
     {
       "id": "26571",
@@ -2479,27 +2497,6 @@
         "Game Asset"
       ],
       "youmindId": "25119"
-    },
-    {
-      "id": "25130",
-      "title": "Cinematic Dark Fantasy Battle",
-      "description": "A dramatic medieval fantasy movie still capturing a knight facing a charging shadow creature in a rain-soaked forest.",
-      "content": "{argument name=\"character name\" default=\"Aldric\"} standing his ground in a {argument name=\"setting\" default=\"rain-soaked dead forest\"}, sword held firmly with both hands, feet planted in the mud, facing a {argument name=\"enemy\" default=\"massive dark humanoid creature\"} charging directly toward him at full speed, monstrous figure made of shadow, mud and rotting cloth, glowing red eyes, enormous momentum, with aldric  sword almost plunging into the monster's stomach, taking advantage of the momentum . Cinematic dark fantasy, dramatic atmosphere, realistic medieval armor, fog, tension before impact, low angle shot, ultra realistic, movie still",
-      "images": [
-        "https://cms-assets.youmind.com/media/1781251723499_2jd502_HKhpOkMXoAAkq24.jpg",
-        "https://cms-assets.youmind.com/media/1781251723566_9yghhh_HKhpE9HWYAAdI6M.jpg",
-        "https://cms-assets.youmind.com/media/1781251723652_4w5dmk_HKhpL0mXcAABqVr.jpg"
-      ],
-      "author": {
-        "name": "Cortex Visual ・ AI Movies",
-        "link": "https://x.com/Cortex__Visual"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "25130"
     }
   ],
   "categories": [
