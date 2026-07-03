@@ -547,12 +547,91 @@
       "youmindId": "532"
     },
     {
-      "id": "27232",
-      "title": "Golden Hour Street Market Scene",
-      "description": "A detailed prompt for generating a realistic outdoor street market at golden hour, featuring complex lighting, shadows, and multiple subjects with vibrant colors.",
-      "content": "{argument name=\"market type\" default=\"Busy outdoor street market\"} at {argument name=\"lighting\" default=\"golden hour\"}, dozens of vendors and colorful fabrics, complex occlusions and overlapping people, realistic shadows and reflections, high dynamic range, {argument name=\"aspect ratio\" default=\"16:9\"}, photorealistic",
+      "id": "27302",
+      "title": "Minimalist Realistic Studio Portrait",
+      "description": "A detailed prompt for creating a realistic studio portrait of a woman with natural features, dramatic lighting, and a modern minimalist aesthetic.",
+      "content": "A highly detailed realistic portrait photograph of a young woman with {argument name=\"facial features\" default=\"fair skin and subtle natural freckles\"}, featuring {argument name=\"hair style\" default=\"long straight brown hair styled in a sleek high ponytail with a center part, wispy strands framing her face\"}. She has expressive brown eyes with defined eyebrows, wearing bold red lipstick on full lips, and a neutral contemplative expression while gazing directly at the viewer. She is dressed in a {argument name=\"outfit\" default=\"fitted white ribbed sleeveless tank top and black pants\"}, seated in a relaxed pose with one leg bent, leaning against a plain light-colored minimalist studio wall. Soft dramatic lighting from the side creates gentle shadows and highlights on her face and clothing, with a clean modern indoor setting, high resolution, sharp focus, cinematic composition, and professional photography style.",
       "images": [
-        "https://cms-assets.youmind.com/media/1782892524713_xbtcr7_HMFbUpibkAAUXcD.jpg"
+        "https://cms-assets.youmind.com/media/1782977581812_6zxcnk_HMIn-hxaYAEKyG9.jpg",
+        "https://cms-assets.youmind.com/media/1782977582030_174g05_HMIn_c6awAAPCXI.jpg"
+      ],
+      "author": {
+        "name": "J⭕DIE",
+        "link": "https://x.com/Jodie_Noraa"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "27302"
+    },
+    {
+      "id": "27307",
+      "title": "Surreal Giant Woman in Venice",
+      "description": "A stunning, high-realism prompt for generating a surreal scene of a giant woman gracefully sitting in Venice's Piazza San Marco among tourists, featuring cinematic lighting and 8K details.",
+      "content": "A surreal {argument name=\"subject\" default=\"giant woman\"} sitting gracefully in the middle of {argument name=\"location\" default=\"Venice's Piazza San Marco\"}, wearing an {argument name=\"outfit\" default=\"elegant black outfit and sunglasses\"}, smiling softly while tourists gather around taking photos with their phones. Cinematic lighting, realistic architecture, dramatic scale contrast, ultra-detailed, photorealistic, travel photography, vibrant sky, natural shadows, high realism, 8K.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782977585085_u39h36_HMJuxSOXcAAc3Gw.jpg"
+      ],
+      "author": {
+        "name": "HiBå🫰",
+        "link": "https://x.com/Its_shah2i0"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "27307"
+    },
+    {
+      "id": "27301",
+      "title": "High-Contrast Monochrome Portrait Sketch",
+      "description": "A sophisticated graphite pencil sketch prompt that blends academic portraiture with raw fashion illustration, featuring subtle skin tints and visible construction lines.",
+      "content": "Medium & Style: High-contrast monochrome grayscale {argument name=\"medium\" default=\"graphite sketch\"} combined with a subtle realistic skin tint. Blends refined academic portraiture with dynamic fashion illustration.\nLinework & Structure: Clean yet energetic hand-drawn pencil strokes with visible construction lines, loose geometric guidelines, overlapping angular sketch marks, and intentionally unfinished, raw edges. Strong line-weight variation and crisp facial features.\nShading & Texture: Soft graphite blending, delicate cross-hatching, feathered shading, and layered tonal rendering on a warm off-white drawing paper with a natural paper grain and visible graphite texture.\nColor Accent: The realistic skin receives a gentle, natural {argument name=\"skin tint\" default=\"peach-beige\"} tint, echoing the warm, sun-kissed lighting of object. while the rest of the artwork remains strictly grayscale graphite.\nHair & Background: Hair is rendered with sculptural, faceted pencil shapes, sharp planes, and flowing sketch lines. The background is minimal, featuring faint perspective guides and an abstract geometric framework.\nLighting: High-contrast directional lighting with deep graphite shadows and bright paper highlights, replicating the dramatic shadow cutting across the face from object.\nAesthetic: Premium traditional sketchbook aesthetic, elegant, raw, artistic, highly detailed, museum-quality concept art.\nA 9:16.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782977580615_x7r223_HMJroN-XQAAaWBd.jpg",
+        "https://cms-assets.youmind.com/media/1782977580777_g79kqw_HMJroM9WwAEuVJe.jpg",
+        "https://cms-assets.youmind.com/media/1782977580734_bd87n2_HMJroQpXsAAIRkh.jpg"
+      ],
+      "author": {
+        "name": "zayan",
+        "link": "https://x.com/HustleXR"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "27301"
+    },
+    {
+      "id": "27300",
+      "title": "Korean Webtoon Chibi Girl Collage",
+      "description": "A vibrant four-panel grid featuring stylish chibi girls in a Korean webtoon aesthetic with pop-art elements and high-contrast colors.",
+      "content": "A clean 4-panel grid art collage featuring four distinct, {argument name=\"subject\" default=\"stylish chibi girls\"} in a {argument name=\"aesthetic\" default=\"Korean webtoon aesthetic\"}. The illustration uses a minimalist flat vector design with bold, crisp black outlines and a pop-art comic vibe. Each panel features a unique solid color backdrop, including vibrant teal, bright sun yellow, and deep royal blue. The characters have large glossy anime-style dark eyes, softly blushed pink cheeks, and trendy hairstyles such as neat side-braids and elegant low buns. They wear fashionable {argument name=\"clothing\" default=\"high-contrast striped turtlenecks and sleek black sweaters\"}, accessorized with oversized colorful hoop earrings. Perfect symmetry, high resolution, graphic art style. --ar 3:4",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782977580590_oxo9mi_HMJEguTb0AA99uW.jpg"
+      ],
+      "author": {
+        "name": "Cherry 2.O",
+        "link": "https://x.com/Mind_Boticni"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "27300"
+    },
+    {
+      "id": "27232",
+      "title": "Golden Hour Outdoor Market",
+      "description": "A photorealistic prompt for generating a detailed outdoor street market scene during golden hour with complex shadows and reflections.",
+      "content": "{argument name=\"scene\" default=\"Busy outdoor street market\"} at {argument name=\"time of day\" default=\"golden hour\"}, dozens of vendors and colorful fabrics, complex occlusions and overlapping people, realistic shadows and reflections, high dynamic range, {argument name=\"aspect ratio\" default=\"16:9\"}, photorealistic",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782977583920_gbw3in_HMFbUpibkAAUXcD.jpg"
       ],
       "author": {
         "name": "Alisa Qian",
@@ -703,44 +782,6 @@
         "Social Media Post"
       ],
       "youmindId": "27031"
-    },
-    {
-      "id": "27024",
-      "title": "Professional Studio Portrait with 3D Text",
-      "description": "A detailed prompt for creating professional studio portraits with high identity preservation, featuring custom 3D lettering and editorial lighting.",
-      "content": "Use the uploaded image as the ONLY face reference with maximum identity preservation. The woman’s face, facial structure, jawline, skin tone, hairstyle, hairline, eyes, nose, lips, ears, expression, and overall identity must match the reference photo EXACTLY. Do not beautify, redesign, reinterpret, replace, or alter any facial features. Keep the face 100% recognizable and identical to the reference.\nProfessional photography, ultra-realistic 8K, full-body studio portrait of the same woman leaning confidently against giant white vertical 3D letters spelling \"{argument name=\"text\" default=\"JANAKI\"}\". Dark gray seamless studio background with soft professional studio lighting and realistic shadows. Confident expression, hands in pockets, right leg crossed naturally. Wearing a premium {argument name=\"color\" default=\"dark red\"} {argument name=\"apparel\" default=\"oversized sweatshirt\"} with matching dark red sweatpants and clean white sneakers. Fashion editorial streetwear style, luxury magazine photoshoot aesthetic, natural skin texture, realistic fabric folds, ultra-detailed clothing, sharp focus.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1782721356491_njexm3_HL5QcchaYAAvNNF.jpg"
-      ],
-      "author": {
-        "name": "𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜",
-        "link": "https://x.com/AiwithKinza"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "27024"
-    },
-    {
-      "id": "27023",
-      "title": "Man on Vintage Leather Sofa",
-      "description": "A high-quality lifestyle photograph of a man seated on a classic Chesterfield sofa in an industrial concrete setting.",
-      "content": "{argument name=\"subject\" default=\"A young man with dark hair and a beard\"} sits in the center of the frame, angled at a 45-degree turn and leaning slightly to his right with casually tilted shoulders. His expression is intentionally posed and serious, featuring relaxed eyebrows, a neutral mouth with no trace of a smile, and eyes thoughtfully looking away. He is dressed in a {argument name=\"clothing\" default=\"black v-neck t-shirt and white trousers\"}, accessorized with a gold digital watch, a silver pendant necklace, and a silver bracelet. His left hand rests softly on his thigh in a naturally relaxed state, while his right hand is organically draped over the back of the furniture with a comfortably loose wrist. He is seated on a dominant, {argument name=\"furniture\" default=\"vintage brown button-tufted leather Chesterfield sofa\"} that shows slight, authentic wear in the foreground. Situated in the midground to his right is a vintage floor lamp featuring a beige fringed shade and a distinctly carved spiral wood stand. The indoor setting utilizes a shallow spatial depth that meets a rough, matte raw concrete wall, highly detailed with patchy cool gray tones, horizontal lines, realistic pitting, and industrial cracks. The calm, relaxed indoor lifestyle atmosphere is illuminated by soft, moderately directional mixed front lighting with ambient fill from multiple sources, blending neutral light with a warm practical glow. A complementary color palette of cool grays, warm browns, deep blacks, and light beiges is balanced by medium-length, soft-edged gray shadows that pool naturally under the subject and across the textured leather, paired with subtle specular highlights gently catching on his face and the sofa's surface. Captured straight on as an organically styled, realistic digital photograph using a 50mm lens at f/2.8, the composition blends contemporary lifestyle aesthetics with industrial interior design, utilizing a medium depth of field and slightly soft overall sharpness with zero grain, finished with subtle contrast enhancements and meticulously preserved shadows, framed naturally in a 1:1 aspect ratio.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1782721356475_l73m9o_HL4rcbsXkAA3wYA.jpg"
-      ],
-      "author": {
-        "name": "Picts by AI",
-        "link": "https://x.com/pictsbyai"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "27023"
     },
     {
       "id": "27131",
@@ -1371,23 +1412,23 @@
       "youmindId": "12725"
     },
     {
-      "id": "12729",
-      "title": "Cinematic photo of a woman on a subway platform with motion blur",
-      "description": "A prompt for Nano Banana 2 (Gemini Nano Banana Pro) to create a realistic cinematic photograph of a woman on a subway platform. The prompt emphasizes motion blur of a passing train in the background, contrasting with the sharp focus and stillness of the subject. It details the subject's outfit (oversized blazer, short skirt, knee-high boots), expression, and the atmospheric lighting of the station.",
-      "content": "Create a realistic cinematic photo of a woman using the face from the uploaded image. She is standing on a subway platform while a train passes behind her at high speed, creating motion blur. The woman is still and in sharp focus, looking slightly to the side with a calm and confident expression. She is holding a bouquet of flowers wrapped in paper in one hand. The outfit is stylish and modern - an oversized blazer, short skirt or shorts, and knee-high boots. The lighting is soft but cinematic, with natural indoor tones from the station lights. The background shows the moving train blurred with streaks of motion. The floor reflects a bit of light, adding depth. Cinematic photography, motion blur effect, atmospheric depth, realistic shadows, high detail, aesthetic composition.",
+      "id": "27305",
+      "title": "Futuristic Ring Megacity Concept Art",
+      "description": "An epic science fiction prompt for a massive industrial megacity built within a giant ring structure in an alien landscape.",
+      "content": "An immense futuristic megacity built inside a colossal {argument name=\"structure type\" default=\"circular ring megastructure\"} embedded in a {argument name=\"landscape\" default=\"rocky alien landscape\"}. The ring dominates the skyline, thousands of meters tall, covered in intricate industrial panels, docking bays, glowing maintenance lights, and weathered metallic textures. Massive capital spacecraft, carriers, and smaller shuttles drift through storm-filled skies around the structure.\n\nIn the foreground, a {argument name=\"foreground subject\" default=\"lone astronaut\"} in a detailed hard-surface EVA suit stands on a rain-soaked industrial platform overlooking the city, creating a strong sense of scale. The platform features reflective wet metal, cables, antennas, pipes, illuminated landing pads, and cinematic puddles.\n\nThe city below is an incredibly dense cyber-industrial metropolis with towering spires, endless buildings, atmospheric haze, smoke plumes, volumetric fog, and millions of tiny lights stretching into the distance.\n\nDramatic overcast sky with towering storm clouds breaking apart to reveal shafts of sunlight piercing through, creating powerful volumetric god rays that illuminate the gigantic ring and city. Cold blue-gray color palette with subtle orange industrial lighting.\n\nHyper-realistic hard-surface science fiction architecture inspired by advanced space civilizations. Massive sense of scale, epic cinematic composition, ultra-detailed greebles, physically based materials, weathering, atmospheric perspective, realistic reflections, depth, high dynamic range lighting.\n\nCamera: wide-angle 24mm lens, low elevated viewpoint behind the astronaut, centered composition with the ring framing the city, deep depth of field.\n\nRendering style: photorealistic cinematic concept art, Unreal Engine 5 quality, Octane Render, ray-traced global illumination, volumetric lighting, HDR, physically accurate materials, 16K detail, razor-sharp focus, extreme environmental storytelling, masterpiece, award-winning sci-fi artwork.\n\nNegative Prompt:\n\n> cartoon, anime, low detail, low poly, blurry, soft focus, oversaturated, flat lighting, simple geometry, empty scene, low resolution, noisy, duplicated ships, distorted architecture, warped perspective, text, logo, watermark, people in foreground besides astronaut.",
       "images": [
-        "https://cms-assets.youmind.com/media/1774421480586_gzj5g8_HELMn15bgAAEhVt.jpg"
+        "https://cms-assets.youmind.com/media/1782977583719_be4qui_HMJC7rUXEAEEhqk.jpg"
       ],
       "author": {
-        "name": "Nikhil",
-        "link": "https://x.com/NikhilRajX"
+        "name": "Delinitor",
+        "link": "https://x.com/Delinitor8"
       },
       "language": "en",
       "featured": false,
       "categories": [
-        "YouTube Thumbnail"
+        "Comic / Storyboard"
       ],
-      "youmindId": "12729"
+      "youmindId": "27305"
     },
     {
       "id": "27235",
@@ -1737,42 +1778,42 @@
       "youmindId": "25749"
     },
     {
-      "id": "25609",
-      "title": "Post-Apocalyptic Desert Night Scene",
-      "description": "A detailed scene description for a character in a post-apocalyptic desert at night under a starry sky, with specific lighting instructions for cinematic contrast.",
-      "content": "Location: {argument name=\"location\" default=\"post-apocalyptic desert area\"}\nWeather: {argument name=\"weather\" default=\"night, starry sky\"}\nLighting: {argument name=\"lighting\" default=\"Hollywood blue + bonfire reflections\"}\nEmphasize the rifle's luster, and conversely, suppress the eye highlights slightly.",
+      "id": "27024",
+      "title": "Professional Studio Portrait with 3D Text",
+      "description": "A detailed prompt for creating professional studio portraits with high identity preservation, featuring custom 3D lettering and editorial lighting.",
+      "content": "Use the uploaded image as the ONLY face reference with maximum identity preservation. The woman’s face, facial structure, jawline, skin tone, hairstyle, hairline, eyes, nose, lips, ears, expression, and overall identity must match the reference photo EXACTLY. Do not beautify, redesign, reinterpret, replace, or alter any facial features. Keep the face 100% recognizable and identical to the reference.\nProfessional photography, ultra-realistic 8K, full-body studio portrait of the same woman leaning confidently against giant white vertical 3D letters spelling \"{argument name=\"text\" default=\"JANAKI\"}\". Dark gray seamless studio background with soft professional studio lighting and realistic shadows. Confident expression, hands in pockets, right leg crossed naturally. Wearing a premium {argument name=\"color\" default=\"dark red\"} {argument name=\"apparel\" default=\"oversized sweatshirt\"} with matching dark red sweatpants and clean white sneakers. Fashion editorial streetwear style, luxury magazine photoshoot aesthetic, natural skin texture, realistic fabric folds, ultra-detailed clothing, sharp focus.",
       "images": [
-        "https://cms-assets.youmind.com/media/1781512149538_z1gah3_HKz9tf1WMAAMtzx.jpg"
+        "https://cms-assets.youmind.com/media/1782721356491_njexm3_HL5QcchaYAAvNNF.jpg"
       ],
       "author": {
-        "name": "beran",
-        "link": "https://x.com/beranyildirm"
-      },
-      "language": "ja",
-      "featured": false,
-      "categories": [
-        "Comic / Storyboard"
-      ],
-      "youmindId": "25609"
-    },
-    {
-      "id": "25571",
-      "title": "Battle-Worn Fighter Portrait",
-      "description": "A hyper-realistic cinematic prompt for a battle-hardened male fighter drenched in rain and sweat, emphasizing intense surface detail and atmospheric lighting.",
-      "content": "A hyper-realistic cinematic close-up portrait of a battle-worn shirtless male fighter, head bowed downward in exhaustion or grim determination after a brutal fight. He has thick dark disheveled hair — soaking wet, matted, and falling forward over his bowed forehead in heavy clumps. A full thick dark beard covers his jaw and chin. His face is tilted down at roughly a 45-degree angle, showing mostly the top and side of his head, his powerful thick neck, and broad bare shoulders filling the lower frame. His skin is drenched in rain and sweat, glistening intensely. His face and neck show visible battle damage — multiple small cuts, lacerations, and blood streaks across the forehead, brow, cheek, and shoulder, skin reddened and bruised from impact. Rain falls visibly around him — individual rain streaks caught sharp against the background, hitting his skin and hair and scattering into fine mist. The background is a blurred cool grey-green misty environment — suggesting an outdoor arena, rainy battlefield, or open fight setting — with diffused white light sources creating a hazy atmospheric glow behind him. The lighting is dramatic and cinematic — a cool blue-grey ambient light wraps the scene while a subtle warmer tone catches the skin highlights on the brow ridge, nose, cheekbone, and shoulder. Color palette: deep charcoal black, cool grey-green, muted olive, warm blood-red accents, wet skin highlights. Art style: hyper-realistic dark cinematic concept art or video game cutscene quality — The Last of Us / God of War aesthetic, extreme surface detail on skin, hair, and water, volumetric rain atmosphere, 8K.\nUse the provided face reference image — preserve the exact facial bone structure, nose shape, jawline, beard pattern, skin tone, and overall facial identity of the reference subject. Apply the battle damage, rain, and exhaustion treatment on top while keeping the core facial identity completely recognizable.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1781512130516_mpfwhc_HKzChyXWAAApPcc.jpg"
-      ],
-      "author": {
-        "name": "Ahmad Faraz",
-        "link": "https://x.com/iamahmedfaraz66"
+        "name": "𝐊𝐢𝐧𝐳𝐚| 𝗔𝗜",
+        "link": "https://x.com/AiwithKinza"
       },
       "language": "en",
       "featured": false,
       "categories": [
-        "Comic / Storyboard"
+        "Product Marketing"
       ],
-      "youmindId": "25571"
+      "youmindId": "27024"
+    },
+    {
+      "id": "27023",
+      "title": "Man on Vintage Leather Sofa",
+      "description": "A high-quality lifestyle photograph of a man seated on a classic Chesterfield sofa in an industrial concrete setting.",
+      "content": "{argument name=\"subject\" default=\"A young man with dark hair and a beard\"} sits in the center of the frame, angled at a 45-degree turn and leaning slightly to his right with casually tilted shoulders. His expression is intentionally posed and serious, featuring relaxed eyebrows, a neutral mouth with no trace of a smile, and eyes thoughtfully looking away. He is dressed in a {argument name=\"clothing\" default=\"black v-neck t-shirt and white trousers\"}, accessorized with a gold digital watch, a silver pendant necklace, and a silver bracelet. His left hand rests softly on his thigh in a naturally relaxed state, while his right hand is organically draped over the back of the furniture with a comfortably loose wrist. He is seated on a dominant, {argument name=\"furniture\" default=\"vintage brown button-tufted leather Chesterfield sofa\"} that shows slight, authentic wear in the foreground. Situated in the midground to his right is a vintage floor lamp featuring a beige fringed shade and a distinctly carved spiral wood stand. The indoor setting utilizes a shallow spatial depth that meets a rough, matte raw concrete wall, highly detailed with patchy cool gray tones, horizontal lines, realistic pitting, and industrial cracks. The calm, relaxed indoor lifestyle atmosphere is illuminated by soft, moderately directional mixed front lighting with ambient fill from multiple sources, blending neutral light with a warm practical glow. A complementary color palette of cool grays, warm browns, deep blacks, and light beiges is balanced by medium-length, soft-edged gray shadows that pool naturally under the subject and across the textured leather, paired with subtle specular highlights gently catching on his face and the sofa's surface. Captured straight on as an organically styled, realistic digital photograph using a 50mm lens at f/2.8, the composition blends contemporary lifestyle aesthetics with industrial interior design, utilizing a medium depth of field and slightly soft overall sharpness with zero grain, finished with subtle contrast enhancements and meticulously preserved shadows, framed naturally in a 1:1 aspect ratio.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782721356475_l73m9o_HL4rcbsXkAA3wYA.jpg"
+      ],
+      "author": {
+        "name": "Picts by AI",
+        "link": "https://x.com/pictsbyai"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "27023"
     },
     {
       "id": "27035",
@@ -2415,6 +2456,26 @@
       "youmindId": "23713"
     },
     {
+      "id": "27303",
+      "title": "Sci-Fi Tactical Soldier Character Sheet",
+      "description": "A character sheet prompt for a sci-fi tactical soldier featuring multiple angles, matte-black armor, and a glowing visor.",
+      "content": "Character sheet, multiple angles of a sci-fi tactical soldier in full body {argument name=\"armor color\" default=\"matte-black\"} armor. He wears a faceless helmet with a thin, dim {argument name=\"visor color\" default=\"white\"} horizontal glowing visor line. Gritty, brutalist design, heavy Kevlar and carbon fiber textures. Clean studio lighting, white background, ultra realist, front view, side view. --ar 16:9",
+      "images": [
+        "https://cms-assets.youmind.com/media/1782977581873_lsp4b6_HMJMlz6XMAAhDY1.jpg",
+        "https://cms-assets.youmind.com/media/1782977582295_kgtxje_HMJMyGhW8AAmK0L.jpg"
+      ],
+      "author": {
+        "name": "Cortex Visual ・ AI Movies",
+        "link": "https://x.com/Cortex__Visual"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "27303"
+    },
+    {
       "id": "27028",
       "title": "Cyberpunk Futuristic Visor Portrait",
       "description": "An immersive dark sci-fi 3D render prompt with dramatic two-tone neon lighting and high-contrast composition, inspired by Blade Runner 2049.",
@@ -2432,64 +2493,6 @@
         "Game Asset"
       ],
       "youmindId": "27028"
-    },
-    {
-      "id": "26570",
-      "title": "3D Miniature Diorama of New York City",
-      "description": "An ultra-realistic promotional prompt for creating a stylized miniature 3D diorama of New York City landmarks emerging from a central device.",
-      "content": "Create a stylized miniature 3D diorama viewed from a 45-degree angled perspective, emphasizing careful scale, clean geometry, and fine craftsmanship. {argument name=\"base device\" default=\"WATER GLASS\"} device serves as the central base of the composition. From within or above this device, a miniature interpretation of the selected {argument name=\"location\" default=\"NEW YORK\"} emerges naturally, forming a compact, self contained world.\nThe scene highlights recognizable landmarks, terrain features, or symbolic structures associated with the {argument name=\"location\" default=\"NEW YORK\"}, arranged harmoniously and rendered with precise detail. Miniature roads, pathways, environmental elements, and tiny human figures interact naturally with the Nano Banana Pro, reinforcing its presence as the foundation of the world.\nUse cinematic lighting, soft highlights, reflections on premium surfaces, and selective depth-of-field blur to create a magical, dreamlike, ultra realistic promotional atmosphere. Emphasize the product’s premium materials, sleek design, and futuristic aesthetic,Image size 4 5..",
-      "images": [
-        "https://cms-assets.youmind.com/media/1782286586856_qt7g7z_HLdt7loXwAACvWO.jpg"
-      ],
-      "author": {
-        "name": "Maddox",
-        "link": "https://x.com/Maddox_Digital"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "26570"
-    },
-    {
-      "id": "25753",
-      "title": "Structural Image Inpainting Prompt",
-      "description": "An image transformation prompt used to replace simple blocks with complex buildings while keeping the UI elements static.",
-      "content": "Replace {argument name=\"original object\" default=\"the simple arrangement of rectangular parallelepipeds\"} with {argument name=\"new subject\" default=\"a group of buildings\"} while keeping the UI as it is.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1781598288853_6wujdv_HK3O0sTa4AAtR04.jpg"
-      ],
-      "author": {
-        "name": "ft-lab",
-        "link": "https://x.com/cg_ftLab"
-      },
-      "language": "ja",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "25753"
-    },
-    {
-      "id": "25743",
-      "title": "Steampunk Pastel Pink Portrait",
-      "description": "A highly detailed steampunk portrait of a woman with pastel pink hair and intricate mechanical headgear, set against a retro-futuristic background.",
-      "content": "A meticulously detailed steampunk portrait of a {argument name=\"subject\" default=\"young woman\"} shown from the chest up, centered in a vertical composition. She has pale porcelain skin with subtle freckles, striking turquoise-blue eyes, and soft natural makeup. Her hair is a voluminous {argument name=\"hair color\" default=\"pastel pink\"} updo, loosely gathered into an intricate messy bun with wispy strands escaping around her face, creating a delicate yet rebellious appearance. She wears an elaborate brass and bronze mechanical headpiece fused with industrial engineering and Victorian aesthetics. The headgear features polished gears, rivets, miniature lenses, pressure valves, copper tubing, metallic spikes, and a large circular glowing optical device positioned above her forehead, emitting a cool cyan light. A smaller illuminated lens and precision-crafted mechanical components add complexity and realism. A delicate metallic heart-shaped ornament with filigree detailing decorates her cheek. Her outfit consists of a richly textured burgundy leather jacket with a dramatic raised collar, visible stitching, metal studs, buckles, straps, and layered steampunk machinery attached to the shoulder. Brass mechanisms, articulated joints, cables, and engraved metallic plates merge seamlessly with the garment. The lighting is cinematic and atmospheric, combining cool teal ambient illumination with warm copper highlights, emphasizing textures, depth, and reflective surfaces. The background is softly blurred, suggesting the interior of an advanced retro-futuristic airship or industrial laboratory with circular metallic structures and faint machinery silhouettes. Ultra-realistic rendering, extraordinary craftsmanship, razor-sharp focus on the face, shallow depth of field, highly detailed skin texture, premium materials, volumetric lighting, subtle particles floating in the air, masterpiece quality, dramatic mood, luxury steampunk fashion, photorealistic, 8K, HDR, flawless composition",
-      "images": [
-        "https://cms-assets.youmind.com/media/1781598284404_bzlplg_HK2-jJsW0AA9Ny0.jpg",
-        "https://cms-assets.youmind.com/media/1781598283981_zexgyv_HK2-7SPWIAAPlyX.jpg"
-      ],
-      "author": {
-        "name": "Noname Oasis",
-        "link": "https://x.com/nonameoasis"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "25743"
     }
   ],
   "categories": [
