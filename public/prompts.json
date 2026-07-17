@@ -1418,6 +1418,25 @@
       "youmindId": "12892"
     },
     {
+      "id": "28785",
+      "title": "Cinematic Candlelit Noir Scene",
+      "description": "A dramatic film noir prompt for a candlelit negotiation scene, focusing on shallow depth of field, warm lighting, and intense facial expressions.",
+      "content": "A cinematic candlelit interior scene of a {argument name=\"subject\" default=\"male figure\"} seated at a small wooden table across from two other blurred figures, seen in the framing gap between their silhouetted heads and shoulders in the foreground. He sits directly facing the camera, gaze locked intensely on something or someone off-frame with a calm, cold, and calculating expression — the look of someone in the middle of a tense negotiation, secretive meeting, or confrontation. His hair is short, dark, neatly styled. He wears a {argument name=\"clothing\" default=\"dark olive-charcoal crew-neck sweater\"}, casual but composed. His arms rest on the wooden tabletop in front of him. A single lit candle sits in a small holder on the table between the figures — the flickering warm flame the primary light source of the entire scene, with a thin wisp of smoke curling upward from it. A folded paper or document is visible on the table near the candle, suggesting a covert exchange or deal being discussed. The two figures in the foreground on either side are cropped and out of focus — only the backs and sides of their heads and shoulders visible in silhouette, framing the central figure’s face between them. The background reveals a dimly lit bar, tavern, or restaurant interior — blurred wall-mounted picture frames, soft warm and cool bokeh window lights, and other blurred patrons visible in the deep background. The lighting is entirely warm and low — dominated by the candle’s flickering amber-gold glow illuminating the central figure’s face from below-front, casting soft warm highlights on his forehead, nose, cheekbones, and beard, while everything else recedes into rich brown-black shadow. Color palette: warm candlelight amber-gold, deep brown-black shadow, muted background bokeh. Photography style: cinematic film noir interior scene, candlelit dramatic lighting, {argument name=\"lens\" default=\"50mm lens\"}, shallow depth of field with foreground figures softly blurred, photorealistic, 8K.\nUse the provided face reference image for all facial details — bone structure, eyes, brow, nose, jawline, beard, and skin tone should be taken entirely from the reference photo. Apply only the calm calculating direct gaze and warm candlelit lighting on top of the reference face.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1784185549038_gcy579_HNQwr7UaMAAfbpb.jpg"
+      ],
+      "author": {
+        "name": "Ahmad Faraz",
+        "link": "https://x.com/iamahmedfaraz66"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Comic / Storyboard"
+      ],
+      "youmindId": "28785"
+    },
+    {
       "id": "28672",
       "title": "8-Panel Manga Scene",
       "description": "A detailed prompt for generating an 8-panel manga sequence depicting a dramatic confrontation at a baccarat venue.",
@@ -1772,25 +1791,23 @@
       "youmindId": "27625"
     },
     {
-      "id": "27525",
-      "title": "Semi-Realistic Digital Illustration Concept Art",
-      "description": "Transforms reference objects into a dynamic game-style digital illustration with high-contrast lighting and warm color accents.",
-      "content": "Using 100% likeness of (reference) objects, transformed into a {argument name=\"style\" default=\"dynamic, semi-realistic digital illustration style\"} with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright warm highlights and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by {argument name=\"colors\" default=\"warm ivory, soft beige, sand, light gray, charcoal, and bright orange\"} as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, {argument name=\"detail level\" default=\"highly detailed textures\"}, bold and smooth silhouettes. No text, no logo, no watermark. AR 9:16.",
+      "id": "28784",
+      "title": "Premium Sports Editorial Poster",
+      "description": "A high-end sports editorial prompt for creating a multi-panel basketball athlete poster with bold typography and cinematic lighting.",
+      "content": "Ultra-premium sports editorial poster collage of a powerful {argument name=\"athlete\" default=\"female basketball athlete\"} in a {argument name=\"uniform color\" default=\"red and white\"} uniform, cinematic Nike-style campaign aesthetic, glossy indoor basketball court reflections, dramatic studio lighting, bold oversized typography in background saying “{argument name=\"main slogan\" default=\"THINK BETTER\"}”, clean luxury sports branding, intense confident poses.\n\nTop panel: athlete sitting on polished court floor with one knee raised, basketball beside her, looking sideways with dominant confident expression, deep red seamless background, giant cream-colored typography behind subject, cinematic shadows, hyper realistic skin texture, sweat glow, high-fashion sports photography.\n\nBottom left panel: close-up beauty portrait of the athlete with eyes closed, glowing skin, slick hair, athletic elegance, minimal typography saying “FOCUS” and “PASSION”.\n\nBottom right panel: dynamic low stance dribbling pose, action energy, motivational text saying “TRAIN HARD STAY HUNGRY”, luxury sports ad composition, reflective floor details.\n\nColor palette: deep crimson red, white accents, cream typography, glossy hardwood reflections. Style: modern sports magazine cover, luxury athletic campaign, ultra detailed, photorealistic, sharp focus, symmetrical grid layout, cinematic contrast, commercial photography, 4:3 aspect ratio, premium typography design, editorial poster aesthetic.",
       "images": [
-        "https://cms-assets.youmind.com/media/1783149739420_wjxbvr_HMUWVknXsAEsFmP.jpg",
-        "https://cms-assets.youmind.com/media/1783149739115_pjy37g_HMUWWfZWQAAA-kM.jpg",
-        "https://cms-assets.youmind.com/media/1783149739128_wzebie_HMUWWo2WIAEU6qw.jpg"
+        "https://cms-assets.youmind.com/media/1784185547642_mgwbwd_HNRfurkakAAdwMv.jpg"
       ],
       "author": {
-        "name": "zayan",
-        "link": "https://x.com/HustleXR"
+        "name": "Smiling Khan",
+        "link": "https://x.com/AIwithkhan"
       },
       "language": "en",
       "featured": false,
       "categories": [
-        "Comic / Storyboard"
+        "Product Marketing"
       ],
-      "youmindId": "27525"
+      "youmindId": "28784"
     },
     {
       "id": "28457",
@@ -1969,25 +1986,6 @@
         "Product Marketing"
       ],
       "youmindId": "28394"
-    },
-    {
-      "id": "28340",
-      "title": "Luxury Mediterranean Menswear Editorial Portrait",
-      "description": "A comprehensive prompt for creating high-end fashion editorial portraits of a Mediterranean man, featuring detailed camera settings, lighting, and a minimalist luxury aesthetic.",
-      "content": "Create an ultra-realistic luxury lifestyle fashion editorial portrait of a Mediterranean man {argument name=\"age range\" default=\"between 22 and 30\"} years old with a lean, athletic build. He has a defined oval face with a sharp jawline, light olive skin featuring natural matte texture with subtle sunlit highlights, thick masculine eyebrows, a straight nose, natural matte lips, and light designer stubble. His hair is dark brown, styled into a short textured quiff with soft natural volume and a slightly windswept matte finish. He wears matte black rectangular luxury sunglasses with dark polarized lenses, looking confidently toward the camera through them with a calm, composed expression that conveys understated confidence.\n\nHe is photographed from the waist up, leaning slightly forward with his arms naturally extended, while his head tilts subtly downward. He wears a {argument name=\"clothing\" default=\"premium heavyweight off-white crewneck sweatshirt\"} with a relaxed tailored fit underneath a light beige washed cotton twill overshirt worn open. No accessories are visible, reinforcing a clean, minimalist aesthetic.\n\nThe setting is {argument name=\"setting\" default=\"an open coastal viewpoint\"} beneath a vast, clear deep-blue sky with only a few minimal clouds. The background is intentionally uncluttered, featuring expansive negative space that emphasizes the simplicity and elegance of the composition. The portrait is framed asymmetrically with a slightly low camera angle, allowing the dramatic blue sky to dominate much of the image while maintaining a refined editorial balance.\n\nThe scene is illuminated by bright natural midday sunlight coming from the high front-left, producing crisp natural shadows, medium-high contrast, and a subtle daylight rim light that cleanly separates the subject from the background. The overall atmosphere feels fresh, relaxed, confident, effortlessly stylish, and distinctly modern.\n\nPhotographed on a Sony A1 II with a Sony FE 50mm f/1.2 GM lens at f/2.8, 1/2000 second shutter speed, ISO 100, in a 4:5 portrait aspect ratio. Apply premium luxury lifestyle campaign color grading with slightly warm tones, clean contrast, bright but controlled highlights, deep natural blacks, soft realistic saturation, and wide dynamic range. Preserve realistic skin texture with high-end editorial retouching, maintaining natural detail and clarity without an artificial appearance.\n\nThe overall aesthetic should resemble a luxury menswear campaign inspired by Zegna, Brunello Cucinelli, Theory, COS, and Vogue Hommes, emphasizing quiet luxury, minimal fashion, modern masculine elegance, coastal sophistication, designer eyewear, natural sunlight, and commercial-ready 8K photorealistic quality.\n\nNegative prompt: low quality, AI artifacts, plastic skin, oversharpening, watermark, text, noise, extra limbs, bad anatomy, cartoon, anime, oversaturated colors.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1783840259118_64d5q5_HM704lXbkAAWz9r.jpg"
-      ],
-      "author": {
-        "name": "Virena",
-        "link": "https://x.com/vireonixx"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "28340"
     },
     {
       "id": "27738",
@@ -2401,6 +2399,27 @@
       "youmindId": "28344"
     },
     {
+      "id": "27525",
+      "title": "Semi-Realistic Digital Illustration Concept Art",
+      "description": "Transforms reference objects into a dynamic game-style digital illustration with high-contrast lighting and warm color accents.",
+      "content": "Using 100% likeness of (reference) objects, transformed into a {argument name=\"style\" default=\"dynamic, semi-realistic digital illustration style\"} with a cinematic concept art aesthetic, combining sharp anime-inspired rendering and high-end game splash art. Strong, angular brushstrokes with confident hand-painted strokes, clean yet expressive line accents, and artistic layered shading. High-contrast lighting with bright warm highlights and deep neutral shadows, creating dramatic depth and intensity. The color palette is dominated by {argument name=\"colors\" default=\"warm ivory, soft beige, sand, light gray, charcoal, and bright orange\"} as the main accents, with subtle black details. Smooth gradient transitions mixed with sharp edge highlights, realistic material rendering for metal, fabric, and hard surfaces. Energetic composition, {argument name=\"detail level\" default=\"highly detailed textures\"}, bold and smooth silhouettes. No text, no logo, no watermark. AR 9:16.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1783149739420_wjxbvr_HMUWVknXsAEsFmP.jpg",
+        "https://cms-assets.youmind.com/media/1783149739115_pjy37g_HMUWWfZWQAAA-kM.jpg",
+        "https://cms-assets.youmind.com/media/1783149739128_wzebie_HMUWWo2WIAEU6qw.jpg"
+      ],
+      "author": {
+        "name": "zayan",
+        "link": "https://x.com/HustleXR"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "27525"
+    },
+    {
       "id": "27404",
       "title": "Whimsical Mythpunk Floating Island Miniature",
       "description": "A detailed prompt for generating a whimsical miniature world featuring a floating ritual island chain in a mythpunk style.",
@@ -2516,25 +2535,6 @@
         "Game Asset"
       ],
       "youmindId": "27030"
-    },
-    {
-      "id": "27036",
-      "title": "Female Android Studio Portrait with Laser Eyes",
-      "description": "A sci-fi studio portrait of a female android featuring cybernetic paneling and a horizontal red laser beam effect across her eyes.",
-      "content": "A close-up, front-facing studio portrait of a {argument name=\"subject\" default=\"female android with long, straight blonde hair\"}, looking directly into the camera. Subtle cybernetic panel lines and metallic seams are intricately embedded into the skin of her face. A vibrant, continuous {argument name=\"visual effect\" default=\"horizontal red laser beam\"} slices across her eyes, creating a powerful, glowing lens flare effect. She is wearing a simple {argument name=\"clothing\" default=\"black turtleneck sweater\"}. The lighting is cinematic, featuring sharp red rim-lighting that catches the edges of her hair, set against a solid, contrasting muted blue studio background. High-detail skin texture, photorealistic, 8k resolution.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1782721363705_1n9a8q_HL3-W55a8AAIhsg.jpg"
-      ],
-      "author": {
-        "name": "Aijaz",
-        "link": "https://x.com/iamsofiaijaz"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "27036"
     }
   ],
   "categories": [
