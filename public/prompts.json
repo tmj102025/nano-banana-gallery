@@ -163,26 +163,6 @@
       "youmindId": "811"
     },
     {
-      "id": "30566",
-      "title": "Bright CCD Style Vacation Lifestyle Photography",
-      "description": "Generates high-light lifestyle vacation photos with a digital CCD camera aesthetic. The prompt specifies bright lighting, relaxed poses, and specific outfit details for a refreshing dating-style look.",
-      "content": "Photography style: Daytime bright high-light CCD lifestyle style\nPortrait direction: Vacation lifestyle photo\nScene direction: {argument name=\"scene\" default=\"Yacht marina rest area / white railings / light-colored deck / distant ships\"}\nOutfit direction: {argument name=\"outfit\" default=\"Coral pink slim-fit halter neck crop top + white high-waisted shorts\"}\nTemperament tags: Bright, relaxed, refreshing, dating vibe, attractive\nFeatures direction: First-love style light facial features\nBody shape direction: Light and slender\nLine emphasis: Strong\nCamera direction: Half-body to thigh\nPosture/Action: {argument name=\"action\" default=\"Standing by the white railing, body slightly turned sideways, one hand holding the railing, looking back at the camera\"}\nLighting atmosphere: Dominated by bright daylight on a sunny day, sunlight from the side front clearly illuminating the subject; high-lights from white railings, the deck, and the sea surface provide natural reflective fill light; extremely weak soft flash slightly supplements catchlights and facial shadows\nFilter effect: High-brightness clear CCD colors + clean white highlights + clear midtones + stable black levels + light grain + very light digital noise\nAspect ratio: 9:16\nAdditional requirements: The coral pink top should be bright and fresh, not dirty or greyish; the halter design naturally highlights the neck, collarbones, and chest line, and the overall image should look like a bright lifestyle photo taken with a digital card camera during a sunny vacation.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1785654884469_bdqj45_HOsh1ZSbUAApH65.jpg",
-        "https://cms-assets.youmind.com/media/1785654883757_yya22p_HOsh2kbaIAAENxi.jpg"
-      ],
-      "author": {
-        "name": "李岳",
-        "link": "https://x.com/liyue_ai"
-      },
-      "language": "zh",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "30566"
-    },
-    {
       "id": "30545",
       "title": "Underwater Macro Face Portrait",
       "description": "A hyper-realistic prompt for a macro portrait of a face partially submerged in water, featuring caustic light reflections and air bubbles.",
@@ -545,6 +525,28 @@
       "youmindId": "30197"
     },
     {
+      "id": "30193",
+      "title": "Neon City Cyber-Noir Portrait",
+      "description": "A moody cyber-noir portrait of a woman on a city street at night, illuminated by vibrant neon lights and bokeh.",
+      "content": "A cinematic medium shot of a {argument name=\"subject\" default=\"young woman with short dark hair and vibrant blue eyes\"}, standing on a bustling city street at night illuminated by glowing neon lights. She is wearing a {argument name=\"outfit\" default=\"dark grey textured wool coat over a grey turtleneck sweater\"}. The scene features a shallow depth of field with a beautifully blurred background of colorful {argument name=\"bokeh colors\" default=\"blue and magenta\"} bokeh lights. Vibrant neon glow casts highlights on her face and hand, creating a moody, atmospheric ambiance with sharp focus, realistic textures, and dramatic cyber-noir lighting.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1785395923362_31zrhx_HOYos-5XEAANbxj.jpg",
+        "https://cms-assets.youmind.com/media/1785395923328_3473kc_HOYoxnRXYAAXGF8.jpg",
+        "https://cms-assets.youmind.com/media/1785395923622_2696m9_HOYo2GnXkAAU5wp.jpg",
+        "https://cms-assets.youmind.com/media/1785395924278_qcv8km_HOYo5kKWQAA3P3E.jpg"
+      ],
+      "author": {
+        "name": "Minahil",
+        "link": "https://x.com/Minahil42298354"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "30193"
+    },
+    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -819,6 +821,25 @@
         "Social Media Post"
       ],
       "youmindId": "30547"
+    },
+    {
+      "id": "30555",
+      "title": "Hyper-detailed Indian Woman Portrait",
+      "description": "A photorealistic 8K portrait of a beautiful Indian woman in a leopard print dress with dramatic directional lighting.",
+      "content": "Create an 8K, Ultra-HD, Hyper-detailed, Photorealistic, Portrait image. Beautiful {argument name=\"subject\" default=\"young fair Indian woman\"}, long wavy dark brown hair, soft glam makeup, gold drop earrings, pendant, bangles. {argument name=\"outfit\" default=\"Leopard print spaghetti-strap slip dress\"}, draped neck, sheer chiffon asymmetric hem. Leaning on {argument name=\"location\" default=\"warm beige wall corner\"}, hand touching hair, confident direct gaze. Dramatic directional lighting, sharp shadow to her left.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg"
+      ],
+      "author": {
+        "name": "Sarah",
+        "link": "https://x.com/AIwithSarah_"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "30555"
     },
     {
       "id": "30563",
@@ -1881,25 +1902,6 @@
         "Comic / Storyboard"
       ],
       "youmindId": "29264"
-    },
-    {
-      "id": "30555",
-      "title": "Hyper-detailed Indian Woman Portrait",
-      "description": "A photorealistic 8K portrait of a beautiful Indian woman in a leopard print dress with dramatic directional lighting.",
-      "content": "Create an 8K, Ultra-HD, Hyper-detailed, Photorealistic, Portrait image. Beautiful {argument name=\"subject\" default=\"young fair Indian woman\"}, long wavy dark brown hair, soft glam makeup, gold drop earrings, pendant, bangles. {argument name=\"outfit\" default=\"Leopard print spaghetti-strap slip dress\"}, draped neck, sheer chiffon asymmetric hem. Leaning on {argument name=\"location\" default=\"warm beige wall corner\"}, hand touching hair, confident direct gaze. Dramatic directional lighting, sharp shadow to her left.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg"
-      ],
-      "author": {
-        "name": "Sarah",
-        "link": "https://x.com/AIwithSarah_"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "30555"
     },
     {
       "id": "30553",
