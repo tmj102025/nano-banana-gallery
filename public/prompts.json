@@ -163,6 +163,65 @@
       "youmindId": "811"
     },
     {
+      "id": "33919",
+      "title": "Streetwear Editorial Portrait Identity Retention",
+      "description": "A high-detail prompt designed to generate a luxury streetwear campaign portrait while maintaining the user's specific facial features and identity.",
+      "content": "Create a cinematic, ultra-realistic streetwear editorial portrait of me, preserving my exact facial identity, features, skin tone, hairstyle, and natural proportions. Style me in {argument name=\"outfit\" default=\"premium modern streetwear with an oversized layered outfit, subtle accessories\"}, and a confident relaxed pose in an {argument name=\"urban setting\" default=\"urban setting with concrete architecture, textured walls, and understated city details\"}. Use {argument name=\"lighting\" default=\"dramatic natural lighting, soft shadows, shallow depth of field, realistic skin texture, sophisticated neutral tones, subtle film grain\"}, high-fashion magazine composition, professional photography, and cinematic color grading. Make the image feel authentic, effortlessly cool, minimal, aesthetic, and editorial, like a luxury streetwear campaign photographed on a full-frame camera with an 85mm lens. I've attached my image here.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788936825467_7uxuyh_HRwL9VRa8AAFdZ1.jpg",
+        "https://cms-assets.youmind.com/media/1788936825443_mr1w5u_HRwL90LbIAEs-6k.jpg",
+        "https://cms-assets.youmind.com/media/1788936825448_ke9cz6_HRwL-Tna4AEThPF.jpg"
+      ],
+      "author": {
+        "name": "Shushant Lakhyani",
+        "link": "https://x.com/shushant_l"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "33919"
+    },
+    {
+      "id": "33915",
+      "title": "Vintage Old Hollywood Beauty Portrait",
+      "description": "An ultra-realistic close-up portrait layout featuring high-fashion accessories and studio dramatic lighting.",
+      "content": "Ultra-realistic high-fashion beauty portrait of an elegant woman in a glamorous vintage-inspired look, wearing an oversized wide-brim {argument name=\"hat color\" default=\"white\"} hat casting a soft shadow over her face. Striking {argument name=\"eye color\" default=\"light green\"} eyes, perfectly shaped dark brows, dramatic winged eyeliner, soft rosy blush, flawless glowing skin, and bold vibrant {argument name=\"lipstick color\" default=\"red\"} lipstick. Large thin gold hoop earrings with pearl studs. She wears long satin red gloves, posing gracefully with both hands delicately framing her chin and face. Luxurious white faux-fur coat with a high-neck white outfit underneath. Soft neutral beige background, dreamy diffused studio lighting, smooth cinematic shadows, sophisticated editorial fashion photography, luxurious old-Hollywood aesthetic, high detail, sharp facial features, realistic skin texture, elegant composition, shallow depth of field, 4K, HD, vertical portrait, 9:16.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788936824153_1xbasw_HRs4eM2bUAAqEXS.jpg"
+      ],
+      "author": {
+        "name": "Elvorya",
+        "link": "https://x.com/Elvorya"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "33915"
+    },
+    {
+      "id": "33920",
+      "title": "Outdoor Direct Flash Lace Dress Portrait",
+      "description": "A prompt focused on high-contrast night photography using a direct flash effect, featuring a subject in a detailed lace corset dress.",
+      "content": "Using my picture can you create a woman with long, dark hair styled in a half-up ponytail with face-framing strands sits angled in a modern textured armchair. She leans forward slightly, looking off-camera to her left with a subtle, closed-mouth smile. She wears a {argument name=\"dress style\" default=\"black sleeveless mini dress featuring spaghetti straps, a fitted corset-style bodice with subtle lace embroidery, and a ruffled, layered lace skirt\"}. Her accessories include {argument name=\"accessories\" default=\"a delicate gold chain necklace, small hoop earrings, thin bracelets on both wrists, and simple rings\"}.\nLighting & Composition\nShot Style: Medium full-length portrait shot outdoors at night using direct flash.\nLighting: Direct camera flash, casting bold, high-contrast light on the subject while creating deep dark shadows in the foliage directly behind her.\nColor Palette: Dominated by deep greens and rich blacks, with warm skin tones highlighted by the flash.\nSetting & Background\nForeground/Seating: A contemporary cream or off-white upholstered accent chair with a textured fabric finish.\nBackground: {argument name=\"background\" default=\"A dense wall of lush green climbing ivy leaves covering a white fence or wall behind her\"}. Don’t change the face",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788936825769_5xwrnj_HRrw2TDbIAANz7n.jpg"
+      ],
+      "author": {
+        "name": "Ray",
+        "link": "https://x.com/AIWithRay"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "33920"
+    },
+    {
       "id": "33784",
       "title": "Elegant Portrait in Off-the-Shoulder Sweater",
       "description": "An intimate studio portrait of a curly-haired woman wearing a cozy cream-colored knit sweater resting against a neutral beige background.",
@@ -470,66 +529,6 @@
       "youmindId": "33482"
     },
     {
-      "id": "33480",
-      "title": "Black and White Chiaroscuro Portrait",
-      "description": "A pensive black and white portrait featuring strong dramatic lighting and a fashion-inspired aesthetic.",
-      "content": "Portrait of a woman with {argument name=\"hair style\" default=\"long, wavy hair\"}, looking up and to the side. {argument name=\"color scheme\" default=\"Black and white\"} with strong chiaroscuro accentuating facial features. Dramatic lighting, focused on the face, with a dark, blurred background. The expression is {argument name=\"expression\" default=\"pensive\"}, with the mouth slightly open. A high-resolution, fashion aesthetic with fine detail.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788591094436_qw3ty3_HRRcUdAaQAARRK8.jpg"
-      ],
-      "author": {
-        "name": "dreamy digital arts",
-        "link": "https://x.com/dreamydigiarts"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "33480"
-    },
-    {
-      "id": "33476",
-      "title": "Sketch-Style Portrait Illustration",
-      "description": "A digital illustration prompt blending painting and sketching styles to create a sun-kissed portrait with prominent freckles.",
-      "content": "a captivating digital illustration of a young woman with a {argument name=\"skin tone\" default=\"sun-kissed complexion and prominent freckles scattered across her nose and cheeks\"}. she has {argument name=\"eyes and expression\" default=\"warm brown eyes and a charming smile\"}. her voluminous, textured brown hair is casually styled in a messy, swept-up bun, with soft, face-framing strands catching the light. she is wearing a {argument name=\"outfit\" default=\"light-blue and white layered top, potentially a v-neck shirt or tunic\"}, with visible sketch-like brushstrokes. a thin gold chain necklace with a subtle pendant is visible around her neck, and she wears a single gold hoop earring. the background is a simple, neutral light grey, allowing the subject to stand out. the art style is a blend of painting and dynamic sketching, with clear lines and rich, warm tones.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788591092119_0ptcg9_HRXBRsVa8AASyER.jpg"
-      ],
-      "author": {
-        "name": "𝑨𝒇𝒓𝒊𝒏",
-        "link": "https://x.com/afrinxai"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "33476"
-    },
-    {
-      "id": "33392",
-      "title": "Realistic Slavic Woman Studio Portrait",
-      "description": "A highly detailed studio photography prompt for creating an ultra-realistic portrait of a Slavic woman with intricate skin textures and natural lighting.",
-      "content": "A portrait of a beautiful {argument name=\"ethnicity\" default=\"Slavic/russian\"} woman with caucasian skin, naturally luminous with a soft sheen, visible pores, fine texture, very subtle freckles and NO faint hyperpigmentation around the eyes and lips, realistic skin variation across face, neck, shoulders, and chest. She has an oblong face shape, high cheekbones, a smooth yet defined jawline, a straight medium-width nose with gentle highlights, full well- heart shaped pink plum lips with natural lines, and large almond-shaped {argument name=\"eye color\" default=\"whitish grey\"} eyes framed by long natural lashes and neatly groomed sharp arched full brows. Her hair is styled in natural, detailed long-length glossy and {argument name=\"hair color\" default=\"black\"} thick hair with clean but slightly imperfect parts, and brushed hair edges. and flowing over her shoulders. Slim–curvy build, elegant neck, defined collarbones, relaxed confident posture. Studio photography, flash lit, plain white background, 50mm lens, shallow depth of field, ultra high-realism, 8K, sharp focus capturing every skin pore, texture, and natural imperfection.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788504572756_fqmv9r_HRSwRwBXAAEru2Q.jpg",
-        "https://cms-assets.youmind.com/media/1788504572701_8b16bt_HRSwRwgbEAAoCer.jpg",
-        "https://cms-assets.youmind.com/media/1788504572777_cnsa1o_HRSwRv_WcAIvUcX.jpg",
-        "https://cms-assets.youmind.com/media/1788504573893_8h2ou1_HRSwRwbaAAA_haV.jpg"
-      ],
-      "author": {
-        "name": "Heizzai | AI AUTEUR",
-        "link": "https://x.com/heizzai"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "33392"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -547,6 +546,25 @@
         "Social Media Post"
       ],
       "youmindId": "532"
+    },
+    {
+      "id": "33795",
+      "title": "SNS Giveaway Campaign Banner",
+      "description": "A detailed prompt for creating eye-catching, flat 2D promotional banners for social media giveaway campaigns, featuring a pop and friendly style.",
+      "content": "[Campaign Information]\n- Campaign Name: {argument name=\"campaign name\" default=\"My Favorite Item Giveaway Campaign\"}\n- Prize List: {argument name=\"prizes\" default=\"Tonkotsu Ramen, Tea, Tissue Box\"}\n- Participation Steps: {argument name=\"entry steps\" default=\"Follow & Repost\"}\n\n[Image Quality/Direction/Composition]\n- Style: Pop, bright, and friendly SNS promotional banner. Eye-catching design.\n- Subject: Illustrations or realistic product photos of {argument name=\"prizes\" default=\"Tonkotsu Ramen, Tea, Tissue Box\"} popping out of a gift box, surrounded by festive ribbons and star decorations, centered.\n- Color/Tone: Pastel tones of bright pink, yellow, and light blue to create a sense of excitement.\n- Text Info (for GPT-image / Nano Banana Pro): The text {argument name=\"campaign name\" default=\"My Favorite Item Giveaway Campaign\"} at the top and the simple steps {argument name=\"entry steps\" default=\"Follow & Repost\"} at the bottom, laid out clearly in a thick, cute, rounded font.\n- Lighting: Flat, uniform bright lighting with soft shadows.\n\n[Strict Layout Constraints (Required)]\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n- Aspect Ratio: --ar 1:1 or --ar 16:9",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788936828650_efmimm_HRqxQLYakAE3uBb.jpg"
+      ],
+      "author": {
+        "name": "AI Guide-Note - 実務で使えるAI活用メディア",
+        "link": "https://x.com/AIGuideNote"
+      },
+      "language": "ja",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "33795"
     },
     {
       "id": "33787",
@@ -699,25 +717,6 @@
         "Social Media Post"
       ],
       "youmindId": "33657"
-    },
-    {
-      "id": "33559",
-      "title": "Absurd Sans Serif Meme",
-      "description": "A short, effective prompt for generating an absurd meme with specific typography instructions.",
-      "content": "absurd meme with the caption: {argument name=\"caption\" default=\"sans serif\"}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788764296027_iudgum_HRf0jFHaMAAkukf.jpg"
-      ],
-      "author": {
-        "name": "larped",
-        "link": "https://x.com/_larpGPT"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "33559"
     },
     {
       "id": "33793",
@@ -1009,6 +1008,44 @@
         "Infographic / Edu Visual"
       ],
       "youmindId": "29465"
+    },
+    {
+      "id": "33922",
+      "title": "Steam Locomotive Collapsing Bridge Storm",
+      "description": "An epic, high-stakes cinematic prompt featuring a vintage steam train crossing a collapsing bridge during a violent ocean storm.",
+      "content": "Ultra-realistic cinematic 4K image of a {argument name=\"locomotive\" default=\"colossal vintage steam locomotive racing across an enormous collapsing railway bridge\"} above a violent ocean during a {argument name=\"weather\" default=\"supernatural-looking but physically grounded thunderstorm\"}. The train is captured at the exact moment a massive wave crashes against the bridge far below, while lightning illuminates the entire scene. Hundreds of rain droplets freeze sharply in the foreground, reflecting tiny fragments of light. The locomotive is incredibly detailed: weathered black steel, polished brass components, glowing furnace light, realistic steam escaping from valves, wet metallic surfaces, spinning wheels throwing water and sparks against the rails.\n\nThe environment is breathtaking and immense: towering dark cliffs disappearing into storm clouds, a distant lighthouse barely visible through heavy rain, enormous waves exploding against rocks, dramatic clouds spiraling across the sky, mist flowing beneath the bridge, broken sections of railway disappearing into the distance. A {argument name=\"mystery detail\" default=\"lone passenger silhouette is visible through one warmly illuminated train window\"}, creating mystery and emotional storytelling.\n\nComposition uses an extreme low-angle perspective from beside the railway tracks, making the locomotive feel enormous and powerful. Strong leading lines from the rails pull the eye directly toward the train. Lightning provides dramatic backlighting and creates a brilliant rim around the locomotive and steam. Warm interior light contrasts naturally against the cold storm atmosphere. Photorealistic materials, physically accurate reflections, realistic rain behavior, atmospheric perspective, volumetric mist, cinematic depth of field, subtle motion blur on the wheels while the locomotive remains razor sharp, HDR lighting, natural film grain, incredible micro-details, realistic scale, professional Hollywood cinematography, 35mm anamorphic lens aesthetic, high dynamic range, breathtaking visual storytelling, crystal-clear 4K Ultra HD, no text, no logo, no watermark, no artificial-looking CGI, no cartoon style.\n\nThe key visual: gigantic train + collapsing bridge + ocean storm + lightning + tiny human silhouette = scale, danger, mystery, and cinematic storytelling in one frame.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788936827490_f9cp94_HRtrkUNa8AAqt_Z.jpg"
+      ],
+      "author": {
+        "name": "WeWant Mars",
+        "link": "https://x.com/Madhuribhai"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "YouTube Thumbnail"
+      ],
+      "youmindId": "33922"
+    },
+    {
+      "id": "33918",
+      "title": "Cinematic Astronaut on Damaged Spacecraft",
+      "description": "A structured prompt for generating a poignant scene of a lonely astronaut inside a decaying spacecraft, overlooking a partially destroyed Earth.",
+      "content": "{\n  \"scene\": \"{argument name=\"scene\" default=\"A damaged spacecraft drifting through deep space with Earth visible in the distance, partially destroyed\"}\",\n  \"subject\": \"{argument name=\"subject\" default=\"A lonely astronaut sitting inside the spacecraft\"}\",\n  \"action\": \"The astronaut hesitates to answer an incoming holographic call from Earth\",\n  \"detail\": \"{argument name=\"detail\" default=\"The holographic screen shows an incoming call labeled 'MOM'\"}\",\n  \"style\": \"cinematic masterpiece, emotional storytelling, photorealistic\",\n  \"atmosphere\": \"heartbreaking mood, deep space silence, blue ambient glow\",\n  \"camera\": \"ARRI Alexa 65, 35mm anamorphic lens, cinematic framing\",\n  \"quality\": [\n    \"film grain\",\n    \"volumetric lighting\",\n    \"IMAX quality\",\n    \"8K resolution\",\n    \"award-winning cinematography\"\n  ]\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788936825426_kcpj97_HRtoEddbUAA6nJP.png"
+      ],
+      "author": {
+        "name": "Compound Learning - Tech | Science",
+        "link": "https://x.com/SheBuildsAI_"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "YouTube Thumbnail"
+      ],
+      "youmindId": "33918"
     },
     {
       "id": "33271",
@@ -1320,45 +1357,26 @@
       "youmindId": "17257"
     },
     {
-      "id": "16475",
-      "title": "Song-to-Image Visualization",
-      "description": "A prompt that uses a specific song title and artist to generate an atmospheric image representative of the music.",
-      "content": "{argument name=\"song title\" default=\"Istanbul Mambo\"} ({argument name=\"artist\" default=\"Eiichi Ohtaki\"})",
+      "id": "33917",
+      "title": "Intricate Poetic Dragon Fantasy Text",
+      "description": "An intricate artistic abstract poem describing a timeless dragon with cinematic spatial/temporal elements used for generation testing.",
+      "content": "Where the Wing Remembers Both Shores\n\nThe dragon does not choose a century.\nIt is the century choosing itself\nthrough a body made of postponement and afterglow.\nOne wing trails the last unburned page of a library\nthat fell before paper learned its own name.\nThe other combs holographic rain\nfrom towers that have not yet decided\nwhether they will stand or become rumor.\nBetween them the air keeps two calendars\nand forgets which one is running.\nIts scales are older than the word for scale.\nThey remember the heat of forges\nthat have not been lit,\nand the cold of stars\nthat have already gone out\nin some other telling.\nRunes surface and sink like thoughts\na city has not earned the right to think.\nEach pulse of light is both relic and prototype.\nBelow, the streets are wet with what has happened\nand what is still negotiating its arrival.\nNeon writes on water that was once a glacier’s patience\nand will be, later, only a rumor of thirst.\nFoundations rest on the quiet of forests\nthat still dream they are standing.\nBillboards advertise tomorrows\nalready homesick for the dusk that has not come.\nThe creature’s eyes hold the only honest weather:\none the green of a memory\nthat does not yet know it is finished,\nthe other the blue of a question\nthat has not found the mouth that will ask it.\nThey look at us the way time looks at itself\nwhen no one is watching\nwithout pity, without verdict,\nonly the long courtesy of attention.\nWe live in the brief downdraft of its passing,\nthat strange, merciful interval\nwhere the past is still unfinished with us\nand the future has already begun\nto miss what we have not yet lost.\nNothing is promised except the turning:\the slow, luminous hinge of a wing\nthat belongs to every hour at once\nand to none of them completely.\nThe mist it leaves is neither ending nor beginning.\nIt is the place they briefly recognize each other\nbefore the next uncertainty\nopens its quiet, necessary hand.",
       "images": [
-        "https://cms-assets.youmind.com/media/1777361054866_6bdtc1_HG4yxQNbEAAQV_N.jpg",
-        "https://cms-assets.youmind.com/media/1777361054960_kujs0z_HG4yxQMakAA2nNK.jpg",
-        "https://cms-assets.youmind.com/media/1777361054897_m9m1ri_HG4yxQIa4AAOFwT.jpg",
-        "https://cms-assets.youmind.com/media/1777361055668_ca3c9n_HG4yxQObgAACS0q.jpg"
+        "https://cms-assets.youmind.com/media/1788936822673_fm4qn8_HRvAzvJbYAAcVxt.jpg",
+        "https://cms-assets.youmind.com/media/1788936824125_8cm8ho_HRvAzulXMAApGME.jpg",
+        "https://cms-assets.youmind.com/media/1788936824166_larp9c_HRvAzulWsAAqsTa.jpg",
+        "https://cms-assets.youmind.com/media/1788936823617_93iemw_HRvAzumXoAAIfws.jpg"
       ],
       "author": {
-        "name": "一抹のFun",
-        "link": "https://x.com/Spoonful_of_Fun"
-      },
-      "language": "ja",
-      "featured": false,
-      "categories": [
-        "YouTube Thumbnail"
-      ],
-      "youmindId": "16475"
-    },
-    {
-      "id": "13412",
-      "title": "Cinematic Podcast Studio Portrait",
-      "description": "A prompt for a professional podcast host in a modern studio setup, featuring warm accent lighting and realistic equipment details.",
-      "content": "A professional {argument name=\"host description\" default=\"podcast host sitting at a wooden desk in a modern studio setup\"}, facing the camera with a confident and friendly expression. He is wearing a {argument name=\"clothing\" default=\"fitted black shirt\"} and sitting in a comfortable chair. A high-quality podcast microphone on a boom arm is positioned close to his mouth. On the desk are a notebook with handwritten notes, a coffee mug, and an audio interface with connected cables. The background features {argument name=\"background lighting\" default=\"stylish indoor plants and warm red-orange accent lighting\"}, creating a clean, cinematic studio atmosphere. Soft key lighting on the face, subtle rim lighting, shallow depth of field, ultra-realistic details, 50mm lens, f/1.8, professional color grading, high contrast, 8K, YouTube podcast aesthetic.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1776495135499_o1874c_HGGCN9XbYAAdTKw.jpg"
-      ],
-      "author": {
-        "name": "Taaruk",
-        "link": "https://x.com/Taaruk_"
+        "name": "Toshi",
+        "link": "https://x.com/ToshiArte"
       },
       "language": "en",
       "featured": false,
       "categories": [
-        "YouTube Thumbnail"
+        "Comic / Storyboard"
       ],
-      "youmindId": "13412"
+      "youmindId": "33917"
     },
     {
       "id": "33776",
@@ -1553,6 +1571,25 @@
       "youmindId": "33474"
     },
     {
+      "id": "33476",
+      "title": "Sketch-Style Portrait Illustration",
+      "description": "A digital illustration prompt blending painting and sketching styles to create a sun-kissed portrait with prominent freckles.",
+      "content": "a captivating digital illustration of a young woman with a {argument name=\"skin tone\" default=\"sun-kissed complexion and prominent freckles scattered across her nose and cheeks\"}. she has {argument name=\"eyes and expression\" default=\"warm brown eyes and a charming smile\"}. her voluminous, textured brown hair is casually styled in a messy, swept-up bun, with soft, face-framing strands catching the light. she is wearing a {argument name=\"outfit\" default=\"light-blue and white layered top, potentially a v-neck shirt or tunic\"}, with visible sketch-like brushstrokes. a thin gold chain necklace with a subtle pendant is visible around her neck, and she wears a single gold hoop earring. the background is a simple, neutral light grey, allowing the subject to stand out. the art style is a blend of painting and dynamic sketching, with clear lines and rich, warm tones.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788591092119_0ptcg9_HRXBRsVa8AASyER.jpg"
+      ],
+      "author": {
+        "name": "𝑨𝒇𝒓𝒊𝒏",
+        "link": "https://x.com/afrinxai"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Comic / Storyboard"
+      ],
+      "youmindId": "33476"
+    },
+    {
       "id": "33466",
       "title": "Mystical Waterfall Fantasy Portrait",
       "description": "A breathtaking fantasy portrait prompt of an Asian woman in traditional robes at a misty waterfall, featuring magical swirling water effects and volumetric sunbeams.",
@@ -1667,42 +1704,45 @@
       "youmindId": "33377"
     },
     {
-      "id": "33394",
-      "title": "Family Dinner Cinematic Contact Sheet",
-      "description": "A complex JSON-formatted prompt for creating a 3x3 storyboard collage of a cozy family dinner with nostalgic film aesthetics.",
-      "content": "{\n  \"title\": \"Warm Family Dinner Cinematic Contact Sheet\",\n  \"format\": \"3x3 contact sheet collage\",\n  \"subject\": \"{argument name=\"subject\" default=\"A young woman with natural wavy dark hair\"}, wearing a {argument name=\"clothing\" default=\"loose brown linen button-up shirt\"}, sitting at a wooden dining table during a cozy family dinner\",\n  \"environment\": \"{argument name=\"setting\" default=\"Traditional family dining room\"}, vintage wallpaper, wooden china cabinet filled with plates and glassware, warm tungsten household lighting, realistic home atmosphere\",\n  \"composition\": {\n    \"grid\": \"3x3 storyboard frames\",\n    \"shots\": [\n      \"medium shot talking with expressive hands\",\n      \"close-up laughing naturally\",\n      \"side view serving lasagna from casserole dish\",\n      \"close-up listening with chin resting on hand\",\n      \"medium shot eating dinner while looking down\",\n      \"close-up tasting food with playful expression\",\n      \"medium shot telling an animated story\",\n      \"close-up smiling softly while holding a fork\",\n      \"wide shot alone at dining table after conversation\"\n    ]\n  },\n  \"camera\": {\n    \"lens\": \"50mm and 85mm prime lenses\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"sharp focus on subject, creamy background bokeh\",\n    \"framing\": \"cinematic coverage from multiple angles\"\n  },\n  \"lighting\": {\n    \"type\": \"warm practical household lighting\",\n    \"color_temperature\": \"3200K\",\n    \"mood\": \"cozy, intimate, nostalgic\",\n    \"shadows\": \"soft natural shadows\"\n  },\n  \"style\": {\n    \"photorealistic\": true,\n    \"cinematic\": true,\n    \"natural_expressions\": true,\n    \"slice_of_life\": true,\n    \"authentic_human_moments\": true,\n    \"award_winning_film_still\": true\n  },\n  \"color_grading\": {\n    \"palette\": \"warm amber, brown, cream, beige\",\n    \"contrast\": \"soft cinematic contrast\",\n    \"look\": \"Kodak Vision3 film emulation\"\n  },\n  \"details\": [\n    \"genuine laughter\",\n    \"natural eye contact\",\n    \"subtle facial expressions\",\n    \"realistic skin texture\",\n    \"wooden dining furniture\",\n    \"home-cooked meal\",\n    \"candid documentary photography\",\n    \"family gathering atmosphere\"\n  ],\n  \"quality\": {\n    \"resolution\": \"8K\",\n    \"detail\": \"ultra detailed\",\n    \"realism\": \"hyper realistic\"\n  },\n  \"negative_prompt\": [\n    \"anime\",\n    \"cartoon\",\n    \"cgi\",\n    \"plastic skin\",\n    \"overprocessed face\",\n    \"low resolution\",\n    \"extra fingers\",\n    \"distorted anatomy\",\n    \"text\",\n    \"watermark\",\n    \"logo\"\n  ]\n}",
+      "id": "33923",
+      "title": "Alpine Lake Travel Editorial Poster",
+      "description": "A comprehensive prompt for creating a luxury travel magazine poster, including specific layout, lighting, and typography instructions.",
+      "content": "Create a premium, hyper-realistic cinematic travel editorial poster in 9:16 vertical format.\n\nScene: A breathtaking alpine mountain lake with crystal-clear turquoise water, surrounded by dramatic snow-capped mountains, dense evergreen pine forests, and steep rocky cliffs. The lake perfectly reflects the mountains and sky. A small rustic wooden cabin sits near the right shoreline, while a traditional wooden rowboat is tied beside a wooden dock in the foreground.\n\nIn the center foreground, show a solo traveler sitting on the wooden dock with their back facing the camera, looking peacefully toward the mountains. The traveler wears a {argument name=\"traveler outfit\" default=\"brown wide-brimmed hat, burnt-orange outdoor jacket, beige/brown hiking backpack, and neutral outdoor clothing\"}. Natural, realistic proportions and subtle clothing texture.\n\nComposition: Cinematic wide-angle photography, traveler positioned in the lower center, boat on the lower right, expansive lake and mountains dominating the background. Strong depth, natural perspective, layered landscape, peaceful adventurous atmosphere.\n\nLighting: Soft golden morning light, bright blue sky with scattered fluffy clouds, subtle atmospheric haze around the mountains, realistic sunlight and natural shadows. Rich but authentic colors, turquoise water, earthy brown foreground, lush green forest, cool blue mountains.\n\nTypography: Add elegant travel-poster typography over the upper portion of the image:\n\nSmall uppercase text: “COLLECT”\nLarge stylish handwritten/script text: “{argument name=\"script text\" default=\"Moments\"}”\nMedium uppercase text below: “{argument name=\"tagline\" default=\"NOT THINGS\"}”\nMinimal decorative horizontal lines with a small heart symbol\nSmall uppercase tagline: “TRAVEL • EXPLORE • LIVE”\n\nUse sophisticated dark teal typography, clean spacing, premium editorial design, balanced hierarchy, highly legible text, and tasteful minimal decoration.\n\nStyle: Luxury travel magazine, cinematic photography, ultra-detailed, photorealistic, professional DSLR photography, HDR, realistic water reflections, natural skin/clothing textures, subtle filmic color grading, atmospheric depth, premium Pinterest travel aesthetic, inspirational and peaceful mood.\n\nAvoid: distorted people, extra limbs, unrealistic architecture, excessive saturation, blurry details, cartoon appearance, fake-looking water, cluttered typography, logos, watermarks.",
       "images": [
-        "https://cms-assets.youmind.com/media/1788504575625_vc18kl_HRSXTZHa0AAQsou.jpg"
+        "https://cms-assets.youmind.com/media/1788936827174_eiidn3_HRv-cZJboAA5i66.jpg",
+        "https://cms-assets.youmind.com/media/1788936827175_rb6fc8_HRv-cX5bEAAOj-1.jpg",
+        "https://cms-assets.youmind.com/media/1788936827191_sil37d_HRv-cZzbkAA3EOV.jpg",
+        "https://cms-assets.youmind.com/media/1788936827890_dyl6ac_HRv-cajbQAAKa-k.jpg"
       ],
       "author": {
-        "name": "Compound Learning - Tech | Science",
-        "link": "https://x.com/SheBuildsAI_"
+        "name": "Aniya Intelligence",
+        "link": "https://x.com/aniyaintel"
       },
       "language": "en",
       "featured": false,
       "categories": [
-        "Comic / Storyboard"
+        "Product Marketing"
       ],
-      "youmindId": "33394"
+      "youmindId": "33923"
     },
     {
-      "id": "33393",
-      "title": "Premium Italian Spaghetti Commercial Storyboard",
-      "description": "A comprehensive multi-scene storyboard prompt for a high-end food commercial featuring authentic Italian pasta textures and cinematic lighting.",
-      "content": "TITLE:\nPremium Italian Spaghetti Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Premium packaged food campaign\n• 8 cinematic product-focused scenes\n• Product remains the central visual hero\n• Luxury advertising presentation\n\nHEADER:\n• Refined serif typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Authentic Italian Food Commercial\n  - Product: Premium Spaghetti Pasta\n  - Audio: Pasta Cooking + Italian Kitchen ASMR\n• Why This Style Works section\n• Cream, wheat gold and deep green aesthetic\n• Minimal Italian-inspired decorative elements\n\nSTORYBOARD:\n1. Premium spaghetti package standing vertically beside uncooked pasta strands\n2. Package opening with long spaghetti strands being pulled out\n3. Spaghetti dropping into a pot of boiling water\n4. Pasta swirling underwater with bubbles and realistic movement\n5. Cooked spaghetti lifted from the pot with steam rising\n6. Long strands being twirled elegantly around a fork\n7. Extreme macro showing silky pasta texture coated with sauce\n8. Final hero product shot with pasta package beside a beautifully plated spaghetti dish\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nTop-down composition, underwater macro, steam close-up, slow-motion pasta lift, fork rotation shot, extreme texture detail, cinematic packshot.\n\nSTYLE:\nUltra-realistic Italian food advertising, authentic pasta texture, realistic steam and water, detailed packaging, warm cinematic lighting, premium gourmet presentation, natural ingredients, 8K.",
+      "id": "33924",
+      "title": "Minimalist B2B Corporate Advertisement",
+      "description": "A professional prompt for generating clean and trustworthy corporate visuals suitable for newspaper ads or landing pages, featuring urban skylines and elegant typography.",
+      "content": "[Ad Message]\n- Main Copy: {argument name=\"headline\" default=\"Our Workplace\"}\n- Sub-copy: {argument name=\"subtext\" default=\"Creating the future together with BtoB partners.\"}\n- Company Name/Logo: {argument name=\"company\" default=\"Future Lab Inc.\"}\n\n[Image Quality/Direction/Composition]\n- Style: Minimalist and intelligent Japanese corporate visual, like those in major newspapers or on the back covers of economic magazines.\n- Visual Elements: Futuristic city skyline (glass and steel architecture), clear early morning light, or abstract clean light lines, representing trust and innovation simultaneously.\n- Layout & Typography (for GPT-image / Nano Banana Pro): In the wide negative space (top or bottom), the headline {argument name=\"headline\" default=\"Our Workplace\"}, the sub-copy {argument name=\"subtext\" default=\"Creating the future together with BtoB partners.\"}, and the company name {argument name=\"company\" default=\"Future Lab Inc.\"} are orderly arranged in a refined Gothic or beautiful font.\n- Color/Lighting: A refreshing and reliable color palette based on blue and white, with beautiful lighting contrasts and no excessive decoration.\n\n[Strict Layout Constraints (Required)]\n- Output the finished flat 2D design itself, filling the entire canvas. Scene elements inside the design (walls, rooms, shadows) described above are allowed. Absolutely NO photo-of-a-poster mockups: no picture frames, no poster-on-wall or poster-on-desk shots, no perspective warp or drop shadow around the artwork's edges.\n- Aspect Ratio: --ar 16:9",
       "images": [
-        "https://cms-assets.youmind.com/media/1788504574944_rhawok_HRRlezKbQAAQ8BS.jpg"
+        "https://cms-assets.youmind.com/media/1788936828864_61osmz_HRs5Dv9WEAANFUl.jpg"
       ],
       "author": {
-        "name": "𝐌",
-        "link": "https://x.com/Strength04_X"
+        "name": "AI Guide-Note - 実務で使えるAI活用メディア",
+        "link": "https://x.com/AIGuideNote"
       },
-      "language": "en",
+      "language": "ja",
       "featured": false,
       "categories": [
-        "Comic / Storyboard"
+        "Product Marketing"
       ],
-      "youmindId": "33393"
+      "youmindId": "33924"
     },
     {
       "id": "33789",
@@ -1836,44 +1876,6 @@
         "Product Marketing"
       ],
       "youmindId": "33666"
-    },
-    {
-      "id": "33568",
-      "title": "Red Mesh Glove Studio Portrait",
-      "description": "A symmetrical studio fashion portrait featuring monochromatic red elements and a distinctive translucent glove accessory.",
-      "content": "Full-face studio fashion portrait of a woman looking directly into the camera, one hand in a {argument name=\"glove style\" default=\"translucent red mesh glove\"} pressed to her face and partially covering one eye. The composition is symmetrical and centered, cropped to the shoulders. She wears a {argument name=\"clothing\" default=\"bright red structured jacket\"} with defined shoulders, pearl jewelry, and a pearl ring. Her makeup features a matte skin tone, defined eyelashes, and rich burgundy-red lips. The background is a plain, {argument name=\"background color\" default=\"monochromatic red\"}. Lighting is controlled studio soft frontal light with slight side shift. Highly detailed, photorealistic, 50mm lens style, clean digital processing.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788676675240_lvuth2_HRWjQOoa0AAgLo5.jpg"
-      ],
-      "author": {
-        "name": "dreamy digital arts",
-        "link": "https://x.com/dreamydigiarts"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "33568"
-    },
-    {
-      "id": "33469",
-      "title": "Cinematic Mirror Reflections Editorial",
-      "description": "A fashion editorial prompt that maintains the facial identity of a reference image while creating sophisticated mirror reflections in a luxury studio setting.",
-      "content": "Generate a sophisticated cinematic studio portrait of the uploaded {argument name=\"subject\" default=\"stylish man\"} standing between two enormous {argument name=\"background elements\" default=\"dark reflective mirrors\"}, creating multiple elegant reflections fading into the background. He wears an {argument name=\"outfit\" default=\"all-black suit, sunglasses, and polished boots\"}, posing confidently with one hand in his pocket. Low-key lighting, subtle spotlight on the subject, mysterious luxury atmosphere, ultra-realistic fashion editorial, sharp details, cinematic depth, 8K, vertical 4:5. Maintain the face exactly the same as the uploaded photo.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788591088834_qydxlq_HRbUJ6baAAA41m9.jpg"
-      ],
-      "author": {
-        "name": "Muhammad Jamil",
-        "link": "https://x.com/JamilAI55"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "33469"
     },
     {
       "id": "33479",
