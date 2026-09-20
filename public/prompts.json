@@ -163,12 +163,31 @@
       "youmindId": "811"
     },
     {
-      "id": "34921",
-      "title": "Boy in Hoodie Reference Image Prompt",
-      "description": "A prompt instructing the model to generate an image of a boy wearing a white blue strap hoodie and sunglasses, based on a provided reference image, maintaining original facial features.",
-      "content": "A boy (first reference image), is the main subject. He is wearing a white blue strap hoodie, sunglasses, He is positioned slightly off-center to the left, with his head tilted down, gazing thoughtfully. right hand is raised, with his index finger touching his eye. The background is softly blueish blurred, showing an out-of-focus outdoor setting with warm same as this reference image real face 100% original.",
+      "id": "35001",
+      "title": "Cinematic Portrait Restoration Prompt",
+      "description": "A prompt for restoring old or damaged portraits into high-definition cinematic images with warm lighting and realistic skin textures using Nano Banana Pro.",
+      "content": "Cinematic portrait restoration. Strictly preserve original pose, expression, and composition. Add warm golden-hour side lighting casting a defined, dramatic shadow on the wall behind. Upscale to Ultra-HD: sharpen details, enhance realistic skin texture, and reduce noise. Mood: Mysterious, high-contrast, warm highlights, deep shadows, photorealistic.",
       "images": [
-        "https://cms-assets.youmind.com/media/1789713174987_6z4mtn_HSeB3nCaAAAN7ig.jpg"
+        "https://cms-assets.youmind.com/media/1789799323277_u9t7fy_HSfFbJpaYAA7Iok.jpg"
+      ],
+      "author": {
+        "name": "Tensor",
+        "link": "https://x.com/QAiStudio"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "35001"
+    },
+    {
+      "id": "34921",
+      "title": "Boy in Hoodie Portrait Prompt for Image Models",
+      "description": "A specific image generation prompt for creating a portrait of a boy wearing a white-blue strap hoodie and sunglasses, positioned off-center with a thoughtful gaze, based on a reference image.",
+      "content": "A boy (first reference image), is the main subject. He is wearing a {argument name=\"clothing\" default=\"white blue strap hoodie\"}, {argument name=\"accessories\" default=\"sunglasses\"}. He is positioned slightly off-center to the left, with his head tilted down, gazing thoughtfully. right hand is raised, with his index finger touching his eye. The background is softly {argument name=\"background_color\" default=\"blueish blurred\"}, showing an out-of-focus outdoor setting with warm same as this reference image real face 100% original.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1789799324473_cop5ao_HSeB3nCaAAAN7ig.jpg"
       ],
       "author": {
         "name": "Mr.AI",
@@ -199,6 +218,25 @@
         "Profile / Avatar"
       ],
       "youmindId": "34922"
+    },
+    {
+      "id": "34923",
+      "title": "Ultra-realistic Indian Woman Collage Portrait",
+      "description": "Generates a stylish collage portrait of an Indian woman in specific attire with monochrome close-ups.",
+      "content": "URE Ultra-realistic collage portrait of a stylish young Indian woman, brown satin shirt, beige wide-leg pants, white platform sandals, long straight black hair, soft smile, standing full-body pose with monochrome candid close-ups wearing sunglasses",
+      "images": [
+        "https://cms-assets.youmind.com/media/1789799324737_qp2t2r_HSaZYoLbEAAQ72o.jpg"
+      ],
+      "author": {
+        "name": "Sahil Verma",
+        "link": "https://x.com/sahilvermaai"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "34923"
     },
     {
       "id": "34837",
@@ -498,48 +536,6 @@
       "youmindId": "34301"
     },
     {
-      "id": "34124",
-      "title": "Engraved Digital Painting Style",
-      "description": "A complex prompt that blends semi-realistic digital painting with traditional engraving techniques, creating a unique texture with warm cinematic lighting.",
-      "content": "Soft {argument name=\"painting style\" default=\"semi-realistic digital painting\"} blended with highly detailed engraving illustration style, combining painterly softness with ultra-fine crosshatching and dotting techniques. Cinematic warm lighting with a strong golden-orange glow illuminating one side of the subject, contrasted by soft cool shadows, enhanced by dramatic chiaroscuro. Skin and textures are rendered through a fusion of smooth luminous digital shading and dense layered engraving lines, creating a balance between soft gradients and intricate linework. Subtle glossy highlights and reflective surfaces are preserved, especially in the eyes, giving a luminous and lifelike appearance. Delicate painterly blending remains visible through soft brush strokes, seamlessly integrated with precise contour lines and micro-detail etching, forming rich textures built from thousands of fine strokes. Edges transition naturally—sharp and clean in focal areas while dissolving into loose sketch-like strokes in unfinished regions. The top of the head and lower body fade into an incomplete sketch effect with soft, disappearing lines and partially dissolved forms blending into the background. Background uses a {argument name=\"background material\" default=\"textured brown cardboard\"} surface with visible matte grain and slightly rough tactile quality, subtly merged with a dark, studio-like atmospheric depth. The composition is minimalistic and elegant, with a calm yet dramatic mood. Color grading leans toward warm, natural tones with a slightly muted and faded palette, maintaining harmony between digital painting warmth and classic engraving aesthetics. High contrast lighting with deep blacks and controlled highlights enhances depth, while maintaining soft transitions in key areas. Ultra-high detail, macro texture emphasis, cinematic shadow depth, museum-quality finish, handcrafted engraving feel, 8K resolution. Ar 9:16!",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789022272371_zflqyh_HR1GrB1aQAETXtM.jpg",
-        "https://cms-assets.youmind.com/media/1789022272360_vnwfw6_HR1Gr99WUAMR5kZ.jpg",
-        "https://cms-assets.youmind.com/media/1789022272294_vn5rz4_HR1GszOaUAA7t04.jpg"
-      ],
-      "author": {
-        "name": "Zayan",
-        "link": "https://x.com/HustleXR"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "34124"
-    },
-    {
-      "id": "34121",
-      "title": "Melancholic Fine Art Oil Portrait",
-      "description": "A classical oil painting style prompt depicting a pensive woman on an ornate French armchair with dramatic natural lighting.",
-      "content": "Medium full shot of a seated young woman on an {argument name=\"furniture\" default=\"ornate, light-blue French-style armchair\"} with visible gold paint and patina. She is draped in a {argument name=\"clothing\" default=\"voluminous, cream-colored fabric\"} that acts as a gown or cover, with soft, rendered folds. She is barefoot, legs crossed and drawn up, hands clasped, resting her head pensively on one hand. Her gaze is off-frame to the right. Dark, loosely pinned hair. Visible soft, pensive, melancholic expression. Warm, golden natural light, as if from a window, bathes her face, the fabric, and the chair, contrasting with the {argument name=\"background\" default=\"dark, textured, almost charcoal-blue background\"}. Fine art oil painting, traditional technique, realistic detail, soft light, deep shadow, evocative atmosphere. Masters style, perhaps Rembrandt or Sargent. Highly detailed. Fine resolution.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789108567344_ojz6wq_HR0-araagAAyQK_.jpg",
-        "https://cms-assets.youmind.com/media/1789108565830_jhz003_HR0-arZboAAlCC2.jpg",
-        "https://cms-assets.youmind.com/media/1789108567330_jreae0_HR0-arcaQAAPqtr.jpg"
-      ],
-      "author": {
-        "name": "Ayushi Srivastava",
-        "link": "https://x.com/punkhuri1"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "34121"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -576,25 +572,6 @@
         "Social Media Post"
       ],
       "youmindId": "34924"
-    },
-    {
-      "id": "34923",
-      "title": "Ultra-realistic Indian Woman Portrait",
-      "description": "A detailed prompt for an ultra-realistic collage portrait of a stylish young Indian woman in fashion photography style.",
-      "content": "URE Ultra-realistic collage portrait of a stylish young Indian woman, brown satin shirt, beige wide-leg pants, white platform sandals, long straight black hair, soft smile, standing full-body pose with monochrome candid close-ups wearing sunglasses in background panels, modern.. soft natural lighting, minimal beige theme, high detail, 8K fashion photography \"{argument name=\"signature_name\" default=\"Hania\"}\" Signature left side.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789713176373_0h6by0_HSaZYoLbEAAQ72o.jpg"
-      ],
-      "author": {
-        "name": "Hania",
-        "link": "https://x.com/Techbyhani"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "34923"
     },
     {
       "id": "34833",
@@ -768,28 +745,6 @@
         "Social Media Post"
       ],
       "youmindId": "34840"
-    },
-    {
-      "id": "34752",
-      "title": "Anya Taylor Joy Cosmic Threshold Prompt",
-      "description": "Structured JSON prompt for generating a surreal, hyper-realistic portrait of Anya Taylor Joy with cosmic elements.",
-      "content": "{\n  \"vibe_title_en\": \"The Apathetic Elegance at the Cosmic Threshold Above Clouds\",\n  \"master_prompt\": \"A hyper-realistic voyeuristic portrait of The Protagonist exuding haute apathy. Shot through heavily occluding foreground elements of out-of-focus physical dry-ice clouds and weathered teal wooden shutters, creating an intimate, unposed glimpse from a distance. The subject stands center-frame in the threshold, facing the camera with a deadpan, neutral expression, heavy relaxed eyelids, and a limp but chic posture, wearing a loose off-the-shoulder white raw silk drape. Behind them, an impossible practical-effect cosmic void swirls with deep purple and blue fiber-optic lights. High-key, pristine studio lighting illuminates the subject's flawless, pore-detailed skin, contrasting with the surreal, tactile background. Hasselblad H6D-100c, 200mm telephoto lens, f/2.8, Kodak Portra 400 film stock, authentic cinematic film grain. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Create a surreal, aspirational editorial template blending haute apathy with a practical-effect cosmic threshold.\",\n    \"priorities\": \"High-key skin perfection, heavy foreground occlusion, and tactile surrealism.\",\n    \"device_profile\": \"Hasselblad Medium Format\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Centered subject framed within a doorway, layered through extreme foreground occlusion.\",\n    \"layout\": \"Foreground clouds/shutters, midground subject in threshold, background cosmic fiber-optic void.\",\n    \"camera_angle\": \"Straight-on, voyeuristic distance.\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, high-fashion features\",\n    \"face\": \"Flawless finish, deadpan, heavy relaxed eyelids.\",\n    \"hair\": \"Pulled back smoothly, sleek and out of the face.\",\n    \"body\": \"Limp but chic, slumped shoulders, effortless posture.\",\n    \"expression\": \"Haute apathy, detached elegance.\",\n    \"pose\": \"Standing effortlessly in the threshold, facing forward, slight lean against the doorframe.\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Off-the-shoulder draped tunic\",\n        \"material\": \"Raw silk\",\n        \"color\": \"Crisp white\",\n        \"fit\": \"Loose, effortless\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Minimalist stud earring\",\n        \"color\": \"Silver\",\n        \"material\": \"Sterling silver\",\n        \"brand_style\": \"Avant-garde minimal\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"A freestanding, weathered teal wooden doorway floating amidst dense, practical dry-ice clouds.\",\n    \"surfaces\": \"Peeling teal paint on wood, dense matte clouds, glossy fiber-optic cosmic background.\",\n    \"depth\": \"Extreme depth via 200mm lens compression, blending blurry foreground with a sharp midground.\",\n    \"atmosphere\": \"Ethereal, silent, cosmic yet grounded by highly tactile materials.\",\n    \"lens_inte",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789540499342_2bjlyw_HSRXD9oXgAAW2bK.jpg",
-        "https://cms-assets.youmind.com/media/1789540499287_tw0a7x_HSRXD7rXgAAzRJH.jpg",
-        "https://cms-assets.youmind.com/media/1789540499291_2hla8g_HSRXD-dWUAAMBIt.jpg",
-        "https://cms-assets.youmind.com/media/1789540500141_m2cutl_HSRXEA-WsAALksZ.jpg"
-      ],
-      "author": {
-        "name": "timedoctor.eth",
-        "link": "https://x.com/timedoctor_nft"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "34752"
     },
     {
       "id": "34455",
@@ -1820,6 +1775,28 @@
       "youmindId": "34927"
     },
     {
+      "id": "34752",
+      "title": "Anya Taylor Joy Cosmic Threshold Prompt",
+      "description": "Structured JSON prompt for generating a surreal, hyper-realistic portrait of Anya Taylor Joy with cosmic elements.",
+      "content": "{\n  \"vibe_title_en\": \"The Apathetic Elegance at the Cosmic Threshold Above Clouds\",\n  \"master_prompt\": \"A hyper-realistic voyeuristic portrait of The Protagonist exuding haute apathy. Shot through heavily occluding foreground elements of out-of-focus physical dry-ice clouds and weathered teal wooden shutters, creating an intimate, unposed glimpse from a distance. The subject stands center-frame in the threshold, facing the camera with a deadpan, neutral expression, heavy relaxed eyelids, and a limp but chic posture, wearing a loose off-the-shoulder white raw silk drape. Behind them, an impossible practical-effect cosmic void swirls with deep purple and blue fiber-optic lights. High-key, pristine studio lighting illuminates the subject's flawless, pore-detailed skin, contrasting with the surreal, tactile background. Hasselblad H6D-100c, 200mm telephoto lens, f/2.8, Kodak Portra 400 film stock, authentic cinematic film grain. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Create a surreal, aspirational editorial template blending haute apathy with a practical-effect cosmic threshold.\",\n    \"priorities\": \"High-key skin perfection, heavy foreground occlusion, and tactile surrealism.\",\n    \"device_profile\": \"Hasselblad Medium Format\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Centered subject framed within a doorway, layered through extreme foreground occlusion.\",\n    \"layout\": \"Foreground clouds/shutters, midground subject in threshold, background cosmic fiber-optic void.\",\n    \"camera_angle\": \"Straight-on, voyeuristic distance.\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, high-fashion features\",\n    \"face\": \"Flawless finish, deadpan, heavy relaxed eyelids.\",\n    \"hair\": \"Pulled back smoothly, sleek and out of the face.\",\n    \"body\": \"Limp but chic, slumped shoulders, effortless posture.\",\n    \"expression\": \"Haute apathy, detached elegance.\",\n    \"pose\": \"Standing effortlessly in the threshold, facing forward, slight lean against the doorframe.\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Off-the-shoulder draped tunic\",\n        \"material\": \"Raw silk\",\n        \"color\": \"Crisp white\",\n        \"fit\": \"Loose, effortless\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Minimalist stud earring\",\n        \"color\": \"Silver\",\n        \"material\": \"Sterling silver\",\n        \"brand_style\": \"Avant-garde minimal\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"A freestanding, weathered teal wooden doorway floating amidst dense, practical dry-ice clouds.\",\n    \"surfaces\": \"Peeling teal paint on wood, dense matte clouds, glossy fiber-optic cosmic background.\",\n    \"depth\": \"Extreme depth via 200mm lens compression, blending blurry foreground with a sharp midground.\",\n    \"atmosphere\": \"Ethereal, silent, cosmic yet grounded by highly tactile materials.\",\n    \"lens_inte",
+      "images": [
+        "https://cms-assets.youmind.com/media/1789540499342_2bjlyw_HSRXD9oXgAAW2bK.jpg",
+        "https://cms-assets.youmind.com/media/1789540499287_tw0a7x_HSRXD7rXgAAzRJH.jpg",
+        "https://cms-assets.youmind.com/media/1789540499291_2hla8g_HSRXD-dWUAAMBIt.jpg",
+        "https://cms-assets.youmind.com/media/1789540500141_m2cutl_HSRXEA-WsAALksZ.jpg"
+      ],
+      "author": {
+        "name": "timedoctor.eth",
+        "link": "https://x.com/timedoctor_nft"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "34752"
+    },
+    {
       "id": "34751",
       "title": "Luxury Fashion Editorial Portrait",
       "description": "Detailed prompt for generating a photorealistic luxury fashion portrait of a South Asian woman with specific styling and lighting.",
@@ -2522,6 +2499,25 @@
         "Game Asset"
       ],
       "youmindId": "33386"
+    },
+    {
+      "id": "33374",
+      "title": "Punk Style Split-Dye Anime Woman",
+      "description": "An anime-style digital illustration of a punk-inspired woman with blue and red split-dyed hair and vibrant tattoos.",
+      "content": "An anime-style digital illustration of a vibrant {argument name=\"subject\" default=\"young woman\"} with a bold, punk-inspired look, based on image_0.png. Her long, flowing hair is {argument name=\"hair style\" default=\"split-dyed, with the right side bright teal-blue and the left side vivid red, tied into a messy pigtail bun\"}. She has a {argument name=\"expression\" default=\"confident, open-mouthed grin\"}, bright blue eyes with red-and-black makeup (including a cross under her eye), and numerous ear piercings and a black choker. Her left arm is covered in detailed, colorful neo-traditional tattoos (flowers and creatures), and her midriff features complex tattoos including a red-clothed character and smaller figures. She wears a dark teal sports bra over a white band, and an oversized yellow puffer jacket, partially slipped off one shoulder, which has abstract blue/pink patches and stylized Japanese katakana text. The outfit is completed with dark shorts and a black leather belt. The background is a clean, off-white studio setting. Medium close-up shot, dynamic lighting, and a detailed comic art style.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788591084657_67012g_HRVdSThbkAA-5ar.jpg"
+      ],
+      "author": {
+        "name": "𝑨𝒇𝒓𝒊𝒏",
+        "link": "https://x.com/afrinxai"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "33374"
     }
   ],
   "categories": [
