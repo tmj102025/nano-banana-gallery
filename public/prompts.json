@@ -163,6 +163,63 @@
       "youmindId": "811"
     },
     {
+      "id": "35454",
+      "title": "Retro Waffle Photo Collage Prompt",
+      "description": "A JSON prompt for creating a retro fashion photo collage featuring a woman eating a waffle, styled like 90s Japanese youth editorials.",
+      "content": "{\n  \"type\": \"retro fashion photo collage\",\n  \"aspect_ratio\": \"1:1\",\n  \"composition\": \"two overlapping photographic frames with different zoom levels\",\n  \"subject\": \"young freckled woman, long messy wavy dark-brown hair, soft bangs, spontaneous playful mood\",\n  \"outfit\": \"oversized black and off-white rugby pullover with lime panels, loose khaki bermuda cargos, olive socks, brown chunky sneakers, orange graphic baseball cap, colorful clip accessories\",\n  \"action\": \"holding a waffle cone while squeezing whipped cream onto it; second frame captures her licking the cream with an amused expression\",\n  \"setting\": \"simple warm-gray studio floor and backdrop\",\n  \"lighting\": \"soft overhead diffused light with gentle shadows\",\n  \"style\": \"90s-inspired Japanese youth editorial, candid snapshot aesthetic, muted colors, subtle analog grain, imperfect natural poses\",\n  \"negative\": \"perfect commercial photography, plastic skin, cinematic lighting, anatomy errors, extra fingers, malformed hands, duplicate objects, face distortion, clothing glitches, text, watermark, logos\"\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1790404267109_ghu9wo_HTHZUA7aEAAS3PS.jpg"
+      ],
+      "author": {
+        "name": "Cherry",
+        "link": "https://x.com/hey_am_cherry"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "35454"
+    },
+    {
+      "id": "35452",
+      "title": "South Asian Wedding Portrait",
+      "description": "A prompt for creating a photorealistic portrait of a man in traditional Indian attire at a wedding event, preserving facial features from a reference image.",
+      "content": "A photorealistic portrait of a handsome young South Asian man looking directly at the camera with a gentle, confident smile. He is wearing a light pastel pink traditional Indian kurta adorned with intricate silver embroidery and shimmering mirror work. He is standing at a festive, elegant event. The background is softly blurred with a beautiful depth of field (bokeh), showing a lively, celebratory gathering, likely an Indian wedding or sangeet. In the background, softly out of focus, are happy guests in traditional pastel Indian attire, including a woman laughing joyfully on the left and a man in a patterned kurta on the right. The scene features a bright, airy, and soft pastel color palette with cinematic lighting, highly detailed fashion photography style, 85mm lens. keep original face and hairstyle 100% reference #wedding",
+      "images": [
+        "https://cms-assets.youmind.com/media/1790404266753_w8haai_HTG40PXacAA1T24.jpg"
+      ],
+      "author": {
+        "name": "Mr.AI",
+        "link": "https://x.com/Mr_Ai6"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "35452"
+    },
+    {
+      "id": "35453",
+      "title": "Luxury Car Puppy Portrait Prompt",
+      "description": "A detailed prompt for creating a photorealistic luxury lifestyle portrait of a woman with a puppy inside a car, preserving identity from an uploaded image.",
+      "content": "Use the uploaded image as the exact visual reference. Create a photorealistic luxury lifestyle portrait of the same woman sitting inside a premium modern car with deep burgundy/red leather interior. Preserve her exact facial identity, facial structure, hairstyle, skin tone, body proportions, and natural features. She is wearing an elegant dusty-rose/mauve embroidered corset-style dress with delicate floral detailing. She holds a fluffy cream-colored Pomeranian puppy gently in one arm, looking playfully toward the puppy while making a cute claw-like gesture with her other hand near her face. Natural playful expression with slightly open mouth and tongue visible. Long dark hair tied into a neat high ponytail with soft front strands framing her face. Elegant gold wristwatch, subtle jewelry, natural manicured nails.\n\nCapture the scene from inside the car at a slightly low, candid angle. Visible luxury burgundy leather seats, door panel, center console, window, ceiling handle and realistic car details. City architecture and soft evening lights visible through the window in the background, naturally blurred with shallow depth of field. Realistic flash photography mixed with ambient evening light, soft highlights on skin and hair, detailed fabric embroidery, realistic puppy fur, authentic skin texture and pores, physically accurate hands and fingers, natural body posture.\n\nHigh-end editorial photography, candid celebrity lifestyle aesthetic, ultra-photorealistic, realistic proportions, cinematic depth of field, 50mm lens, f/2.0, subtle flash, crisp subject detail, soft background bokeh, premium fashion magazine quality, natural color grading, realistic reflections, detailed textures, 4K, vertical 4:5 composition.\n\nNegative Prompt\n\ncartoon, anime, CGI, 3D render, plastic skin, over-smoothed face, altered identity, different person, face distortion, asymmetrical eyes, deformed hands, extra fingers, missing fingers, fused fingers, malformed arms, unnatural pose, bad anatomy, distorted legs, duplicated puppy, extra limbs, unrealistic fur, blurry face, low resolution, oversharpening, excessive makeup, artificial skin, warped car interior, floating objects, distorted clothing, messy embroidery, unnatural lighting, excessive HDR, oversaturated colors, text, logo, watermark, captions, frame, AI artifacts",
+      "images": [
+        "https://cms-assets.youmind.com/media/1790404266745_rcn2l4_HTEl6NOaEAARGK5.jpg"
+      ],
+      "author": {
+        "name": "Elvorya",
+        "link": "https://x.com/Elvorya"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "35453"
+    },
+    {
       "id": "35390",
       "title": "Morning Beach Dive Scene",
       "description": "A detailed prompt for generating a hyper-realistic close-up of a woman emerging from water at Shirarahama Beach, focusing on lighting and composition.",
@@ -473,65 +530,6 @@
       "youmindId": "34837"
     },
     {
-      "id": "34836",
-      "title": "Classical Academic Oil Painting Style Prompt",
-      "description": "A prompt for generating portraits in a classical academic oil painting style with old-master realism, emphasizing chiaroscuro lighting, smooth blending, and museum-quality finish.",
-      "content": "Classical academic oil painting style with a refined, old-master realism approach, inspired by traditional European portraiture. Ultra-smooth blending with meticulous brush control, creating flawless skin transitions and sculptural facial volume. Strong chiaroscuro lighting with a single directional light source, producing deep shadows and crisp highlights that define bone structure. Color palette is restrained and elegant—warm natural skin tones contrasted with deep blacks and muted neutrals. Edges are clean and sharply resolved in focal areas (eyes, nose, lips), while secondary areas soften subtly into shadow. Surface finish is highly polished with minimal visible brushstroke, giving a timeless, museum-quality appearance. Lighting emphasizes depth and seriousness, with a dramatic yet controlled tonal range. Background kept dark, smooth, and unobtrusive, enhancing subject prominence without texture distraction. Overall aesthetic is formal, dignified, and hyper-refined classical realism.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789713173743_qzhtvo_HSZYnPgbMAAjQ5D.jpg",
-        "https://cms-assets.youmind.com/media/1789713174975_t6he1c_HSZYnPWaEAAgUt_.jpg",
-        "https://cms-assets.youmind.com/media/1789713175207_g818z1_HSZYnPTa0AAgX1J.jpg"
-      ],
-      "author": {
-        "name": "Mehru",
-        "link": "https://x.com/Sobihaw"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "34836"
-    },
-    {
-      "id": "34748",
-      "title": "Playful Selfie Prompt for Nano Banana Pro",
-      "description": "A detailed prompt for generating a realistic, playful selfie-style photo of a young woman with specific features and lighting conditions.",
-      "content": "Selfie-style photo taken from an outstretched arm's POV, reaching toward the camera with a wristwatch visible on the wrist. A young woman with long straight black hair blowing in the wind, wearing round gold-rimmed glasses, winking one eye while puckering her lips in a playful kiss/pout expression. She's wearing a cream-colored knit sweater. Background is a bright blue sky with scattered white clouds. Natural outdoor lighting, candid and playful mood, shot from a low angle looking up. Realistic photography style, shallow depth of field, vibrant colors.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789626883965_aq4ldb_HSUFVxPbwAAbVTW.jpg"
-      ],
-      "author": {
-        "name": "Dania",
-        "link": "https://x.com/DaniaSafvi"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "34748"
-    },
-    {
-      "id": "34750",
-      "title": "Cinematic Hallway Portrait Prompt for Nano Banana Pro",
-      "description": "A prompt for generating a photorealistic cinematic portrait of a woman in a modern hallway, preserving identity from a reference image, wearing a black denim jacket.",
-      "content": "Create a photorealistic cinematic portrait of an elegant young adult woman standing indoors in a modern softly lit hallway. Preserve the exact identity and natural facial features of the reference image, including face shape, eyes, nose, lips, skin tone, and overall proportions. Do not reshape, beautify, or alter her identity.\nShe has long, voluminous dark-brown wavy hair with soft curls and natural shine, swept slightly to one side. She is wearing a black denim jacket over a simple black top, with a delicate silver chain necklace and a black wristwatch. Her left hand is gently placed in her hair, creating a relaxed and confident pose, while her other arm rests naturally in front.\nShe looks directly into the camera with a calm, subtle, confident expression. Natural makeup, softly defined eyebrows, gentle eyeliner, warm neutral tones, realistic skin texture and visible natural details.\nBackground: elegant modern indoor corridor with warm beige walls, ceiling lights forming soft circular bokeh, shallow depth of field, beautifully blurred background. Warm ambient lighting, soft highlights on the face and hair, realistic shadows.\nPhotography: high-end portrait photography, 85mm lens, f/1.8, shallow depth of field, natural perspective, soft cinematic lighting, realistic colors, subtle film softness, ultra-detailed skin and hair, professional photography, photorealistic, 4K.\nNegative prompt: distorted face, changed identity, plastic skin, excessive smoothing, unrealistic eyes, extra fingers, deformed hands, duplicate body parts, blurry face, cartoon, anime, CGI, oversaturated colors, harsh lighting, text, watermark.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789626885844_5qqocq_HSTx6PfaIAAGiWu.jpg"
-      ],
-      "author": {
-        "name": "Zarnish",
-        "link": "https://x.com/ZarnishNael"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "34750"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -724,47 +722,6 @@
         "Social Media Post"
       ],
       "youmindId": "35102"
-    },
-    {
-      "id": "35097",
-      "title": "Fashion Editorial Bouquet Photo Prompt",
-      "description": "A prompt for generating a hyper-realistic studio photo of a stylish woman holding a festive bouquet, emphasizing fabric textures and dramatic lighting.",
-      "content": "A hyper-realistic studio photo of a stylish woman standing on one leg in a graceful, balanced pose, holding a festive bouquet of fir branches decorated with red berries and small red bows. She wears a black oversized blazer, red opaque tights, and black high heels. Her long hair is sleek and straight, with elegant makeup that preserves all facial details from the reference: natural skin texture, precise contouring, expressive eyes, and defined features. Lighting: dramatic studio spotlight from above and slightly to the side, creating a soft shadow behind her on a neutral grey background, with realistic falloff and natural reflections on fabric and skin. The bouquet has rich texture — detailed needles, matte paper wrap, vivid red accents. Ultra-realistic details, crisp textures, natural fabric folds, accurate cast shadows, smooth gradients, high-end fashion editorial style. Camera: 85mm lens, f/2.8, ISO 100, studio photography, sharp focus on the model and bouquet, shallow depth of field.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789973008017_tj8yd8_HSkkqOpaUAAcObB.jpg"
-      ],
-      "author": {
-        "name": "dreamy digital arts",
-        "link": "https://x.com/dreamydigiarts"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "35097"
-    },
-    {
-      "id": "35103",
-      "title": "Anya Taylor Joy Avant-Garde Fashion Prompt for Nano Banana Pro",
-      "description": "A detailed JSON prompt for generating an avant-garde fashion shot of Anya Taylor Joy with a surreal ruby panther companion using Nano Banana Pro.",
-      "content": "{\n  \"vibe_title_en\": \"Ruby Resolve\",\n  \"master_prompt\": \"A hyper-realistic, avant-garde fashion shot of The Protagonist striding forward with intense, warrior-like resolve. The setting is a raw, brutalist concrete wind tunnel with slick, wet floors reflecting the scene. The camera is tilted at a severe 25-degree Dutch Angle, creating a sense of vertigo and instability. To the subject's left, a surreal companion walks in stride: a life-sized panther formed entirely from shimmering red sequins, ruby shards, and velvet textures—it must look like a physical, high-budget practical effect, not CGI. The lighting is a dramatic split: harsh Crimson Red gel lights blast from the key side, highlighting the subject's sharp cheekbones and the texture of the 'crystal panther,' while a cold Cyan Blue rim light outlines their silhouette from the back. Shot on a Hasselblad H6D-100c with an 80mm lens to compress the depth. Focus on the tactile reality of skin pores, the weave of the red suit, and the individual facets of the ruby companion. Cinematic, high-tension atmosphere. NO NEON SIGNS.\",\n  \"meta\": {\n    \"intent\": \"Editorial Fashion / Surreal Art\",\n    \"priorities\": \"Texture Reality, Unstable Composition, Intense Gaze\",\n    \"device_profile\": \"High-End Desktop / Art Gallery Display\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Dynamic Asymmetry\",\n    \"layout\": \"Diagonal Flow due to Dutch Angle\",\n    \"camera_angle\": \"Low Angle, looking up\",\n    \"tilt_roll_degrees\": \"25 degrees counter-clockwise (Dutch Tilt)\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, High-Fashion Archetype\",\n    \"face\": \"Sharp features, intense unwavering stare directly into the lens\",\n    \"hair\": \"Sleeked back, wet-look texture, tightly controlled\",\n    \"body\": \"Tall, commanding posture, mid-stride movement\",\n    \"expression\": \"Fierce, confrontational, The Warrior's Resolve\",\n    \"pose\": \"Walking forward aggressively, hands relaxed but ready\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Structured Power Suit\",\n        \"material\": \"Deep Red Velvet with Silk Lapels\",\n        \"color\": \"Crimson / Oxblood\",\n        \"fit\": \"Tailored, sharp architectural shoulders\"\n      },\n      {\n        \"item\": \"Trousers\",\n        \"material\": \"Matching Red Velvet\",\n        \"color\": \"Crimson\",\n        \"fit\": \"Straight leg, breaking slightly at the shoe\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Surreal Companion (Panther)\",\n        \"color\": \"Ruby Red / Glittering\",\n        \"material\": \"Sequins, Crystals, Velvet (Practical Effect Prop)\",\n        \"brand_style\": \"Avant-Garde Sculpture\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Brutalist Concrete Wind Tunnel\",\n    \"surfaces\": \"Rough concrete walls, polished wet floor reflections\",\n    \"depth\": \"Deep tunnel perspective distorted by tilt\",\n    \"atmosphere\": \"Hazy, pressurized, industrial\"\n  }\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789973010849_cjsvdj_HSqxfXjWIAAUPHs.jpg",
-        "https://cms-assets.youmind.com/media/1789973010862_0uslv7_HSqxfXwWAAAjKQD.jpg",
-        "https://cms-assets.youmind.com/media/1789973010921_upklh1_HSqxfVYX0AE3u8W.jpg",
-        "https://cms-assets.youmind.com/media/1789973012014_v0em93_HSqxfVAXsAAoz2l.jpg"
-      ],
-      "author": {
-        "name": "timedoctor.eth",
-        "link": "https://x.com/timedoctor_nft"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "35103"
     },
     {
       "id": "35049",
@@ -1794,6 +1751,25 @@
       "youmindId": "33466"
     },
     {
+      "id": "35451",
+      "title": "Ultra-Photorealistic Fashion Poster with Reference Image",
+      "description": "A prompt for generating a high-quality ultra-photorealistic fashion poster featuring a young South Asian man, maintaining facial features from a reference image. The composition includes a full-body shot leaning against a stone ledge and a large close-up portrait overlay, set against a blurred mountain valley at dusk with a dreamlike brushstroke texture.",
+      "content": "Keep the same features of the attached person, without changes. Reference picture: photo sent.\nFace: keep the exact same person as the reference picture. Format:\nCreate a high-quality ultra-photorealistic fashion poster using the same composition:\nfeaturing a young South Asian man with green eyes and a well-groomed beard. In the foreground, he is shown full-body, dressed in a green linen casual suit, leaning casually against a stone ledge, with a gold necklace and a watch. His eyes are green. Overlaid in the background is a large, close-up portrait of his face, with his striking green eyes as a focus. The entire composition has a dreamlike, brushstroke texture, set against a backdrop of a blurred mountain valley at dusk, creating a artistic and nostalgic atmosphere.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1790404265322_7yk8e0_HTG0sAfaYAAZAgJ.jpg"
+      ],
+      "author": {
+        "name": "Dilshad Hussain",
+        "link": "https://x.com/DilshadAI1"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "35451"
+    },
+    {
       "id": "35224",
       "title": "Google Flow Ad Poster: Nano Banana Pro vs Grok",
       "description": "Side-by-side comparison of an advertisement poster generated by Nano Banana Pro and Grok Imagine using the same prompt.",
@@ -1812,6 +1788,47 @@
         "Product Marketing"
       ],
       "youmindId": "35224"
+    },
+    {
+      "id": "35097",
+      "title": "Fashion Editorial Bouquet Photo Prompt",
+      "description": "A prompt for generating a hyper-realistic studio photo of a stylish woman holding a festive bouquet, emphasizing fabric textures and dramatic lighting.",
+      "content": "A hyper-realistic studio photo of a stylish woman standing on one leg in a graceful, balanced pose, holding a festive bouquet of fir branches decorated with red berries and small red bows. She wears a black oversized blazer, red opaque tights, and black high heels. Her long hair is sleek and straight, with elegant makeup that preserves all facial details from the reference: natural skin texture, precise contouring, expressive eyes, and defined features. Lighting: dramatic studio spotlight from above and slightly to the side, creating a soft shadow behind her on a neutral grey background, with realistic falloff and natural reflections on fabric and skin. The bouquet has rich texture — detailed needles, matte paper wrap, vivid red accents. Ultra-realistic details, crisp textures, natural fabric folds, accurate cast shadows, smooth gradients, high-end fashion editorial style. Camera: 85mm lens, f/2.8, ISO 100, studio photography, sharp focus on the model and bouquet, shallow depth of field.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1789973008017_tj8yd8_HSkkqOpaUAAcObB.jpg"
+      ],
+      "author": {
+        "name": "dreamy digital arts",
+        "link": "https://x.com/dreamydigiarts"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "35097"
+    },
+    {
+      "id": "35103",
+      "title": "Anya Taylor Joy Avant-Garde Fashion Prompt for Nano Banana Pro",
+      "description": "A detailed JSON prompt for generating an avant-garde fashion shot of Anya Taylor Joy with a surreal ruby panther companion using Nano Banana Pro.",
+      "content": "{\n  \"vibe_title_en\": \"Ruby Resolve\",\n  \"master_prompt\": \"A hyper-realistic, avant-garde fashion shot of The Protagonist striding forward with intense, warrior-like resolve. The setting is a raw, brutalist concrete wind tunnel with slick, wet floors reflecting the scene. The camera is tilted at a severe 25-degree Dutch Angle, creating a sense of vertigo and instability. To the subject's left, a surreal companion walks in stride: a life-sized panther formed entirely from shimmering red sequins, ruby shards, and velvet textures—it must look like a physical, high-budget practical effect, not CGI. The lighting is a dramatic split: harsh Crimson Red gel lights blast from the key side, highlighting the subject's sharp cheekbones and the texture of the 'crystal panther,' while a cold Cyan Blue rim light outlines their silhouette from the back. Shot on a Hasselblad H6D-100c with an 80mm lens to compress the depth. Focus on the tactile reality of skin pores, the weave of the red suit, and the individual facets of the ruby companion. Cinematic, high-tension atmosphere. NO NEON SIGNS.\",\n  \"meta\": {\n    \"intent\": \"Editorial Fashion / Surreal Art\",\n    \"priorities\": \"Texture Reality, Unstable Composition, Intense Gaze\",\n    \"device_profile\": \"High-End Desktop / Art Gallery Display\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Dynamic Asymmetry\",\n    \"layout\": \"Diagonal Flow due to Dutch Angle\",\n    \"camera_angle\": \"Low Angle, looking up\",\n    \"tilt_roll_degrees\": \"25 degrees counter-clockwise (Dutch Tilt)\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, High-Fashion Archetype\",\n    \"face\": \"Sharp features, intense unwavering stare directly into the lens\",\n    \"hair\": \"Sleeked back, wet-look texture, tightly controlled\",\n    \"body\": \"Tall, commanding posture, mid-stride movement\",\n    \"expression\": \"Fierce, confrontational, The Warrior's Resolve\",\n    \"pose\": \"Walking forward aggressively, hands relaxed but ready\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Structured Power Suit\",\n        \"material\": \"Deep Red Velvet with Silk Lapels\",\n        \"color\": \"Crimson / Oxblood\",\n        \"fit\": \"Tailored, sharp architectural shoulders\"\n      },\n      {\n        \"item\": \"Trousers\",\n        \"material\": \"Matching Red Velvet\",\n        \"color\": \"Crimson\",\n        \"fit\": \"Straight leg, breaking slightly at the shoe\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Surreal Companion (Panther)\",\n        \"color\": \"Ruby Red / Glittering\",\n        \"material\": \"Sequins, Crystals, Velvet (Practical Effect Prop)\",\n        \"brand_style\": \"Avant-Garde Sculpture\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Brutalist Concrete Wind Tunnel\",\n    \"surfaces\": \"Rough concrete walls, polished wet floor reflections\",\n    \"depth\": \"Deep tunnel perspective distorted by tilt\",\n    \"atmosphere\": \"Hazy, pressurized, industrial\"\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1789973010849_cjsvdj_HSqxfXjWIAAUPHs.jpg",
+        "https://cms-assets.youmind.com/media/1789973010862_0uslv7_HSqxfXwWAAAjKQD.jpg",
+        "https://cms-assets.youmind.com/media/1789973010921_upklh1_HSqxfVYX0AE3u8W.jpg",
+        "https://cms-assets.youmind.com/media/1789973012014_v0em93_HSqxfVAXsAAoz2l.jpg"
+      ],
+      "author": {
+        "name": "timedoctor.eth",
+        "link": "https://x.com/timedoctor_nft"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "35103"
     },
     {
       "id": "35048",
@@ -1907,26 +1924,6 @@
         "Product Marketing"
       ],
       "youmindId": "35046"
-    },
-    {
-      "id": "34927",
-      "title": "Hyper-Realistic Industrial Technician Photo Prompt",
-      "description": "A complex JSON prompt defining camera settings, lighting, subject details, and background elements for a realistic industrial workspace photo.",
-      "content": "{\n  \"camera\": {\n    \"shot_type\": \"Raw photo\",\n    \"shutter_speed\": \"1/250 sec\",\n    \"aperture\": \"f/11\",\n    \"iso\": 400,\n    \"focal_length\": \"35mm\",\n    \"sensor_type\": \"Full-frame\",\n    \"color_profile\": \"Linear RAW\"\n  },\n  \"scene_setup\": {\n    \"lighting\": \"Neutral overhead LED strip lighting, high CRI, no softboxes, no diffusion\",\n    \"depth_of_field\": \"Deep depth of field, all elements sharp from foreground to background\",\n    \"environment\": \"Industrial machine shop and engineering workspace, high clarity, no atmospheric haze\"\n  },\n  \"subject_details\": {\n    \"subject\": \"{argument name=\"subject\" default=\"Female technician\"}\",\n    \"appearance\": \"Natural skin texture, high detail, no skin smoothing filter\",\n    \"attire\": \"{argument name=\"attire\" default=\"Dark denim work jacket, texture and weave clearly visible, US flag patch, Aero-Form logo\"}\",\n    \"action\": \"{argument name=\"action\" default=\"Measuring complex mechanical assembly with digital caliper, high detail on tools and hands\"}\"\n  },\n  \"background_elements\": {\n    \"tools\": \"Snap-on tool chest with organized socket set, crisp focus on all tools\",\n    \"machinery\": \"CNC lathe, sharp text and branding on machine body\",\n    \"documents\": \"Corkboard with sharp, legible blueprint details and notes; stack of binders with clear text on covers\",\n    \"safety\": \"Fire extinguisher with clear, legible text on label\"\n  },\n  \"technical_aesthetics\": {\n    \"focus\": \"Critical focus across the entire frame, edge-to-edge sharpness\",\n    \"texture\": \"Pronounced metal grain, fabric texture, and wood grain without aggressive noise reduction\",\n    \"colors\": \"Natural, unprocessed color balance, full dynamic range, accurate skin tones\"\n  }\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789713178598_d7ai7p_HSbZPGbWsAEt6l3.jpg",
-        "https://cms-assets.youmind.com/media/1789713178580_zarnjh_HSbZPlgWAAAnIGE.jpg"
-      ],
-      "author": {
-        "name": "Noah",
-        "link": "https://x.com/NoahNeku"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "34927"
     },
     {
       "id": "35099",
