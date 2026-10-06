@@ -164,11 +164,11 @@
     },
     {
       "id": "35920",
-      "title": "Golden Hour Portrait with Strict Identity Preservation",
-      "description": "Creates a photorealistic portrait of a woman in sporty attire against a sunset backdrop, enforcing strict adherence to a reference face.",
-      "content": "A photorealistic portrait of a beautiful young 22-year-old woman sitting casually on a dark granite ledge, looking directly at the camera with a relaxed, subtle smile. She is wearing a sporty, color-blocked outfit: a short-sleeved t-shirt with a solid white front and bright orange sleeves and shoulders, paired with matching orange shorts featuring white drawstrings and white side stripes. Her right leg is pulled up with her right arm resting comfortably on her knee. She has a natural, elegant feminine appearance with healthy glowing skin.\n\nThe setting is an outdoor balcony or terrace with a black metal railing. In the background, a stunning golden hour sunset illuminates a wide river or lake, casting vibrant warm orange and yellow hues across the sky and reflecting beautifully on the water, with lush green trees visible to the left.\n\nShot on an 85mm lens, f/1.8 aperture, cinematic golden-hour lighting, shallow depth of field, beautiful natural background bokeh, ultra-realistic skin texture, soft skin glow, realistic facial details, natural colors, professional photography, high resolution.\n\nSTRICTLY USE THE UPLOADED REFERENCE IMAGE FOR HER FACE AND IDENTITY. Keep the original face 100% unchanged and identical to the reference — same facial features, facial structure, proportions, skin tone, eye shape and color, nose, lips, eyebrows, jawline, hairstyle, hair texture, age, and natural expression. Do not beautify, alter, reshape, or idealize the face. Preserve the exact same identity and hairstyle from the reference image. The final image must look like the exact same girl from the reference photo, only placed in this new setting and outfit.\n\nSkin should have a natural healthy glow while maintaining realistic skin texture and pores. No face distortion, no identity change, no artificial beauty filter, no excessive makeup, no facial modification.",
+      "title": "Photorealistic Sunset Portrait with Reference Face",
+      "description": "A detailed prompt for generating a photorealistic portrait of a woman in sporty attire at sunset, strictly preserving the face identity from an uploaded reference image. Compatible with GPT Image 2, Nano Banana Pro, Gemini, and Grok.",
+      "content": "A photorealistic portrait of a beautiful young {argument name=\"age\" default=\"22-year-old\"} woman sitting casually on a dark granite ledge, looking directly at the camera with a relaxed, subtle smile. She is wearing a sporty, color-blocked outfit: a short-sleeved t-shirt with a solid white front and bright orange sleeves and shoulders, paired with matching orange shorts featuring white drawstrings and white side stripes. Her right leg is pulled up with her right arm resting comfortably on her knee. She has a natural, elegant feminine appearance with healthy glowing skin.\n\nThe setting is an outdoor balcony or terrace with a black metal railing. In the background, a stunning golden hour sunset illuminates a wide river or lake, casting vibrant warm orange and yellow hues across the sky and reflecting beautifully on the water, with lush green trees visible to the left.\n\nShot on an {argument name=\"lens\" default=\"85mm lens\"}, f/1.8 aperture, cinematic golden-hour lighting, shallow depth of field, beautiful natural background bokeh, ultra-realistic skin texture, soft skin glow, realistic facial details, natural colors, professional photography, high resolution.\n\nSTRICTLY USE THE UPLOADED REFERENCE IMAGE FOR HER FACE AND IDENTITY. Keep the original face 100% unchanged and identical to the reference — same facial features, facial structure, proportions, skin tone, eye shape and color, nose, lips, eyebrows, jawline, hairstyle, hair texture, age, and natural expression. Do not beautify, alter, reshape, or idealize the face. Preserve the exact same identity and hairstyle from the reference image. The final image must look like the exact same girl from the reference photo, only placed in this new setting and outfit.\n\nSkin should have a natural healthy glow while maintaining realistic skin texture and pores. No face distortion, no identity change, no artificial beauty filter, no excessive makeup, no facial modification.",
       "images": [
-        "https://cms-assets.youmind.com/media/1791101707688_im1b91_HTwdO5NaMAApOEZ.jpg"
+        "https://cms-assets.youmind.com/media/1791182789986_5x7oxl_HTwdO5NaMAApOEZ.jpg"
       ],
       "author": {
         "name": "Kiran Ai",
@@ -564,6 +564,64 @@
       "youmindId": "532"
     },
     {
+      "id": "35974",
+      "title": "Cinematic Luxury Evening Portrait with Reference Image",
+      "description": "A detailed prompt for generating a photorealistic cinematic portrait of a woman beside an infinity pool, emphasizing identity preservation from an uploaded reference image.",
+      "content": "Use the uploaded image as the exact visual and facial reference. Preserve the woman’s facial identity, facial proportions, hairstyle, and overall appearance with zero identity drift.\n\nCreate a photorealistic cinematic luxury evening portrait of the same woman standing beside a calm infinity pool overlooking a modern waterfront city skyline at blue hour/night. She wears an elegant floor-length silver-white couture gown with delicate crystal embellishments, thin straps, a fitted embellished bodice, flowing pleated skirt, and a subtle train. Add matching sparkling silver high heels.\n\nKeep the same graceful side-profile pose as the reference: body slightly turned sideways toward the camera, shoulders relaxed, one arm naturally resting beside her body, elegant posture, soft confident gaze directly toward the camera.\n\nThe pool should reflect the surrounding city lights naturally. In the background, show a sophisticated modern skyline with tall illuminated towers, softly blurred for cinematic depth of field. Include a realistic, naturally sized full moon in the upper sky — not oversized — with subtle moonlight illuminating the scene. Gentle evening breeze moves a few strands of her hair and the gown slightly.\n\nLighting: realistic moonlight mixed with soft ambient architectural lighting, subtle highlights on the silver dress, natural skin tones, realistic shadows, cinematic contrast, soft atmospheric haze.\n\nCamera: full-body composition, eye-level camera, 85mm portrait lens, shallow depth of field, realistic bokeh, sharp subject, detailed fabric texture, natural skin pores.\n\nStyle: high-end luxury fashion editorial, cinematic photography, ultra-photorealistic, sophisticated, elegant, realistic proportions, natural skin texture, no artificial AI appearance.\n\nNegative prompt: identity change, face drift, different person, altered facial features, oversized moon, plastic skin, excessive retouching, distorted hands, extra fingers, warped body, unnatural pose, cartoon, CGI look, oversaturated colors, excessive glow, duplicate person, blurry face, watermark, text, logo.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791182791357_o25pg1_HTysDgUa8AAx58V.jpg"
+      ],
+      "author": {
+        "name": "Elvorya",
+        "link": "https://x.com/Elvorya"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "35974"
+    },
+    {
+      "id": "35975",
+      "title": "Cheetos Snack Ad Portrait",
+      "description": "A prompt for a playful studio portrait of a person holding a Cheetos bag, using fisheye lens effects.",
+      "content": "Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.\nThe model wears a glossy bright orange puffer jacket over a white t-shirt.\nBackground in a vibrant orange gradient with light yellow accents, bold and fun.\nSoft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.\nExpressive smile, fun street-commercial aesthetic.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791182791359_o5qmkz_HTyqEPzagAAi_Rq.jpg",
+        "https://cms-assets.youmind.com/media/1791182791428_l6j0ml_HTyqEPubsAAn61W.jpg"
+      ],
+      "author": {
+        "name": "simeon-sanai",
+        "link": "https://x.com/Naiknelofar788"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "35975"
+    },
+    {
+      "id": "35973",
+      "title": "High-End Beauty Portrait with Reference",
+      "description": "A prompt for creating a photorealistic beauty portrait preserving identity from an uploaded image, featuring burgundy outfit and cinematic lighting.",
+      "content": "Use the uploaded image as the primary visual reference. Create a high-end photorealistic beauty portrait of the same woman, preserving her facial features, face shape, skin tone, eyes, nose, lips, and overall identity. She has dark brown hair styled in a messy elegant updo with loose wavy strands framing her face. Soft natural makeup, warm brown eyeshadow, subtle eyeliner, long lashes, glossy deep-red lips, and realistic glowing skin.\n\nShe wears an elegant deep burgundy sheer long-sleeve outfit with a high neckline. Her hand rests gracefully near her neck, showing delicate gold rings and detailed burgundy-and-gold nail art. Pose is slightly turned toward the camera with a soft, confident expression.\n\nWarm golden-orange cinematic lighting, strong soft rim light around the hair, cozy dark beige background, shallow depth of field, realistic skin texture, fine hair details, professional beauty photography, 85mm portrait lens, soft bokeh, cinematic color grading, ultra-detailed, photorealistic, 8K. No text, watermark, or logo.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791182791324_wm9xmc_HTyj2JyaAAAgxIT.jpg"
+      ],
+      "author": {
+        "name": "Aynah",
+        "link": "https://x.com/AynahhX"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "35973"
+    },
+    {
       "id": "35924",
       "title": "Cheetos Snack Ad Portrait",
       "description": "Prompt for a studio portrait of a smiling person holding a Cheetos bag with a fisheye lens effect and vibrant orange background.",
@@ -625,11 +683,11 @@
     },
     {
       "id": "35923",
-      "title": "Luxury Fashion Portrait Identity",
-      "description": "Detailed prompt for creating an ultra-photorealistic luxury fashion portrait preserving facial identity from a reference image, featuring a crimson silk gown and specific negative prompts.",
-      "content": "Use the uploaded image as the master identity reference. Create the same woman with the exact same face and facial identity ,preserve her facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, proportions, natural asymmetry, and recognizable features with maximum accuracy. Do not redesign or beautify her face.\n\nCreate an ultra-photorealistic luxury fashion portrait of her wearing a sculptural crimson-red silk gown. The glossy silk forms enormous flowing folds that wrap elegantly around her body and rise dramatically behind her shoulders like waves, creating a striking couture silhouette. Fitted gathered waist, deep V neckline, flowing red fabric cascading downward. Long loose dark-brown wavy hair, elegant red lips, subtle refined makeup, delicate gold earrings and necklace. Warm directional studio lighting, rich deep-red textured background, realistic silk reflections, natural fabric physics, sophisticated luxury editorial campaign, highly detailed skin texture, photorealistic 8K. Front-facing composition, medium-length framing, not head-to-toe.\n\nNegative Prompt\n\nDifferent face, identity drift, facial redesign, altered facial structure, different eyes, different nose, different lips, different jawline, different cheekbones, changed skin tone, exaggerated beauty, plastic skin, over-smoothed skin, excessive makeup, face distortion, asymmetrical eyes, warped features, unnatural expression, extra limbs, extra fingers, malformed hands, deformed body, unrealistic anatomy, distorted fabric, stiff fabric, fake silk, low detail, blurry face, CGI look, cartoon, illustration, 3D render, oversharpening, excessive retouching, watermark, logo, text, cropped face, side profile.",
+      "title": "Luxury Crimson Silk Gown Portrait",
+      "description": "A prompt for Nano Banana Pro to create an ultra-photorealistic luxury fashion portrait of a woman in a crimson silk gown, strictly preserving facial identity from a reference image.",
+      "content": "Use the uploaded image as the master identity reference. Create the same woman with the exact same face and facial identity ,preserve her facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, proportions, natural asymmetry, and recognizable features with maximum accuracy. Do not redesign or beautify her face.\n\nCreate an ultra-photorealistic luxury fashion portrait of her wearing a sculptural {argument name=\"dress_color\" default=\"crimson-red\"} silk gown. The glossy silk forms enormous flowing folds that wrap elegantly around her body and rise dramatically behind her shoulders like waves, creating a striking couture silhouette. Fitted gathered waist, deep V neckline, flowing red fabric cascading downward. Long loose dark-brown wavy hair, elegant red lips, subtle refined makeup, delicate gold earrings and necklace. Warm directional studio lighting, rich deep-red textured background, realistic silk reflections, natural fabric physics, sophisticated luxury editorial campaign, highly detailed skin texture, photorealistic 8K. Front-facing composition, medium-length framing, not head-to-toe.\n\nNegative Prompt\n\nDifferent face, identity drift, facial redesign, altered facial structure, different eyes, different nose, different lips, different jawline, different cheekbones, changed skin tone, exaggerated beauty, plastic skin, over-smoothed skin, excessive makeup, face distortion, asymmetrical eyes, warped features, unnatural expression, extra limbs, extra fingers, malformed hands, deformed body, unrealistic anatomy, distorted fabric, stiff fabric, fake silk, low detail, blurry face, CGI look, cartoon, illustration, 3D render, oversharpening, excessive retouching, watermark, logo, text, cropped face, side profile.",
       "images": [
-        "https://cms-assets.youmind.com/media/1791101710272_yrquhx_HTtdvqCa0AAtuzb.jpg"
+        "https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg"
       ],
       "author": {
         "name": "Elvorya",
@@ -758,25 +816,6 @@
         "Social Media Post"
       ],
       "youmindId": "35799"
-    },
-    {
-      "id": "35801",
-      "title": "Recreate Image with Vines and Neon Lights",
-      "description": "A prompt for Nano Banana Pro to recreate an image featuring a woman behind vines and flowers on an ocean platform, illuminated by neon violet and blue lights at night.",
-      "content": "recreate the image, but her face is slightly behind vines and flowers on a platform on the ocean with secessionist lamps around it. Various camera angles, neon intense light in violet and blue, night time",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790922804365_opd05n_HTjGvrUW0AAyYyP.jpg"
-      ],
-      "author": {
-        "name": "Everett World",
-        "link": "https://x.com/WorldEverett"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "35801"
     },
     {
       "id": "35743",
@@ -1940,66 +1979,6 @@
       "youmindId": "35618"
     },
     {
-      "id": "35560",
-      "title": "Nano Banana Pro vs GPT Image 2 & Others Comparison",
-      "description": "A comparison of image generation models (GPT Image 2, Recraft, Seedream, Nano Banana Pro) using a detailed photorealistic prompt with a reference face.",
-      "content": "Photorealistic photograph of an unmistakably adult woman. Use the supplied live-action reference photo as the absolute authority for her identity: exact facial structure, short silver-grey bob with straight bangs, hair color and texture, pale skin, real body proportions, silhouette, and overall presence. Preserve clear recognizability. do not replace her face, do not copy the reference photo’s original outfit. full-body standing portrait, smiling at the camera, hands on her skirt as it moves. Vertical crop from grass to above the head. WARDROBE: white off-shoulder lace maxi dress with ruffles and a flowing skirt, aviator sunglasses, simple jewelry and a watch. Do not copy clothing from the reference photo. SETTING: bright valley — fruit trees, wildflowers, a grazing deer, high waterfall, green mountains, birds in a clear sky. LIGHTING AND CAMERA: photoreal midday sun, natural pores, her real face readable under or around the sunglasses. Live-action photograph, 35mm, subject sharp, landscape clear. 2:3 or 3:4 portrait. One adult character only. No extra people, no text, no logos.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790577969511_klo2qb_HTMOsChbIAAnhR_.jpg",
-        "https://cms-assets.youmind.com/media/1790577969773_2fymmr_HTMPE7KbIAAhjN2.jpg",
-        "https://cms-assets.youmind.com/media/1790577969506_r7if8m_HTMPK3NaoAA1YOG.jpg",
-        "https://cms-assets.youmind.com/media/1790577970572_8v6m7j_HTMPU7zbMAAspRK.jpg"
-      ],
-      "author": {
-        "name": "Aiko💕",
-        "link": "https://x.com/LoveAiko2003"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "35560"
-    },
-    {
-      "id": "35510",
-      "title": "Red Carpet Tuxedo Portrait Prompt",
-      "description": "A prompt for generating a photorealistic image of a handsome young man in a tuxedo on a red carpet, suitable for fashion or event imagery.",
-      "content": "A handsome young man wearing an elegant black tuxedo, standing confidently on a glamorous red carpet, luxury event decorations and bright photography lights in the background, cinematic fashion photography, highly detailed, photorealistic, 8K.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790490800720_kfnqz7_HTIySTea8AAsoOq.jpg"
-      ],
-      "author": {
-        "name": "Mr.AI",
-        "link": "https://x.com/Mr_Ai6"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "35510"
-    },
-    {
-      "id": "35452",
-      "title": "South Asian Wedding Portrait Prompt",
-      "description": "Prompt for generating a photorealistic portrait of a South Asian man in traditional attire at a wedding event, compatible with Nano Banana Pro.",
-      "content": "A photorealistic portrait of a handsome young South Asian man looking directly at the camera with a gentle, confident smile. He is wearing a light pastel pink traditional Indian kurta adorned with intricate silver embroidery and shimmering mirror work. He is standing at a festive, elegant event. The background is softly blurred with a beautiful depth of field (bokeh), showing a lively, celebratory gathering, likely an Indian wedding or sangeet. In the background, softly out of focus, are happy guests in traditional pastel Indian attire, including a woman laughing joyfully on the left and a man in a patterned kurta on the right. The scene features a bright, airy, and soft pastel color palette with cinematic lighting, highly detailed fashion photography style, 85mm lens. keep original face and hairstyle 100% reference #wedding",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790490799140_y95do8_HTG40PXacAA1T24.jpg"
-      ],
-      "author": {
-        "name": "Mr.AI",
-        "link": "https://x.com/Mr_Ai6"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "35452"
-    },
-    {
       "id": "35099",
       "title": "Nano Banana Pro Studio Portrait Prompt",
       "description": "A detailed prompt for generating a realistic studio portrait of a woman in red fashion attire using Nano Banana Pro (GPT Image 2), focusing on lighting, pose, and texture.",
@@ -2522,6 +2501,25 @@
         "Game Asset"
       ],
       "youmindId": "33386"
+    },
+    {
+      "id": "33374",
+      "title": "Punk Style Split-Dye Anime Woman",
+      "description": "An anime-style digital illustration of a punk-inspired woman with blue and red split-dyed hair and vibrant tattoos.",
+      "content": "An anime-style digital illustration of a vibrant {argument name=\"subject\" default=\"young woman\"} with a bold, punk-inspired look, based on image_0.png. Her long, flowing hair is {argument name=\"hair style\" default=\"split-dyed, with the right side bright teal-blue and the left side vivid red, tied into a messy pigtail bun\"}. She has a {argument name=\"expression\" default=\"confident, open-mouthed grin\"}, bright blue eyes with red-and-black makeup (including a cross under her eye), and numerous ear piercings and a black choker. Her left arm is covered in detailed, colorful neo-traditional tattoos (flowers and creatures), and her midriff features complex tattoos including a red-clothed character and smaller figures. She wears a dark teal sports bra over a white band, and an oversized yellow puffer jacket, partially slipped off one shoulder, which has abstract blue/pink patches and stylized Japanese katakana text. The outfit is completed with dark shorts and a black leather belt. The background is a clean, off-white studio setting. Medium close-up shot, dynamic lighting, and a detailed comic art style.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788591084657_67012g_HRVdSThbkAA-5ar.jpg"
+      ],
+      "author": {
+        "name": "𝑨𝒇𝒓𝒊𝒏",
+        "link": "https://x.com/afrinxai"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "33374"
     }
   ],
   "categories": [
