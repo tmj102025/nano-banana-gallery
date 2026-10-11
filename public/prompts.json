@@ -163,25 +163,6 @@
       "youmindId": "811"
     },
     {
-      "id": "36153",
-      "title": "Cinematic Male Portrait Style Transfer",
-      "description": "A prompt to reproduce the exact cinematic photography style of a reference image, creating a premium male portrait with warm golden backlighting, dark moody atmosphere, and realistic skin texture.",
-      "content": "Analyze the uploaded reference and reproduce its exact cinematic photography style.\n\nCreate a premium cinematic male portrait with the same visual language as the reference.\n\nPreserve:\n\nWarm golden backlight around the hair\n\nDark moody background\n\nSoft atmospheric smoke/haze\n\nStrong rim lighting\n\nWarm skin illumination\n\nDeep cinematic shadows\n\nNatural skin texture\n\nThick textured hairstyle with individual hair strands\n\nDark fashion clothing\n\nSunglasses with realistic reflections\n\nSame close-up portrait framing\n\nSame sophisticated editorial mood\n\nSame shallow depth of field\n\nSame warm brown/golden color grading\n\nLighting should appear physically realistic, with golden light separating the subject from the dark smoky background.\n\n85mm portrait-lens look, shallow depth of field, f/1.4 aesthetic, realistic skin pores, natural facial texture, realistic hair strands, cinematic HDR, professional fashion photography, 8K Ultra HD.\n\nKeep the face natural and proportional. Do not plasticize the skin. No exaggerated facial features, no artificial eyes, no distorted glasses, no watermark.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791527771163_zp33s2_HUKjQMNaIAAERkD.jpg"
-      ],
-      "author": {
-        "name": "Muhammad Jamil",
-        "link": "https://x.com/JamilAI55"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "36153"
-    },
-    {
       "id": "35920",
       "title": "Photorealistic Sunset Portrait with Reference Face",
       "description": "A detailed prompt for generating a photorealistic portrait of a woman in sporty attire at sunset, strictly preserving the face identity from an uploaded reference image. Compatible with GPT Image 2, Nano Banana Pro, Gemini, and Grok.",
@@ -544,6 +525,26 @@
       "youmindId": "35563"
     },
     {
+      "id": "35558",
+      "title": "Autumn Jacket Portrait",
+      "description": "A realistic portrait prompt featuring a girl in a leather jacket against autumn foliage, emphasizing natural lighting and iPhone photography style.",
+      "content": "Realistic 3:4 photo, vertical portrait. Do not change the girl’s appearance. Natural hairstyle, hair lying freely on the shoulders. Medium-length square manicure in a milky color.\n\nThe girl is wearing a dark brown cropped leather jacket, a brown plaid shirt, and black leggings. She is standing by a modern metal railing, leaning slightly back, right hand behind her head. Face in left profile, eyes closed, head slightly tilted upward.\n\nBackground of dense autumn foliage: bright orange, yellow, red, and green leaves, a tree trunk with green ivy on the left. Soft natural daylight, no harsh shadows. Background sharp, no blur.\n\nPinterest and lifestyle aesthetic, high detail and natural skin texture, shot in iPhone 17 Pro style. A lively spontaneous frame without posing, natural everyday look.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1790577969480_fxkpgy_HTNeSWHbUAA4Yk3.jpg",
+        "https://cms-assets.youmind.com/media/1790577968121_uavrw3_HTNeTOraoAAREot.jpg"
+      ],
+      "author": {
+        "name": "Dr. Samia",
+        "link": "https://x.com/oye_samia"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "35558"
+    },
+    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -584,12 +585,31 @@
       "youmindId": "36158"
     },
     {
-      "id": "36155",
-      "title": "Candid Bar Scene with Two Women Prompt",
-      "description": "A detailed prompt for generating a realistic smartphone-style photo of two women at a bar, focusing on lighting, clothing, and atmosphere.",
-      "content": "A candid, high-detail smartphone snapshot of two young women enjoying cocktails at a vibrant, upscale bar at night. On the left, a woman with warm brown wavy hair and a subtle smile wears a dark maroon top. On the right, a woman with dark brown hair and a bright, laughing expression wears a sleek black top and an open blazer, pointing playfully at their drinks. Each is holding a elegant coupette glass filled with an amber-colored cocktail garnished with a green olive on a pick. The background is softly blurred, showing a warmly lit back bar stocked with liquor bottles and hanging pendant lights, creating a cozy and lively atmosphere. Natural flash photography style, authentic grain, 8k resolution.",
+      "id": "36153",
+      "title": "Cinematic Male Portrait with Golden Backlight",
+      "description": "A detailed prompt for generating a premium cinematic male portrait using GPT Image 2 / Nano Banana Pro. It specifies warm golden backlighting, dark moody background, atmospheric smoke, and realistic skin/hair textures to match a reference image style.",
+      "content": "Analyze the uploaded reference and reproduce its exact cinematic photography style.\n\nCreate a premium cinematic male portrait with the same visual language as the reference.\n\nPreserve:\n\nWarm golden backlight around the hair\n\nDark moody background\n\nSoft atmospheric smoke/haze\n\nStrong rim lighting\n\nWarm skin illumination\n\nDeep cinematic shadows\n\nNatural skin texture\n\nThick textured hairstyle with individual hair strands\n\nDark fashion clothing\n\nSunglasses with realistic reflections\n\nSame close-up portrait framing\n\nSame sophisticated editorial mood\n\nSame shallow depth of field\n\nSame warm brown/golden color grading\n\nLighting should appear physically realistic, with golden light separating the subject from the dark smoky background.\n\n85mm portrait-lens look, shallow depth of field, f/1.4 aesthetic, realistic skin pores, natural facial texture, realistic hair strands, cinematic HDR, professional fashion photography, 8K Ultra HD.\n\nKeep the face natural and proportional. Do not plasticize the skin. No exaggerated facial features, no artificial eyes, no distorted glasses, no watermark.",
       "images": [
-        "https://cms-assets.youmind.com/media/1791527772238_omy2gl_HUKZ42VaIAAOb75.jpg"
+        "https://cms-assets.youmind.com/media/1791613888838_2p8hbq_HUKjQMNaIAAERkD.jpg"
+      ],
+      "author": {
+        "name": "Muhammad Jamil",
+        "link": "https://x.com/JamilAI55"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "36153"
+    },
+    {
+      "id": "36155",
+      "title": "Candid Night Out with Cocktails",
+      "description": "A prompt for generating a high-detail smartphone snapshot of two young women enjoying cocktails at an upscale bar, featuring authentic grain and flash photography aesthetics.",
+      "content": "A candid, high-detail smartphone snapshot of two young women enjoying cocktails at a vibrant, upscale bar at night. On the left, a woman with warm brown wavy hair and a subtle smile wears a dark maroon top. On the right, a woman with dark brown hair and a bright, laughing expression wears a sleek black top and an open blazer, pointing playfully at their drinks. Each holds an elegant coupe glass filled with an amber cocktail garnished with a green olive on a pick. The background is softly blurred, showing a warmly lit back bar stocked with liquor bottles and hanging pendant lights, creating a cozy and lively atmosphere. Natural flash photography style, authentic grain, 8k resolution.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791613887393_688exb_HUKZ42VaIAAOb75.jpg"
       ],
       "author": {
         "name": "simeon-sanai",
@@ -601,6 +621,27 @@
         "Social Media Post"
       ],
       "youmindId": "36155"
+    },
+    {
+      "id": "36214",
+      "title": "Japanese Woman in Onsen with Autumn Maple View",
+      "description": "A prompt for generating a photorealistic portrait of a young Japanese woman relaxing in an outdoor hot spring (onsen) surrounded by autumn maple leaves.",
+      "content": "A close-up, high-detail portrait of a beautiful young Japanese woman in messy hair style looking directly into the camera with a gentle, pursed-lip expression. She is partly submerged in a traditional Japanese outdoor hot onsen, with clear, warm-toned water. The onsen is built directly on stone bank, looks out over a canopy of blazing crimson, amber, and golden maple leaves, with an unobstructed, panoramic view of rolling mountain ridges, deep valleys. A few leaves will gently drift down and float on the surface of the water. softly blurred to create a shallow depth of field. The lighting is soft, natural, and warm, highlighting her smooth skin texture and expressive eyes. The shot is captured in a professional photographic style, reminiscent of a high-quality portrait or promotional still, with sharp focus on her face, natural skin tones, balanced exposure, and a serene, intimate atmosphere.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791613888772_qmex3j_HUJhEIRacAAIT2m.jpg",
+        "https://cms-assets.youmind.com/media/1791613888666_7006w0_HUJhEIiawAAaA5N.jpg",
+        "https://cms-assets.youmind.com/media/1791613888821_tnlv0z_HUJhEIUaQAAqZJG.jpg"
+      ],
+      "author": {
+        "name": "Saki H. 咲希",
+        "link": "https://x.com/SakiH_AI"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "36214"
     },
     {
       "id": "36156",
@@ -815,28 +856,6 @@
         "Social Media Post"
       ],
       "youmindId": "35973"
-    },
-    {
-      "id": "35924",
-      "title": "Cheetos Snack Ad Portrait",
-      "description": "Prompt for a studio portrait of a smiling person holding a Cheetos bag with a fisheye lens effect and vibrant orange background.",
-      "content": "Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.\nThe model wears a glossy bright orange puffer jacket over a white t-shirt.\nBackground in a vibrant orange gradient with light yellow accents, bold and fun.\nSoft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.\nExpressive smile, fun street-commercial aesthetic.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791101710257_4rpbqz_HTwZ2I6a4AA-N_z.jpg",
-        "https://cms-assets.youmind.com/media/1791101710262_6d3x3v_HTwZ2JlaEAAyDDP.jpg",
-        "https://cms-assets.youmind.com/media/1791101710269_38c661_HTwZ2Ija0AA6rwP.jpg",
-        "https://cms-assets.youmind.com/media/1791101710835_cfup74_HTwZ2JUbQAAtuxm.jpg"
-      ],
-      "author": {
-        "name": "Duet | AI",
-        "link": "https://x.com/Sheldon056"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "35924"
     },
     {
       "id": "35743",
@@ -1867,6 +1886,27 @@
       "youmindId": "33474"
     },
     {
+      "id": "36215",
+      "title": "Full Armor Mecha Girl Concept Art",
+      "description": "A prompt for generating a high-quality concept art image of a mecha girl in full armor, styled like a 1/7 scale plastic model figure. The character features a slim torso and high-heeled leg design.",
+      "content": "Full Armor Mecha Girl FAMG-001 Aurelith 1/7 scale plastic model, slim torso with high-heeled shaped legs, highly detailed concept art, realistic materials and lighting, white background, product photography style",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791613889303_1304it_HUFpcmkbgAADDby.jpg",
+        "https://cms-assets.youmind.com/media/1791613889332_1vpg3p_HUFpcqyawAAkhcK.jpg",
+        "https://cms-assets.youmind.com/media/1791613889399_foc6em_HUFpcmgaAAAOqql.jpg"
+      ],
+      "author": {
+        "name": "てんねん",
+        "link": "https://x.com/munou_ac"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "36215"
+    },
+    {
       "id": "36102",
       "title": "Surreal Candy Doll Character Prompt",
       "description": "A prompt for creating a surreal fashion doll made of translucent candy braids, featuring five distinct heads (Asian female, masked, Hulk-like green, dog, cat) and mixed materials like octopus tentacles and tree roots. Designed for high-fashion studio photography with professional lighting.",
@@ -1884,6 +1924,28 @@
         "Product Marketing"
       ],
       "youmindId": "36102"
+    },
+    {
+      "id": "35924",
+      "title": "Cheetos Snack Ad Portrait",
+      "description": "Prompt for a studio portrait of a smiling person holding a Cheetos bag with a fisheye lens effect and vibrant orange background.",
+      "content": "Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.\nThe model wears a glossy bright orange puffer jacket over a white t-shirt.\nBackground in a vibrant orange gradient with light yellow accents, bold and fun.\nSoft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.\nExpressive smile, fun street-commercial aesthetic.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791101710257_4rpbqz_HTwZ2I6a4AA-N_z.jpg",
+        "https://cms-assets.youmind.com/media/1791101710262_6d3x3v_HTwZ2JlaEAAyDDP.jpg",
+        "https://cms-assets.youmind.com/media/1791101710269_38c661_HTwZ2Ija0AA6rwP.jpg",
+        "https://cms-assets.youmind.com/media/1791101710835_cfup74_HTwZ2JUbQAAtuxm.jpg"
+      ],
+      "author": {
+        "name": "Duet | AI",
+        "link": "https://x.com/Sheldon056"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "35924"
     },
     {
       "id": "35919",
@@ -2039,25 +2101,6 @@
         "Product Marketing"
       ],
       "youmindId": "35745"
-    },
-    {
-      "id": "35667",
-      "title": "Istanbul Bosphorus Travel Portrait",
-      "description": "Prompt for a cinematic travel portrait of a woman at the Bosphorus waterfront during sunset, preserving facial identity from a reference.",
-      "content": "Create an ultra-photorealistic cinematic travel portrait using the uploaded reference image for the woman’s facial identity. Preserve her recognizable facial features, blue-green eyes, natural skin texture, blonde hair in a soft messy updo with loose face-framing strands, and realistic proportions.\n\nPlace her standing beside the Bosphorus waterfront in Istanbul during a beautiful golden-hour sunset. She is wearing an elegant deep red sleeveless midi/maxi frock with a fitted bodice and softly flowing skirt. She holds one single fresh red rose naturally in both hands. No handbag, no shoulder bag, no suitcase.\n\nShe stands beside an ornate black wrought-iron waterfront railing, looking gently toward the camera with a calm, natural, romantic expression. Behind her, show the Bosphorus with realistic ferries, shimmering water, Istanbul’s historic skyline, large domes and slender minarets, warm waterfront buildings, and elegant vintage street lamps.\n\nWet stone pavement with subtle reflections, warm sunset rays, soft dramatic clouds, natural atmospheric haze, realistic wind movement in her hair and dress.\n\nPhotography: luxury travel editorial, photorealistic live-action look, natural skin pores and texture, realistic hands and fingers, 85mm lens, shallow depth of field, cinematic bokeh, soft golden backlight, realistic fabric texture, natural body proportions, high dynamic range, sophisticated color grading, vertical 9:16 composition.\n\nNegative prompt: face distortion, identity drift, extra fingers, malformed hands, duplicate rose, handbag, purse, suitcase, CGI, cartoon, illustration, plastic skin, excessive makeup, artificial body proportions, text, subtitles, logo, watermark.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790750136673_042nyt_HTY9mWLaQAAm0JS.jpg"
-      ],
-      "author": {
-        "name": "Aynelle",
-        "link": "https://x.com/aynellex"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "35667"
     },
     {
       "id": "35099",
@@ -2421,28 +2464,6 @@
       "youmindId": "30563"
     },
     {
-      "id": "30331",
-      "title": "Stylized Collectible Toy Packaging",
-      "description": "This prompt creates a creative mock-up of a subject transformed into a collectible toy, complete with plastic textures and blister-pack retail packaging.",
-      "content": "Transform the {argument name=\"subject\" default=\"character\"} into a stylized collectible toy with glossy plastic textures, exaggerated features, miniature accessories, and premium blister-pack retail packaging with a cardboard backer.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1785482583777_2nxgwf_HOhEOrOaUAAjfZj.jpg",
-        "https://cms-assets.youmind.com/media/1785482584781_v3zokw_HOhEQGwa4AA64iP.jpg",
-        "https://cms-assets.youmind.com/media/1785482585132_6jjlyt_HOhERZEbQAA5sXj.jpg",
-        "https://cms-assets.youmind.com/media/1785482584615_dz67va_HOhESa_aYAAuSsl.jpg"
-      ],
-      "author": {
-        "name": "WeWant Mars",
-        "link": "https://x.com/Madhuribhai"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "E-commerce Main Image"
-      ],
-      "youmindId": "30331"
-    },
-    {
       "id": "36152",
       "title": "Cute Felt Frog Scene",
       "description": "A prompt for generating a whimsical, felt-like 3D scene of a cartoon frog on a lily pad using Nano Banana Pro.",
@@ -2501,27 +2522,6 @@
         "Game Asset"
       ],
       "youmindId": "34306"
-    },
-    {
-      "id": "33778",
-      "title": "Expressive Painterly Realistic Hybrid Portrait",
-      "description": "A sophisticated concept art design prompt that blends classic painterly realism with polished cinematic character illustration.",
-      "content": "Using the attached object, recreate it as identically as possible. Create a sophisticated hybrid portrait blending expressive painterly realism with polished cinematic digital illustration.\n\nPreserve the exact facial structure, expression, pose, hairstyle, clothing, proportions, and overall composition. Use visible, confident brushstrokes, subtle dry-brush textures, delicate sketch lines, soft glazing, natural pigment variation, and handcrafted imperfections—avoid an overly smooth or airbrushed look.\n\nUse warm peach, coral, terracotta, amber, and soft-pink skin tones with rich shadows in mauve, plum, charcoal, espresso, and slate. Add realistic luminous highlights to the forehead, nose, cheekbones, and lips.\n\nMake the eyes highly expressive and cinematic, with detailed irises, realistic reflections, fine lashes, and controlled catchlights. Keep facial anatomy convincing, elegant, and mature.\n\nHair and clothing should have fluid painterly strokes, natural folds, selective sharp details, and loose expressive edges. Use dramatic directional cinematic lighting, subtle rim light, atmospheric shadows, and soft background blending.\n\nOverall style: premium contemporary concept art combining traditional hand-painted texture, impressionistic realism, elegant linework, cinematic polish, and refined character illustration.\n\nMinimal atmospheric background, sophisticated warm-neutral palette, strong focus on the face and gaze.\n\nAspect ratio: 9:16 vertical.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788849667276_jgbjdx_HRnd81AbIAAhBz1.jpg",
-        "https://cms-assets.youmind.com/media/1788849667246_iadpt9_HRnd81IaAAEjoKG.jpg",
-        "https://cms-assets.youmind.com/media/1788849667335_j624s1_HRnd80-bIAIRaA0.jpg"
-      ],
-      "author": {
-        "name": "Zayan",
-        "link": "https://x.com/HustleXR"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "33778"
     }
   ],
   "categories": [
