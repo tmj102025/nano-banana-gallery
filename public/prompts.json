@@ -163,6 +163,25 @@
       "youmindId": "811"
     },
     {
+      "id": "36316",
+      "title": "Studio portrait identity preservation",
+      "description": "A prompt for generating a studio portrait while strictly preserving the facial identity from a reference photo, featuring specific lighting and clothing details.",
+      "content": "Without changing the appearance of the woman from the photo (exact facial identity), a large 4/5 studio portrait in 8K, a night shot with flash.\n\nThe woman is sitting on a transparent fashionable chair (part of the backrest is visible), turned in a three-quarter view. Hands are clasped in front of her face, chin resting on her hands. Confident gaze, eyebrows slightly raised, lips slightly parted.\n\nClothing: Loose strict white shirt with long slightly tousled sleeves, the bottom is tied in a knot at the waist, black tie. Hair is light, long, thick, with a mirror shine. Makeup is light: eyeliner, fox lashes, “dusty rose” lips with a clear contour.\n\nLighting at an angle + flash: Sculptural shadows, expressive chiaroscuro. Background is neutral, evenly lit. Coarse film grain, RAW feel, natural skin texture (pores, peach fuzz on the cheeks, capillaries around the eyes), super-detailed iris, SSS/Tyndall effect.\n\nCamera: Fujifilm GFX 100, 100mm, controlled grip.\nTake the setting/set completely from the second attached photo.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791787584707_zvltra_HUXCPRLaoAAniC9.jpg"
+      ],
+      "author": {
+        "name": "Dr. Samia",
+        "link": "https://x.com/oye_samia"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "36316"
+    },
+    {
       "id": "36257",
       "title": "Escalator Dreaming Bride in Osaka Station",
       "description": "Generates a cinematic portrait of a bride on an escalator in a Japanese train station with specific camera angles and lighting effects.",
@@ -525,28 +544,6 @@
       "youmindId": "35561"
     },
     {
-      "id": "35562",
-      "title": "Fine-Art Studio Portrait with Butterfly Lighting",
-      "description": "A detailed JSON-style prompt template for creating dramatic black and white studio portraits with butterfly lighting and realistic skin textures using Nano Banana Pro.",
-      "content": "{\n  \"style_prompt_template\": {\n    \"subject\": \"{argument name=\"person\" default=\"{{PERSON_NAME_OR_IMAGE}}\"}\",\n    \"aspect_ratio\": \"9:16 vertical\",\n    \"canvas_size_guidance\": \"1080x1920 or equivalent 9:16\",\n    \"shot_type\": \"medium portrait shot, zoomed out 50% from tight close-up, head-to-mid-torso visible, facing camera\",\n    \"photography_style\": \"dramatic black and white studio portrait, editorial/fine-art photography\",\n    \"composition\": {\n      \"face_position\": \"subject's face centered both horizontally and vertically in the frame\",\n      \"face_size_in_frame\": \"face occupies roughly 20-25% of frame height, not tightly cropped, ample negative space around subject\",\n      \"eye_line\": \"eyes aligned at approximate vertical center of the canvas\",\n      \"headroom\": \"generous margin above the hair, clear dark space visible above head\",\n      \"crop\": \"visible down to mid-chest or waist, more of the suit and shoulders shown, wider view than a tight headshot\",\n      \"surrounding_space\": \"large area of negative black space surrounding subject on left, right, top, and bottom\",\n      \"alignment\": \"subject facing straight into camera, symmetrical framing, no off-center offset\"\n    },\n    \"lighting\": {\n      \"type\": \"single hard top-down spotlight (butterfly/Paramount lighting)\",\n      \"quality\": \"harsh, narrow beam creating strong falloff\",\n      \"key_highlight\": \"top of hair and forehead catch bright rim light\",\n      \"shadow_behavior\": \"deep shadows under brow, cheekbones, and jawline; steep light-to-dark gradient across face\",\n      \"background_light\": \"none; background falls into near-total darkness with faint gradient near top edge, spotlight cone visible in wider frame\"\n    },\n    \"color_treatment\": \"monochrome black and white, high contrast, deep blacks, no gray midtone flatness\",\n    \"background\": \"solid black or near-black, subtle vignette, no visible texture or props, large expanse of negative space\",\n    \"wardrobe\": \"dark tailored suit jacket, white dress shirt, dark tie, formal/business attire, full torso visible\",\n    \"expression_and_pose\": \"neutral to serious expression, calm and composed, minimal smile, direct gaze into lens, relaxed shoulders\",\n    \"skin_and_texture_detail\": \"visible natural skin texture, pores, fine wrinkles, stubble if present, unretouched realism\",\n    \"hair_detail\": \"individual strands visible and crisply lit, natural texture, not overly styled\",\n    \"camera_and_lens\": \"shot as if on medium format camera, 50mm-85mm equivalent lens, greater working distance from subject, shallow depth of field, tack-sharp focus on eyes\",\n    \"grain_and_finish\": \"fine film-like grain, high dynamic range, crisp micro-contrast, glossy editorial finish\",\n    \"mood\": \"intense, powerful, cinematic, timeless\"\n  },\n  \"negative_prompt\": \"color cast, flat lighting, soft focus, blown highlights on face, busy background, smiling broad\"\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790577970707_cey2fw_HTOoZDmbYAEAjQ9.jpg",
-        "https://cms-assets.youmind.com/media/1790577970750_vbuofh_HTOoZDibEAAesdx.jpg",
-        "https://cms-assets.youmind.com/media/1790577970830_jaxu1i_HTOoZDjbEAA3IBG.jpg",
-        "https://cms-assets.youmind.com/media/1790577971404_akvlel_HTOoZDkaYAAvS0k.jpg"
-      ],
-      "author": {
-        "name": "SaaS Junction ✦ Daily AI News & Prompts",
-        "link": "https://x.com/SaasJunctionHQ"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "35562"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -564,6 +561,47 @@
         "Social Media Post"
       ],
       "youmindId": "532"
+    },
+    {
+      "id": "36315",
+      "title": "Retro Hong Kong Cha Chaan Teng Portrait Prompt",
+      "description": "A detailed prompt for generating a photorealistic image of a woman in a retro Hong Kong tea restaurant, capturing the 90s film aesthetic with specific lighting, camera settings, and negative constraints.",
+      "content": "Retro Hong Kong cha chaan teng portrait, 90s Hong Kong film still aesthetic, candid documentary vibe.\n\nSubject: 25-year-old East Asian female, oval face, thin eyebrows, dark eyes; fair skin with fine pores and natural texture, no plastic smoothing; light makeup, reddish lips. Long black hair draped over shoulders, slightly curled at ends, a few loose strands framing the face.\n\nExpression: Gaze falling off-camera to the left, lazy and relaxed demeanor, a faint smile on the corner of the mouth, as if caught daydreaming in the afternoon.\n\nClothing: Cream-white pure cotton short-sleeved shirt, collar open by one button; dark brown high-waisted corduroy wide-leg pants; black thin belt; pearl earrings. Clean and neat outfit, vintage feel hidden in details.\n\nPose/Action: Sitting in a window booth of the cha chaan teng, body slightly turned towards the window, one elbow resting on the table, fingers lightly holding a steaming silk stocking milk tea, the other hand casually supporting the chin. Relaxed sitting posture, not stiff.\n\nProps: On the table are pineapple bun, shrimp dumplings in bamboo steamer, metal milk tea cup, menu board, wooden chopstick holder.\n\nEnvironment: Foreground is slightly blurred milk tea cup and steamer; mid-ground is the subject and booth table; background is the interior of the cha chaan teng — green mosaic tile walls, red neon sign \"Cha Chaan Teng\", old-fashioned ceiling fan, egg tarts and pastries in glass cabinet; distant diners are soft blurs.\n\nLighting: Indoor warm yellow pendant lights as key light, color temperature approx 3200K, wrapped in a thin layer of oil smoke mist; cold daylight from cloudy sky outside the window as rim light, contrasting warm and cool tones. Soft highlights reflections on glass cabinets and tiles.\n\nCamera: 50mm prime lens, f/2.0, half-body shot, camera position slightly lower than eye level, shallow depth of field, subject clear, foreground/background naturally blurred, slightly handheld casual framing, film grain, Kodak Gold film simulation, Eastmancolor palette.\n\nMood: Nostalgic, slow-paced afternoon laziness, like a frozen frame from an old Hong Kong movie.\n\nQuality tags: ultra detailed, photorealistic, cinematic, high resolution, natural skin texture.\n\nNegative constraints: No oil painting, No anime, No 3D render, No cartoon, no deformed hands, no plastic skin, no oversaturated colors, no text artifacts, no watermark.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791787584694_3kaa7s_HUY1Uu-agAAlRrb.jpg",
+        "https://cms-assets.youmind.com/media/1791787584656_028kwj_HUY1XXxaEAAxTgm.jpg",
+        "https://cms-assets.youmind.com/media/1791787584618_jc2di5_HUY1Z0oaUAAPK9H.jpg"
+      ],
+      "author": {
+        "name": "Candy",
+        "link": "https://x.com/CandyTravelight"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "36315"
+    },
+    {
+      "id": "36314",
+      "title": "East Asian Woman in Gray Turtleneck Concrete Wall",
+      "description": "Creates a hyper-realistic outdoor portrait of an East Asian woman with violet hair and glasses, wearing a gray ribbed turtleneck against a concrete wall.",
+      "content": "A hyper-realistic 8K outdoor photograph of a beautiful East Asian woman , standing three-quarter against a pale concrete wall. Long straight dark-violet hair with blunt bangs, individual strands catching the sun. Round thin metal glasses, fair realistic skin with visible pores, brown eyes, glossy muted rose lips.\n\nShe wears a fitted gray ribbed short-sleeve turtleneck; the vertical ribs stretch across the bust with small highlights on each ridge. Matching gray arm sleeves sit below the short sleeves. Black high-waist trousers. Arms crossed loosely in front, one hand resting on the other forearm.\n\nLighting: hard midday sun from upper left, sharp shadow under the chin and across the torso, thin speculars on the rib-knit and the glasses frames. Soft wall bounce on the right side of the face. Shot on an 85mm f/2, shallow depth of field, photorealistic skin, peach fuzz, knit micro-texture, fashion editorial look.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791787584625_zo5l88_HUVYITwWcAA_zwI.jpg",
+        "https://cms-assets.youmind.com/media/1791787583198_ef81fh_HUVYIr2WMAA3PXq.jpg"
+      ],
+      "author": {
+        "name": "Aytaç Altıntepe",
+        "link": "https://x.com/aytacaltintepe"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "36314"
     },
     {
       "id": "36255",
@@ -781,63 +819,6 @@
         "Social Media Post"
       ],
       "youmindId": "36028"
-    },
-    {
-      "id": "36027",
-      "title": "Luxury Bathtub Fashion Portrait",
-      "description": "A prompt for generating an ultra-photorealistic luxury fashion portrait of a woman in a bathtub, emphasizing identity preservation from a reference image.",
-      "content": "Use the uploaded reference image as the exact facial identity reference. Preserve her face, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and identity exactly — no identity drift or facial alteration.\n\nCreate an ultra-photorealistic colorful luxury fashion portrait of the same woman reclining elegantly inside a luxurious white freestanding bathtub. She wears a deep emerald-green satin floor-length gown with elegant draping and long black opera gloves. Add layered diamond necklaces, sparkling earrings, and refined luxury jewelry.\n\nShe holds a crystal wine glass filled with rich red wine in one hand, while her other gloved hand rests gracefully near her head. Her hair is sleek and polished, with a confident, mysterious expression and direct eye contact with the camera.\n\nLuxurious cream-and-gold marble bathroom, warm champagne lighting, subtle reflections, rich emerald, burgundy and gold color palette, cinematic shadows, glowing highlights, realistic satin texture, natural skin pores, realistic jewelry sparkle, high-fashion editorial photography, sophisticated Hollywood cinematography, 85mm lens, shallow depth of field, ultra-detailed, photorealistic, elegant and glamorous.\n\nVertical 4:5, full-body composition, cinematic luxury editorial, realistic colors, no AI look.\n\nNegative prompt: different face, identity drift, altered facial features, plastic skin, over-retouching, distorted hands, extra fingers, bad anatomy, CGI, cartoon, blurry, low quality, watermark, text, logo.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791268438098_i3xbnh_HT32hgma8AAhKOw.jpg"
-      ],
-      "author": {
-        "name": "Elvorya",
-        "link": "https://x.com/Elvorya"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "36027"
-    },
-    {
-      "id": "36026",
-      "title": "Luxury Fashion Editorial with Sports Sedan",
-      "description": "A prompt for generating a photorealistic luxury fashion editorial featuring an elegant woman and a sports car, optimized for Nano Banana Pro.",
-      "content": "Create a photorealistic luxury fashion editorial of an elegant young woman standing confidently in front of a glossy brown luxury sports sedan, parked on a sophisticated European-style city street. She wears a tailored chocolate-brown blazer, matching high-waisted trousers, a silky brown blouse, and pointed brown heels. Long softly wavy brown hair, natural flawless skin, subtle luxury makeup, confident expression. Warm beige historic architecture with tall arched windows and boutique entrance in the background, cinematic golden-hour lighting, shallow depth of field, realistic reflections on the car, premium fashion campaign aesthetic, full-body composition, vertical 4:5, ultra-detailed, realistic photography, no text, no watermark, no distorted hands or face.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791268436716_v2nmdl_HT3ygv9awAAHeSj.jpg"
-      ],
-      "author": {
-        "name": "Aynelle",
-        "link": "https://x.com/aynellex"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "36026"
-    },
-    {
-      "id": "35974",
-      "title": "Cinematic Luxury Evening Portrait by Infinity Pool",
-      "description": "Generates a photorealistic cinematic portrait of a woman in a silver gown by an infinity pool at night, preserving facial identity from a reference image.",
-      "content": "Use the uploaded image as the exact visual and facial reference. Preserve the woman’s facial identity, facial proportions, hairstyle, and overall appearance with zero identity drift.\n\nCreate a photorealistic cinematic luxury evening portrait of the same woman standing beside a calm infinity pool overlooking a modern waterfront city skyline at blue hour/night. She wears an elegant floor-length silver-white couture gown with delicate crystal embellishments, thin straps, a fitted embellished bodice, flowing pleated skirt, and a subtle train. Add matching sparkling silver high heels.\n\nKeep the same graceful side-profile pose as the reference: body slightly turned sideways toward the camera, shoulders relaxed, one arm naturally resting beside her body, elegant posture, soft confident gaze directly toward the camera.\n\nThe pool should reflect the surrounding city lights naturally. In the background, show a sophisticated modern skyline with tall illuminated towers, softly blurred for cinematic depth of field. Include a realistic, naturally sized full moon in the upper sky — not oversized — with subtle moonlight illuminating the scene. Gentle evening breeze moves a few strands of her hair and the gown slightly.\n\nLighting: realistic moonlight mixed with soft ambient architectural lighting, subtle highlights on the silver dress, natural skin tones, realistic shadows, cinematic contrast, soft atmospheric haze.\n\nCamera: full-body composition, eye-level camera, 85mm portrait lens, shallow depth of field, realistic bokeh, sharp subject, detailed fabric texture, natural skin pores.\n\nStyle: high-end luxury fashion editorial, cinematic photography, ultra-photorealistic, sophisticated, elegant, realistic proportions, natural skin texture, no artificial AI appearance.\n\nNegative prompt: identity change, face drift, different person, altered facial features, oversized moon, plastic skin, excessive retouching, distorted hands, extra fingers, warped body, unnatural pose, cartoon, CGI look, oversaturated colors, excessive glow, duplicate person, blurry face, watermark, text, logo.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791268438601_dqbur7_HTysDgUa8AAx58V.jpg"
-      ],
-      "author": {
-        "name": "Elvorya",
-        "link": "https://x.com/Elvorya"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "35974"
     },
     {
       "id": "35743",
@@ -1908,6 +1889,63 @@
       "youmindId": "36102"
     },
     {
+      "id": "36027",
+      "title": "Luxury Bathtub Fashion Portrait",
+      "description": "A prompt for generating an ultra-photorealistic luxury fashion portrait of a woman in a bathtub, emphasizing identity preservation from a reference image.",
+      "content": "Use the uploaded reference image as the exact facial identity reference. Preserve her face, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and identity exactly — no identity drift or facial alteration.\n\nCreate an ultra-photorealistic colorful luxury fashion portrait of the same woman reclining elegantly inside a luxurious white freestanding bathtub. She wears a deep emerald-green satin floor-length gown with elegant draping and long black opera gloves. Add layered diamond necklaces, sparkling earrings, and refined luxury jewelry.\n\nShe holds a crystal wine glass filled with rich red wine in one hand, while her other gloved hand rests gracefully near her head. Her hair is sleek and polished, with a confident, mysterious expression and direct eye contact with the camera.\n\nLuxurious cream-and-gold marble bathroom, warm champagne lighting, subtle reflections, rich emerald, burgundy and gold color palette, cinematic shadows, glowing highlights, realistic satin texture, natural skin pores, realistic jewelry sparkle, high-fashion editorial photography, sophisticated Hollywood cinematography, 85mm lens, shallow depth of field, ultra-detailed, photorealistic, elegant and glamorous.\n\nVertical 4:5, full-body composition, cinematic luxury editorial, realistic colors, no AI look.\n\nNegative prompt: different face, identity drift, altered facial features, plastic skin, over-retouching, distorted hands, extra fingers, bad anatomy, CGI, cartoon, blurry, low quality, watermark, text, logo.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791268438098_i3xbnh_HT32hgma8AAhKOw.jpg"
+      ],
+      "author": {
+        "name": "Elvorya",
+        "link": "https://x.com/Elvorya"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "36027"
+    },
+    {
+      "id": "36026",
+      "title": "Luxury Fashion Editorial with Sports Sedan",
+      "description": "A prompt for generating a photorealistic luxury fashion editorial featuring an elegant woman and a sports car, optimized for Nano Banana Pro.",
+      "content": "Create a photorealistic luxury fashion editorial of an elegant young woman standing confidently in front of a glossy brown luxury sports sedan, parked on a sophisticated European-style city street. She wears a tailored chocolate-brown blazer, matching high-waisted trousers, a silky brown blouse, and pointed brown heels. Long softly wavy brown hair, natural flawless skin, subtle luxury makeup, confident expression. Warm beige historic architecture with tall arched windows and boutique entrance in the background, cinematic golden-hour lighting, shallow depth of field, realistic reflections on the car, premium fashion campaign aesthetic, full-body composition, vertical 4:5, ultra-detailed, realistic photography, no text, no watermark, no distorted hands or face.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791268436716_v2nmdl_HT3ygv9awAAHeSj.jpg"
+      ],
+      "author": {
+        "name": "Aynelle",
+        "link": "https://x.com/aynellex"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "36026"
+    },
+    {
+      "id": "35974",
+      "title": "Cinematic Luxury Evening Portrait by Infinity Pool",
+      "description": "Generates a photorealistic cinematic portrait of a woman in a silver gown by an infinity pool at night, preserving facial identity from a reference image.",
+      "content": "Use the uploaded image as the exact visual and facial reference. Preserve the woman’s facial identity, facial proportions, hairstyle, and overall appearance with zero identity drift.\n\nCreate a photorealistic cinematic luxury evening portrait of the same woman standing beside a calm infinity pool overlooking a modern waterfront city skyline at blue hour/night. She wears an elegant floor-length silver-white couture gown with delicate crystal embellishments, thin straps, a fitted embellished bodice, flowing pleated skirt, and a subtle train. Add matching sparkling silver high heels.\n\nKeep the same graceful side-profile pose as the reference: body slightly turned sideways toward the camera, shoulders relaxed, one arm naturally resting beside her body, elegant posture, soft confident gaze directly toward the camera.\n\nThe pool should reflect the surrounding city lights naturally. In the background, show a sophisticated modern skyline with tall illuminated towers, softly blurred for cinematic depth of field. Include a realistic, naturally sized full moon in the upper sky — not oversized — with subtle moonlight illuminating the scene. Gentle evening breeze moves a few strands of her hair and the gown slightly.\n\nLighting: realistic moonlight mixed with soft ambient architectural lighting, subtle highlights on the silver dress, natural skin tones, realistic shadows, cinematic contrast, soft atmospheric haze.\n\nCamera: full-body composition, eye-level camera, 85mm portrait lens, shallow depth of field, realistic bokeh, sharp subject, detailed fabric texture, natural skin pores.\n\nStyle: high-end luxury fashion editorial, cinematic photography, ultra-photorealistic, sophisticated, elegant, realistic proportions, natural skin texture, no artificial AI appearance.\n\nNegative prompt: identity change, face drift, different person, altered facial features, oversized moon, plastic skin, excessive retouching, distorted hands, extra fingers, warped body, unnatural pose, cartoon, CGI look, oversaturated colors, excessive glow, duplicate person, blurry face, watermark, text, logo.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791268438601_dqbur7_HTysDgUa8AAx58V.jpg"
+      ],
+      "author": {
+        "name": "Elvorya",
+        "link": "https://x.com/Elvorya"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "35974"
+    },
+    {
       "id": "35975",
       "title": "Cheetos Snack Ad Portrait",
       "description": "A prompt for a playful studio portrait of a person holding a Cheetos bag, using fisheye lens effects.",
@@ -2103,25 +2141,6 @@
         "Product Marketing"
       ],
       "youmindId": "35747"
-    },
-    {
-      "id": "35745",
-      "title": "Cinematic Double Exposure Poster Prompt",
-      "description": "A prompt for creating a high-quality cinematic double exposure poster of a man walking towards the camera, suitable for Nano Banana Pro and other models.",
-      "content": "Generate a high-quality cinematic double exposure poster of the uploaded handsome man, walking confidently toward the camera while looking at the smartwatch, one hand raise up, confident expression. He wears a clean pastel yellow loose fitting shirt shirt with rolled up sleeve, black cargo and a smartwatch. One hand casually in pocket, natural walking pose, modern celebrity attitude. Background features a massive slightly faded close-up portrait of the same man wearing stylish square sunglasses, black sneakers with white border, looking side, creating a soft layered double exposure effect. Clean grey gradient background with dreamy white smoke/fog at the bottom. Soft studio lighting, ultra-realistic skin texture, premium fashion photography look, sharp details, shallow depth of field, smooth shadows, elegant composition, modern Bollywood-inspired aesthetic, minimal color palette, highly detailed cinematic editing, DSLR quality. Maintain the face same as the uploaded photo. Aspect ratio 4:5",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790836513469_5gy0zu_HTdM9ZqbsAAxgCc.jpg"
-      ],
-      "author": {
-        "name": "Muhammad Jamil",
-        "link": "https://x.com/JamilAI55"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "35745"
     },
     {
       "id": "35099",
@@ -2502,28 +2521,6 @@
         "Game Asset"
       ],
       "youmindId": "36152"
-    },
-    {
-      "id": "34925",
-      "title": "Mechanical Melancholy Macro Portrait Prompt",
-      "description": "A complex JSON-formatted prompt for Nano Banana Pro to generate an extreme close-up macro portrait of a melancholic prodigy with brass clockwork elements and a mechanical hummingbird.",
-      "content": "{\n  \"vibe_title_en\": \"Mechanical Melancholy\",\n  \"master_prompt\": \"Extreme close-up macro portrait. The Protagonist as a melancholic prodigy, framed tight on one side of the face. A highly detailed, physical brass clockwork mechanism with Roman numerals curves over the forehead and brow like a fragmented visor, partially obscuring the upper head but leaving one deeply expressive, sorrowful eye visible. The eye reflects warm, dusty ambient light. The protagonist's fingers, stained with dark ink and graphite, are gently touching a hyper-realistic golden mechanical hummingbird hovering near their cheek. They wear a heavy, ornate red and black mandarin-collar jacket with gold embroidery. Warm, directional Rembrandt lighting cutting through dense, dust-filled air, illuminating floating motes. Shot on Hasselblad H6D-100c, 120mm macro lens at f/2.8, incredibly shallow depth of field blurring the background into a muted olive-grey. Kodak Portra 400 film emulation, hyper-detailed skin pores, physical weight to the metal, cinematic chiaroscuro, pure photographic surrealism.\",\n  \"meta\": {\n    \"intent\": \"Photographic Surrealism, Emotional Macro Portrait\",\n    \"priorities\": \"Micro-details, tactile realism, cinematic warm lighting, analog film texture\",\n    \"device_profile\": \"Hasselblad H6D-100c with 120mm Macro Lens\"\n  },\n  \"frame\": {\n    \"aspect\": \"3:4\",\n    \"composition\": \"Extreme close-up macro, focusing on one eye and the side of the face, filling the frame\",\n    \"layout\": \"Off-center focus on the visible eye, clockwork fading into deep bokeh at the top edge, fingers entering from the bottom frame\",\n    \"camera_angle\": \"Straight-on, intimate eye-level\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Melancholic Prodigy\",\n    \"demographics\": \"Universal features, youthful yet burdened\",\n    \"face\": \"Pale, hyper-detailed skin pores, one eye visible showing intense sorrowful focus, upper half partially covered by a brass clock mechanism\",\n    \"hair\": \"Pulled back out of frame, out of focus\",\n    \"body\": \"Only shoulder and neck visible, clad in heavy structured fabric\",\n    \"expression\": \"Sorrowful focus, heavy emotional weight, internal melancholy\",\n    \"pose\": \"Head still, hands brought up near the face, ink-stained fingers delicately interacting with a small golden mechanical bird\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Mandarin-collar jacket\",\n        \"material\": \"Thick woven brocade\",\n        \"color\": \"Deep crimson red and black\",\n        \"fit\": \"Structured, tailored\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Fragmented clockwork visor with Roman numerals\",\n        \"color\": \"Aged brass and gold\",\n        \"material\": \"Machined metal, glass\",\n        \"brand_style\": \"Avant-garde horology, practical special effects\"\n      },\n      {\n        \"item\": \"Mechanical hummingbird\",\n        \"color\": \"Gold\",\n        \"material\": \"Polished brass and tiny gears\",\n        \"brand_style\": \"Artisan kinetic jewelry\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"An obscure, dusty horologist's workshop or prodigy's sanctuary\",\n    \"surfaces\": \"Soft, muted olive-grey background, entirely blurred out\",\n    \"depth\": \"Extremely shallow, blurring everything millimeters behind the focal plane of the iris\",\n    \"atmosphere\": \"Warm, heavy, dust-filled air with illuminated floating particles\",\n    \"lens_interaction\": \"Soft optical vignette, macro compression\"\n  },\n  \"lighting\": {\n    \"key\": \"Warm, directional Rembrandt light hitting the visible eye and cheek\",\n    \"fill\": \"Subtle silver bounce to retain shadow detail in the clockwork\",\n    \"rim\": \"Soft golden backlight highlighting the floating dust motes and edges of the mechanical bird\",\n    \"shadows\": \"Deep, cinematic chiaroscuro, rich blacks\",\n    \"color_temperature\": \"Warm (around 3200K - 4000K)\",\n    \"sensor_flare\": \"None, highly controlled studio lighting\"\n  },\n  \"camera\": {\n    \"lens_type\": \"Macro Prime\",\n    \"focal_length\": \"120mm\",\n    \"aperture\": \"f/2.8\",\n    \"focus\": \"Tack sharp on the iris of the visible eye and the ink-stained fingertips\",\n    \"sensor_format\": \"Medium Format\",\n    \"perspective_distortion\": \"Zero distortion, highly compressed\"\n  },\n  \"post_processing\": {\n    \"color\": \"Muted, rich jewel tones contrasting with warm brass and pale skin\",\n    \"tonality\": \"High contrast, filmic roll-off in highlights\",\n    \"texture\": \"Kodak Portra 400 grain, organic imperfections, microscopic skin texture\",\n    \"digital_sharpening\": \"None, pure optical sharpness\",\n    \"chromatic_aberration\": \"Very slight edge fringing on the brass gears due to macro lens characteristics\"\n  },\n  \"negative_specifications\": [\n    \"neon\",\n    \"digital painting\",\n    \"illustration\",\n    \"CGI\",\n    \"plastic skin\",\n    \"flat lighting\",\n    \"wide shot\",\n    \"full body\",\n    \"cliché coffee shop\",\n    \"modern office\"\n  ]\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1789713176331_8bcqgu_HSbBRzWXIAA1GO-.jpg",
-        "https://cms-assets.youmind.com/media/1789713176339_3v75ag_HSbBR30W0AAieJe.jpg",
-        "https://cms-assets.youmind.com/media/1789713176613_aorsuz_HSbBR6sXEAES3_p.jpg",
-        "https://cms-assets.youmind.com/media/1789713177199_gktlma_HSbBRyWXgAA04od.jpg"
-      ],
-      "author": {
-        "name": "timedoctor.eth",
-        "link": "https://x.com/timedoctor_nft"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "34925"
     }
   ],
   "categories": [
