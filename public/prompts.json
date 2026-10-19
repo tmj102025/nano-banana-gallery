@@ -163,6 +163,25 @@
       "youmindId": "811"
     },
     {
+      "id": "36586",
+      "title": "Cinematic portrait with dramatic lighting",
+      "description": "A detailed prompt for generating a close-up portrait of an East Asian woman with cinematic lighting and bokeh effects, created with Gemini Nano Banana Pro.",
+      "content": "A close-up portrait of a young East Asian woman with short blonde pixie and side-swept bangs and winged eyeliner. She wears a dark top with thin straps visible at the shoulders and looks directly at the camera with a calm, neutral expression and slightly parted lips. A small earring is visible in her left ear.\n\nThe scene is set in a dark environment with dramatic, multi-colored lighting. A bright warm light source to the left creates a strong highlight and lens flare effect near her hair, while cool blue light from the right and a soft red glow in the background cast colored shadows across her face and neck. The background is heavily blurred with bokeh lights. The overall style is cinematic and moody, with high contrast, rich teal and amber tones, and a filmic texture.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1792304896700_skxkmm_HU28jWHaEAAdgs1.jpg"
+      ],
+      "author": {
+        "name": "Saki H. 咲希",
+        "link": "https://x.com/SakiH_AI"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "36586"
+    },
+    {
       "id": "36495",
       "title": "Girl Looking at Shoe on Country Road",
       "description": "A detailed prompt for Nano Banana Pro (gemini-3-pro-image-2k) to generate a photorealistic image of a girl looking at her shoe on a country road during sunset, based on reference photos of face and clothes.",
@@ -525,25 +544,6 @@
       "youmindId": "35668"
     },
     {
-      "id": "35663",
-      "title": "Realistic Portrait Restoration Prompt for Nano Banana Pro",
-      "description": "A prompt designed to maintain facial identity while generating a highly detailed, realistic portrait in a modern bedroom setting, suitable for image-to-image tasks with reference photos.",
-      "content": "Keep the same features of the attached person, without changes. Reference picture: photo sent.\nFace: keep the exact same person as the reference picture. Format:\nA highly detailed, ultra-realistic portrait of a stylish young man with voluminous, swept-back dark hair and light black eyes. He is lying comfortably on his stomach on a bed, resting his chin on his left hand, looking directly at the camera with a relaxed, gentle expression. He is wearing a light shalwar kameez, a dark smartwatch on his wrist, and white sneakers with black accents. The setting is a cozy, modern bedroom illuminated by vibrant purple and blue ambient LED lighting, contrasting with a warm glowing bedside lamp. In the softly blurred background, there is a dark poster with a crown graphic and the text \"Dream Big\", along with a corner shelf holding small potted plants. Shot on an 85mm lens, f/1.8 aperture, cinematic lighting, sharp focus on the face, 8k resolution. Keep original face and hairstyle 100% reference",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790750134123_6f2uti_HTYT5g2aEAEsekY.jpg"
-      ],
-      "author": {
-        "name": "Dilshad Hussain",
-        "link": "https://x.com/DilshadAI1"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "35663"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -720,27 +720,6 @@
         "Social Media Post"
       ],
       "youmindId": "36155"
-    },
-    {
-      "id": "36214",
-      "title": "Japanese Woman in Onsen with Autumn Maple View",
-      "description": "A prompt for generating a photorealistic portrait of a young Japanese woman relaxing in an outdoor hot spring (onsen) surrounded by autumn maple leaves.",
-      "content": "A close-up, high-detail portrait of a beautiful young Japanese woman in messy hair style looking directly into the camera with a gentle, pursed-lip expression. She is partly submerged in a traditional Japanese outdoor hot onsen, with clear, warm-toned water. The onsen is built directly on stone bank, looks out over a canopy of blazing crimson, amber, and golden maple leaves, with an unobstructed, panoramic view of rolling mountain ridges, deep valleys. A few leaves will gently drift down and float on the surface of the water. softly blurred to create a shallow depth of field. The lighting is soft, natural, and warm, highlighting her smooth skin texture and expressive eyes. The shot is captured in a professional photographic style, reminiscent of a high-quality portrait or promotional still, with sharp focus on her face, natural skin tones, balanced exposure, and a serene, intimate atmosphere.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791613888772_qmex3j_HUJhEIRacAAIT2m.jpg",
-        "https://cms-assets.youmind.com/media/1791613888666_7006w0_HUJhEIiawAAaA5N.jpg",
-        "https://cms-assets.youmind.com/media/1791613888821_tnlv0z_HUJhEIUaQAAqZJG.jpg"
-      ],
-      "author": {
-        "name": "Saki H. 咲希",
-        "link": "https://x.com/SakiH_AI"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "36214"
     },
     {
       "id": "35743",
@@ -2525,6 +2504,25 @@
         "Game Asset"
       ],
       "youmindId": "33481"
+    },
+    {
+      "id": "33386",
+      "title": "Ethereal Floral Portrait",
+      "description": "A close-up portrait of a woman with midnight-blue hair intertwined with white peonies and floral vines.",
+      "content": "Close-up portrait of an ethereal {argument name=\"subject\" default=\"young woman\"} with porcelain skin and expressive hazel-brown eyes, parted lips, cascading wavy {argument name=\"hair color\" default=\"midnight-blue and cobalt\"} hair intricately intertwined with large blooming white peonies and deep blue floral vines, organic botanical dress blending seamlessly into blue leaves and white blossoms, dark minimalist background, dramatic chiaroscuro lighting, smooth digital concept art, soft cinematic shadows, photorealistic details, fine line art, trending on ArtStation, 8k resolution, aspect ratio 9:16",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788591084589_27rgsd_HRVdVBJbIAA-NbX.jpg"
+      ],
+      "author": {
+        "name": "𝑨𝒇𝒓𝒊𝒏",
+        "link": "https://x.com/afrinxai"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "33386"
     }
   ],
   "categories": [
