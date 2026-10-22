@@ -163,6 +163,25 @@
       "youmindId": "811"
     },
     {
+      "id": "36719",
+      "title": "Cinematic Portrait of Woman in Crimson Dress",
+      "description": "A prompt for generating a moody, cinematic portrait of a young woman with dark hair and a red dress, featuring dramatic low-key lighting and window shadows.",
+      "content": "Cinematic portrait of a young woman with long, silky dark brown hair, sitting and resting her chin on her hand, gazing softly off to the side with a gentle smile. She wears a deep crimson red flowy dress with puffed sleeves and a textured, crinkled fabric. Small floral pearl-and-crystal stud earrings. Dramatic low-key lighting: a single warm window light casting geometric window-shadow patterns on a dark wall, soft glow on her face, deep black background. Rosy cheeks, soft natural makeup, dreamy and romantic mood. Shallow depth of field, 85mm lens, ultra-detailed skin texture, rich contrast, moody studio photography, vertical 9:16",
+      "images": [
+        "https://cms-assets.youmind.com/media/1792564432586_pcfph7_HVFMTdYacAEZ5al.jpg"
+      ],
+      "author": {
+        "name": "Letty",
+        "link": "https://x.com/LettyVesper"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "36719"
+    },
+    {
       "id": "36586",
       "title": "Cinematic portrait with dramatic lighting",
       "description": "A detailed prompt for generating a close-up portrait of an East Asian woman with cinematic lighting and bokeh effects, created with Gemini Nano Banana Pro.",
@@ -525,25 +544,6 @@
       "youmindId": "35670"
     },
     {
-      "id": "35668",
-      "title": "Simple Beach Photo Prompt",
-      "description": "A very simple prompt for generating a high-quality photo of a young American woman taking photos on the beach.",
-      "content": "A young American woman, wearing a swimsuit, is taking photos on the beach. Request high-quality photo-style shooting",
-      "images": [
-        "https://cms-assets.youmind.com/media/1790836515827_nw2xzh_HTb0m9SbwAA-Vft.jpg"
-      ],
-      "author": {
-        "name": "Yassine Mian",
-        "link": "https://x.com/MianYassine"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "35668"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -561,6 +561,26 @@
         "Social Media Post"
       ],
       "youmindId": "532"
+    },
+    {
+      "id": "36720",
+      "title": "Surreal Voyeuristic Portrait of Dua Lipa",
+      "description": "A detailed JSON-structured prompt for generating a surreal, cinematic portrait of Dua Lipa walking away through a dusty salt trench, holding glass spheres and an hourglass, with heavy foreground occlusion and high-contrast lighting.",
+      "content": "{\n  \"vibe_title_en\": \"Surreal Reluctant Escape In The Dusty Salt Trench\",\n  \"master_prompt\": \"Medium format voyeuristic photography, 250mm telephoto lens. Shot through out-of-focus, salt-encrusted wooden planks. The Protagonist walks away down a blinding, dust-choked salt trench, body angled evasively. They hold a tethered cluster of floating, heavy glass spheres sloshing with luminescent liquid mercury, and a massive leaking iron hourglass. A harsh, high-contrast rogue sunbeam spotlights their back, while their face remains shadowed in a restless glance over the shoulder. Hasselblad H6D, Kodak Portra 400 pushed +1, warm golden-dust atmosphere, hyper-realistic textures, physical light refraction.\",\n  \"meta\": {\n    \"intent\": \"Surreal Voyeuristic Portrait\",\n    \"priorities\": \"Surrealism, Heavy Foreground Occlusion, High-Contrast Spotlighting\",\n    \"device_profile\": \"Hasselblad H6D-100c\"\n  },\n  \"frame\": {\n    \"aspect\": \"9:16\",\n    \"composition\": \"Heavy foreground occlusion, subject framed tightly in the middle distance\",\n    \"layout\": \"Vertical, layered depth\",\n    \"camera_angle\": \"Eye-level, voyeuristic distance\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Reluctant Protagonist\",\n    \"demographics\": \"Ageless, ethereal\",\n    \"face\": \"Shadowed, evasive, sharp jawline\",\n    \"hair\": \"Dark, pulled back, catching golden rim light\",\n    \"body\": \"Tense, angled away from the camera\",\n    \"expression\": \"Avoidant, restless, hidden in shadow\",\n    \"pose\": \"Walking away, looking back slightly over the shoulder, weighed down\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Flowing structural gown\",\n        \"material\": \"Matte raw silk\",\n        \"color\": \"Deep emerald green\",\n        \"fit\": \"Draped and billowing\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Floating glass spheres\",\n        \"color\": \"Silver and Luminescent\",\n        \"material\": \"Glass and liquid mercury\",\n        \"brand_style\": \"Surreal practical effect\"\n      },\n      {\n        \"item\": \"Massive hourglass\",\n        \"color\": \"Rusted brown\",\n        \"material\": \"Raw iron and glowing sand\",\n        \"brand_style\": \"Antique industrial\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"A narrow, dust-choked trench carved into a blinding white salt flat\",\n    \"surfaces\": \"Cracked salt crust, dry earth, weathered wood in foreground\",\n    \"depth\": \"Extremely compressed, shallow depth of field past the subject\",\n    \"atmosphere\": \"Thick, warm golden dust, foggy particulate matter\",\n    \"lens_interaction\": \"Heavy foreground blur, atmospheric light scattering\"\n  },\n  \"lighting\": {\n    \"key\": \"Harsh, high-contrast directional sunbeam\",\n    \"fill\": \"Muted ambient bounce from the salt walls\",\n    \"rim\": \"Intense golden rim light on hair and glass spheres\",\n    \"shadows\": \"Deep, impenetrable shadows on the subject's face and front\",\n    \"color_temperature\": \"Warm, golden hour\"\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1792564432503_43dcrd_HVFgdROWoAAzvYl.jpg",
+        "https://cms-assets.youmind.com/media/1792564432565_9wg8mn_HVFgdOUXAAALseD.jpg"
+      ],
+      "author": {
+        "name": "timedoctor.eth",
+        "link": "https://x.com/timedoctor_nft"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "36720"
     },
     {
       "id": "36686",
@@ -682,46 +702,6 @@
         "Social Media Post"
       ],
       "youmindId": "36314"
-    },
-    {
-      "id": "36255",
-      "title": "Rainforest Wildlife Observation Station Miniature World",
-      "description": "A whimsical miniature world depiction of a rainforest basin wildlife observation station in an artistic forestpunk style, generated using Nano Banana Pro.",
-      "content": "Whimsical miniature world depiction of a rainforest basin wildlife observation station in an artistic forestpunk style.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791700277632_w8cy78_HURL40sboAEcPGw.jpg"
-      ],
-      "author": {
-        "name": "Artingent",
-        "link": "https://x.com/artingent"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "36255"
-    },
-    {
-      "id": "36158",
-      "title": "Greek Island Travel Portrait Comparison",
-      "description": "Comparison of ChatGPT Image 2, Grok Imagine, and Nano Banana 2 using a prompt for a South Asian Indian woman in a Greek island harbor.",
-      "content": "Create an ultra-photorealistic, cinematic vertical 9:16 travel portrait of a beautiful adult South Asian Indian woman in her early twenties, crouching gracefully beside the crystal-clear turquoise waters of a picturesque Greek island harbor reminiscent of Paros or Mykonos.\nShe has fair ivory-beige skin with warm-neutral undertones, a softly elongated oval face, delicate cheekbones, a slender tapered jawline, expressive dark-brown almond eyes, naturally defined eyebrows, a straight delicate nose, and softly rosy full lips. Her features are distinctly Indian, naturally feminine, and elegant, with minimal makeup and realistic luminous skin texture. She has a slender, graceful figure with narrow shoulders, a long neck, and a naturally defined waist.\nHer dark black hair is arranged in a voluminous, loosely braided curly updo with romantic tendrils framing her face. Delicate silver hair chains decorate her crown, while sunlight creates subtle warm highlights in her curls.\nShe wears a delicate white floral crochet lace dress with a relaxed off-shoulder neckline, visible camisole strap, and loose three-quarter sleeves with scalloped edges. An oversized blue-and-white Mediterranean shawl featuring intricate cobalt floral patterns, embroidered borders, and blue tassels drapes across her shoulders and flows dramatically onto the ancient stone walkway. She is barefoot.\nCaptured from a slightly elevated three-quarter rear-side perspective, she crouches naturally at the harbor's edge, knees bent close to her body, gazing peacefully downward at the sea. Her delicate side profile is visible. One arm rests near her knees while the other extends gracefully toward the water, fingertips lightly touching the surface and creating gentle concentric ripples. Her expression is dreamy, contemplative, and serene.\nThe ancient limestone promenade extends diagonally into the background, lined with charming whitewashed Greek buildings, cobalt-blue doors and balconies, pink bougainvillea, terracotta flowerpots, waterfront cafés with white parasols, and small fishing boats moored along the harbor. A sunlit rocky hillside rises behind the village.\nThe right half of the composition features exceptionally transparent Mediterranean seawater transitioning from deep sapphire blue to brilliant turquoise, aquamarine, and pale sea-green. Submerged rocks and the sandy seabed are clearly visible beneath the surface, illuminated by realistic underwater sunlight patterns and delicate shimmering reflections.\nBright, warm Mediterranean afternoon sunlight illuminates her skin, curly hair, intricate lace dress, and flowing shawl. Natural shadows, realistic fabric textures, weathered limestone, sparkling water, and vivid yet believable colors create a romantic, nostalgic summer atmosphere.\nShot with a professional 35mm editorial travel-photography perspective, realistic lighting.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791527773423_86d8ec_HUKnJ5zbkAAJ0X1.jpg",
-        "https://cms-assets.youmind.com/media/1791527773399_7z9kdy_HUKnJ5yasAAT66T.jpg",
-        "https://cms-assets.youmind.com/media/1791527773535_x13le9_HUKnJ5pacAAAh6j.jpg"
-      ],
-      "author": {
-        "name": "Ayushi Srivastava",
-        "link": "https://x.com/punkhuri1"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "36158"
     },
     {
       "id": "35743",
@@ -1755,6 +1735,25 @@
       "youmindId": "33474"
     },
     {
+      "id": "36718",
+      "title": "Art-Deco Evening Gown Prompt",
+      "description": "A detailed text prompt for Nano Banana Pro to create a 1920s Art-Deco style portrait of a woman in an emerald gown at twilight.",
+      "content": "Theme:\n1920s Art-Deco opulence and high-society elegance at twilight.\n\nSubject:\nA Caucasian woman in her late twenties with a slender, graceful build, standing alone on a high-rise penthouse balcony.\n\nPerson · Expression:\nDefined facial structure with high cheekbones and a soft jawline. Her eyes are partially closed in a serene, contemplative expression, framed by long dark lashes. Her hair is a deep auburn with golden highlights, styled in thick waves cascading over one shoulder. The skin features a natural, soft texture with subtle pores and light freckles on the shoulders.\n\nClothing · Pose:\nAn emerald-green silk satin evening gown with a backless design and thin spaghetti straps. The skirt features high side slits that reveal the movement of the fabric. She is posed in a relaxed weight shift, with one hand resting on an ornate wrought-iron railing and the other holding a crystal champagne flute at chest height. Her head is tilted back slightly, savoring the atmosphere.\n\nBackground · Light:\nAn Art-Deco balcony with polished marble floors overlooking a sparkling city skyline. The scene is illuminated by the golden hour sun positioned behind the subject, creating a pronounced rim-light effect and making the silk appear translucent at the edges. The background transitions into a deep twilight blue sky with antique street lamps glowing below.\n\nComposition · Camera:\nA medium-full vertical shot from an eye-level perspective with a slight low-angle tilt. The composition follows the rule of thirds, using a shallow depth of field to maintain sharp focus on the subject and the condensation on the glass while the city becomes a soft, creamy bokeh.\n\nTexture · Style:\nUltra-photorealistic rendering with a focus on material contrast: the cool, reflective marble and wrought iron against the warm, soft texture of the skin and the liquid sheen of the satin gown. The color palette is a rich blend of emerald, gold, amber, and deep evening blues with a vintage cinematic grade.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1792564431359_9heq78_HVEGvbSWIAAjHOx.jpg"
+      ],
+      "author": {
+        "name": "Dominus Pellissier",
+        "link": "https://x.com/iamdomprompt"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "36718"
+    },
+    {
       "id": "36535",
       "title": "Origami Dreams Cyber Mirror Prompt",
       "description": "A complex JSON-formatted prompt for Nano Banana Pro featuring a surreal editorial photograph of Mackenzie Davis reflected in a metallic puddle.",
@@ -1969,25 +1968,6 @@
         "Product Marketing"
       ],
       "youmindId": "35924"
-    },
-    {
-      "id": "35919",
-      "title": "Luxury Belly Dancer Editorial in Historic Hall",
-      "description": "A detailed prompt for generating a photorealistic luxury fashion editorial featuring an adult belly dancer in a grand Mediterranean or Middle Eastern stone hall. The prompt emphasizes cultural authenticity, sophisticated styling with deep oxblood and antique gold elements, dynamic movement, and realistic lighting and textures.",
-      "content": "Create a photorealistic luxury fashion editorial of an adult professional belly dancer inside a grand historic Mediterranean or Middle Eastern stone hall. Keep the cultural foundation recognizable and sophisticated rather than fantasy, theatrical cosplay, or costume-pageant styling.\n\nShe wears an exceptionally crafted deep oxblood dance ensemble with a structured embroidered top and a high-waisted fitted hip line flowing into a long, fluid skirt. Dense antique-gold filigree, fine beadwork, small coins, and restrained metallic embroidery concentrate around the neckline, waist, and hips, becoming lighter through the skirt. Add layered gold necklaces, sculptural cuffs, bangles, earrings, and delicate anklets. The clothing should look expensive, handmade, secure, and designed for real movement rather than overloaded decoration.\n\nCapture her between movements rather than performing a textbook pose. Her hips remain nearly square to camera while the ribcage turns slightly away, creating a strong spiral through the waist. Weight settles into one leg as the opposite hip releases forward. One arm extends toward the camera with relaxed articulated fingers while the other rises beside her head. Long dark textured hair, threaded with a few subtle braids and tiny metallic details, carries residual motion around her shoulders.\n\nPhotograph from slightly below waist height, close enough for her presence to dominate while retaining the full figure and architectural scale. She looks just past the lens with focused, self-possessed intensity.\n\nTall carved arches and weathered stone columns recede behind her into warm shadow. A few distant seated figures appear only as soft silhouettes, suggesting a private performance without becoming subjects. Golden late-afternoon light enters from one side, grazing her skin, embroidery, jewelry, and moving fabric while the hall falls progressively darker behind her. Preserve pores, fine hair, fabric weight, realistic metal reflections, subtle perspiration, natural anatomy, and restrained cinematic grain.\n\nThe final image should feel like an established fashion photographer documented a formidable dancer in a real historic space: culturally grounded, sensual, commanding, tactile, and unmistakably editorial. No fantasy motifs, stage scenery, generic harem styling, excessive ornament, plastic skin, CGI polish, logos, text, or watermarks.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791101706537_0hso0d_HToUKFyaQAAKJ_D.jpg"
-      ],
-      "author": {
-        "name": "dreamy digital arts",
-        "link": "https://x.com/dreamydigiarts"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "35919"
     },
     {
       "id": "36496",
@@ -2349,6 +2329,25 @@
         "E-commerce Main Image"
       ],
       "youmindId": "30689"
+    },
+    {
+      "id": "36255",
+      "title": "Rainforest Wildlife Observation Station Miniature World",
+      "description": "A whimsical miniature world depiction of a rainforest basin wildlife observation station in an artistic forestpunk style, generated using Nano Banana Pro.",
+      "content": "Whimsical miniature world depiction of a rainforest basin wildlife observation station in an artistic forestpunk style.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791700277632_w8cy78_HURL40sboAEcPGw.jpg"
+      ],
+      "author": {
+        "name": "Artingent",
+        "link": "https://x.com/artingent"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "36255"
     },
     {
       "id": "36152",
