@@ -164,14 +164,14 @@
     },
     {
       "id": "36909",
-      "title": "Realistic School Portrait with Reference Photo",
-      "description": "A detailed prompt for generating a photorealistic portrait of a girl in school uniform, designed to use an uploaded face photo as reference while maintaining specific lighting and composition details.",
-      "content": "Face/Hair: Follow the attached face photo.\nHair Condition: Dry, normal state.\nExpression: Natural eye opening, gaze directed slightly downward forward, mouth slightly open in relaxation, natural eyebrows, calm emotion.\nTop: Black satin camisole, no patterns or logos, hem tucked into bottoms, not disheveled, dry condition.\nBottoms: Pleated skirt, black polyester material, knee-length, no processing or damage, no belt or waist details.\nFeet: Out of frame.\nAccessories: Small heart-motif silver necklace and one small stud earring on one ear, holding a removed blouse in hand.\nPose: Standing sideways facing right inside, hips and legs facing right, shoulders facing right, torso upright, head directly above hips, vertical body axis, face looking back over right shoulder towards camera, right arm bent with palm lightly touching chin, left arm hanging by side with hand at waistline of bottoms, both legs aligned.\nDepth/Distance: Right arm is closest to camera occupying ~20% of screen, focus on face and upper body, background moderately blurred, no exaggerated perspective, whole body at roughly same distance.\nComposition: Shot size cut at upper thighs, top of head ~10% from top edge, skirt hem near bottom edge, person occupies ~60% width and ~80% height positioned slightly left of center, camera height at chest level, standard lens angle of view.\nLocation: By school window, daytime, vertical white window frames arranged vertically on right side of background, deep space with blurred background, ground/trees/buildings not visible.\nLighting: Main light source is natural light from window at right rear, neutral white color temperature, medium contrast overall, shadows tightened but soft, weak rim light from right rear, no light sources or lens flares in frame, no blowouts or halation.\nPhotography: Indoor portrait snap, subject distance approx 1.5 meters, standard focal length feel, shallow depth of field, smooth texture without graininess, medium saturation and contrast, clean atmosphere.\nTexture: Skin is smooth and matte, no sweat or wetness, shallow depth of field, neutral white balance.\nStyle: Photorealistic.\nRatio: Vertical 9:16 / 1080x1920px",
+      "title": "Realistic Indoor Portrait with Satin Camisole",
+      "description": "A detailed prompt for generating a photorealistic portrait of a young woman in a satin camisole and pleated skirt, standing by a window. The prompt specifies lighting, pose, clothing texture, and camera settings for high-quality image generation.",
+      "content": "Face/Hair: Based on attached face photo.\nHair condition: Dry, normal state.\nExpression: Eyes naturally open, gaze slightly downward forward, mouth slightly parted in relaxation, natural eyebrows, calm emotion.\nTop: Black satin fabric camisole, no patterns or logos, hem tucked into bottoms, unstyled, dry state.\nBottoms: Pleated skirt, black, polyester material, knee-length, no processing or damage, no belt or waist details.\nFeet: Out of frame.\nAccessories: Small heart motif silver necklace and one small stud earring on one ear, holding a removed blouse in hand.\nPose: Standing sideways facing right in an indoor setting, hips and legs facing right, shoulders facing right, torso upright, head directly above hips, vertical body axis, looking back over right shoulder towards camera, right arm bent with palm lightly touching chin, left arm down by side with hand at waistline of bottoms, both legs aligned.\nDepth: Right arm closest to camera occupying about 20% of screen, focus on face and upper body, background moderately blurred, no exaggerated perspective, whole body at roughly same distance.\nComposition: Shot size cuts off at upper thigh, top of head about 10% from top edge, bottom of skirt near bottom edge, person occupies about 60% of width and 80% of height, positioned slightly left of center, camera height at chest level, standard lens field of view.\nLocation: School window side, daytime, vertical white window frames lined vertically on right background, depth space with blurred background, ground/trees/buildings not visible.\nLighting: Main light source is natural light from window behind right, neutral white color temperature, medium contrast overall, dark areas tightened with soft shadows, weak rim light from rear right, no light sources or lens flares in frame, no blowouts or halation.\nPhotography: Indoor portrait snap, subject distance approx 1.5 meters, standard focal length feel, shallow depth of field, smooth texture without grain, medium saturation and contrast, clear atmosphere.\nTexture: Skin is smooth and matte, no sweat or wetness, shallow depth of field, neutral white balance.\nStyle: Photorealistic live action.\nAspect Ratio: Vertical 9:16 / 1080x1920px",
       "images": [
-        "https://cms-assets.youmind.com/media/1792996788109_3lkttr_HVhqXV-aYAAwNUo.jpg",
-        "https://cms-assets.youmind.com/media/1792996788541_627aj2_HVhqYPNbkAE8sPC.jpg",
-        "https://cms-assets.youmind.com/media/1792996788365_4ng4lm_HVhqbGDacAA53sr.jpg",
-        "https://cms-assets.youmind.com/media/1792996789201_zdx66t_HVhqcC7bMAA-bOq.jpg"
+        "https://cms-assets.youmind.com/media/1793082739360_6x7srh_HVhqXV-aYAAwNUo.jpg",
+        "https://cms-assets.youmind.com/media/1793082739450_p0tj33_HVhqYPNbkAE8sPC.jpg",
+        "https://cms-assets.youmind.com/media/1793082739368_266xk3_HVhqbGDacAA53sr.jpg",
+        "https://cms-assets.youmind.com/media/1793082740160_wif7id_HVhqcC7bMAA-bOq.jpg"
       ],
       "author": {
         "name": "川越あい(ラブりんって呼んでෆ)",
@@ -571,6 +571,44 @@
       "youmindId": "532"
     },
     {
+      "id": "36949",
+      "title": "Fire-Breather Performance Photo",
+      "description": "Compares Grok Imagine against Nano Banana Pro/2.1. The prompt provided is intended for Grok Imagine ('Upload selfie + #GrokImagine prompt'), although the user claims NB Pro did it well too. However, strictly speaking, the extracted prompt block is labeled for Grok Imagine usage in the context of the tweet's instruction. Wait, looking closer: 'I didn't think \"Grok Imagine\" would manage this editorial prompt as well as Nano Banana Pro/2.1.' Then 'Female fire-breather prompt below... Upload selfie + #GrokImagine prompt:'. The prompt itself is generic enough to apply to both, but the explicit labeling suggests it was tested on Grok. Given the ambiguity and the fact that it lists 'Nano Banana Pro/2.1', I will treat this as a valid prompt for Nano Banana Pro since the author asserts NB Pro handled it well. However, usually, if a prompt is explicitly tagged for another model in a comparison, we might skip. But here the prompt is shared as the one used for the comparison. Let's extract it as it is applicable to NB Pro per the author's claim.",
+      "content": "Use the person reference only for facial identity and recognizable features; do not inherit its hair, wardrobe, pose or setting.\n\nCreate a vertical late-night fashion-performance photograph inside a dark crowded club or cabaret, framed tightly from approximately the lower chest upward around one adult woman caught at the peak of a fire-breathing performance.\n\nBuild the composition around a large real flame bursting diagonally and upward from her mouth. Tip her head back, extend the neck, keep the mouth open, and allow the flame to pass directly through the visual center of the face so it obscures part of the nose, eyes and forehead rather than floating neatly above her. The flame should be irregular, overbright and physically turbulent, with a white-hot center, yellow-orange edges, faint smoke and unstable shape.\n\nStretch both arms outward toward opposite edges of the frame, elbows slightly bent and hands remaining active rather than posed decoratively. Let one hand control a dark performance torch or metal rod angled toward the mouth while the opposite hand stays extended with a second tool partly visible near the frame edge. Keep the shoulders broad and lifted beneath the action.\n\nGive her an oversized antique-gold sunburst headdress built from irregular radiating spikes and clustered metallic elements around the crown, wide enough to extend beyond both sides of the head. Do not make it perfectly symmetrical or pristine. Let individual points catch the firelight differently.\n\nDress her in a dark bronze-gold beaded performance bodice with narrow straps, dense small metallic stones and irregular chain detailing. Layer several antique-gold and crystal necklaces closely around the neck and upper chest, with longer strands hanging unevenly below. Add dangling gold earrings and a few substantial metallic bracelets, but keep the headdress and flame dominant.\n\nKeep the hair mostly pulled back beneath the headpiece, with a few damp or loose dark strands around the temples and neck. Preserve strong eye makeup, defined brows and a deep red lip, but do not give the face clean beauty illumination.\n\nLet the visible flame be the dominant local light source. It should throw hot unstable amber light upward across the mouth, cheeks, chin, throat, jewelry and nearest headdress points while areas only slightly farther away drop abruptly into red-brown and near-black shadow. Allow portions of the flame to clip completely white. Add only weak dirty club ambience from the sides—small blue, violet or red contamination in the shadows—without creating a polished rim light or separate facial key.\n\nKeep several indistinct adult spectators visible behind her as soft, dark human shapes at different depths. Do not remove them or",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793082739399_ml23qa_HVk5BqpXQAAkZf4.jpg"
+      ],
+      "author": {
+        "name": "Ash",
+        "link": "https://x.com/asheem01"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "36949"
+    },
+    {
+      "id": "36948",
+      "title": "Hellenistic Medusa Editorial Prompt",
+      "description": "A detailed prompt for generating a high-fashion dark mythological editorial image inspired by Hellenistic antiquity and the legend of Medusa, featuring cinematic lighting and hyper-realistic textures.",
+      "content": "Theme:\nHigh-fashion dark mythological editorial inspired by Hellenistic antiquity and the legend of Medusa.\n\nSubject:\nA 20-year-old woman of Classical Greek-Mediterranean descent, portrayed as a temple priestess. She is reclined upon a sunken black marble altar, accompanied by a sleek, golden-scaled temple viper that glides across her shoulder and waist.\n\nPerson · Expression:\nSharp Hellenistic facial features with high cheekbones and a straight Greek nose. Her eyes are a smoky golden-amber with an intense, steady gaze. Her lips are slightly parted in a calm exhale. Her long, thick glossy black hair is intertwined with delicate gold chains and small serpents, with damp strands resting against her oiled skin.\n\nClothing · Pose:\nShe wears a minimalist harness crafted from fine liquid gold chainmail paired with a sheer, translucent onyx silk wrap. The fabric is draped to follow her form, yielding to gravity as she performs a deep back-arch across the basalt altar. One arm is stretched overhead gripping a golden altar prop, while the other rests near her hip.\n\nBackground · Light:\nAn ancient seaside temple carved from black basalt rock at midnight. The environment is lit by a high-contrast chiaroscuro setup: intense flickering orange light from bronze fire braziers creates highlights on the oiled skin and gold metal, while cool silvery moonlight provides a sharp rim light. Aromatic myrrh smoke and sea mist drift through the background columns.\n\nComposition · Camera:\nLow-angle medium shot that emphasizes the subject's stature. The framing is a horizontal 16:9 composition with the subject dominating the central diagonal axis. Shot with an 85mm lens at f/1.4 to create a shallow depth of field, keeping the subject in sharp focus while the temple architecture fades into a creamy, amber-hued bokeh.\n\nTexture · Style:\nHyper-photorealistic digital photography with a cinematic editorial grade. Features highly detailed skin textures including visible pores and a specular oil sheen. The style incorporates subtle film grain, soft sensor bloom on highlights, and the tactile contrast between cold black stone, warm fire, and metallic gold.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793082739409_o9l10c_HVilk5uWMAAQHLq.jpg"
+      ],
+      "author": {
+        "name": "Dominus Pellissier",
+        "link": "https://x.com/iamdomprompt"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "36948"
+    },
+    {
       "id": "36910",
       "title": "Emma Watson Avant-Garde Portrait",
       "description": "A complex JSON prompt for Nano Banana Pro generating an avant-garde portrait of Emma Watson.",
@@ -693,27 +731,6 @@
         "Social Media Post"
       ],
       "youmindId": "36720"
-    },
-    {
-      "id": "36686",
-      "title": "Photo to Hand-drawn Illustration Poster Prompt",
-      "description": "A prompt describing a poster layout where the top half is a realistic photo and the bottom half is a matching hand-drawn illustration, generated by Nano Banana 2.1.",
-      "content": "The top half is a realistic photo, capturing true skin texture, natural expressions, and cinematic depth of field under warm natural light; the bottom half transforms the same scene into a hand-drawn digital illustration, retaining the character's pose, hairstyle, clothing, colors, and key visual details. The illustration is placed inside a clean rectangular frame against a warm ivory paper background with subtle texture, featuring a soft contemporary illustration style: delicate brushstrokes, simplified organic shapes, pastel colors, and soft outlines. Below the image is a centered minimalist title in thin weight, wide-tracked all-caps typography, followed by a small subtitle line, and a thin pastel short line underneath. Overall requirements: vertical 3:4 aspect ratio, high resolution, restrained typography, avoiding cluttered visuals, excessive text, inconsistent facial features, and harsh colors.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1792477958112_uben1t_HU9EWwcaoAAYw35.jpg",
-        "https://cms-assets.youmind.com/media/1792477958148_pfbzh5_HU9EWwoa8AAHdFs.jpg",
-        "https://cms-assets.youmind.com/media/1792477958230_9diugi_HU9EWwYasAAw8az.jpg"
-      ],
-      "author": {
-        "name": "versatile",
-        "link": "https://x.com/SyrianVeterans"
-      },
-      "language": "zh",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "36686"
     },
     {
       "id": "35743",
@@ -1906,44 +1923,6 @@
       "youmindId": "36156"
     },
     {
-      "id": "36150",
-      "title": "Luxury Fashion Editorial Photo",
-      "description": "A detailed prompt for generating a high-end fashion editorial photo featuring an elegant woman posing against a black luxury sedan, emphasizing realistic textures and cinematic lighting.",
-      "content": "Ultra-realistic high-end fashion editorial photo of an elegant young woman posing against a glossy black luxury sedan. She is seated sideways on the edge of the car, with one leg crossed naturally over the other, one hand resting on the car beside her, and her body slightly angled toward the camera. She has shoulder-length softly wavy light-brown hair, delicate facial features, natural makeup, subtle eyeliner, and a calm, confident expression looking directly at the camera.\n\nShe wears a fitted black high-neck top, tailored black trousers, and a long structured black blazer draped naturally over her shoulders. The blazer has sharp elegant shoulders and a sophisticated luxury-fashion silhouette. The black sedan fills the background, with glossy reflections, dark tinted windows, visible door handle and a large premium alloy wheel on the right side.\n\nModern luxury showroom/indoor architectural setting, dark neutral tones, soft diffused cinematic lighting, realistic reflections on the car, shallow depth of field, subtle background blur, natural skin texture, detailed hair strands, realistic fabric texture, sophisticated black-on-black aesthetic, luxury automotive campaign, Vogue-style fashion photography, 85mm lens, eye-level camera, vertical full-body composition, photorealistic, ultra-detailed, 4K, no text, no watermark.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791527769577_cv77vc_HUB8_pcbwAAmE_M.jpg"
-      ],
-      "author": {
-        "name": "Aynah",
-        "link": "https://x.com/AynahhX"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "36150"
-    },
-    {
-      "id": "36102",
-      "title": "Surreal Candy Doll Character Prompt",
-      "description": "A prompt for creating a surreal fashion doll made of translucent candy braids, featuring five distinct heads (Asian female, masked, Hulk-like green, dog, cat) and mixed materials like octopus tentacles and tree roots. Designed for high-fashion studio photography with professional lighting.",
-      "content": "A surreal doll with 5 heads, 10 ears, 2 arms and 2 legs seated on a fashionable high-chair. The central face is a realistic asian female face, the left face is wearing a Carnival mask, the right face is green like Hulk, The far right face is that of a dog, while the far-left face is that of a cat. The body is entirely made of glossy, translucent.multi-colored candy braided and twisted together, with a smooth confectionery sheen. Left arm is made of octopus tentacles. The right leg is made up of tree-roots.  She is seated on a tall high-chair for a professional high-fashion studio photoshoot, slouching naturally into an unusual, relaxed editorial pose. The five heads emerge cohesively from the same single body, creating an intentional surreal couture silhouette rather than separate figures.  Clean, plain studio background. Light pink dominates the candy-plastic body, with subtle muted reddish specular highlights catching the glossy surfaces. Soft, controlled professional studio lighting, muted pastel color palette, sophisticated fashion-editorial aesthetic, realistic facial skin contrasted against the artificial candy-plastic body, refined material detail, polished photographic finish.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791441399884_qc22a9_HT-jLSzbEAAsrY3.jpg"
-      ],
-      "author": {
-        "name": "Anantha Shayana. D",
-        "link": "https://x.com/RAYSITI"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "36102"
-    },
-    {
       "id": "36496",
       "title": "Nano Banana Pro Edit Tutorial",
       "description": "A tutorial on using Nano Banana Pro's edit features for product photography. Includes an example instruction within the steps.",
@@ -2538,6 +2517,25 @@
         "Game Asset"
       ],
       "youmindId": "33377"
+    },
+    {
+      "id": "33268",
+      "title": "Cinematic Animated AI Archivist",
+      "description": "A cinematic 3D animated film still for an original series featuring a consistent character design of a small AI archivist in a mysterious library archive.",
+      "content": "Create a cinematic 3D animated-film still for an original animated series called BOTU Universe. {argument name=\"character\" default=\"BOTU\"} is the main character: a small child-like AI Bureau archivist with a cream-colored bald head, large expressive brown eyes, a silver circular Memory Aperture centered on his forehead, glowing blue circular Listening Orbit rings around his ears, and a black leather-textured Bureau coat with gold piping and a gold BOTU Bureau emblem. Keep this character design consistent and clearly recognizable. SCENE: {argument name=\"scene\" default=\"Inside the mysterious BOTU Bureau Archive, BOTU suddenly discovers that it is raining indoors\"}. BOTU stands alone on a polished dark marble floor surrounded by enormous archive shelves, mysterious files, brass lamps and floating blue Memory Threads. Rain falls directly over BOTU in a small concentrated patch. BOTU looks upward in complete confusion. The floor around him is mostly dry, making the impossible indoor rain immediately obvious. His expression should communicate: \"What is happening?\" The silver Memory Aperture on BOTU's forehead must be clearly visible. COMPOSITION: Wide cinematic shot with BOTU clearly visible in the center. Strong visual storytelling. Rain clearly visible. Large mysterious Bureau Archive surrounding him. Dynamic perspective and depth. No empty areas. STYLE: {argument name=\"style\" default=\"High-quality stylized 3D animated feature-film aesthetic\"}. Expressive character acting. Cinematic lighting. Detailed environment. Polished materials. Warm gold Bureau lighting contrasted with cool blue Memory Thread glow. Family-friendly mystery-comedy tone. IMPORTANT: BOTU's character design must remain unchanged. Do not remove or alter the forehead Memory Aperture. Do not change his clothing, proportions, face, eyes, colors or Bureau emblem. No other characters. No text. No watermark. Aspect ratio: 16:9. Story Boarding",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788418032857_litw4u_HRO0NUdbUAA11wx.jpg"
+      ],
+      "author": {
+        "name": "Yash Trivedi",
+        "link": "https://x.com/yashktrivedi"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "33268"
     }
   ],
   "categories": [
