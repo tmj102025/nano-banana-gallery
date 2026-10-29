@@ -163,6 +163,28 @@
       "youmindId": "811"
     },
     {
+      "id": "37004",
+      "title": "Nano Banana Prompt for Realistic Street Snap with Dog",
+      "description": "A detailed prompt for generating a realistic street snap photo of a woman holding a toy poodle on a leash, taking a selfie. The prompt specifies camera angles, lighting, clothing details, and requires reference images for the face and outfit.",
+      "content": "Face/Hair: Based on attached face photo\nHair state: Slightly blown by wind\nExpression: Eyes naturally shaded by brim, gaze slightly downward towards camera, slight smile with raised corners of mouth, natural eyebrows, conveying calm emotion\nTop: Based on attached outfit photo\nBottoms: Based on attached outfit photo\nFootwear: Based on attached outfit photo\nClothing state: Neat, dry, normal wear\nAccessories: Small heart-motif silver necklace, one small stud earring in one ear\nRight hand holds black leash and brown Toy Poodle\nPose: Standing on both feet, right hand gripping leash, left hand extending smartphone to hold up camera. Front-facing view showing collarbone and chest. Upper body tilted slightly towards camera at approx 15 degrees, head forward of hips. Body axis tilted approx 15 degrees right from vertical. Face towards camera. Left arm bent at shoulder height in front of body (body-relative), right arm extended down at waist height beside body. Right leg straight, left knee slightly bent.\nDepth/Foreground: Closest left hand/arm occupies approx 20% of frame, focus sharp from chest to feet, no foreground/background blur, no motion blur, moderate perspective exaggeration.\nComposition: Full body shot (feet cut off at bottom edge), top of head approx 10% from top edge, toes approx 10% from bottom edge, person occupies approx 60% width and 90% height positioned right, high-angle camera, looking down, wide-angle lens feel.\nLocation: Outdoor paved road, daytime, spring or autumn, clear weather. Background shows edges of brown structures and grey walls occupying top 20%. Ground and shadows occupy 70%. Shallow depth of field, low bokeh. No trees/buildings visible in ground area.\nLighting: Main light source is direct sunlight from above, slightly high color temperature, overall high-key, medium contrast, strong distinct shadows on ground, no backlight/rim light, no visible light source in frame, no lens flare, no blown highlights.\nPhotography: Street snap type, photographer is subject (selfie) at arm's length, wide-angle focal length feel, deep aperture (pan-focus), no grain, medium saturation/contrast, crisp atmosphere.\nTexture: Smooth skin, no sweat/wetness, deep depth of field, natural tone/white balance.\nStyle: Photorealistic (no anime/illustration/CG/painting), sharp daytime snap photo.\nAspect Ratio: Vertical 9:16 / 1080x1920px (no landscape)",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793168680321_hiot05_HVsFKipaIAAQP00.jpg",
+        "https://cms-assets.youmind.com/media/1793168681980_k1y8mj_HVsFOC7bkAAcyLq.jpg",
+        "https://cms-assets.youmind.com/media/1793168681970_40lyhp_HVsFZwcbUAAayBP.jpg",
+        "https://cms-assets.youmind.com/media/1793168682085_tmmtid_HVsF17fbAAAjVjM.jpg"
+      ],
+      "author": {
+        "name": "川越あい(ラブりんって呼んでෆ)",
+        "link": "https://x.com/kawagoe_ai"
+      },
+      "language": "ja",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "37004"
+    },
+    {
       "id": "36909",
       "title": "Realistic Indoor Portrait with Satin Camisole",
       "description": "A detailed prompt for generating a photorealistic portrait of a young woman in a satin camisole and pleated skirt, standing by a window. The prompt specifies lighting, pose, clothing texture, and camera settings for high-quality image generation.",
@@ -533,25 +555,6 @@
       "youmindId": "36315"
     },
     {
-      "id": "36316",
-      "title": "Studio portrait identity preservation",
-      "description": "A prompt for generating a studio portrait while strictly preserving the facial identity from a reference photo, featuring specific lighting and clothing details.",
-      "content": "Without changing the appearance of the woman from the photo (exact facial identity), a large 4/5 studio portrait in 8K, a night shot with flash.\n\nThe woman is sitting on a transparent fashionable chair (part of the backrest is visible), turned in a three-quarter view. Hands are clasped in front of her face, chin resting on her hands. Confident gaze, eyebrows slightly raised, lips slightly parted.\n\nClothing: Loose strict white shirt with long slightly tousled sleeves, the bottom is tied in a knot at the waist, black tie. Hair is light, long, thick, with a mirror shine. Makeup is light: eyeliner, fox lashes, “dusty rose” lips with a clear contour.\n\nLighting at an angle + flash: Sculptural shadows, expressive chiaroscuro. Background is neutral, evenly lit. Coarse film grain, RAW feel, natural skin texture (pores, peach fuzz on the cheeks, capillaries around the eyes), super-detailed iris, SSS/Tyndall effect.\n\nCamera: Fujifilm GFX 100, 100mm, controlled grip.\nTake the setting/set completely from the second attached photo.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791787584707_zvltra_HUXCPRLaoAAniC9.jpg"
-      ],
-      "author": {
-        "name": "Dr. Samia",
-        "link": "https://x.com/oye_samia"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "36316"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -711,26 +714,6 @@
         "Social Media Post"
       ],
       "youmindId": "36837"
-    },
-    {
-      "id": "36720",
-      "title": "Surreal Voyeuristic Portrait of Dua Lipa",
-      "description": "A detailed JSON-structured prompt for generating a surreal, cinematic portrait of Dua Lipa walking away through a dusty salt trench, holding glass spheres and an hourglass, with heavy foreground occlusion and high-contrast lighting.",
-      "content": "{\n  \"vibe_title_en\": \"Surreal Reluctant Escape In The Dusty Salt Trench\",\n  \"master_prompt\": \"Medium format voyeuristic photography, 250mm telephoto lens. Shot through out-of-focus, salt-encrusted wooden planks. The Protagonist walks away down a blinding, dust-choked salt trench, body angled evasively. They hold a tethered cluster of floating, heavy glass spheres sloshing with luminescent liquid mercury, and a massive leaking iron hourglass. A harsh, high-contrast rogue sunbeam spotlights their back, while their face remains shadowed in a restless glance over the shoulder. Hasselblad H6D, Kodak Portra 400 pushed +1, warm golden-dust atmosphere, hyper-realistic textures, physical light refraction.\",\n  \"meta\": {\n    \"intent\": \"Surreal Voyeuristic Portrait\",\n    \"priorities\": \"Surrealism, Heavy Foreground Occlusion, High-Contrast Spotlighting\",\n    \"device_profile\": \"Hasselblad H6D-100c\"\n  },\n  \"frame\": {\n    \"aspect\": \"9:16\",\n    \"composition\": \"Heavy foreground occlusion, subject framed tightly in the middle distance\",\n    \"layout\": \"Vertical, layered depth\",\n    \"camera_angle\": \"Eye-level, voyeuristic distance\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Reluctant Protagonist\",\n    \"demographics\": \"Ageless, ethereal\",\n    \"face\": \"Shadowed, evasive, sharp jawline\",\n    \"hair\": \"Dark, pulled back, catching golden rim light\",\n    \"body\": \"Tense, angled away from the camera\",\n    \"expression\": \"Avoidant, restless, hidden in shadow\",\n    \"pose\": \"Walking away, looking back slightly over the shoulder, weighed down\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Flowing structural gown\",\n        \"material\": \"Matte raw silk\",\n        \"color\": \"Deep emerald green\",\n        \"fit\": \"Draped and billowing\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Floating glass spheres\",\n        \"color\": \"Silver and Luminescent\",\n        \"material\": \"Glass and liquid mercury\",\n        \"brand_style\": \"Surreal practical effect\"\n      },\n      {\n        \"item\": \"Massive hourglass\",\n        \"color\": \"Rusted brown\",\n        \"material\": \"Raw iron and glowing sand\",\n        \"brand_style\": \"Antique industrial\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"A narrow, dust-choked trench carved into a blinding white salt flat\",\n    \"surfaces\": \"Cracked salt crust, dry earth, weathered wood in foreground\",\n    \"depth\": \"Extremely compressed, shallow depth of field past the subject\",\n    \"atmosphere\": \"Thick, warm golden dust, foggy particulate matter\",\n    \"lens_interaction\": \"Heavy foreground blur, atmospheric light scattering\"\n  },\n  \"lighting\": {\n    \"key\": \"Harsh, high-contrast directional sunbeam\",\n    \"fill\": \"Muted ambient bounce from the salt walls\",\n    \"rim\": \"Intense golden rim light on hair and glass spheres\",\n    \"shadows\": \"Deep, impenetrable shadows on the subject's face and front\",\n    \"color_temperature\": \"Warm, golden hour\"\n  }\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1792564432503_43dcrd_HVFgdROWoAAzvYl.jpg",
-        "https://cms-assets.youmind.com/media/1792564432565_9wg8mn_HVFgdOUXAAALseD.jpg"
-      ],
-      "author": {
-        "name": "timedoctor.eth",
-        "link": "https://x.com/timedoctor_nft"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "36720"
     },
     {
       "id": "35743",
@@ -2536,6 +2519,25 @@
         "Game Asset"
       ],
       "youmindId": "33268"
+    },
+    {
+      "id": "33270",
+      "title": "Holographic Canvas Glass Studio",
+      "description": "A minimalist prompt for a cinematic glass studio scene featuring a holographic canvas with mixed tungsten and cyan lighting.",
+      "content": "{argument name=\"setting\" default=\"Glass studio\"}, {argument name=\"canvas\" default=\"holographic canvas\"}, {argument name=\"lighting\" default=\"mixed tungsten and cyan light\"}.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788418033881_eocfo7_HROwLtrbwAAm8dQ.jpg"
+      ],
+      "author": {
+        "name": "Buble AI",
+        "link": "https://x.com/itsBubleAI"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "33270"
     }
   ],
   "categories": [
