@@ -574,6 +574,28 @@
       "youmindId": "532"
     },
     {
+      "id": "37044",
+      "title": "Surreal Editorial Portrait with Chrome Whales and Roses",
+      "description": "A complex JSON-structured prompt for generating a symmetrical, surreal editorial portrait featuring metallic elements, floating whales, and chaotic desert backgrounds in a high-fashion style.",
+      "content": "{\n  \"vibe_title_en\": \"{argument name=\"vibe title\" default=\"An Unexpected Laugh Amidst A Surreal Desert Storm\"}\",\n  \"master_prompt\": \"A chest-up, perfectly symmetrical medium shot of The Protagonist. The face is dead-center in the upper third. The subject is caught completely off-guard, genuinely laughing in surprise with a slight, organic mid-motion blur on their facial features and whipping hair. They wear a structured silver metallic ribcage bodice over a blush A-line garment. The setting is an overwhelmingly busy, dense surreal desert oasis at twilight. The background is a claustrophobic thicket of shattered mirror pyramids and wildly erupting pink roses violently piercing the dry cracked earth. The pink and blue twilight sky is entirely crowded with massive, physically heavy chrome whales floating mid-air alongside swinging metallic birdcages. Every impossible element looks like a high-budget practical effect with physical weight and realistic reflections. Lighting: Absolute horizontal symmetry. Dual large soft-boxes illuminate the subject from both sides for a perfectly even, shadow-less skin tone, contrasting with the chaotic, highly specular ambient light bouncing off the densely packed chrome sea creatures and mirrors behind them. Shot on a Hasselblad H6D-100c with an 80mm lens, Kodak Portra 400 film stock. Hyper-realistic skin pores beneath the motion blur, intense tactile detail on the metal surfaces, cinematic depth of field. NO NEON. No digital illustration artifacts.\",\n  \"meta\": {\n    \"intent\": \"Surreal Editorial Portrait\",\n    \"priorities\": \"Absolute Symmetry, Photographic Surrealism, Motion Blur Contrast\",\n    \"device_profile\": \"Medium Format Analog-Digital Hybrid\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Centered Power-Mid, symmetrical chest-up\",\n    \"layout\": \"Face dead-center in the upper third of the frame\",\n    \"camera_angle\": \"Eye-level, perfectly straight-on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, universal archetype\",\n    \"face\": \"Genuinely laughing, eyes crinkled in surprise\",\n    \"hair\": \"Slightly windblown with edge motion blur\",\n    \"body\": \"Chest-up, squaring the camera symmetrically\",\n    \"expression\": \"Caught completely off-guard, raw joy\",\n    \"pose\": \"Mid-reaction, dynamic micro-movement disrupting a static frame\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Ribcage-style structural bodice\",\n        \"material\": \"Polished chrome metal\",\n        \"color\": \"Silver\",\n        \"fit\": \"Rigid, architectural\"\n      },\n      {\n        \"item\": \"A-line underdress\",\n        \"material\": \"Heavy matte cotton\",\n        \"color\": \"Blush pink\",\n        \"fit\": \"Tailored\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Minimalist geometric earrings\",\n        \"color\": \"Silver\",\n        \"material\": \"Surgical steel\",\n        \"brand_style\": \"Avant-garde\"\n      }\n    ]\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793255077553_osktbg_HVtui9SXoAAaGl5.jpg",
+        "https://cms-assets.youmind.com/media/1793255077453_iqyscn_HVtui81XMAAvaw7.jpg",
+        "https://cms-assets.youmind.com/media/1793255077750_9cg3rv_HVtui6dXoAASKVh.jpg",
+        "https://cms-assets.youmind.com/media/1793255078752_yxu8vc_HVtui9YXwAAF4tI.jpg"
+      ],
+      "author": {
+        "name": "timedoctor.eth",
+        "link": "https://x.com/timedoctor_nft"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37044"
+    },
+    {
       "id": "36949",
       "title": "Fire-Breather Performance Photo",
       "description": "Compares Grok Imagine against Nano Banana Pro/2.1. The prompt provided is intended for Grok Imagine ('Upload selfie + #GrokImagine prompt'), although the user claims NB Pro did it well too. However, strictly speaking, the extracted prompt block is labeled for Grok Imagine usage in the context of the tweet's instruction. Wait, looking closer: 'I didn't think \"Grok Imagine\" would manage this editorial prompt as well as Nano Banana Pro/2.1.' Then 'Female fire-breather prompt below... Upload selfie + #GrokImagine prompt:'. The prompt itself is generic enough to apply to both, but the explicit labeling suggests it was tested on Grok. Given the ambiguity and the fact that it lists 'Nano Banana Pro/2.1', I will treat this as a valid prompt for Nano Banana Pro since the author asserts NB Pro handled it well. However, usually, if a prompt is explicitly tagged for another model in a comparison, we might skip. But here the prompt is shared as the one used for the comparison. Let's extract it as it is applicable to NB Pro per the author's claim.",
@@ -1727,6 +1749,27 @@
       "youmindId": "33474"
     },
     {
+      "id": "37043",
+      "title": "Steampunk Airship Cinematic Prompt",
+      "description": "A detailed prompt for generating a steampunk airship above clouds at dusk, used to compare outputs from GPT-image-2.5, nano banana2, and Grok-imagine2.",
+      "content": "Cinematic realistic photography, a steampunk airship above a sea of clouds at dusk: The subject is a massive copper airship, with oval canvas gasbags pieced together in antique bronze and dark brown, featuring visible stitching and repair marks on the surface. The hull is made of riveted brass and dark wood, with a four-blade propeller spinning at the stern. White steam vents from chimneys on the side, and warm yellow light glows from the cabin windows, with ropes and cables hanging taut. Atmospheric particles: Low-altitude swirling mist, fine dust, and steam particles floating in the golden light. Lighting: Low-angle backlighting from the setting sun, color temperature approx. 3200K, golden rim light outlining the gasbags, one side of the hull brightly lit while the other sinks into blue-purple shadows. Background layers: Foreground features rolling cloud sea and a silhouette of a distant small airship; midground is the main airship; background is sunset sky and distant mountain cloud lines. Camera: Low-angle shot looking up, 35mm lens, f/8, vertical composition, subject centered slightly upwards, deep depth of field, film grain. Color grading: Eastmancolor film simulation, contrasting warm gold and cool blue, slight vignette. Composition: Rule of thirds, airship occupies the upper two-thirds of the frame, leaving white clouds below. Mood: Grand and romantic old-industrial fantasy. Style: Realistic photography, not illustration. Quality tags: ultra detailed, photorealistic, high dynamic range, sharp focus. Negative constraints: No oil painting, No anime, No 3D render look, No deformed structure, No text, No watermark, No people",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793255077554_q5ioix_HVrPQIHbQAAQC8v.jpg",
+        "https://cms-assets.youmind.com/media/1793255077449_daqoif_HVrPSU2acAA6fzb.jpg",
+        "https://cms-assets.youmind.com/media/1793255077628_jwq25d_HVrPUcTaQAAG-JH.jpg"
+      ],
+      "author": {
+        "name": "JimmyAI｜AI Prompt",
+        "link": "https://x.com/JimmyCarsttle"
+      },
+      "language": "zh",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "37043"
+    },
+    {
       "id": "36879",
       "title": "Athleisure Fashion Poster Comparison",
       "description": "A side-by-side comparison of GPT Image 2.5 and Nano Banana 2.1 generating a multi-panel athleisure fashion poster with consistent character identity and outfit details.",
@@ -1866,46 +1909,6 @@
       "youmindId": "36314"
     },
     {
-      "id": "36215",
-      "title": "Full Armor Mecha Girl Concept Art",
-      "description": "A prompt for generating a high-quality concept art image of a mecha girl in full armor, styled like a 1/7 scale plastic model figure. The character features a slim torso and high-heeled leg design.",
-      "content": "Full Armor Mecha Girl FAMG-001 Aurelith 1/7 scale plastic model, slim torso with high-heeled shaped legs, highly detailed concept art, realistic materials and lighting, white background, product photography style",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791613889303_1304it_HUFpcmkbgAADDby.jpg",
-        "https://cms-assets.youmind.com/media/1791613889332_1vpg3p_HUFpcqyawAAkhcK.jpg",
-        "https://cms-assets.youmind.com/media/1791613889399_foc6em_HUFpcmgaAAAOqql.jpg"
-      ],
-      "author": {
-        "name": "てんねん",
-        "link": "https://x.com/munou_ac"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "36215"
-    },
-    {
-      "id": "36156",
-      "title": "Red Carpet Fashion Photo Prompt",
-      "description": "A detailed prompt for creating an ultra-realistic red-carpet fashion photograph of a woman in an icy silver-blue gown, preserving facial identity from a reference image.",
-      "content": "Use the uploaded image as the primary visual reference. Create an ultra-realistic, high-end red-carpet fashion photograph of the same woman, preserving her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, and natural proportions with maximum accuracy. No identity drift or facial alteration.\n\nDress her in an exquisite icy silver-blue couture evening gown made from sheer translucent fabric, densely decorated with hundreds of individually visible crystal and rhinestone embellishments. The gown has a fitted long-sleeve illusion bodice, elegant high neckline, sculpted waist, and a sleek floor-length silhouette. Add a dramatic flowing light-blue sheer train cascading naturally down the stairs behind her. Crystal-studded silver open-toe heels, delicate diamond earrings, and a refined diamond necklace.\n\nPlace her standing gracefully on the grand cream-colored staircase of a prestigious fashion gala, facing the camera with a confident yet elegant expression. Behind her, a glamorous crowd of photographers and guests are taking photographs, with professional cameras and flashes visible. The staircase and surrounding railings are covered with sparkling crystal-like decorations.\n\nComposition: full-body portrait, head-to-toe visible, centered subject, elegant natural standing pose, train fully visible, realistic body proportions.\n\nPhotography: luxury fashion editorial photography, cinematic depth of field, realistic flash photography, soft ambient lighting, subtle reflections from crystals, natural skin pores and texture, highly detailed fabric, physically accurate rhinestones, realistic hands and fingers, premium Vogue-style aesthetic, photorealistic, 8K detail.\n\nNegative prompt: cartoon, CGI, 3D render, plastic skin, excessive beauty retouching, altered face, different person, identity drift, distorted anatomy, extra fingers, malformed hands, blurry face, oversized jewelry, unrealistic crystals, artificial-looking fabric, duplicate people, text, logo, watermark.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791527772647_l88fun_HUHVL3TasAAj2pu.jpg"
-      ],
-      "author": {
-        "name": "Elvorya",
-        "link": "https://x.com/Elvorya"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "36156"
-    },
-    {
       "id": "36496",
       "title": "Nano Banana Pro Edit Tutorial",
       "description": "A tutorial on using Nano Banana Pro's edit features for product photography. Includes an example instruction within the steps.",
@@ -1923,6 +1926,27 @@
         "E-commerce Main Image"
       ],
       "youmindId": "36496"
+    },
+    {
+      "id": "36215",
+      "title": "Full Armor Mecha Girl Concept Art",
+      "description": "A prompt for generating a high-quality concept art image of a mecha girl in full armor, styled like a 1/7 scale plastic model figure. The character features a slim torso and high-heeled leg design.",
+      "content": "Full Armor Mecha Girl FAMG-001 Aurelith 1/7 scale plastic model, slim torso with high-heeled shaped legs, highly detailed concept art, realistic materials and lighting, white background, product photography style",
+      "images": [
+        "https://cms-assets.youmind.com/media/1791613889303_1304it_HUFpcmkbgAADDby.jpg",
+        "https://cms-assets.youmind.com/media/1791613889332_1vpg3p_HUFpcqyawAAkhcK.jpg",
+        "https://cms-assets.youmind.com/media/1791613889399_foc6em_HUFpcmgaAAAOqql.jpg"
+      ],
+      "author": {
+        "name": "てんねん",
+        "link": "https://x.com/munou_ac"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "E-commerce Main Image"
+      ],
+      "youmindId": "36215"
     },
     {
       "id": "35099",
@@ -2519,25 +2543,6 @@
         "Game Asset"
       ],
       "youmindId": "33268"
-    },
-    {
-      "id": "33270",
-      "title": "Holographic Canvas Glass Studio",
-      "description": "A minimalist prompt for a cinematic glass studio scene featuring a holographic canvas with mixed tungsten and cyan lighting.",
-      "content": "{argument name=\"setting\" default=\"Glass studio\"}, {argument name=\"canvas\" default=\"holographic canvas\"}, {argument name=\"lighting\" default=\"mixed tungsten and cyan light\"}.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788418033881_eocfo7_HROwLtrbwAAm8dQ.jpg"
-      ],
-      "author": {
-        "name": "Buble AI",
-        "link": "https://x.com/itsBubleAI"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "33270"
     }
   ],
   "categories": [
