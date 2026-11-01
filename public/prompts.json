@@ -574,6 +574,49 @@
       "youmindId": "532"
     },
     {
+      "id": "37109",
+      "title": "Desert Solitary Smoke Landscape Comparison",
+      "description": "A prompt comparing GPT-image-2.5, Nano Banana 2 (nano-banana-pro), and Grok-imagine2 on generating a desolate desert landscape with solitary smoke.",
+      "content": "Desert solitary smoke northwest scenery blockbuster, dusk at the edge of Mingsha Mountain in Dunhuang, Gansu, clear and dry northwest autumn evening. Foreground features wind-eroded dune ridges and a dead populus euphratica tree, branches twisted pointing to the sky, sand surface has clear wind patterns; Midground shows a straight column of solitary smoke rising gracefully from behind the dunes, stretching into a thin pillar against the backlight; Background features continuous golden sea of sand layered with Qilian Mountain snow line, a low-hanging setting sun on the horizon, clouds dyed in pale purple and honey gold. Air floats with fine sand particles and warm-colored dust mist, backlight outlines the contrast between light and shadow on the dunes. Lighting: Low-angle warm golden side-backlight, color temperature approx 3200K, sunny side of dunes is honey gold, shady side is cold gray-blue, forming warm-cold contrast. Camera: 24mm wide angle, low position close to sand surface, f/8 deep depth of field, rule of thirds composition, horizon pressed to lower third of frame, sky whitespace occupies two-thirds. Color grading: Eastmancolor film simulation, warm gold vs gray blue contrast, slight film grain, slight vignette. Ultra detailed, photorealistic landscape photography, National Geographic style. No people, No oil painting, No anime, No 3D render, No text, No watermark.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793427571074_8sypll_HV7dXSXasAAAQyi.jpg",
+        "https://cms-assets.youmind.com/media/1793427570901_axiooa_HV7dYhQbQAAsL_y.jpg",
+        "https://cms-assets.youmind.com/media/1793427570932_ns285x_HV7dZx1bQAA8e1z.jpg"
+      ],
+      "author": {
+        "name": "Candy",
+        "link": "https://x.com/CandyTravelight"
+      },
+      "language": "zh",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37109"
+    },
+    {
+      "id": "37108",
+      "title": "Amber Brutalism Portrait",
+      "description": "Generates a surreal editorial portrait of a woman in a honeycomb gown with cinematic backlighting using Nano Banana Pro.",
+      "content": "{\n  \"vibe_title_en\": \"Amber Brutalism\",\n  \"master_prompt\": \"Photographic surrealism, shot on Hasselblad H6D-100c, 80mm f/1.9, Kodak Portra 400. The Protagonist stands with absolute stillness in a cavernous, dark brutalist concrete chamber, embodying 'The Sovereign Minimalist.' Their pose is perfectly symmetrical, rigid, and angular, appearing as an architectural monument rather than a human, featuring a sharp, sculptural jawline and a detached, sovereign expression. They wear an impossible haute-couture gown constructed entirely from giant, rigid, translucent honeycomb cells. The garment feels like a high-budget practical effect, physically heavy, with thick, viscous golden amber liquid dripping organically from the geometric structure. The framing executes 'The Cinematic Flare-Out': heavily backlit by a massive, blinding industrial tungsten spotlight positioned directly behind the subject, aiming straight into the camera lens. The intense light creates a dreamy, hazy editorial glow, thick volumetric haze, and intentional cinematic lens flares that bleed around the edges of the subject's silhouette. The light penetrates the translucent amber cells, making them glow internally. The subject is partially silhouetted, with only the micro-textures of their skin pores, slicked-back hair, the structural edges of the honeycomb, and the heavy dripping liquid catching the blinding rim light. Organic dust motes float in the hazy air. Deep, hard directional shadows push forward toward the camera. Authentic film grain, natural imperfections, high-contrast chiaroscuro, profound tactile realism. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Editorial Photographic Surrealism\",\n    \"priorities\": \"Cinematic backlighting, architectural stillness, surreal practical-effect garment, tactile textures\",\n    \"device_profile\": \"High-End Medium Format Photography\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Center-weighted, symmetrical monument, heavily backlit and partially silhouetted\",\n    \"layout\": \"Vertical portrait, knees-up to showcase the architectural garment and dramatic lighting\",\n    \"camera_angle\": \"Slightly low angle to emphasize monumentality, shooting directly into the backlight\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, universal sovereign figure\",\n    \"face\": \"Sculptural, sharp jawline, highlighted by intense rim light\",\n    \"hair\": \"Slicked back tightly to maintain rigid geometry\",\n    \"body\": \"Rigid, angular, standing like an unyielding architectural structure\",\n    \"expression\": \"Absolute stillness, detached, powerful\",\n    \"pose\": \"Symmetrical, unmoving, no unnecessary movement\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Surreal honeycomb architectural gown\",\n        \"material\": \"Rigid translucent resin, glowing golden amber\",\n        \"color\": \"Amber, warm yellow, translucent gold\",\n        \"fit\": \"Sculptural, heavy, monumental\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Dripping viscous liquid\",\n        \"color\": \"Golden honey\",\n        \"material\": \"Thick liquid resin\",\n        \"brand_style\": \"High-budget practical effect\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Cavernous brutalist concrete apiary chamber\",\n    \"surfaces\": \"Raw cold concrete, sticky amber residue\",\n    \"depth\": \"Deep, filled with volumetric haze and a blinding light source in the background\",\n    \"atmosphere\": \"Heavy, cinematic, hazy, glowing with suspended organic dust motes\",\n    \"lens_interaction\": \"Intentional cinematic lens flares, soft hazy edges melting into sharp micro-details\"\n  },\n  \"lighting\": {\n    \"key\": \"Massive industrial tungsten spotlight directly behind the subject (Backlight)\",\n    \"fill\": \"Minimal, allowing the subject to fall into partial silhouette\",\n    \"rim\": \"Intense, glowing rim light bleeding around the jawline, hair, and honeycomb edges\",\n    \"shadows\": \"Deep, hard directional shadows pushing forward towards the camera\",\n    \"color_temperature\": \"Warm amber (3200K) piercing through neutral, cool concrete tones\",\n    \"sensor_flare\": \"Heavy, intentional lens flares causing a hazy editorial glow\"\n  },\n  \"camera\": {\n    \"lens_type\": \"Medium Format Prime\",\n    \"focal_length\": \"80mm\",\n    \"aperture\": \"f/1.9\",\n    \"focus\": \"Pin-sharp on the extreme edges of the silhouette and the dripping amber textures\",\n    \"sensor_format\": \"Medium Format (Hasselblad H6D-100c)\",\n    \"perspective_distortion\": \"None, maintaining orthographic monumentality\"\n  },\n  \"post_processing\": {\n    \"color\": \"Rich, glowing amber highlights contrasting with deep, cool shadows\",\n    \"tonality\": \"High-contrast chiaroscuro with blown-out, hazy highlight bleeding\",\n    \"texture\": \"Kodak Portra 400 film grain, hyper-detailed tactile liquid and concrete surfaces\",\n    \"digital_sharpening\": \"None, relying on organic film softness and optical sharpness\",\n    \"chromatic_aberration\": \"Subtle, natural aberration on the extreme edges of the blinding lens flares\"\n  },\n  \"negative_specifications\": [\n    \"Neon\",\n    \"Plastic\",\n    \"CGI\",\n    \"Cartoonish\",\n    \"Flat lighting\",\n    \"Casual pose\",\n    \"Smiling\",\n    \"Soft architecture\",\n    \"Digital illustration\",\n    \"Frontal key lighting\"\n  ]\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793427570994_9opev7_HV5agzxXcAE3nNm.jpg",
+        "https://cms-assets.youmind.com/media/1793427570271_onwqg1_HV5ag1ZXsAAb98_.jpg",
+        "https://cms-assets.youmind.com/media/1793427570771_u5l8gp_HV5ag0YWsAAELa4.jpg",
+        "https://cms-assets.youmind.com/media/1793427571262_ee80fp_HV5ag1HW0AAji-b.jpg"
+      ],
+      "author": {
+        "name": "timedoctor.eth",
+        "link": "https://x.com/timedoctor_nft"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37108"
+    },
+    {
       "id": "37044",
       "title": "Surreal Editorial Portrait with Chrome Whales and Roses",
       "description": "A complex JSON-structured prompt for generating a symmetrical, surreal editorial portrait featuring metallic elements, floating whales, and chaotic desert backgrounds in a high-fashion style.",
@@ -1749,6 +1792,27 @@
       "youmindId": "33474"
     },
     {
+      "id": "37110",
+      "title": "Transparent Material Still Life Comparison",
+      "description": "A prompt comparing GPT-image-2.5, Nano Banana 2 (nano-banana-pro), and Grok-imagine2 on rendering transparent materials like glass, water, and light.",
+      "content": "Afternoon sunlight transparent material still life test: Three transparent objects placed side by side on a wooden table—a stemmed glass cup filled with sparkling water with ice cubes suspended in it; a thick-walled glass vase holding a white flower, the body refracting distorted light spots; a crystal ball standing by the window, reflecting an inverted street scene outside. Sunlight passes through the glass casting bright caustic patterns on the table, bubbles rise densely along the cup wall, ice cube edges have fine cracks and bubbles. Lighting: Natural afternoon light slanting from the left window, color temperature approx 4500K, creating real refraction and highlights through the glass. Camera: 50mm prime lens, f/2.8, shallow depth of field, focus on the bubbles in the glass cup, background softly blurred, natural bokeh. Color grading: Clean and bright natural colors, slight film grain. Ultra detailed, photorealistic product photography. No oil painting, No anime, No 3D render, No deformed glass, No extra objects, No text, No watermark.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793427570743_5elogf_HV7d1sGaMAAB8dt.jpg",
+        "https://cms-assets.youmind.com/media/1793427570997_nq7osl_HV7d3I8a0AA4znU.jpg",
+        "https://cms-assets.youmind.com/media/1793427570842_p8jamr_HV7d4QtaYAAJAJA.jpg"
+      ],
+      "author": {
+        "name": "Candy",
+        "link": "https://x.com/CandyTravelight"
+      },
+      "language": "zh",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "37110"
+    },
+    {
       "id": "37043",
       "title": "Steampunk Airship Cinematic Prompt",
       "description": "A detailed prompt for generating a steampunk airship above clouds at dusk, used to compare outputs from GPT-image-2.5, nano banana2, and Grok-imagine2.",
@@ -1887,26 +1951,6 @@
         "Product Marketing"
       ],
       "youmindId": "36357"
-    },
-    {
-      "id": "36314",
-      "title": "East Asian Woman in Gray Turtleneck Concrete Wall",
-      "description": "Creates a hyper-realistic outdoor portrait of an East Asian woman with violet hair and glasses, wearing a gray ribbed turtleneck against a concrete wall.",
-      "content": "A hyper-realistic 8K outdoor photograph of a beautiful East Asian woman , standing three-quarter against a pale concrete wall. Long straight dark-violet hair with blunt bangs, individual strands catching the sun. Round thin metal glasses, fair realistic skin with visible pores, brown eyes, glossy muted rose lips.\n\nShe wears a fitted gray ribbed short-sleeve turtleneck; the vertical ribs stretch across the bust with small highlights on each ridge. Matching gray arm sleeves sit below the short sleeves. Black high-waist trousers. Arms crossed loosely in front, one hand resting on the other forearm.\n\nLighting: hard midday sun from upper left, sharp shadow under the chin and across the torso, thin speculars on the rib-knit and the glasses frames. Soft wall bounce on the right side of the face. Shot on an 85mm f/2, shallow depth of field, photorealistic skin, peach fuzz, knit micro-texture, fashion editorial look.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1791787584625_zo5l88_HUVYITwWcAA_zwI.jpg",
-        "https://cms-assets.youmind.com/media/1791787583198_ef81fh_HUVYIr2WMAA3PXq.jpg"
-      ],
-      "author": {
-        "name": "Aytaç Altıntepe",
-        "link": "https://x.com/aytacaltintepe"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "36314"
     },
     {
       "id": "36496",
@@ -2249,28 +2293,6 @@
       "youmindId": "30694"
     },
     {
-      "id": "30699",
-      "title": "Summer Skincare Product Photography",
-      "description": "Professional skincare product photography featuring a bronzing elixir on a sun-kissed beach with gentle ocean waves and foam.",
-      "content": "Ultra-realistic summer skincare product photography of a bronzing drop bottle named \"{argument name=\"product name\" default=\"Golden Glow - Bronzing Elixir\"}\", rectangular matte bottle in {argument name=\"bottle tone\" default=\"warm sun-kissed bronze tone\"} with a clean white cap, placed diagonally on wet beach sand as a gentle ocean wave washes over it, delicate sea foam and tiny bubbles surrounding the base, water partially flowing across the label, fine sand texture visible beneath shallow clear water, golden sunlight casting natural highlights and soft shadows, high-detail water ripples and realistic foam patterns, fresh summer aesthetic, minimal clean branding centered and sharp, warm golden-hour beach lighting, cinematic top-down flat lay composition, natural reflections on wet surface, editorial beauty campaign style, ultra-detailed, photorealistic 8K, soft warm color grading, luxury skincare advertisement Aspect ratio 4.5",
-      "images": [
-        "https://cms-assets.youmind.com/media/1786171691763_363c9f_HPHD50KXkAAJfKy.jpg",
-        "https://cms-assets.youmind.com/media/1786171691771_9i66u8_HPHD50JXsAA_HIk.jpg",
-        "https://cms-assets.youmind.com/media/1786171691830_ld7r4k_HPHD50WXYAAtPDo.jpg",
-        "https://cms-assets.youmind.com/media/1786171692407_hzonsy_HPHD50KWwAA7RcY.jpg"
-      ],
-      "author": {
-        "name": "William AI",
-        "link": "https://x.com/wiliam_web3"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "E-commerce Main Image"
-      ],
-      "youmindId": "30699"
-    },
-    {
       "id": "36908",
       "title": "Rogue One Style Film Still Prompt",
       "description": "A detailed prompt for generating photorealistic Rogue One/Andor style film stills with specific lighting and texture requirements using Nano Banana Pro.",
@@ -2524,25 +2546,6 @@
         "Game Asset"
       ],
       "youmindId": "33377"
-    },
-    {
-      "id": "33268",
-      "title": "Cinematic Animated AI Archivist",
-      "description": "A cinematic 3D animated film still for an original series featuring a consistent character design of a small AI archivist in a mysterious library archive.",
-      "content": "Create a cinematic 3D animated-film still for an original animated series called BOTU Universe. {argument name=\"character\" default=\"BOTU\"} is the main character: a small child-like AI Bureau archivist with a cream-colored bald head, large expressive brown eyes, a silver circular Memory Aperture centered on his forehead, glowing blue circular Listening Orbit rings around his ears, and a black leather-textured Bureau coat with gold piping and a gold BOTU Bureau emblem. Keep this character design consistent and clearly recognizable. SCENE: {argument name=\"scene\" default=\"Inside the mysterious BOTU Bureau Archive, BOTU suddenly discovers that it is raining indoors\"}. BOTU stands alone on a polished dark marble floor surrounded by enormous archive shelves, mysterious files, brass lamps and floating blue Memory Threads. Rain falls directly over BOTU in a small concentrated patch. BOTU looks upward in complete confusion. The floor around him is mostly dry, making the impossible indoor rain immediately obvious. His expression should communicate: \"What is happening?\" The silver Memory Aperture on BOTU's forehead must be clearly visible. COMPOSITION: Wide cinematic shot with BOTU clearly visible in the center. Strong visual storytelling. Rain clearly visible. Large mysterious Bureau Archive surrounding him. Dynamic perspective and depth. No empty areas. STYLE: {argument name=\"style\" default=\"High-quality stylized 3D animated feature-film aesthetic\"}. Expressive character acting. Cinematic lighting. Detailed environment. Polished materials. Warm gold Bureau lighting contrasted with cool blue Memory Thread glow. Family-friendly mystery-comedy tone. IMPORTANT: BOTU's character design must remain unchanged. Do not remove or alter the forehead Memory Aperture. Do not change his clothing, proportions, face, eyes, colors or Bureau emblem. No other characters. No text. No watermark. Aspect ratio: 16:9. Story Boarding",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788418032857_litw4u_HRO0NUdbUAA11wx.jpg"
-      ],
-      "author": {
-        "name": "Yash Trivedi",
-        "link": "https://x.com/yashktrivedi"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "33268"
     }
   ],
   "categories": [
