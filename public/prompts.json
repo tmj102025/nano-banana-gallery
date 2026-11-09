@@ -581,6 +581,25 @@
       "youmindId": "532"
     },
     {
+      "id": "37408",
+      "title": "Editorial Archery Fashion Photography Prompt",
+      "description": "A prompt for creating an editorial-style close-up portrait of a woman holding a bow and arrow, focusing on dramatic lighting and composition.",
+      "content": "Editorial fashion photography, a close-up three-quarter profile of a young woman with chestnut hair pulled back, several loose strands blowing in the wind, her focused, intense gaze directed to the right, lips slightly parted. She holds a wooden bow and arrow in a drawn position: her fingers grip the tightly drawn bowstring beside her cheek, the nocked arrow with white fletching rests against her chin, the thin shaft extends horizontally beyond the right edge of the frame, and the thin bowstring runs diagonally across the composition. She is wearing a fitted black long-sleeve top. Strong, hard, directional sunlight from the side models her face, neck, and shoulders, casting sharp, high-contrast shadows, including a thin diagonal shadow line from the bowstring across her cheek and chest. The background is a clean gradient blue sky, deeper cobalt at the top transitioning into a soft, smoky blue palette at the bottom. Low camera angle, tight framing on the head and upper torso, shallow depth of field, subtle film grain, warm sunlit skin tones against the cool blue sky, cinematic dramatic mood, glossy magazine aesthetic.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1794119035683_pnus6p_HWbDvLWaoAAQsSa.jpg"
+      ],
+      "author": {
+        "name": "dreamy digital arts",
+        "link": "https://x.com/dreamydigiarts"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37408"
+    },
+    {
       "id": "37381",
       "title": "Madrid Golden Hour Fashion Editorial",
       "description": "A detailed prompt for a high-fashion editorial bust shot of an Asian female leaning against urban architecture in Madrid during golden hour, shared across multiple AI image models.",
@@ -780,27 +799,6 @@
         "Social Media Post"
       ],
       "youmindId": "37159"
-    },
-    {
-      "id": "37109",
-      "title": "Desert Landscape AI Model Comparison",
-      "description": "A prompt comparing GPT-image-2.5, Nano Banana 2, and Grok-imagine2 on generating a desolate desert landscape with a lone smoke column.",
-      "content": "Grand desert lone smoke northwest landscape blockbuster, dusk at the edge of Mingsha Mountain in Dunhuang, Gansu Province, clear and dry autumn evening in the northwest. Foreground features wind-eroded dune ridges and a dead Populus euphratica tree with gnarled branches pointing to the sky, sand surface showing clear wind ripples; mid-ground shows a straight column of lone smoke rising gracefully from behind the dunes, stretching into a thin plume in backlight; distant view layers golden sea of sand and Qilian Mountains snow line, low-hanging sunset at horizon, clouds dyed pale purple and honey gold. Fine sand particles and warm dust mist float in the air, backlight outlines the light-dark boundary of dunes. Lighting: Low-angle warm golden side-backlight, color temperature approx 3200K, sunny side of dunes honey gold, shadow side cold gray-blue, creating warm-cold contrast. Camera: 24mm wide angle, low position close to sand surface, f/8 deep depth of field, rule-of-thirds composition, horizon pressed to lower third of frame, sky negative space occupies two-thirds. Color grading: Eastmancolor film simulation, warm gold vs gray-blue contrast, slight film grain, mild vignette. Ultra detailed, photorealistic landscape photography, National Geographic style. No people, No oil painting, No anime, No 3D render, No text, No watermark.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1793514065139_ts7gv6_HV7dXSXasAAAQyi.jpg",
-        "https://cms-assets.youmind.com/media/1793514065199_6sshw5_HV7dYhQbQAAsL_y.jpg",
-        "https://cms-assets.youmind.com/media/1793514065170_iugcop_HV7dZx1bQAA8e1z.jpg"
-      ],
-      "author": {
-        "name": "Candy",
-        "link": "https://x.com/CandyTravelight"
-      },
-      "language": "zh",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "37109"
     },
     {
       "id": "37330",
@@ -2043,28 +2041,6 @@
       "youmindId": "36879"
     },
     {
-      "id": "36877",
-      "title": "Marble Apathy Editorial Portrait Prompt",
-      "description": "A complex JSON-formatted prompt for generating a surreal editorial photograph of a woman surrounded by marble busts, emphasizing high-end analog photographic aesthetics and voyeuristic framing.",
-      "content": "{\n  \"vibe_title_en\": \"Marble Apathy\",\n  \"master_prompt\": \"A cinematic, voyeuristic photograph of The Protagonist immersed in a surreal, impossibly dense archive of overlapping classical white marble busts. The image strictly mirrors the visual geometry of a claustrophobic crowd of statues pressing in, but is captured with high-budget practical effects and photographic realism. The subject exudes 'Haute Apathy'—a deadpan, neutral facial expression with heavy, relaxed eyelids, their posture limp but chic, casually leaning against a priceless marble head in extreme nonchalance. They wear a minimalist, stark black turtleneck that severely contrasts against the sea of white stone. Shot with a 200mm long focal length lens to aggressively compress the space. The composition is a 'Voyeuristic Glimpse', captured through a narrow, heavily out-of-focus gap between two foreground marble statues, framing the subject's face as if spying on a private moment. High-key, clean, soft studio lighting emphasizes the flawless, hyper-realistic finish of both the porous marble and the subject's natural skin texture. Shot on Hasselblad H6D-100c, Kodak Portra 160 film stock, capturing authentic micro-details, skin pores, stray hairs, and subtle marble dust suspended in the air. Absolutely no neon, no CGI look; pure analog photographic texture.\",\n  \"meta\": {\n    \"intent\": \"Surreal Avant-Garde Editorial\",\n    \"priorities\": \"Foreground occlusion, heavy telephoto compression, textural contrast between skin and marble\",\n    \"device_profile\": \"Medium Format Analog\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Voyeuristic framing heavily obscured by foreground elements\",\n    \"layout\": \"Subject tightly framed and engulfed by dense surrounding objects\",\n    \"camera_angle\": \"Eye-level from a distant, hidden vantage point\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, ethereal yet grounded\",\n    \"face\": \"Neutral, deadpan with heavy, relaxed eyelids and sharp, graphic eyeliner\",\n    \"hair\": \"Sleek, parted tightly down the middle\",\n    \"body\": \"Relaxed, limp but chic posture\",\n    \"expression\": \"Extreme nonchalance, 'too cool for the room' apathy\",\n    \"pose\": \"Slumped shoulders, leaning effortlessly against a marble statue\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Turtleneck sweater\",\n        \"material\": \"Fine merino wool\",\n        \"color\": \"Stark matte black\",\n        \"fit\": \"Form-fitting but relaxed\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Graphic winged eyeliner\",\n        \"color\": \"Vantablack\",\n        \"material\": \"Matte makeup pigment\",\n        \"brand_style\": \"High-fashion editorial\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"An infinitely dense, surreal archive of classical white marble busts\",\n    \"surfaces\": \"Cold, smooth but porous white marble, subtle dust\"",
-      "images": [
-        "https://cms-assets.youmind.com/media/1792909738863_hwfx5b_HVaGvO1WcAAI6gX.jpg",
-        "https://cms-assets.youmind.com/media/1792909738934_bc504l_HVaGvSmWkAA_q0I.jpg",
-        "https://cms-assets.youmind.com/media/1792909737666_zteksh_HVaGvWmXYAA5XbM.jpg",
-        "https://cms-assets.youmind.com/media/1792909738730_kr7qs7_HVaGvPcWgAA03bL.jpg"
-      ],
-      "author": {
-        "name": "timedoctor.eth",
-        "link": "https://x.com/timedoctor_nft"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "36877"
-    },
-    {
       "id": "37331",
       "title": "Unpainted Resin Garage Kit of Street Racer Girl",
       "description": "Generates a photorealistic unpainted grey resin garage kit figure of a street racer girl, showing loose parts and hard top lighting for sculpting reference.",
@@ -2559,6 +2535,28 @@
         "Game Asset"
       ],
       "youmindId": "33778"
+    },
+    {
+      "id": "33471",
+      "title": "Artifact Diorama SQL Generation",
+      "description": "A unique SQL-style generation prompt for creating intricate architectural dioramas with carved stone and antique gold textures.",
+      "content": "16:9 select * from artifact_diorama_archives where subject_media = '{argument name=\"media title\" default=\"[media_title]\"}' and base_structure = 'giant_hollowed_out_sphere_cracked_open' and exterior_shell = ( select manuscript_aesthetic, typography from cultural_heritage_db where lore = '{argument name=\"media title\" default=\"[media_title]\"}' format as 'flat_2d_painted_fresco_and_calligraphy_on_outer_curve' ) and interior_payload_strata = array[ (level: 'upper_apex', asset: 'infer_climactic_fortress_or_throne({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'middle_caverns', asset: 'infer_mythological_creatures_and_terrain({argument name=\"media title\" default=\"[media_title]\"})'), (level: 'lower_basin', asset: 'infer_epic_armies_and_waterways({argument name=\"media title\" default=\"[media_title]\"})') ] and materials = 'carved_stone_wood_and_antiqued_gold' and optical_engine = 'macro_photography_depth_of_field';",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788591089116_kxrbhm_HRNiaKKWgAMDb5j.jpg",
+        "https://cms-assets.youmind.com/media/1788591089335_efreai_HRNie_0WYAEf0-w.jpg",
+        "https://cms-assets.youmind.com/media/1788591089108_nyvlo1_HRNiqRUXsAI99Ou.jpg",
+        "https://cms-assets.youmind.com/media/1788591089932_h8rq63_HRNiysxXwAUodN4.jpg"
+      ],
+      "author": {
+        "name": "Gadgetify",
+        "link": "https://x.com/Gdgtify"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "33471"
     }
   ],
   "categories": [
