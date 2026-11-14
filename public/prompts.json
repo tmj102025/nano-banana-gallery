@@ -1464,6 +1464,27 @@
       "youmindId": "22005"
     },
     {
+      "id": "37478",
+      "title": "Raven and Tiffany Background Studies",
+      "description": "A prompt for generating realistic background studies of a fictional American suburb with 80s/90s hints, suitable for narrative art projects.",
+      "content": "Background studies for {argument name=\"character names\" default=\"Raven and Tiffany\"}'s second story, set in a fictional American suburb with hints of the {argument name=\"era\" default=\"'80s and '90s\"}. Realistic settings.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1794550851615_w1tinv_HW1ZQHBXsAA1CUS.jpg",
+        "https://cms-assets.youmind.com/media/1794550852879_tqkwrj_HW1ZQG9WsAA91KD.jpg",
+        "https://cms-assets.youmind.com/media/1794550852827_n0ledv_HW1ZKj5WUAAMfaa.jpg"
+      ],
+      "author": {
+        "name": "The Image Gardener",
+        "link": "https://x.com/ImageGardener"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Comic / Storyboard"
+      ],
+      "youmindId": "37478"
+    },
+    {
       "id": "37376",
       "title": "Anime Freeze Frame Pastel Art",
       "description": "A prompt for creating a 1980s anime-style freeze frame in chalk pastel depicting a boxer mid-punch with sweat and rough paper grain texture.",
@@ -1797,25 +1818,6 @@
         "Comic / Storyboard"
       ],
       "youmindId": "33564"
-    },
-    {
-      "id": "33566",
-      "title": "Family Dinner Cinematic Contact Sheet",
-      "description": "A structured JSON prompt for generating a photorealistic 3x3 cinematic collage of a family dinner scene with Kodak film emulation.",
-      "content": "{\n  \"title\": \"Warm Family Dinner Cinematic Contact Sheet\",\n  \"format\": \"3x3 contact sheet collage\",\n  \"subject\": \"{argument name=\"subject\" default=\"A young woman with natural wavy dark hair, wearing a loose brown linen button-up shirt, sitting at a wooden dining table during a cozy family dinner\"}\",\n  \"environment\": \"{argument name=\"environment\" default=\"Traditional family dining room, vintage wallpaper, wooden china cabinet filled with plates and glassware, warm tungsten household lighting, realistic home atmosphere\"}\",\n  \"composition\": {\n    \"grid\": \"3x3 storyboard frames\",\n    \"shots\": [\n      \"medium shot talking with expressive hands\",\n      \"close-up laughing naturally\",\n      \"side view serving lasagna from casserole dish\",\n      \"close-up listening with chin resting on hand\",\n      \"medium shot eating dinner while looking down\",\n      \"close-up tasting food with playful expression\",\n      \"medium shot telling an animated story\",\n      \"close-up smiling softly while holding a fork\",\n      \"wide shot alone at dining table after conversation\"\n    ]\n  },\n  \"camera\": {\n    \"lens\": \"50mm and 85mm prime lenses\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"sharp focus on subject, creamy background bokeh\",\n    \"framing\": \"cinematic coverage from multiple angles\"\n  },\n  \"lighting\": {\n    \"type\": \"warm practical household lighting\",\n    \"color_temperature\": \"3200K\",\n    \"mood\": \"cozy, intimate, nostalgic\",\n    \"shadows\": \"soft natural shadows\"\n  },\n  \"style\": {\n    \"photorealistic\": true,\n    \"cinematic\": true,\n    \"natural_expressions\": true,\n    \"slice_of_life\": true,\n    \"authentic_human_moments\": true,\n    \"award_winning_film_still\": true\n  },\n  \"color_grading\": {\n    \"palette\": \"{argument name=\"palette\" default=\"warm amber, brown, cream, beige\"}\",\n    \"contrast\": \"soft cinematic contrast\",\n    \"look\": \"Kodak Vision3 film emulation\"\n  },\n  \"details\": [\n    \"genuine laughter\",\n    \"natural eye contact\",\n    \"subtle facial expressions\",\n    \"realistic skin texture\",\n    \"wooden dining furniture\",\n    \"home-cooked meal\",\n    \"candid documentary photography\",\n    \"family gathering atmosphere\"\n  ],\n  \"quality\": {\n    \"resolution\": \"8K\",\n    \"detail\": \"ultra detailed\",\n    \"realism\": \"hyper realistic\"\n  },\n  \"negative_prompt\": [\n    \"anime\",\n    \"cartoon\",\n    \"cgi\",\n    \"plastic skin\",\n    \"overprocessed face\",\n    \"low resolution\",\n    \"extra fingers\",\n    \"distorted anatomy\",\n    \"text\",\n    \"watermark\",\n    \"logo\"\n  ]\n}",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788676673943_9krm5d_HRcrK6SbcAApp-f.jpg"
-      ],
-      "author": {
-        "name": "Compound Learning - Tech | Science",
-        "link": "https://x.com/SheBuildsAI_"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Comic / Storyboard"
-      ],
-      "youmindId": "33566"
     },
     {
       "id": "37427",
