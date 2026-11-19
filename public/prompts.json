@@ -163,6 +163,25 @@
       "youmindId": "811"
     },
     {
+      "id": "37576",
+      "title": "Realistic Baseball Cap Portrait",
+      "description": "A prompt for a realistic image of a young woman wearing a pastel blue baseball cap, generated with Nano Banana Pro.",
+      "content": "Create a new image identical to the attached reference 100% realistic featuring a beautiful young woman with bright eyes, radiant fair skin, smooth and glowing complexion. Her expression is gentle, and she wears a pastel light blue baseball cap embroidered with a white \"{argument name=\"cap_logo\" default=\"NY\"}\" logo. Her dark hair is styled in a loose, low messy bun. She has natural makeup with soft pink blush and a light lip tint.(2/2)The lighting is soft and warm, with a subtle glowing aura surrounding her, highlighting her delicate facial features and luminous skin. She is dressed in a pastel light blue spaghetti-strap top, turning slightly away from the camera while looking back over her shoulder. The background of the room is softly blurred, with a gentle spotlight shining from behind, giving the image a dreamy and graceful atmosphere.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1794982946643_0r3ccw_HXVZbOPb0AADd0W.jpg"
+      ],
+      "author": {
+        "name": "Nouraya AI",
+        "link": "https://x.com/xnouraya"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "37576"
+    },
+    {
       "id": "37489",
       "title": "Ultra-Realistic Winter Fashion Portrait with Identity Preservation",
       "description": "Generates a stunning winter fashion portrait using an uploaded reference photo to maintain exact facial identity while creating a luxurious snowy scene.",
@@ -539,25 +558,6 @@
       "youmindId": "36719"
     },
     {
-      "id": "36586",
-      "title": "Cinematic portrait with dramatic lighting",
-      "description": "A detailed prompt for generating a close-up portrait of an East Asian woman with cinematic lighting and bokeh effects, created with Gemini Nano Banana Pro.",
-      "content": "A close-up portrait of a young East Asian woman with short blonde pixie and side-swept bangs and winged eyeliner. She wears a dark top with thin straps visible at the shoulders and looks directly at the camera with a calm, neutral expression and slightly parted lips. A small earring is visible in her left ear.\n\nThe scene is set in a dark environment with dramatic, multi-colored lighting. A bright warm light source to the left creates a strong highlight and lens flare effect near her hair, while cool blue light from the right and a soft red glow in the background cast colored shadows across her face and neck. The background is heavily blurred with bokeh lights. The overall style is cinematic and moody, with high contrast, rich teal and amber tones, and a filmic texture.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1792304896700_skxkmm_HU28jWHaEAAdgs1.jpg"
-      ],
-      "author": {
-        "name": "Saki H. 咲希",
-        "link": "https://x.com/SakiH_AI"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "36586"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -575,6 +575,28 @@
         "Social Media Post"
       ],
       "youmindId": "532"
+    },
+    {
+      "id": "37577",
+      "title": "Surreal Bird Nest Portrait",
+      "description": "A complex JSON-formatted prompt for a surreal portrait where hair morphs into a bird's nest, generated with Gemini Nano Banana Pro.",
+      "content": "{\n  \"vibe_title_en\": \"Organic Alienation\",\n  \"master_prompt\": \"A hyper-realistic, avant-garde surreal portrait of The Protagonist facing the camera dead-on with an intense, serene, and unbroken gaze. High-budget practical effect styling: The subject's hair morphs seamlessly into a massive, structurally complex bird's nest made of authentic, scratchy dry willow vines and dark brown brambles. Nestled within the woven hair-branches, and resting gently in a secondary woven nest at the collarbone, are several impossibly vibrant, downy yellow chicks. The contrast between the fragile, soft yellow feathers and the harsh, splintered wood is razor-sharp. Wardrobe: A coarse, raw, unbleached linen garment with a thick, loose weave. Setting: A derelict, dimly lit Victorian aviary; the background is a muted, peeling dark teal iron wall that makes the bright cadmium yellows pop. Lighting: Pro-level cinematic Rembrandt lighting, a large softbox creating a gentle roll-off of light on the skin, catching the micro-pores and fine vellus hairs, while casting deep, earthy shadows within the twig structure. Shot on Hasselblad X2D 100C, 80mm f/1.9 prime lens, medium format aesthetic, Kodak Portra 400 film grain texture, analog color rendition. Uncanny, visceral, extremely tactile, highly detailed physical textures. NO neon.\",\n  \"meta\": {\n    \"intent\": \"Surreal editorial portraiture\",\n    \"priorities\": \"Tactile textures, high-budget practical effects, intense focal clarity, uncanny realism\",\n    \"device_profile\": \"High-resolution display\"\n  },\n  \"frame\": {\n    \"aspect\": \"Portrait\",\n    \"composition\": \"Center-framed close-up bust\",\n    \"layout\": \"Symmetrical weight, top-heavy due to the structural nest headpiece\",\n    \"camera_angle\": \"Eye-level, straight on\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Ageless, ethereal presence\",\n    \"face\": \"Symmetrical, hyper-detailed skin pores, neutral but intense micro-expressions\",\n    \"hair\": \"Meticulously woven and braided into a towering structure of dry twigs and branches\",\n    \"body\": \"Still, grounded, shoulders relaxed but present\",\n    \"expression\": \"Serene, eerie calmness, an unbroken and piercing gaze into the lens\",\n    \"pose\": \"Static, facing directly forward, carrying the weight of the nest structure effortlessly\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Tunic neckline\",\n        \"material\": \"Coarse, raw unbleached linen\",\n        \"color\": \"Earthy beige and light taupe\",\n        \"fit\": \"Draped, loose, organically folded\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Nesting structure (woven into hair and collarbone)\",\n        \"color\": \"Dark brown, ash, and pale yellow\",\n        \"material\": \"Dried willow vines, brambles, and living downy chicks\",\n        \"brand_style\": \"Avant-garde practical effect styling\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Derelict Victorian aviary or botanical conservatory\",\n    \"surfaces\": \"Peeling dark teal paint on iron struts, dry earth, scratchy twigs\",\n    \"depth\": \"Shallow depth of field, background softly blurred into muted cool tones\",\n    \"atmosphere\": \"Still, dusty, smelling of dry earth and molting feathers, heavy with unspoken narrative\",\n    \"lens_interaction\": \"Subtle dust motes caught in the soft directional light\"\n  },\n  \"lighting\": {\n    \"key\": \"Soft directional softbox from the top-left, Rembrandt style\",\n    \"fill\": \"Subtle silver reflector bouncing light into the shadows of the nest\",\n    \"rim\": \"Faint, cool-toned rim light catching the edges of the stray twigs\",\n    \"shadows\": \"Deep, earthy, highly textured and rich\",\n    \"color_temperature\": \"5200K (Daylight balanced to capture the true vibrancy of the yellow chicks)\",\n    \"sensor_flare\": \"None\"\n  },\n  \"camera\": {\n    \"lens_type\": \"Medium Format Prime\",\n    \"focal_length\": \"80mm\",\n    \"aperture\": \"f/1.9\",\n    \"focus\": \"Tack sharp on the subject's irises and the nearest yellow chick\",\n    \"sensor_format\": \"Medium Format Digital (Hasselblad X2D 100C)\",\n    \"perspective_distortion\": \"None, flattering compression\"\n  },\n  \"post_processing\": {\n    \"color\": \"Analog emulation, punchy yellows contrasting against muted teal and brown\",\n    \"tonality\": \"Rich midtones, deep contrast without losing shadow detail in the branches\",\n    \"texture\": \"Kodak Portra 400 film grain, authentic micro-details on feathers and skin\",\n    \"digital_sharpening\": \"None, relies on optical sharpness of medium format glass\",\n    \"chromatic_aberration\": \"Very minimal, organic edge roll-off\"\n  },\n  \"negative_specifications\": [\n    \"No neon lights\",\n    \"No cyberpunk elements\",\n    \"No plastic-looking skin\",\n    \"No digital painting artifacts\",\n    \"No cartoonish proportions\",\n    \"No modern urban backgrounds\",\n    \"No artificial or CGI-looking birds\"\n  ]\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1794982946222_kxrauc_HXWj1fvWsAACTAg.jpg",
+        "https://cms-assets.youmind.com/media/1794982946826_2tv9lv_HXWj1fMW0AAOoMC.jpg",
+        "https://cms-assets.youmind.com/media/1794982946558_d79a09_HXWj1eeWsAAcEsK.jpg",
+        "https://cms-assets.youmind.com/media/1794982947284_rf8rg3_HXWj1h1X0AAjr7Z.jpg"
+      ],
+      "author": {
+        "name": "timedoctor.eth",
+        "link": "https://x.com/timedoctor_nft"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37577"
     },
     {
       "id": "37492",
@@ -720,48 +742,6 @@
         "Social Media Post"
       ],
       "youmindId": "37332"
-    },
-    {
-      "id": "37232",
-      "title": "Abstract Watercolor Fox Illustration",
-      "description": "A prompt for creating a loose, abstract watercolor painting of a sleeping red fox, focusing on pigment bleeding and wet-on-wet texture.",
-      "content": "Abstract watercolor wash of a red fox curled up asleep, loose oversized brushstrokes, broad flowing color shapes, minimal detail, soft pigment bleeding, expressive wet-on-wet texture, simplified forms, airy composition, no linework, no outlines, white background, square 1:1 composition.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1793686930073_osllyw_HWH857_bUAA9P18.jpg",
-        "https://cms-assets.youmind.com/media/1793686931483_sr9ewt_HWH88GSaQAE-nR6.jpg",
-        "https://cms-assets.youmind.com/media/1793686930074_rvuuo7_HWH89ufb0AAKU78.jpg"
-      ],
-      "author": {
-        "name": "JimmyAI｜AI Prompt",
-        "link": "https://x.com/JimmyCarsttle"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "37232"
-    },
-    {
-      "id": "37234",
-      "title": "Polite Brit Queue Image Comparison",
-      "description": "Comparison of GPT Image and Nano Banana generations of a British man in a New York queue, sharing the full prompt used.",
-      "content": "A polite British gentleman in a bowler hat, charcoal pinstripe suit and rolled umbrella stands perfectly upright in a long orderly queue outside a New York deli at golden hour, impatient New Yorkers in puffer jackets crowding around him, yellow taxi and street steam behind, candid 35mm street photography, shallow depth of field, a hand-lettered window sign reading \"WAIT YOUR TURN\", square 1:1 composition.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1793686931555_21b7t7_HWH8ZZVbUAAjMEs.jpg",
-        "https://cms-assets.youmind.com/media/1793686931529_i87aey_HWH8kCebkAAU25m.jpg",
-        "https://cms-assets.youmind.com/media/1793686930255_akruyj_HWH8mUzbMAAtH7W.jpg"
-      ],
-      "author": {
-        "name": "JimmyAI｜AI Prompt",
-        "link": "https://x.com/JimmyCarsttle"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "37234"
     },
     {
       "id": "37330",
@@ -2559,6 +2539,25 @@
         "Game Asset"
       ],
       "youmindId": "33483"
+    },
+    {
+      "id": "33481",
+      "title": "Manga Desktop Diorama Model Kit",
+      "description": "A unique prompt for visualizing manga and anime franchises as physical clay and resin diorama model kits.",
+      "content": "{ \"Aesthetic\": \"Physical Desktop Diorama, Resin and Clay Model Kit\", \"Subject\": \"{argument name=\"franchise\" default=\"[FRANCHISE]\"}\", \"Physical_Components\": { \"The_Archway\": \"Massive 3D letters spelling {argument name=\"franchise name\" default=\"[FRANCHISE]\"}, textured as AI_INFER(materials authentic to the lore).\", \"The_Vessel\": \"A hollow, sliced-open antique bowl/container holding the world.\", \"The_Ecosystem\": { \"Terrain\": \"AI_INFER(Miniature mountains, castles, or cities).\", \"Fluids\": \"Translucent, glossy poured epoxy resin simulating water/lava.\", \"Inhabitants\": \"Microscopic, hyper-detailed figures interacting with the terrain.\" } }, \"Lighting\": \"Cinematic product photography. Rim light highlighting the edges of the 3D typography.\" }",
+      "images": [
+        "https://cms-assets.youmind.com/media/1788591094576_5cnp5g_HRPxrfzbgAAv-fK.jpg"
+      ],
+      "author": {
+        "name": "Gadgetify",
+        "link": "https://x.com/Gdgtify"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Game Asset"
+      ],
+      "youmindId": "33481"
     }
   ],
   "categories": [
