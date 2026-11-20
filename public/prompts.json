@@ -163,6 +163,27 @@
       "youmindId": "811"
     },
     {
+      "id": "37620",
+      "title": "Funny Face Pressed Against Glass Prompt",
+      "description": "A detailed image-to-image prompt comparing ChatGPT, Gemini (Nano Banana), and Seedream. The prompt instructs the model to apply a funny expression to a user's face while pressing against glass in an office setting.",
+      "content": "Goal: A single vertical live-action portrait photo. Dress the person in Image 1 with the clothes from Image 2, and reproduce the following scene, pose, and shooting conditions.\n[Reference Images]\nFace/Hair: Comply with attached face photo (Image 1)\n[Scene]\nLocation: Office interior, daytime, through transparent glass window, desk/PC monitor/surprised employees in background, strong depth and blur\nLight: Strong indoor light from front and ceiling, intermediate color temperature, high-key leaning, strong contrast, reflection on glass surface and slight blowout\n[Subject]\nHair state: Disheveled, spreading out as pressed against glass surface\nExpression: Eyes wide open, eyebrows furrowed, nose and lips strongly pressed and flattened against glass surface, mouth twisted open widely in a funny face\nTop: Comply with attached costume photo (Image 2)\nBottoms: Comply with attached costume photo (Image 2)\nFeet: Comply with attached costume photo (Image 2)\nClothing state: Disheveled around neck and shoulders, dry normal wear\nAccessories: Small heart motif silver necklace, one small stud earring on one ear only\nPose: Body facing camera, no twist at waist/shoulders, upper body leaning forward, face strongly pressed against transparent glass surface, both palms and fingers also pressed against glass surface, both legs outside frame\n[Camera/Composition]\nForeground/Background: Face and hands pressed against glass are foreground, focus on face/palms, background office/employees heavily blurred, strong perspective exaggeration\nComposition: Bust shot, bottom edge below chest/collarbone, top of head near top edge, face centered occupying approx 50% of screen height, slightly looking down from front, wide angle\nShooting: Indoor snap, close range through glass, wide-angle lens, shallow-medium depth of field, sharp, high saturation, high contrast, clear atmosphere\n[Finish]\nTexture: Realistic skin texture, texture of skin/lips flattened against glass, shallow depth of field, slightly cool vibrant tones, high saturation, high contrast\nStyle: Live-action/Photorealistic (Anime/Illustration/CG/Painting prohibited), glass-through snap, humorous funny face\nRatio: Vertical 9:16 / 1080x1920px (Horizontal prohibited)\n[Constraints]\nMaintain: Keep facial features/hair style/hair color/skin tone from Image 1 and clothing shape/color/pattern from Image 2 exactly.\nExclude: Do not include text/logos/watermarks in image.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1795069374463_lg1czd_HXdzDwIbkAAljPp.jpg",
+        "https://cms-assets.youmind.com/media/1795069375614_uxguuy_HXdzFLfagAEDYXs.jpg",
+        "https://cms-assets.youmind.com/media/1795069375704_xo02hp_HXdzGjzbgAAKDLY.jpg"
+      ],
+      "author": {
+        "name": "川越あい(ラブりんって呼んでෆ)",
+        "link": "https://x.com/kawagoe_ai"
+      },
+      "language": "ja",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "37620"
+    },
+    {
       "id": "37576",
       "title": "Realistic Baseball Cap Portrait",
       "description": "A prompt for a realistic image of a young woman wearing a pastel blue baseball cap, generated with Nano Banana Pro.",
@@ -539,25 +560,6 @@
       "youmindId": "36755"
     },
     {
-      "id": "36719",
-      "title": "Cinematic Portrait of Woman in Crimson Dress",
-      "description": "A prompt for generating a moody, cinematic portrait of a young woman with dark hair and a red dress, featuring dramatic low-key lighting and window shadows.",
-      "content": "Cinematic portrait of a young woman with long, silky dark brown hair, sitting and resting her chin on her hand, gazing softly off to the side with a gentle smile. She wears a deep crimson red flowy dress with puffed sleeves and a textured, crinkled fabric. Small floral pearl-and-crystal stud earrings. Dramatic low-key lighting: a single warm window light casting geometric window-shadow patterns on a dark wall, soft glow on her face, deep black background. Rosy cheeks, soft natural makeup, dreamy and romantic mood. Shallow depth of field, 85mm lens, ultra-detailed skin texture, rich contrast, moody studio photography, vertical 9:16",
-      "images": [
-        "https://cms-assets.youmind.com/media/1792564432586_pcfph7_HVFMTdYacAEZ5al.jpg"
-      ],
-      "author": {
-        "name": "Letty",
-        "link": "https://x.com/LettyVesper"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "36719"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -723,25 +725,6 @@
         "Social Media Post"
       ],
       "youmindId": "37337"
-    },
-    {
-      "id": "37332",
-      "title": "Dragged-Shutter Flash Night Fashion",
-      "description": "A prompt for creating a night street fashion editorial with specific camera effects like dragged shutter flash.",
-      "content": "Night street fashion editorial: a model in an oversized red trench coat mid-stride on a wet city sidewalk. Direct on-camera flash combined with a slow 1/8s shutter and a slight camera pan, so the model is sharp while the background streaks with motion blur.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1793859751116_7cuvai_HWRdGOpXkAAvdwU.jpg"
-      ],
-      "author": {
-        "name": "Super Prompts",
-        "link": "https://x.com/superpromptspro"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "37332"
     },
     {
       "id": "37330",
@@ -1801,6 +1784,25 @@
         "Product Marketing"
       ],
       "youmindId": "37427"
+    },
+    {
+      "id": "37332",
+      "title": "Dragged-Shutter Flash Night Fashion",
+      "description": "A prompt for creating a night street fashion editorial with specific camera effects like dragged shutter flash.",
+      "content": "Night street fashion editorial: a model in an oversized red trench coat mid-stride on a wet city sidewalk. Direct on-camera flash combined with a slow 1/8s shutter and a slight camera pan, so the model is sharp while the background streaks with motion blur.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793859751116_7cuvai_HWRdGOpXkAAvdwU.jpg"
+      ],
+      "author": {
+        "name": "Super Prompts",
+        "link": "https://x.com/superpromptspro"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "37332"
     },
     {
       "id": "37335",
