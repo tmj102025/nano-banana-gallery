@@ -163,6 +163,25 @@
       "youmindId": "811"
     },
     {
+      "id": "37658",
+      "title": "Realistic Beach Portrait Prompt",
+      "description": "A prompt for generating an ultra-realistic portrait of a young European woman at a seaside beach with specific lighting and camera details.",
+      "content": "Create an ultra-realistic, high-quality portrait of a beautiful European young adult woman at a seaside beach. She has fair skin, long naturally wavy light-brown hair blowing gently in the ocean breeze, blue eyes, delicate facial features, and a soft natural smile. She is wearing an elegant white floral embroidered dress with sheer sleeves, delicate jewelry, and subtle makeup. She is sitting on the sandy beach, resting her cheek gently on one hand, looking directly at the camera. Beautiful turquoise ocean waves, clear blue sky, warm golden sunlight, soft wind in her hair, peaceful summer atmosphere, natural skin texture, realistic details, cinematic photography, DSLR, 85mm lens, shallow depth of field, luxury fashion photoshoot, soft natural lighting, photorealistic, 4K, vertical portrait, 9:16.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1795155693390_jif9m3_HXfiw3MaQAAtOIY.jpg"
+      ],
+      "author": {
+        "name": "Aynelle",
+        "link": "https://x.com/aynellex"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "37658"
+    },
+    {
       "id": "37620",
       "title": "Funny Face Pressed Against Glass Prompt",
       "description": "A detailed image-to-image prompt comparing ChatGPT, Gemini (Nano Banana), and Seedream. The prompt instructs the model to apply a funny expression to a user's face while pressing against glass in an office setting.",
@@ -541,25 +560,6 @@
       "youmindId": "36754"
     },
     {
-      "id": "36755",
-      "title": "Early 2000s Internet Cafe Webcam Couple",
-      "description": "A prompt for generating a low-resolution, candid webcam photo of a couple in an early 2000s internet cafe, capturing nostalgic aesthetic details.",
-      "content": "A candid couple photo of the Woman's Look and Man's Look in the Setting, engaged in the Activity. Render it as the Camera Type, with soft focus, smeared facial detail, color noise, dim uneven indoor light and low-resolution compression. Use awkward webcam framing from a desk-level angle, with a slight tilt and casually cropped shoulders or arms. Include the Era Props naturally in the booth. The couple should look genuinely close and relaxed, with real skin, messy everyday hair and no heavy retouching. Use Face Reference for the matching faces when applicable. Make it feel like an unedited early-2000s personal photo from an old Facebook album or MSN chat, not a modern image with a retro filter. No date stamp, text, watermark, modern electronics or current fashion. Output in the Format.\n\nUse these details:\nWoman's Look: \"{argument name=\"woman's look\" default=\"Young woman in her early 20s with straight black hair, a casual graphic T-shirt and a loose zip hoodie\"}\"\nMan's Look: \"{argument name=\"man's look\" default=\"Young man in his early 20s with a thin mustache, tousled hair and a worn casual sweatshirt\"}\"\nSetting: \"{argument name=\"setting\" default=\"A cramped internet cafe booth with a laminate desk, worn carpet, beige walls and bulky CRT monitors\"}\"\nActivity: \"{argument name=\"activity\" default=\"Leaning close together and looking into the webcam during an online chat\"}\"\nCamera Type: \"{argument name=\"camera type\" default=\"Low-resolution built-in webcam capture from a chunky desktop computer\"}\"\nEra Props: [{argument name=\"era props\" default=\"Wired earphones, A burned CD in a paper sleeve, A chunky desktop keyboard\"}]\nFace Reference: \"{argument name=\"face reference\" default=\"Use attached photos for the matching person's face when provided; if none are attached, invent both faces\"}\"\nFormat: \"{argument name=\"format\" default=\"4:3 landscape\"}\"",
-      "images": [
-        "https://cms-assets.youmind.com/media/1792650607044_cljrqg_HVKym1lXoAAhwS4.jpg"
-      ],
-      "author": {
-        "name": "Fav Prompt",
-        "link": "https://x.com/favprompt"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "36755"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -577,6 +577,26 @@
         "Social Media Post"
       ],
       "youmindId": "532"
+    },
+    {
+      "id": "37659",
+      "title": "Surreal High-Fashion Portrait Prompt for Nano Banana Pro",
+      "description": "A detailed JSON-structured prompt for generating a surreal, high-fashion editorial portrait of Dakota Johnson using Gemini Nano Banana Pro, featuring specific lighting, wardrobe, and atmospheric details.",
+      "content": "{\n  \"vibe_title_en\": \"{argument name=\"vibe title\" default=\"The Weighted Silence of the Aftermath\"}\",\n  \"master_prompt\": \"A voyeuristic 200mm telephoto shot of The Protagonist in the heavy stillness of an aftermath. Shot through a partially open, moth-eaten velvet curtain, creating heavy foreground occlusion. The subject slumps heavily against a damp, decaying stone wall in a dimly lit, abandoned backstage crypt. They wear a deconstructed, voluminous ivory silk garment, dirtied at the hem. Suspended symmetrically around them by taut pearl strings and thin steel wires are multiple pristine white porcelain masks with glossy red lips, treated as a high-budget physical practical effect. The subject's head hangs low, shoulders dropped in beautiful disarray. High-fashion makeup: extreme matte porcelain skin, smudged glossy obsidian eyelids, blurred oxblood lip stain. Hair: long, disheveled architectural wet-look waves in icy silver-blonde. Lighting: Blue hour ambient light spilling from above, dim, indirect cool tones with deep chiaroscuro shadows. Shot on Hasselblad H6D-100c, 200mm f/2.8 lens, Kodak Portra 800. Hyper-realistic skin pores, tangible fabric weaves, heavy analog film grain. NO NEON.\",\n  \"meta\": {\n    \"intent\": \"Create a surreal, high-fashion editorial portrait combining heavy aftermath emotion with physical impossibility and voyeuristic framing.\",\n    \"priorities\": \"Voyeuristic composition, practical surrealism, cinematic blue hour lighting, heavy analog texture.\",\n    \"device_profile\": \"Hasselblad H6D-100c\"\n  },\n  \"frame\": {\n    \"aspect\": \"3:4\",\n    \"composition\": \"Heavy foreground occlusion framing a central subject\",\n    \"layout\": \"Voyeuristic long-lens compression\",\n    \"camera_angle\": \"Slightly distant, eye-level observation\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"{argument name=\"subject identity\" default=\"The Protagonist\"}\",\n    \"demographics\": \"Ageless adult\",\n    \"face\": \"Exhausted, serene, heavy-lidded\",\n    \"hair\": \"Long, disheveled architectural wet-look waves, icy silver-blonde\",\n    \"makeup\": \"Extreme matte porcelain foundation, smudged glossy obsidian eyelids, blurred oxblood lip stain\",\n    \"body\": \"Relaxed, weighted, slumped posture\",\n    \"expression\": \"Quiet exhaustion, aftermath calm\",\n    \"pose\": \"Leaning heavily against a wall, shoulders dropped, beautiful disarray\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Deconstructed draped gown\",\n        \"material\": \"Ivory silk, dirtied at the hem\",\n        \"color\": \"Ivory\",\n        \"fit\": \"Voluminous, loose\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Suspended masks\",\n        \"color\": \"White and red\",\n        \"material\": \"Porcelain, pearls, steel wire\",\n        \"brand_style\": \"Avant-garde theater prop\"\n      },\n      {\n        \"item\": \"Crucifix necklace\",\n        \"color\": \"Silver\",\n        \"material\": \"Metal\",\n        \"brand_style\": \"Gothic antique\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Abandoned backstage crypt\",\n    \"details\": \"Damp, decaying stone walls, moth-eaten velvet curtains\"\n  }\n}",
+      "images": [
+        "https://cms-assets.youmind.com/media/1795155695568_qxcnfy_HXgvmgMWAAAPa-e.jpg",
+        "https://cms-assets.youmind.com/media/1795155695564_tgd9hl_HXgvmgnW4AEOvsW.jpg"
+      ],
+      "author": {
+        "name": "timedoctor.eth",
+        "link": "https://x.com/timedoctor_nft"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37659"
     },
     {
       "id": "37577",
@@ -705,26 +725,6 @@
         "Social Media Post"
       ],
       "youmindId": "37334"
-    },
-    {
-      "id": "37337",
-      "title": "Crystal Droplet Galaxy Macro Prompt",
-      "description": "A prompt for a hyper-realistic macro shot of a crystal-clear water droplet containing a spiral galaxy, used to compare Grok and Nano Banana.",
-      "content": "Crystal-clear water droplet suspended in mid-air or hanging from a leaf, macro photography style, hyper-realistic refraction and caustics. Inside the droplet: a luminous spiral galaxy with glowing planets orbiting, dense star clusters, soft nebulae, and celestial light rays escaping through the water surface. Soft bokeh background, ethereal lighting, intricate surface highlights, highly detailed, cinematic.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg",
-        "https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg"
-      ],
-      "author": {
-        "name": "Stan MacNabb",
-        "link": "https://x.com/StanMacNabb"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "37337"
     },
     {
       "id": "37330",
@@ -1039,6 +1039,26 @@
         "YouTube Thumbnail"
       ],
       "youmindId": "37379"
+    },
+    {
+      "id": "37337",
+      "title": "Crystal Droplet Galaxy Macro Prompt",
+      "description": "A prompt for a hyper-realistic macro shot of a crystal-clear water droplet containing a spiral galaxy, used to compare Grok and Nano Banana.",
+      "content": "Crystal-clear water droplet suspended in mid-air or hanging from a leaf, macro photography style, hyper-realistic refraction and caustics. Inside the droplet: a luminous spiral galaxy with glowing planets orbiting, dense star clusters, soft nebulae, and celestial light rays escaping through the water surface. Soft bokeh background, ethereal lighting, intricate surface highlights, highly detailed, cinematic.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1793946510081_ppnyy5_HWUFj5bWcAIX3Gd.jpg",
+        "https://cms-assets.youmind.com/media/1793946510492_cug2k8_HWUFj5jWYAAl6LQ.jpg"
+      ],
+      "author": {
+        "name": "Stan MacNabb",
+        "link": "https://x.com/StanMacNabb"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "YouTube Thumbnail"
+      ],
+      "youmindId": "37337"
     },
     {
       "id": "36906",
@@ -2024,25 +2044,6 @@
         "Product Marketing"
       ],
       "youmindId": "36949"
-    },
-    {
-      "id": "36948",
-      "title": "Hellenistic Medusa Editorial Prompt",
-      "description": "A detailed prompt for generating a high-fashion dark mythological editorial image inspired by Hellenistic antiquity and the legend of Medusa, featuring cinematic lighting and hyper-realistic textures.",
-      "content": "Theme:\nHigh-fashion dark mythological editorial inspired by Hellenistic antiquity and the legend of Medusa.\n\nSubject:\nA 20-year-old woman of Classical Greek-Mediterranean descent, portrayed as a temple priestess. She is reclined upon a sunken black marble altar, accompanied by a sleek, golden-scaled temple viper that glides across her shoulder and waist.\n\nPerson · Expression:\nSharp Hellenistic facial features with high cheekbones and a straight Greek nose. Her eyes are a smoky golden-amber with an intense, steady gaze. Her lips are slightly parted in a calm exhale. Her long, thick glossy black hair is intertwined with delicate gold chains and small serpents, with damp strands resting against her oiled skin.\n\nClothing · Pose:\nShe wears a minimalist harness crafted from fine liquid gold chainmail paired with a sheer, translucent onyx silk wrap. The fabric is draped to follow her form, yielding to gravity as she performs a deep back-arch across the basalt altar. One arm is stretched overhead gripping a golden altar prop, while the other rests near her hip.\n\nBackground · Light:\nAn ancient seaside temple carved from black basalt rock at midnight. The environment is lit by a high-contrast chiaroscuro setup: intense flickering orange light from bronze fire braziers creates highlights on the oiled skin and gold metal, while cool silvery moonlight provides a sharp rim light. Aromatic myrrh smoke and sea mist drift through the background columns.\n\nComposition · Camera:\nLow-angle medium shot that emphasizes the subject's stature. The framing is a horizontal 16:9 composition with the subject dominating the central diagonal axis. Shot with an 85mm lens at f/1.4 to create a shallow depth of field, keeping the subject in sharp focus while the temple architecture fades into a creamy, amber-hued bokeh.\n\nTexture · Style:\nHyper-photorealistic digital photography with a cinematic editorial grade. Features highly detailed skin textures including visible pores and a specular oil sheen. The style incorporates subtle film grain, soft sensor bloom on highlights, and the tactile contrast between cold black stone, warm fire, and metallic gold.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1793082739409_o9l10c_HVilk5uWMAAQHLq.jpg"
-      ],
-      "author": {
-        "name": "Dominus Pellissier",
-        "link": "https://x.com/iamdomprompt"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "36948"
     },
     {
       "id": "37331",
