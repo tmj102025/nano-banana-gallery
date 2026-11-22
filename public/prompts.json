@@ -204,11 +204,11 @@
     },
     {
       "id": "37576",
-      "title": "Realistic Baseball Cap Portrait",
-      "description": "A prompt for a realistic image of a young woman wearing a pastel blue baseball cap, generated with Nano Banana Pro.",
-      "content": "Create a new image identical to the attached reference 100% realistic featuring a beautiful young woman with bright eyes, radiant fair skin, smooth and glowing complexion. Her expression is gentle, and she wears a pastel light blue baseball cap embroidered with a white \"{argument name=\"cap_logo\" default=\"NY\"}\" logo. Her dark hair is styled in a loose, low messy bun. She has natural makeup with soft pink blush and a light lip tint.(2/2)The lighting is soft and warm, with a subtle glowing aura surrounding her, highlighting her delicate facial features and luminous skin. She is dressed in a pastel light blue spaghetti-strap top, turning slightly away from the camera while looking back over her shoulder. The background of the room is softly blurred, with a gentle spotlight shining from behind, giving the image a dreamy and graceful atmosphere.",
+      "title": "Realistic Woman Baseball Cap Prompt",
+      "description": "A detailed prompt for Nano Banana Pro to generate a realistic image of a young woman wearing a pastel baseball cap, based on a reference image.",
+      "content": "Create a new image identical to the attached reference 100% realistic featuring a beautiful young woman with bright eyes, radiant fair skin, smooth and glowing complexion. Her expression is gentle, and she wears a pastel light blue baseball cap embroidered with a white \"{argument name=\"logo\" default=\"NY\"}\" logo. Her dark hair is styled in a loose, low messy bun. She has natural makeup with soft pink blush and a light lip tint. The lighting is soft and warm, with a subtle glowing aura surrounding her, highlighting her delicate facial features and luminous skin. She is dressed in a pastel light blue spaghetti-strap top, turning slightly away from the camera while looking back over her shoulder. The background of the room is softly blurred, with a gentle spotlight shining from behind, giving the image a dreamy and graceful atmosphere.",
       "images": [
-        "https://cms-assets.youmind.com/media/1794982946643_0r3ccw_HXVZbOPb0AADd0W.jpg"
+        "https://cms-assets.youmind.com/media/1795242031940_e3rtkz_HXVZbOPb0AADd0W.jpg"
       ],
       "author": {
         "name": "Nouraya AI",
@@ -577,6 +577,26 @@
         "Social Media Post"
       ],
       "youmindId": "532"
+    },
+    {
+      "id": "37684",
+      "title": "Sydney Sweeney in Emerald Dress Nano Banana Pro",
+      "description": "An image generation prompt for a portrait of Sydney Sweeney wearing a long emerald green dress with soft shine, set against warm stone floors and white geometric tiles with a luxurious atmosphere.",
+      "content": "Warm stone floor, white geometric tiles, green plants, and a wooden railing. Soft daylight very luxurious and calm atmosphere of these portraits. \n\nThe dress is hero here. Long emerald green dress. The fabric has soft shine that catch the light.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1795242031951_ferrvt_HXmHCNxWIAARgVZ.jpg",
+        "https://cms-assets.youmind.com/media/1795242033171_aa75cl_HXmHDrCW0AAbdrq.jpg"
+      ],
+      "author": {
+        "name": "J⭕DIE",
+        "link": "https://x.com/Jodie_Noraa"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37684"
     },
     {
       "id": "37659",
@@ -2025,25 +2045,6 @@
         "Product Marketing"
       ],
       "youmindId": "37043"
-    },
-    {
-      "id": "36949",
-      "title": "Fire-Breather Performance Photo",
-      "description": "Compares Grok Imagine against Nano Banana Pro/2.1. The prompt provided is intended for Grok Imagine ('Upload selfie + #GrokImagine prompt'), although the user claims NB Pro did it well too. However, strictly speaking, the extracted prompt block is labeled for Grok Imagine usage in the context of the tweet's instruction. Wait, looking closer: 'I didn't think \"Grok Imagine\" would manage this editorial prompt as well as Nano Banana Pro/2.1.' Then 'Female fire-breather prompt below... Upload selfie + #GrokImagine prompt:'. The prompt itself is generic enough to apply to both, but the explicit labeling suggests it was tested on Grok. Given the ambiguity and the fact that it lists 'Nano Banana Pro/2.1', I will treat this as a valid prompt for Nano Banana Pro since the author asserts NB Pro handled it well. However, usually, if a prompt is explicitly tagged for another model in a comparison, we might skip. But here the prompt is shared as the one used for the comparison. Let's extract it as it is applicable to NB Pro per the author's claim.",
-      "content": "Use the person reference only for facial identity and recognizable features; do not inherit its hair, wardrobe, pose or setting.\n\nCreate a vertical late-night fashion-performance photograph inside a dark crowded club or cabaret, framed tightly from approximately the lower chest upward around one adult woman caught at the peak of a fire-breathing performance.\n\nBuild the composition around a large real flame bursting diagonally and upward from her mouth. Tip her head back, extend the neck, keep the mouth open, and allow the flame to pass directly through the visual center of the face so it obscures part of the nose, eyes and forehead rather than floating neatly above her. The flame should be irregular, overbright and physically turbulent, with a white-hot center, yellow-orange edges, faint smoke and unstable shape.\n\nStretch both arms outward toward opposite edges of the frame, elbows slightly bent and hands remaining active rather than posed decoratively. Let one hand control a dark performance torch or metal rod angled toward the mouth while the opposite hand stays extended with a second tool partly visible near the frame edge. Keep the shoulders broad and lifted beneath the action.\n\nGive her an oversized antique-gold sunburst headdress built from irregular radiating spikes and clustered metallic elements around the crown, wide enough to extend beyond both sides of the head. Do not make it perfectly symmetrical or pristine. Let individual points catch the firelight differently.\n\nDress her in a dark bronze-gold beaded performance bodice with narrow straps, dense small metallic stones and irregular chain detailing. Layer several antique-gold and crystal necklaces closely around the neck and upper chest, with longer strands hanging unevenly below. Add dangling gold earrings and a few substantial metallic bracelets, but keep the headdress and flame dominant.\n\nKeep the hair mostly pulled back beneath the headpiece, with a few damp or loose dark strands around the temples and neck. Preserve strong eye makeup, defined brows and a deep red lip, but do not give the face clean beauty illumination.\n\nLet the visible flame be the dominant local light source. It should throw hot unstable amber light upward across the mouth, cheeks, chin, throat, jewelry and nearest headdress points while areas only slightly farther away drop abruptly into red-brown and near-black shadow. Allow portions of the flame to clip completely white. Add only weak dirty club ambience from the sides—small blue, violet or red contamination in the shadows—without creating a polished rim light or separate facial key.\n\nKeep several indistinct adult spectators visible behind her as soft, dark human shapes at different depths. Do not remove them or",
-      "images": [
-        "https://cms-assets.youmind.com/media/1793082739399_ml23qa_HVk5BqpXQAAkZf4.jpg"
-      ],
-      "author": {
-        "name": "Ash",
-        "link": "https://x.com/asheem01"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Product Marketing"
-      ],
-      "youmindId": "36949"
     },
     {
       "id": "37331",
