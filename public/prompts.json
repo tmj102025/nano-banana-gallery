@@ -163,6 +163,50 @@
       "youmindId": "811"
     },
     {
+      "id": "37723",
+      "title": "Stop-Motion Clay Puppet Portrait",
+      "description": "A prompt for generating macro photography of a stop-motion style clay puppet character with 2D ink-drawn facial features and matte textures, suitable for creating stylized character portraits.",
+      "content": "Macro photography of an artisanal stop-motion puppet of an {argument name=\"subject\" default=\"elderly man with a large papier-mâché head and very thin neck\"}. 2D features drawn in black ink: huge tired eyes and painted round glasses. He has a messy beard made of grey thread and wears a mustard wool vest over a dark shirt. Background of a miniature workshop, heavily blurred with soft side lighting, 1:1 aspect ratio.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1795587717648_cqk74o_HX2FlkhWsAEZyi4.jpg",
+        "https://cms-assets.youmind.com/media/1795587719079_y4sygh_HX2FlklXkAAtW8b.jpg",
+        "https://cms-assets.youmind.com/media/1795587718129_yvz8ss_HX2FlkcXUAA1-pg.jpg",
+        "https://cms-assets.youmind.com/media/1795587718955_c6jqh0_HX2FlkhWMAAuu44.jpg"
+      ],
+      "author": {
+        "name": "AJMorales",
+        "link": "https://x.com/AJMorales73"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "37723"
+    },
+    {
+      "id": "37722",
+      "title": "Realistic Portrait Prompt for Nano Banana 2",
+      "description": "A detailed prompt for generating a realistic photograph of a woman turning around at a seaside overlook during sunset, using reference images for face and clothing consistency. The tweet compares outputs from ChatGPT, Muse, Seedream, and Gemini (Nano Banana 2).",
+      "content": "Please attach photos of your face and clothes.\n\nAttached images: Image 1 = Face reference, Image 2 = Clothing reference.\nFace/Hair: Make it the same person as in Image 1 (same face, hairstyle, hair color). Do not use the clothing, pose, or background from that image.\nClothing: Dress them in the exact clothes from Image 2. Do not use the face, hair, body type, or pose from that image.\nReference Priority: Even if the lines below mention different clothes or hairstyles than the attached images, follow the attached images for face, hair, and clothing.\n[Instruction] Create a new photo as if taken with a real camera. Smartphone vertical aspect ratio 9:16.\n\n[Scene]\nLocation: A hilltop overlook with a view of the sea at sunset\nScenario: She notices you\nScene Type: Sunset hilltop overlook by the sea. She was walking while gazing at the scenery. Noticing a voice calling her, she turns back mid-step, showing a relieved smile (she notices you).\nRelationship with You: Classmate sitting next to you\nLighting: Sunset light from upper left, left side of face bright, right side soft shadow, rim light on hair, sparkling sea surface becomes bokeh in background\nAtmosphere: Wide sea and sky, feeling of relief upon being noticed\nBackground is clean and orderly.\n\n[Subject]\nAdult Japanese woman.\nHairstyle: Bob\nPose: Turning back over right shoulder mid-stride while walking. Body remains facing the sea, both arms lowered naturally, hair and skirt hem swaying in the sea breeze and turning motion.\nExpression: Relieved smile upon noticing, turning face from scenery, natural eyebrows, catchlights in pupils.\nGaze: Looking at camera over right shoulder.\n\n[Details]\nComposition: Medium shot up to thighs, slightly looking up from one step below, aligned to right of frame. Large bokeh of overlook railing at bottom foreground, empty space of sky and sea spreading to left.\nDistance: Right-aligned medium shot up to thighs, slightly looking up from one step below.\nLens: 85mm lens\nCamera: Full-size camera\nColor Tone: Blue of sea and sky with warm sunset colors\nRatio: Smartphone vertical 9:16\nStyle: Photo taken with a real camera. Skin, hair, and fabric textures remain natural.\n\n[Constraints]\nThe camera is the eyes of a classmate of the same age (you) who is present there. Do not show the viewer's hands or body.\nIt is okay if a female classmate appears small in the background (only back or profile, heavily blurred). She should not look at the camera, approach her, or stand out more than her. No one else in foreground or in front of her.\nCamera above chest height. Focus on face and gestures.\nDo not change skin tone from reference image. Express shyness or joy through eyes, mouth, hands, posture.\nNo men appearing. Healthy and natural portrait.\nNo readable text, logos, or watermarks.\nDo not make it anime, illustration, or CG.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1795587719196_bom6he_HX2PjYta8AEfBBs.jpg",
+        "https://cms-assets.youmind.com/media/1795587717731_tzs5mx_HX2PnKtawAAle8W.jpg",
+        "https://cms-assets.youmind.com/media/1795587718919_0hro1x_HX2Pp3VboAAQ7Xh.jpg",
+        "https://cms-assets.youmind.com/media/1795587719146_2brv51_HX2PsTTbIAA4TXk.jpg"
+      ],
+      "author": {
+        "name": "川越あい(ラブりんって呼んでෆ)",
+        "link": "https://x.com/kawagoe_ai"
+      },
+      "language": "ja",
+      "featured": false,
+      "categories": [
+        "Profile / Avatar"
+      ],
+      "youmindId": "37722"
+    },
+    {
       "id": "37690",
       "title": "Vintage Film Portrait Prompt",
       "description": "A detailed prompt for generating a raw-style vintage film portrait using Nano Banana 2 (Pro). Features a woman with white roses during golden hour.",
@@ -517,47 +561,6 @@
       "youmindId": "36835"
     },
     {
-      "id": "36838",
-      "title": "Purple Sweater Portrait Comparison",
-      "description": "A comparison of Nano Pro, SeeDream Lite, ChatGPT, and Flux 2 using a prompt for a photorealistic ultra close-up portrait of a woman with pink hair wearing a lavender sweater.",
-      "content": "Photorealistic ultra close-up portrait of a young East Asian woman with soft dusty pink short hair styled in a loose side braid. She is looking at the camera with a gentle, warm smile.\n\nShe wears a light lavender knit sweater and small pearl earrings. Slim athletic body.\n\nSoft indoor setting with warm natural lighting and a clean, slightly blurred background. Highly detailed skin texture, realistic fabric, sharp focus, elegant and natural portrait photography, 8k photorealistic.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1792823504000_5cnt87_HVTKQEYbUAAzju-.jpg",
-        "https://cms-assets.youmind.com/media/1792823504142_xddwdq_HVTKTiJbYAABBqC.jpg",
-        "https://cms-assets.youmind.com/media/1792823504022_dniklv_HVTKZXkbQAA8c7e.jpg",
-        "https://cms-assets.youmind.com/media/1792823504942_qm7qxx_HVTKfgbawAAvrc0.jpg"
-      ],
-      "author": {
-        "name": "Aiko💕",
-        "link": "https://x.com/LoveAiko2003"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "36838"
-    },
-    {
-      "id": "36753",
-      "title": "Pixar Style Real Person Transformation",
-      "description": "A prompt for Nano Banana Pro to generate a photo of a real person alongside their 3D Pixar-inspired cartoon version, preserving identity and clothing details.",
-      "content": "Create an ultra-realistic, high-quality studio photograph featuring a real human and a giant 3D Pixar-inspired cartoon version of the SAME person, both accurately matching the uploaded reference image.\n\nBoth versions must have the same facial features, skin tone, hairstyle, and overall appearance. The real person wears a pastel pink and cream oversized knitted sweater, light blue high-waisted jeans, and clean white high-top sneakers. The Pixar-style character wears the exact same outfit with realistic knitted fabric details.\n\nPose & Expression: The real person stands naturally beside the giant cartoon version, smiling warmly at the camera with one hand resting gently on the cartoon character's shoulder. The cartoon character stands confidently with slightly wider legs, one hand in its jeans pocket, a mischievous smile, one raised eyebrow, and large expressive animated eyes.\n\nThe cartoon character should be slightly taller and larger than the real person, with a charming 3D animated appearance while maintaining the person's recognizable identity.\n\nBackground & Lighting: Minimalist gray-blue photography studio, soft professional lighting, subtle floor shadows, realistic skin texture on the human, smooth 3D cartoon shading, detailed sweater fibers, natural denim folds, cinematic composition, sharp focus, premium 3D rendering, 8K quality.\n\nImportant Instructions: Strictly preserve the identity of the uploaded reference person. Keep the real person's face photorealistic and the cartoon version recognizably identical. Maintain consistent clothing colors, body proportions, and natural interaction between both characters. No extra people, no text, no watermark, no distorted hands, and no unnecessary accessories.\n\nAspect Ratio: 4:5 (Portrait)",
-      "images": [
-        "https://cms-assets.youmind.com/media/1792737110333_et2kth_HVNTSu3akAAsdmU.jpg"
-      ],
-      "author": {
-        "name": "HANI💫",
-        "link": "https://x.com/AiWithHani"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Profile / Avatar"
-      ],
-      "youmindId": "36753"
-    },
-    {
       "id": "532",
       "title": "Train-ad style book advertisement image",
       "description": "A detailed Japanese prompt for generating a 16:9 business-book-style advertisement featuring a specific book image with Japanese copy points.",
@@ -725,28 +728,6 @@
         "Social Media Post"
       ],
       "youmindId": "37408"
-    },
-    {
-      "id": "37381",
-      "title": "Madrid Golden Hour Fashion Editorial",
-      "description": "A detailed prompt for a high-fashion editorial bust shot of an Asian female leaning against urban architecture in Madrid during golden hour, shared across multiple AI image models.",
-      "content": "Theme: Madrid golden hour high-fashion editorial. Subject: 22-year-old Asian female with a statuesque presence, leaning back against an urban structure in a sun-drenched Madrid street. Clothing · Pose: White ribbed cotton cropped tank top with visible fabric tension; structured dark washed denim jacket worn open and draped off the shoulders; delicate gold necklace; close-up bust shot with shoulders pulled back. Background · Light: Madrid urban boulevard with historic stone architecture in creamy bokeh; late afternoon golden hour atmosphere with hard, warm side-lighting and deep soft-edged shadows. Composition · Camera: Strict bust-shot framing, low-angle Dutch tilt, simulated 80mm telephoto lens at f/2.8, razor-sharp focus on eyes and facial features. Texture · Style: High-end editorial aesthetic, tactile detail on ribbed knit and denim textures, natural skin grain with subsurface scattering and warm climate moisture sheen.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1794032635248_5jcljx_HWZYxZJbIAAKzhC.jpg",
-        "https://cms-assets.youmind.com/media/1794032635115_1l3yks_HWZY03YaMAAY486.jpg",
-        "https://cms-assets.youmind.com/media/1794032635110_5ua06z_HWZY3o_bUAASXDe.jpg",
-        "https://cms-assets.youmind.com/media/1794032635993_k48xv7_HWZY7JRaoAAwkbS.jpg"
-      ],
-      "author": {
-        "name": "Aiko💕",
-        "link": "https://x.com/LoveAiko2003"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "37381"
     },
     {
       "id": "37330",
@@ -1826,6 +1807,28 @@
         "Product Marketing"
       ],
       "youmindId": "37427"
+    },
+    {
+      "id": "37381",
+      "title": "Madrid Golden Hour Fashion Editorial",
+      "description": "A detailed prompt for a high-fashion editorial bust shot of an Asian female leaning against urban architecture in Madrid during golden hour, shared across multiple AI image models.",
+      "content": "Theme: Madrid golden hour high-fashion editorial. Subject: 22-year-old Asian female with a statuesque presence, leaning back against an urban structure in a sun-drenched Madrid street. Clothing · Pose: White ribbed cotton cropped tank top with visible fabric tension; structured dark washed denim jacket worn open and draped off the shoulders; delicate gold necklace; close-up bust shot with shoulders pulled back. Background · Light: Madrid urban boulevard with historic stone architecture in creamy bokeh; late afternoon golden hour atmosphere with hard, warm side-lighting and deep soft-edged shadows. Composition · Camera: Strict bust-shot framing, low-angle Dutch tilt, simulated 80mm telephoto lens at f/2.8, razor-sharp focus on eyes and facial features. Texture · Style: High-end editorial aesthetic, tactile detail on ribbed knit and denim textures, natural skin grain with subsurface scattering and warm climate moisture sheen.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1794032635248_5jcljx_HWZYxZJbIAAKzhC.jpg",
+        "https://cms-assets.youmind.com/media/1794032635115_1l3yks_HWZY03YaMAAY486.jpg",
+        "https://cms-assets.youmind.com/media/1794032635110_5ua06z_HWZY3o_bUAASXDe.jpg",
+        "https://cms-assets.youmind.com/media/1794032635993_k48xv7_HWZY7JRaoAAwkbS.jpg"
+      ],
+      "author": {
+        "name": "Aiko💕",
+        "link": "https://x.com/LoveAiko2003"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "37381"
     },
     {
       "id": "37332",
