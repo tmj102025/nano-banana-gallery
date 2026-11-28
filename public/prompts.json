@@ -580,6 +580,50 @@
       "youmindId": "532"
     },
     {
+      "id": "37750",
+      "title": "Minimalist Geometric Poster Prompt",
+      "description": "A prompt for transforming uploaded photos into high-end minimalist posters. The design splits the canvas in half: the top preserves the original photo with subtle color grading, while the bottom uses a beige background to feature a simplified geometric representation of the subject extracted from the photo, emphasizing negative space and modern art exhibition aesthetics.",
+      "content": "Please turn each of my uploaded photos into a separate high-end minimalist poster, without combining multiple images.\n\nUse a 3:4 vertical composition, with the top and bottom regions strictly occupying 50% of the height each.\n\nThe upper half retains the original photo's subject structure, realistic texture, natural light/shadows, and color atmosphere, applying only slight magazine photography color grading. Backgrounds may be naturally extended to fit the aspect ratio, but do not stretch, distort, or change the subject.\n\nThe lower half uses beige as the background. Extract the most identifiable contour of the subject and re-present it using simple geometry, flat color blocks, and thin lines. Colors are taken from the photo; omit complex details but keep features that are instantly recognizable.\n\nLarge area of negative space, subject centered, balanced and restrained composition. Small amounts of English titles, numbers, or years may be added. Present the quality of international design studios and art exhibition posters: modern, quiet, and artistic. Avoid realistic illustrations, cartoonishness, cheap vector feel, e-commerce style, and template-like appearances.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1795760458373_jaeevn_HYG9jc8aQAAV6IW.jpg",
+        "https://cms-assets.youmind.com/media/1795760458617_x4xtez_HYG9jc8agAA8aM3.jpg",
+        "https://cms-assets.youmind.com/media/1795760458621_qtkwij_HYG9jdGbcAAP55X.jpg",
+        "https://cms-assets.youmind.com/media/1795760459324_cjqer9_HYG9jc7boAAGTK-.jpg"
+      ],
+      "author": {
+        "name": "章鱼8̃爪铺🐙",
+        "link": "https://x.com/octopusaia"
+      },
+      "language": "zh",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37750"
+    },
+    {
+      "id": "37751",
+      "title": "Artistic Photography Poster Prompt",
+      "description": "A detailed prompt for creating a 3:4 vertical artistic photography poster using an uploaded photo. It splits the canvas into two halves: the top retains the original photo with magazine-style color grading, while the bottom features a 'warm gray film fold' collage effect where the subject is sliced into seven vertical strips arranged in a fan shape against a clean background.",
+      "content": "Create a 3:4 vertical artistic photography diptych poster using the uploaded photo. The image consists of only two equal-height regions (top and bottom), with the horizontal division fixed at 50% of the total canvas height, no borders or gaps.\nThe upper half fully presents the original photography: retain the subject's identity, quantity, pose, structure, key object relationships, natural light/shadows, and colors. Apply only restrained magazine photography color grading; slight cropping or background extension is allowed, but do not stretch figures or change actions. No text or decorations in the upper half.\nThe lower half creates a \"Warm Gray Film Fold\" photographic collage: Use a clean, flat, near-white light warm gray #F6F3ED as the base. Retain real photographic grain, subtle shading, and mirror reflections. Convert imagery to low-saturation warm gray, silver gray, smoky brown, and faint residual original colors. Highlights are slightly faded, shadows retain detail. Avoid black-and-white thresholding, heavy sepia filters, and cartoonish styles. Only the interior of the image slices should have fine film grain and very light scan texture; white space areas remain clean.\nSplit the subject and necessary environment into {argument name=\"slice count\" default=\"7\"} narrow long photographic slices, taking vertical or slightly tilted long shapes rather than horizontal jagged strips. The central 3 slices combine to form a clearly recognizable core subject, while the left and right sides each have 2 slices fanning outwards at small angles, resembling a set of unfolded image folds. The slices remain flat photographic images; do not generate physical books, 3D paper sculptures, origami models, or 3D objects. Adjacent slices overlap slightly, with only the outermost two having very faint photographic ghosting to create a sense of time passing. The central subject must be clear; do not stack multiple faces or hands into new deformities. The thin gaps between slices are revealed by the paper base naturally; do not add outlines, crease lines, or drop shadows.\nThe overall collage forms a connected, low-center-of-gravity, slightly asymmetric horizontal cluster, with a width of about 55-60% of the entire canvas and a height not exceeding 40% of the lower half's height. The visual center of gravity is located at approximately 65% of the lower half's height. Keep large quiet whitespace above, wide whitespace on left and right. Do not expand the slices to fill the entire layout. Retain the most critical identification contours of the subject; secondary backgrounds can be omitted. Important items and their relationship to the subject in the photography must remain readable.\nThe overall presentation should have a quiet, restrained editorial photography temperament with a hint of old film memory. Prohibit adding tape, stamps, stickers, icons, colored blocks, frames, scattered fragments, full-pattern textures, dreamy soft focus, vector flat painting, or lack of photographic quality.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1795760458753_tdz64i_HYGOOXUbsAAeYLE.jpg",
+        "https://cms-assets.youmind.com/media/1795760457109_vjoyxt_HYGOOXSboAAHUU8.jpg",
+        "https://cms-assets.youmind.com/media/1795760458615_mocwro_HYGOOXSbsAA_Z5Y.jpg",
+        "https://cms-assets.youmind.com/media/1795760457973_m6czwo_HYGOOXVaAAAiPx7.jpg"
+      ],
+      "author": {
+        "name": "章鱼8̃爪铺🐙",
+        "link": "https://x.com/octopusaia"
+      },
+      "language": "zh",
+      "featured": false,
+      "categories": [
+        "Social Media Post"
+      ],
+      "youmindId": "37751"
+    },
+    {
       "id": "37695",
       "title": "Millie Bobby Brown portrait prompt",
       "description": "A prompt for generating an image of Millie Bobby Brown looking stunning beside a palm tree.",
@@ -709,25 +753,6 @@
         "Social Media Post"
       ],
       "youmindId": "37428"
-    },
-    {
-      "id": "37408",
-      "title": "Editorial Archery Fashion Photography Prompt",
-      "description": "A prompt for creating an editorial-style close-up portrait of a woman holding a bow and arrow, focusing on dramatic lighting and composition.",
-      "content": "Editorial fashion photography, a close-up three-quarter profile of a young woman with chestnut hair pulled back, several loose strands blowing in the wind, her focused, intense gaze directed to the right, lips slightly parted. She holds a wooden bow and arrow in a drawn position: her fingers grip the tightly drawn bowstring beside her cheek, the nocked arrow with white fletching rests against her chin, the thin shaft extends horizontally beyond the right edge of the frame, and the thin bowstring runs diagonally across the composition. She is wearing a fitted black long-sleeve top. Strong, hard, directional sunlight from the side models her face, neck, and shoulders, casting sharp, high-contrast shadows, including a thin diagonal shadow line from the bowstring across her cheek and chest. The background is a clean gradient blue sky, deeper cobalt at the top transitioning into a soft, smoky blue palette at the bottom. Low camera angle, tight framing on the head and upper torso, shallow depth of field, subtle film grain, warm sunlit skin tones against the cool blue sky, cinematic dramatic mood, glossy magazine aesthetic.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1794119035683_pnus6p_HWbDvLWaoAAQsSa.jpg"
-      ],
-      "author": {
-        "name": "dreamy digital arts",
-        "link": "https://x.com/dreamydigiarts"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Social Media Post"
-      ],
-      "youmindId": "37408"
     },
     {
       "id": "37330",
@@ -1809,6 +1834,25 @@
       "youmindId": "37427"
     },
     {
+      "id": "37408",
+      "title": "Editorial Archery Fashion Photography Prompt",
+      "description": "A prompt for creating an editorial-style close-up portrait of a woman holding a bow and arrow, focusing on dramatic lighting and composition.",
+      "content": "Editorial fashion photography, a close-up three-quarter profile of a young woman with chestnut hair pulled back, several loose strands blowing in the wind, her focused, intense gaze directed to the right, lips slightly parted. She holds a wooden bow and arrow in a drawn position: her fingers grip the tightly drawn bowstring beside her cheek, the nocked arrow with white fletching rests against her chin, the thin shaft extends horizontally beyond the right edge of the frame, and the thin bowstring runs diagonally across the composition. She is wearing a fitted black long-sleeve top. Strong, hard, directional sunlight from the side models her face, neck, and shoulders, casting sharp, high-contrast shadows, including a thin diagonal shadow line from the bowstring across her cheek and chest. The background is a clean gradient blue sky, deeper cobalt at the top transitioning into a soft, smoky blue palette at the bottom. Low camera angle, tight framing on the head and upper torso, shallow depth of field, subtle film grain, warm sunlit skin tones against the cool blue sky, cinematic dramatic mood, glossy magazine aesthetic.",
+      "images": [
+        "https://cms-assets.youmind.com/media/1794119035683_pnus6p_HWbDvLWaoAAQsSa.jpg"
+      ],
+      "author": {
+        "name": "dreamy digital arts",
+        "link": "https://x.com/dreamydigiarts"
+      },
+      "language": "en",
+      "featured": false,
+      "categories": [
+        "Product Marketing"
+      ],
+      "youmindId": "37408"
+    },
+    {
       "id": "37381",
       "title": "Madrid Golden Hour Fashion Editorial",
       "description": "A detailed prompt for a high-fashion editorial bust shot of an Asian female leaning against urban architecture in Madrid during golden hour, shared across multiple AI image models.",
@@ -2529,44 +2573,6 @@
         "Game Asset"
       ],
       "youmindId": "33471"
-    },
-    {
-      "id": "33483",
-      "title": "Woodpunk Kinetic Sculpture Automaton",
-      "description": "A complex prompt system that transforms any subject into a mechanical wooden kinetic sculpture with clockwork details.",
-      "content": "1. The Semantic Inference Engine (Dynamic Material Mapping):  \nInput A is ANY Topic (Object, Animal, Plant, or Concept).\nAnalyze the subject's inherent properties and map them to Artisanal Materials:\nThe Primary Body (The Chassis): Infer the subject's main color/weight and assign a corresponding Hardwood. \nThe Accents (The Inlay): Infer the subject's patterns or details and assign a contrasting Marquetry Material. \nThe Mechanics (The Skeleton): Infer the subject's joints or power source and assign Metal Hardware.\n2. The \"Immutable\" Container (The Automaton):\nGoal: A \"Da Vinci Workshop\" Product Shot.\nThe Object: The subject is rendered as a complex, freestanding Wooden Mechanical Toy.\nThe Base: The model stands on a hand-carved wooden block representing its semantic environment.\nThe Scale: Macro photography of a tabletop object (approx. 12 inches tall).\n3. The Clockwork Interior (The Transformation):\nThe Cutaway: A section of the outer \"wood shell\" is visually removed or hinged open.\nThe Guts: Inside, the biological or mechanical inner workings are replaced by Clockwork Mechanics.\nRule: Visible gears, bicycle chains, watch springs, and brass flywheels must imply the object moves via wind-up power.\nThe Fasteners: Tiny brass screws, rivets, and hinges are visible along the seams of the wood.\n4. The Narrative Figure (The Operator):\nThe Character: A standard Jointed Wooden Mannequin (Artist's Doll style) is integrated into the scene.\nThe Role: The figure acts as the maintainer, rider, or operator of the subject.\nInteraction: They are climbing a ladder to polish the object, turning a giant wind-up key, or steering the beast/machine.\nThe Accessories: The doll wears carved wooden gear appropriate to the context.\n5. Lighting & Atmosphere:\nLighting: Softbox Studio Lighting. Diffused, high-end commercial lighting that creates long, elegant highlights on the varnished curves.\nBackground: Neutral Studio Grey. Seamless infinity backdrop to focus entirely on the material textures.\nTexture: High Gloss Varnish. The wood must look expensive, smooth, and deeply saturated.\nOutput: ONE image, 1:1 Aspect Ratio, Product Photography, \"Woodpunk\" aesthetic, 8k Resolution.",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788591095766_6nq71i_HRP8n6XWcAEna6M.jpg"
-      ],
-      "author": {
-        "name": "Gadgetify",
-        "link": "https://x.com/Gdgtify"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "33483"
-    },
-    {
-      "id": "33481",
-      "title": "Manga Desktop Diorama Model Kit",
-      "description": "A unique prompt for visualizing manga and anime franchises as physical clay and resin diorama model kits.",
-      "content": "{ \"Aesthetic\": \"Physical Desktop Diorama, Resin and Clay Model Kit\", \"Subject\": \"{argument name=\"franchise\" default=\"[FRANCHISE]\"}\", \"Physical_Components\": { \"The_Archway\": \"Massive 3D letters spelling {argument name=\"franchise name\" default=\"[FRANCHISE]\"}, textured as AI_INFER(materials authentic to the lore).\", \"The_Vessel\": \"A hollow, sliced-open antique bowl/container holding the world.\", \"The_Ecosystem\": { \"Terrain\": \"AI_INFER(Miniature mountains, castles, or cities).\", \"Fluids\": \"Translucent, glossy poured epoxy resin simulating water/lava.\", \"Inhabitants\": \"Microscopic, hyper-detailed figures interacting with the terrain.\" } }, \"Lighting\": \"Cinematic product photography. Rim light highlighting the edges of the 3D typography.\" }",
-      "images": [
-        "https://cms-assets.youmind.com/media/1788591094576_5cnp5g_HRPxrfzbgAAv-fK.jpg"
-      ],
-      "author": {
-        "name": "Gadgetify",
-        "link": "https://x.com/Gdgtify"
-      },
-      "language": "en",
-      "featured": false,
-      "categories": [
-        "Game Asset"
-      ],
-      "youmindId": "33481"
     }
   ],
   "categories": [
